@@ -198,8 +198,8 @@ ACMD(do_save)
   save_char(ch, NOWHERE);
   Crash_crashsave(ch);
 
- /*  if (ROOM_FLAGGED(ch->in_room, ROOM_HOUSE_CRASH))
-    House_crashsave(world[ch->in_room].number); */
+  if (ROOM_FLAGGED(ch->in_room, ROOM_HOUSE_CRASH))
+    House_crashsave(world[ch->in_room].number);
 }
 
 

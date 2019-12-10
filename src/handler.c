@@ -908,10 +908,8 @@ void obj_to_room(struct obj_data * object, int room)
     world[room].contents = object;
     object->in_room = room;
     object->carried_by = NULL;
-    /*
     if (ROOM_FLAGGED(room, ROOM_HOUSE))
       SET_BIT_AR(ROOM_FLAGS(room), ROOM_HOUSE_CRASH);
-     */
   }
 }
 

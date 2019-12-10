@@ -708,8 +708,6 @@ ACMD(do_house)
 /* crash-save all the houses */
 void House_save_all(void)
 {
-/*
-
   int i;
   int real_house;
 
@@ -717,7 +715,6 @@ void House_save_all(void)
     if ((real_house = real_room(house_control[i].vnum)) != NOWHERE)
       if (IS_SET_AR(ROOM_FLAGS(real_house), ROOM_HOUSE_CRASH))
     House_crashsave(house_control[i].vnum);
-*/
 }
 
 

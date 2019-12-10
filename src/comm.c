@@ -833,7 +833,7 @@ void heartbeat(int pulse)
     if (++mins_since_crashsave >= autosave_time) {
       mins_since_crashsave = 0;
       Crash_save_all();
-     /* House_save_all();  temporarily removed -rparet */
+      House_save_all();
     }
   }
   if (!(pulse % (5 * 60 * PASSES_PER_SEC))) /* 5 minutes */
