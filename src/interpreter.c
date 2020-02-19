@@ -92,7 +92,7 @@ ACMD(do_assist);
 ACMD(do_auto);
 ACMD(do_at);
 ACMD(do_appraise);
-ACMD(adjust_mobs);
+// ACMD(adjust_mobs);
 ACMD(do_backstab);
 ACMD(do_ban);
 ACMD(do_bearhug);
@@ -322,7 +322,7 @@ const struct command_info cmd_info[] = {
   { "abilities", POS_SLEEPING, do_abils    , 0, 0 },
   { "at"       , POS_DEAD    , do_at       , LVL_GRGOD, 0 },
   { "advance"  , POS_DEAD    , do_advance  , LVL_GRGOD, 0 },
-  { "admobs"   , POS_DEAD    , adjust_mobs, LVL_IMPL-1, 0},
+  // { "admobs"   , POS_DEAD    , adjust_mobs, LVL_IMPL-1, 0},
   { "afk"      , POS_DEAD    , do_afk      , 0, 0 },
   { "aid"      , POS_STANDING, do_first_aid, 0, 0 },
   { "alias"    , POS_DEAD    , do_alias    , 0, 0 },

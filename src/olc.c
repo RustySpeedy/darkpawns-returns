@@ -280,6 +280,8 @@ ACMD(do_olc)
 #define GET_DR(nr) (mob_proto[(nr)].points.damroll)
 #define GET_ADDHP(nr) (mob_proto[(nr)].points.move)
 
+// removed for now -vintage
+/*
 ACMD(adjust_mobs)
 {
      int nr;
@@ -291,7 +293,7 @@ ACMD(adjust_mobs)
                       GET_LEVEL(mob_proto + nr)/1.50:
                       GET_LEVEL(mob_proto + nr)/2;
 
-        GET_ADDHP(nr) = (10*GET_LEVEL(mob_proto + nr)+10);/* add_hp */
+        GET_ADDHP(nr) = (10*GET_LEVEL(mob_proto + nr)+10); // add_hp
         GET_ADDHP(nr) = GET_LEVEL(mob_proto + nr) > 22 ?
          GET_ADDHP(nr)+(13*(GET_LEVEL(mob_proto + nr)-22)) :
          GET_ADDHP(nr);
@@ -304,6 +306,8 @@ ACMD(adjust_mobs)
        }
      send_to_char(OK,ch);
 }
+*/
+
 /*------------------------------------------------------------*\
  Internal utlities
 \*------------------------------------------------------------*/
