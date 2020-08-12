@@ -35,7 +35,7 @@
 #
 
 # Function: Init
-Init() {sudo apt install --install-recommends winehq-stable
+Init() {
    # Set the max core size
    ulimit -c 1200000
    
