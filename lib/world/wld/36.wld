@@ -1,11 +1,1819 @@
 #3600
-New~
+Map Room.~
+This will serve as the map room for the Right of Passage.
+~
+36 0 0 0 0 0
+E
+map~
+&WMAP:
+&WFLOOR 1:
+          &gX&n--&cR&n--&gX&n     &gX&n\
+          |     |     |     
+          &cR&n     &cR&n     &cR&n
+          |     |     |
+          &gX&n     &gX&n     &gX&n
+          |     |     |
+          &cR&n     &cR&n     &cR&n
+          |     |     |
+          &gX&n     &gX&n--&cR&n--&gX&n
+&WFLOOR 2:
+          &gX&n--&cR&n--&gX&n   &gX&n\ 
+          |     |     |     
+          &cR&n     &cR&n     &cR&n
+          |     |     |
+          &gX&n     &gX&n     &gX&n
+          |     |     |
+          &cR&n     &cR&n     &cR&n
+          |     |     |
+          &gX&n\    &gX&n--&cR&n--&gX&n
+&WACHROMATIC PLAIN:&n
+          &gX&n--&gX&n--&gX&n--&gX&n--&gX&n
+          |  |  |  |  |
+          &gX&n--&gX&n--&gX&n--&gX&n--&gX&n
+          |  |  |  |  |
+          &gX&n--&gX&n--&cR&n--&gX&n--&gX&n
+          |  |  |  |  |
+          &gX&n--&gX&n--&gX&n--&gX&n--&gX&n
+          |  |  |  |  |
+          &gX&n--&gX&n--&gX&n--&gX&n--&gX&n
+  
+&RL&rEGEND:&n
+&gX&n = MOB ROOMS
+&cR&n = REGENROOM
+~
+S
+#3601
+A Marble Dome~
+   A large circular area with a domed ceiling.  Everything is constructed from
+sleek black marble slabs.  The main focal point of the room is a vast mural
+painted on the dome shaped ceiling.  &RPlease notice the tablet at the center
+of the room&n, which will explain what lies to the north, east, and west.  To
+go back to the Temple of Kir Drax'in head down the stairs.  
+~
+36 262172 0 0 0 0
+D0
+~
+~
+0 0 3689
+D1
+~
+~
+0 0 3690
+D3
+~
+~
+0 0 3691
+D5
+~
+~
+0 0 8162
+S
+#3602
+Memorial to the Fallen~
+   The graveyard grass is primly manicured into a pleasant knoll to rest upon.
+Stone benches made from the same rock as the gravestones surround a large,
+expressively carved fountain.  The gentle trickle of water makes this a
+soothing place to rest and reflect on the lessons learned from fallen heroes.
+~
+36 262168 0 0 0 0
+D0
+~
+fence~
+1 0 3603
+S
+#3603
+Among Toppled Gravestones~
+   The grass is trampled and there appears to be smears of blood amidst the
+blades.  Once pristine gravestones lie toppled on their sides in a bold
+display of desecration.  The smell of urine is strong indicating the presence
+of someone or something that has little regard for honoring the dead.  
+~
+36 0 0 0 0 0
+D0
+The partial remains of a heavily rotted wooden gate.
+~
+wood gate wooden~
+1 0 3604
+S
+#3604
+Between Graves~
+   Standing between some graves, the soft grass is neatly cut and looks to be
+a prime spot for napping.  A gentle breeze ushers in peace as the sounds of
+trickling water brings in a calmness.  Several wrought iron benches are set
+out offering a place to rest.  
+~
+36 262160 0 0 0 0
+D0
+~
+fence~
+1 0 3605
+D2
+~
+~
+0 0 3603
+S
+#3605
+Beside a Desiccated Crypt~
+   The crumbling, carved stone edifice centered in this room is an unfortunate
+victim to time itself.  This crypt whomever it was dedicated to was of great
+nobility to Kir'Draxin but the who and the when have been eroded by the
+omnipresent forces of time iteself.  There are numerous holes broken into the
+sides of the crypt probably by thieves in time long forgotten.  
+~
+36 0 0 0 0 0
+D1
+~
+~
+0 0 3606
+E
+holes~
+   As you peer inside you can see that the interior was more than likely quite
+opulent at one time, now it had been destroyed by tomb raiders and then left
+to be forgotten and covered in dust.  
+~
+E
+crypt~
+   An antiquated and heavily weathered coat of arms can be seen but not
+identified due to the extreme damage.  
+~
+S
+#3606
+A Ring of Flowers~
+   A circle of white peace lilys marks a place of solemn reflection upon the
+lost.  A cool breeze rustles the leaves of tall dogwood trees at the peak of
+their bloom.  Though there appears to be much foot traffic through here,
+visitors have taken great care not to trample the flowers.  
+~
+36 262160 0 0 0 0
+D1
+~
+fence~
+1 0 3607
+D3
+~
+~
+0 0 3605
+S
+#3607
+A Field of Bones~
+   Likely the work of grave robbers searching for treasures or lucrative body
+parts, someone has left these final resting spots in a desecrated upheaval.  
+The grassy field of tombstones is littered with stained white bones, whole and
+broken.  The dead do not rest peacefully in this part of the graveyard.  
+Coffins lay half uncovered and mausoleum doors flap in the breeze.  
+~
+36 0 0 0 0 0
+D2
+~
+~
+0 0 3608
+S
+#3608
+Beneath A Weeping Willow~
+   Lush, parabolic branches hide this spot from the blazing sun.  True to its
+name, the faint echoes of mourning seem to emanate from the crown of a large
+weeping willow.  The soft trickling of a large, ornately carved fountain echoes
+about.  
+~
+36 262160 0 0 0 0
+D0
+~
+~
+0 0 3607
+D2
+~
+fence~
+1 0 3609
+S
+#3609
+Behind A Gardener's Shed~
+   Standing behind a small shed, little remains but the frame and a few
+splintered planks hanging by a handful of nails.  The chaotic scene looks as
+if the shed was dismantled from the outside by a predator desperate to catch
+its prey inside.  The dirt is scuffed and dried blood splatters the wood like
+a shoddy paint job.  Shuffling sounds of debris indicate the presence of
+something or someone among the clutter.  
+~
+36 0 0 0 0 0
+D2
+~
+~
+0 0 3610
+S
+#3610
+At the Nameless Guardian~
+   A large, iron statue depicts a nameless warrior standing guard.  It looms
+stoically, in honor of all fallen protectors who gave their lives without
+fanfare to protect the innocent.  The energy and will of the righteous dead
+gathers into the statue and emits an aura of tranquility over this monument.
+
+~
+36 262160 0 0 0 0
+D0
+~
+~
+0 0 3609
+D2
+~
+gate~
+1 0 3611
+S
+#3611
+Beneath the Monster~
+   Like the previous monument, this beast is made of iron.  It depicts a
+sneering, ugly creature that looks like the product of a demon that raped an
+elf.  Staring into the beast's eyes one could swear that it stares right back
+with an insatiable hunger for violence.  An uncomfortable feeling concentrates
+around the fiend as shadows dart around soundlessly.  
+~
+36 0 0 0 0 0
+D1
+~
+~
+0 0 3612
+S
+#3612
+A Holy Mausoleum~
+   A large square structure stands alone in the field.  It is ornately carved
+from a single block of marble with black and gold innervations.  The
+decoration and inscriptions pay homage to a revered holy man who lived a life
+of faithful service to his god.  At the apex of the structure is a holy
+symbol, a blazing phoenix, looking down with watchful eyes on all who come to
+pay respects.  
+~
+36 262160 0 0 0 0
+D1
+~
+wrought~
+1 0 3613
+D3
+~
+~
+0 0 3611
+S
+#3613
+The Record House~
+   A small plain building built of common grey stones is here.  The signage on
+the door indicates this place is where records of the dead are kept.  An old
+wooden door appears to have been kicked down from the inside out.  Scrolls and
+leather bound books spill out into the entry way.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3614
+S
+#3614
+Between Graves~
+   Standing between some graves, the soft grass is neatly cut and looks to be
+a prime spot for napping.  A gentle breeze ushers in peace as the sounds of
+trickling water brings in a calmness.  Several wrought iron benches are set
+out offering a place to rest.  
+~
+36 262160 0 0 0 0
+D0
+~
+iron~
+1 0 3615
+D2
+~
+~
+0 0 3613
+S
+#3615
+The Headless Warrior~
+   A life-sized statue of a nondescript soldier stands alone as a perfect
+replica of the common soldier, minus his head.  The sculpture was meant to
+honor the countless lives of common men who were conscripted to battle against
+their will.  Looking closely, the statue almost appears to bleed from its
+stone-carved cuts and wounds.  Looking behind the headless man, there appears
+to be a mass grave but oddly enough, several holes seem to be burrowed out
+from beneath the ground.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3616
+S
+#3616
+Between Graves~
+   Standing between some graves, the soft grass is neatly cut and looks to be
+a prime spot for napping.  A gentle breeze ushers in peace as the sounds of
+trickling water brings in a calmness.  Several wrought iron benches are set
+out offering a place to rest.  
+~
+36 262160 0 0 0 0
+D0
+~
+fence~
+1 0 3617
+D2
+~
+~
+0 0 3615
+S
+#3617
+The Dead Oaks~
+   A copse of large oak trees casts shade all around.  The trees appear hollow
+and lifeless, bare of any leaves with peeling bark that exposes the rot
+beneath.  Something sinister has drained the life force of everything within
+reach of the trees as this dead spot conspicuously stands out among the rest
+of the graveyard.  There appears to be a hill leading up from this wretched
+place.  
+~
+36 0 0 0 0 0
+D4
+~
+~
+0 0 3618
+S
+#3618
+An Overlook~
+   Nestled atop this small hill is a comfortable collection of benches.  
+Arranged strategically, the seats offer a peaceful view of the graveyard all
+around.  Silhouettes of humanoids can be seen milling about in search of loved
+ones.  But more disturbingly are the outlines of beasts and other dangerous
+looking creatures patiently stalking the visitors.  
+~
+36 262160 0 0 0 0
+D0
+~
+gate~
+1 0 3619
+D5
+~
+~
+0 0 3617
+S
+#3619
+The General's Tomb~
+   A regal tomb enshrined in decorative weapons and armored horses stands tall
+against the horizon.  A sonnet inscribed on the large stone door regales a
+tale of an esteemed warmaster felled in battle but never truly lain to rest.
+There are footprints and tracks encircling the tomb, but no trail leading up
+to it.  There are guard posts flanking the entrance to the tomb that look to
+have been recently occupied.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3620
+S
+#3620
+A Bed of Daisies~
+   An abundance of white daisies gives this spot the look of a soft bank of
+snow.  However, the scent is undeniably floral in nature as the sweet notes
+dance in the light breeze.  There are matted spots marking the places previous
+passersby sat to rest their weary feet.  Birds dart in and out, chasing the
+abundance of insects feeding off the sweet nectar hidden beneath the petals.
+
+~
+36 262160 0 0 0 0
+D0
+~
+fence~
+1 0 3621
+D2
+~
+~
+0 0 3619
+S
+#3621
+A Rotting Chapel~
+   A small, decayed chapel stands precariously on an unsteady foundation.  
+The peeling paint leaves the exterior blotched like a beggar with leprosy.  
+The paneless windows reveal rotted pews occupied by skeletons dressed in their
+best clothes.  The lightning might be playing tricks but it seems as if the
+skeletal figures are not exactly still.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3622
+S
+#3622
+A Grove of Dogwoods~
+   A tiny grove of dogwood trees encircles a small, decorative fountain.  
+The tall trees in bloom with small white flowers, speckled with red, provides
+a cheerful place to rest among the dead.  Looking across the grove, small
+mammals can be seen running between the trees looking for places to hide.  
+The grounds are relatively clean except for a handful of empty waterskins
+indicative of previous visitors utilizing the grove.  
+~
+36 262160 0 0 0 0
+D1
+~
+fence~
+1 0 3623
+D2
+~
+~
+0 0 3621
+S
+#3623
+A Monument to Nature~
+   A large wooden effigy stands alone in this field.  It was painstakingly
+carved by artisans to honor the fallen protectors of nature.  A bright
+painting on the face of the effigy depicts a stoic ranger facing a shadowy
+figure threatening his domain.  The effigy appears to be constructed of
+polished ebony planks adorned in live garland with subtle thorns hiding behind
+the leaves.  
+~
+36 0 0 0 0 0
+D1
+~
+~
+0 0 3624
+S
+#3624
+A Small Quarry~
+   Dug into the side of a hill, raw granite stone is unceremoniously exposed.
+A small mining operation surrounds the rock with stonemason tools strewn about
+with little care.  Different sized chunks of granite that have been chiseled
+into half-finished tombstones litter the open spaces of the camp.  
+~
+36 262160 0 0 0 0
+D2
+~
+fence~
+1 0 3625
+D3
+~
+~
+0 0 3623
+S
+#3625
+The Immortal Altar~
+   A strikingly white altar built from the purest, bright marble contains many
+offerings for the One True God.  The treasures overflow and not a soul has
+dared to touch the expensive trinkets left by visitors passing through.  As
+tempting as it may be, the presence of something powerful makes itself known,
+deterring any thoughts of theft.  
+~
+36 0 0 0 0 0
+D2
+~
+~
+0 0 3626
+S
+#3626
+Between Graves~
+   Standing between some graves, the soft grass is neatly cut and looks to be
+a prime spot for napping.  A gentle breeze ushers in peace as the sounds of
+trickling water eases all worry.  Several wrought iron benches are set out
+offering a place to rest.  
+~
+36 262160 0 0 0 0
+D0
+~
+~
+0 0 3625
+D2
+~
+fence~
+1 0 3627
+S
+#3627
+A Regal Tomb~
+   Before a large tomb, various decorations depict an organized and
+well-stocked military depot.  Dedicated to a famous quartermaster renown for
+his martial prowess and later his ability to keep an army outfitted, this
+burial site is a wonder to behold.  The carvings detail every campaign the
+quartermaster marched, from his days as frontline fodder to his final duty of
+supplying the Kir Drax'in army with equipment to defend the vast city from
+invasion.  
+~
+36 0 0 0 0 0
+D2
+~
+~
+0 0 3628
+S
+#3628
+A Cluster of Benches~
+   The vast graveyard is broken up in sections by various rest stops.  In this
+particular spot, a number of benches are arranged in a concentric circle,
+surrounding a large, ornate fountain.  The benches are carved from a brilliant
+and deep brown hardwood, clear lacquered and polished to an exquisite shine.
+The water of the fountain is crystal clear and looks incredibly refreshing.  
+~
+36 262160 0 0 0 0
+D0
+~
+~
+0 0 3627
+D1
+~
+fence~
+1 0 3629
+S
+#3629
+A Giant Cross~
+   A giant cross made from black stone stands in the middle of a field.  
+Anyone familiar with Kir Drax'in immediately knows this symbol and associates
+it with the famed city temple.  It stands tall and dark against the background
+of the graveyard, here to watch over the dead and to usher souls into the next
+life.  
+~
+36 0 0 0 0 0
+D1
+~
+~
+0 0 3630
+S
+#3630
+Between Graves~
+   Standing between some graves, the soft grass is neatly cut and looks to be
+a prime spot for napping.  A gentle breeze ushers in peace as the sounds of
+trickling water brings in a calmness.  Several wrought iron benches are set
+out offering a place to rest.  
+~
+36 262160 0 0 0 0
+D0
+~
+fence~
+1 0 3631
+D3
+~
+~
+0 0 3629
+S
+#3631
+A Field of Blood~
+   This field was filled with soft, green grass until just recently.  A fresh,
+bright red coating of blood newly covers the entire area.  Bits of flesh lay
+torn with small slivers of clothing attached.  The smell of wet iron floods
+the field, erasing all trace of sweet blooming scents.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3632
+S
+#3632
+Approaching a Huge Mausoleum~
+   There's not much to see in this grassy field other than a fountain with
+sparkling clean water.  In the near distance stands a huge mausoleum that
+sparkles in the daylight like a perfectly cut gem.  Stumps from trees cut down
+long ago serve as a resting place before resuming the path through the
+graveyard headed straight for sparkling landmark.  
+~
+36 262160 0 0 0 0
+D0
+~
+fence~
+1 0 3633
+D2
+~
+~
+0 0 3631
+S
+#3633
+A Crystal Mausolem~
+   A large, rectangular building made of pure crystal refracts the sunlight
+into a vast array of color.  Only a very rich and important person could have
+inspired the construction of such a gaudy and flamboyant burial site.  A
+large, iron gate seals the building and is marked with the mayoral seal of Kir
+Drax'in.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3634
+S
+#3634
+A Towering Memorial~
+   A quiet little garden marks the entrance to a tall building made from faded
+red brick.  Banners of the Kir Drax'in guard regiment line the walkway leading
+up to a tall, silver double-gated entry.  Emblems carved into the walkway mark
+this memorial as being dedicated to the fallen leaders of the Kir Drax'in
+guard.  Beyond the silver gates are a steep set of stairs leading up.  
+~
+36 262160 0 0 0 0
+D2
+~
+~
+0 0 3633
+D4
+~
+gates~
+1 0 3635
+S
+#3635
+A Plain, Well-kept Room~
+   The first floor of the building is rather ordinary with little detail
+standing out.  Paintings line the walls showing Kir Drax'in in various stages
+of historical development.  Starting on the left, the groundbreaking ceremony
+for the city hall is attended by only a handful of modestly dressed people.  
+The painting to the right is almost identical to the modern day city as it
+currently exists.  
+~
+36 0 0 0 0 0
+D4
+~
+~
+0 0 3636
+S
+#3636
+A Quiet Lounge~
+   This small lounge has a handful of plush seating with a bar in the back
+corner.  A shelved wall behind the bar displays a wide array of alcohols,
+bottles mostly empty.  To the right of the bar is a stairway door.  
+~
+36 262160 0 0 0 0
+D4
+~
+door~
+1 0 3637
+D5
+~
+~
+0 0 3635
+S
+#3637
+A Plain, Well-kept Room~
+   The third floor of the building is rather ordinary with little detail
+standing out.  Paintings line the walls showing Kir Drax'in's guard regiment
+throughout the generations.  Starting on the left, the painting of the first
+class shows only thirty fresh recruits.  The painting to the right depicts a
+recent class of recruits numbering in the thousands.  
+~
+36 0 0 0 0 0
+D4
+~
+~
+0 0 3638
+S
+#3638
+The Officers' Lounge~
+   This larger break area is designed to honor the high officers.  The decor
+is much fancier with marble flooring and designer drapes.  The bar is large
+and made of a bright mahogany shined up to perfection.  High-backed chairs
+upholstered in rich, colorful leathers scatter about the floor, separated by
+beautiful oak tables for two.  A door in the back of the room reveals stairs
+leading up.  
+~
+36 262160 0 0 0 0
+D4
+~
+door~
+1 0 3639
+D5
+~
+~
+0 0 3637
+S
+#3639
+The Officers' Quarters~
+   This office contains several large, cherrywood desks each with a small
+portait atop.  Examining the portraits, the famous lieutenants from various
+stories and ballads are honored with life-like illustrations sitting among
+their various medals and commendations.  One particularly large desk has a
+portrait that stands out from the rest with a faded caption referencing
+Danziq.  The surface of the larger desk is completely obscured with piles of
+medals and awards far more ornate and colorful than the rest, the desk of a
+hero.  
+~
+36 0 0 0 0 0
+D4
+~
+~
+0 0 3640
+S
+#3640
+A Simple Waiting Room~
+   Just before the captain's office is a small sitting room.  There is a plain
+wooden bench with seating for two in the corner surrounded by glass display
+cases.  Each case contains various small weapons and a single decorative
+military sabre.  A plaque on the front of each case briefly describes a
+different, significant event from the city's history when the guard regiment
+was brought to bare.  Right next to the bench is a large oak door leading to
+the captain's office.  
+~
+36 262160 0 0 0 0
+D4
+~
+oak~
+1 0 3641
+D5
+~
+~
+0 0 3639
+S
+#3641
+The Captain's Office~
+   This office is no fancier than the rest of the memorial but is kept much
+neater.  The arrangement of furniture draws the eye to a large portrait on the
+back wall of a huge, grizzled man in a crisp, highly decorated uniform.  
+Along the walls flanking the portrait hang various trophies ranging from
+commissioned medals to wicked-looking skulls.  No doubt this office was built
+to honor the most famous and effective captain of the guard from the wild and
+storied history of Kir Drax'in.  
+~
+36 0 0 0 0 0
+D5
+~
+temporary~
+1 0 3640
+S
+#3642
+Newbie Broadcast Room 1~
+   This is a room, that houses a place holder mob that has a noise function
+which broadcasts down to the player a useful newbie tip.  
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3602
+S
+#3643
+Newbie Broadcast Room 2 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3604
+S
+#3644
+Newbie Broadcast Room 3 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3606
+S
+#3645
+Newbie Broadcast Room 4 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3608
+S
+#3646
+Newbie Broadcast Room 5 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3610
+S
+#3647
+Newbie Broadcast Room 6 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3612
+S
+#3648
+Newbie Broadcast Room 7 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3614
+S
+#3649
+Newbie Broadcast Room 8 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3616
+S
+#3650
+Newbie Broadcast Room 9 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3618
+S
+#3651
+Newbie Broadcast Room 10 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3620
+S
+#3652
+Newbie Broadcast Room 11 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3622
+S
+#3653
+Newbie Broadcast Room 12 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3624
+S
+#3654
+Newbie Broadcast Room 13 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3626
+S
+#3655
+Newbie Broadcast Room 14 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3628
+S
+#3656
+Newbie Broadcast Room 15 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3630
+S
+#3657
+Newbie Broadcast Room 16 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3632
+S
+#3658
+Newbie Broadcast Room 17 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3634
+S
+#3659
+Newbie Broadcast Room 18 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3636
+S
+#3660
+Newbie Broadcast Room 19 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3638
+S
+#3661
+Newbie Broadcast Room 20 ~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3640
+S
+#3662
+Newbie broadcast room~
+This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
+~
+36 0 0 0 0 0
+D5
+~
+~
+0 0 3642
+S
+#3663
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the western and southern exit.  The blinding bright orbs from
+the center can still be seen and the floors and ceilings are also the same
+construction.  However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3664
+D1
+~
+~
+0 0 3672
+D2
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D3
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3664
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the western and southern exit.  The blinding bright orbs from
+the center can still be seen and the floors and ceilings are also the same
+construction.  However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3665
+D1
+~
+~
+0 0 3671
+D2
+~
+~
+0 0 3663
+D3
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3665
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the western exit.  The blinding bright orbs from the center
+can still be seen and the floors and ceilings are also the same construction.
+However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3666
+D1
+~
+~
+0 0 3670
+D2
+~
+~
+0 0 3664
+D3
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3666
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the western exit.  The blinding bright orbs from the center
+can still be seen and the floors and ceilings are also the same construction.
+However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3667
+D1
+~
+~
+0 0 3669
+D2
+~
+~
+0 0 3665
+D3
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3667
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the northern and western exits.  The blinding bright orbs from
+the center can still be seen and the floors and ceilings are also the same
+construction.  However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D1
+~
+~
+0 0 3668
+D2
+~
+~
+0 0 3666
+D3
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3668
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the northern exit.  The blinding bright orbs from the center
+can still be seen and the floors and ceilings are also the same construction.
+However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D1
+~
+~
+0 0 3677
+D2
+~
+~
+0 0 3669
+D3
+~
+~
+0 0 3667
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3669
+Near the center of the Achromatic Plain~
+   There are exits in all four cardinal directions, all equally indescript.  
+Above you there are blinding bright orbs housed in plate glass tiles.  The
+floor below you is achromatic and polished so well that the light from above
+causes you to squint at the bright reflections.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3668
+D1
+~
+~
+0 0 3676
+D2
+~
+~
+0 0 3670
+D3
+~
+~
+0 0 3666
+S
+#3670
+Near the center of the Achromatic Plain~
+   There are exits in all four cardinal directions, all equally indescript.  
+Above you there are blinding bright orbs housed in plate glass tiles.  The
+floor below you is achromatic and polished so well that the light from above
+causes you to squint at the bright reflections.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3669
+D1
+~
+~
+0 0 3675
+D2
+~
+~
+0 0 3671
+D3
+~
+~
+0 0 3665
+S
+#3671
+Near the center of the Achromatic Plain~
+   There are exits in all four cardinal directions, all equally indescript.  
+Above you there are blinding bright orbs housed in plate glass tiles.  The
+floor below you is achromatic and polished so well that the light from above
+causes you to squint at the bright reflections.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3670
+D1
+~
+~
+0 0 3674
+D2
+~
+~
+0 0 3672
+D3
+~
+~
+0 0 3664
+S
+#3672
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the southern exit.  The blinding bright orbs from the center
+can still be seen and the floors and ceilings are also the same construction.
+However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3671
+D1
+~
+~
+0 0 3673
+D2
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D3
+~
+~
+0 0 3663
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3673
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the southern exit.  The blinding bright orbs from the center
+can still be seen and the floors and ceilings are also the same construction.
+However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3674
+D1
+~
+~
+0 0 3682
+D2
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D3
+~
+~
+0 0 3672
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3674
+Near the center of the Achromatic Plain~
+   There are exits in all four cardinal directions, all equally indescript.  
+Above you there are blinding bright orbs housed in plate glass tiles.  The
+floor below you is achromatic and polished so well that the light from above
+causes you to squint at the bright reflections.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3675
+D1
+~
+~
+0 0 3681
+D2
+~
+~
+0 0 3673
+D3
+~
+~
+0 0 3671
+S
+#3675
+Center of the Achromatic Plain~
+   &WThere are exits in all four cardinal directions, all equally indescript.
+Above you there are blinding bright orbs housed in plate glass tiles.  The
+floor below you is achromatic and polished so well that the light from above
+causes you to squint at the bright reflections.  As far as you can see this
+room goes on infinitely.  &n
+&cThis room has a relaxed feeling, you are safe here..&n
+~
+36 262172 0 0 0 0
+D0
+~
+~
+0 0 3676
+D1
+~
+~
+0 0 3680
+D2
+~
+~
+0 0 3674
+D3
+~
+~
+0 0 3670
+S
+#3676
+Near the center of the Achromatic Plain~
+   There are exits in all four cardinal directions, all equally indescript.  
+Above you there are blinding bright orbs housed in plate glass tiles.  The
+floor below you is achromatic and polished so well that the light from above
+causes you to squint at the bright reflections.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3677
+D1
+~
+~
+0 0 3679
+D2
+~
+~
+0 0 3675
+D3
+~
+~
+0 0 3669
+S
+#3677
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the northern exit.  The blinding bright orbs from the center
+can still be seen and the floors and ceilings are also the same construction.
+However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D1
+~
+~
+0 0 3678
+D2
+~
+~
+0 0 3676
+D3
+~
+~
+0 0 3668
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3678
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the northern exit.  The blinding bright orbs from the center
+can still be seen and the floors and ceilings are also the same construction.
+However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D1
+~
+~
+0 0 3687
+D2
+~
+~
+0 0 3679
+D3
+~
+~
+0 0 3677
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3679
+Near the center of the Achromatic Plain~
+   There are exits in all four cardinal directions, all equally indescript.  
+Above you there are blinding bright orbs housed in plate glass tiles.  The
+floor below you is achromatic and polished so well that the light from above
+causes you to squint at the bright reflections.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3678
+D1
+~
+~
+0 0 3686
+D2
+~
+~
+0 0 3680
+D3
+~
+~
+0 0 3676
+S
+#3680
+Near the center of the Achromatic Plain~
+   There are exits in all four cardinal directions, all equally indescript.  
+Above you there are blinding bright orbs housed in plate glass tiles.  The
+floor below you is achromatic and polished so well that the light from above
+causes you to squint at the bright reflections.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3679
+D1
+~
+~
+0 0 3685
+D2
+~
+~
+0 0 3681
+D3
+~
+~
+0 0 3675
+S
+#3681
+Near the center of the Achromatic Plain~
+   There are exits in all four cardinal directions, all equally indescript.  
+Above you there are blinding bright orbs housed in plate glass tiles.  The
+floor below you is achromatic and polished so well that the light from above
+causes you to squint at the bright reflections.  
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3680
+D1
+~
+~
+0 0 3684
+D2
+~
+~
+0 0 3682
+D3
+~
+~
+0 0 3674
+S
+#3682
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the southern exit.  The blinding bright orbs from the center
+can still be seen and the floors and ceilings are also the same construction.
+However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3681
+D1
+~
+~
+0 0 3683
+D2
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D3
+~
+~
+0 0 3673
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3683
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the southern and eastern exits.  The blinding bright orbs from
+the center can still be seen and the floors and ceilings are also the same
+construction.  However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3684
+D1
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  Like the center of this strange
+plain...  
+~
+~
+0 0 3675
+D2
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D3
+~
+~
+0 0 3682
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3684
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the eastern exit.  The blinding bright orbs from the center
+can still be seen and the floors and ceilings are also the same construction.
+However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3685
+D1
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D2
+~
+~
+0 0 3683
+D3
+~
+~
+0 0 3681
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3685
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the eastern exit.  The blinding bright orbs from the center
+can still be seen and the floors and ceilings are also the same construction.
+However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3686
+D1
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D2
+~
+~
+0 0 3684
+D3
+~
+~
+0 0 3680
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3686
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the eastern exit.  The blinding bright orbs from the center
+can still be seen and the floors and ceilings are also the same construction.
+However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+~
+~
+0 0 3687
+D1
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D2
+~
+~
+0 0 3685
+D3
+~
+~
+0 0 3679
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3687
+At the outer limits of the Achromatic Plain~
+   &DThere are still exits in all four directions, although there is something
+strange &Dabout the north and eastern exits.  The blinding bright orbs from
+the center can still be seen and the floors and ceilings are also the same
+construction.  However, it is darker here and is eerily quiet.  &n
+~
+36 0 0 0 0 0
+D0
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D1
+   Its almost as if there is a wall of fluid that blurs your ability to see
+whats on the other side.  Whatever is behind here is bright and achromatic,
+like the center of this strange plain...  
+~
+~
+0 0 3675
+D2
+~
+~
+0 0 3686
+D3
+~
+~
+0 0 3678
+E
+strange~
+   Looking in this direction is oddly difficult.  It causes your eyes to water
+and makes you a bit nausiated.  It appears to lead to the center of the
+plain..  
+~
+S
+#3688
+Leveling and Gold Farming Area~
+   A large white plain of endlessness and squeaky clean floors.  Wandering
+mobs loading non-wearable treasures for newbs to sell for money.  
+~
+36 0 0 0 0 0
+S
+#3689
+The Cemetery Entrance~
+   Peeking through the gates, a wide field of gravestones amd mausoleums dot
+the landscape.  Flickers of movement catch the eye along the paths weaving
+through the graves of fallen Kir Drax'in heroes.  A worn path is beaten into
+the grass and weeds from the shuffling feet of visitors come to pay respects.
+There is a towering black stone &W&Wtablet&n towering over you near the gates.  
+~
+36 0 0 0 0 0
+D2
+~
+~
+0 0 3601
+S
+#3690
+Ready room for the Achromatic Plain~
+   A squeaky clean off-white granite covers the walls, ceiling, and
+floors.  At the center of the room there is a shimmering portal.  Everything
+sparkles from blinding orbs from above reflecting off all of the polished
+surfaces.  
+~
+36 0 0 0 0 0
+D3
+~
+~
+0 0 3601
+S
+#3691
+Dark Pawns' Newbie Emporium~
+   The air in this room smells heavily of leather, dyes, and oil.  Light is
+cast from a large lantern burning brightly that illuminates the vast array of
+supplies lining the walls.  Each dark oak shelf has been neatly organized and
+not a speck of dust could be found on any surface.  A large counter spans the
+far eastern wall that provides a barrier to the more expensive items behind.
+Neat stacks of paper sit on the surface of the desk.  
+~
+36 0 0 0 0 0
+D1
+~
+~
+0 0 3601
+S
+#3692
+A Worm Hole~
+&D    ____________________&n    
+&D   /     &M .  |  .&n      &D/
+&D  /      &M: \ | / :&n    &D/      
+&D /        &M'-___-'&n   &D / 
+&D/___________________/&n     
+&D     _______&M| |&D__________ &n
+&D    /       &M| |&D         /&n
+&D   /       &M/   \&D       /&n
+&D  /      &M:'     ':&D    /&n
+&D /       &M '-___-'&D    / &n
+&D/___________________/&n
+~
+36 67108864 0 0 0 9
+D5
+~
+~
+0 0 3675
+S
+#3693
+Soul Devourer's Chambers~
+   This otherworldly chamber crackles and hums with energy unlike anything
+you've felt before.  Constructed of pure magic, the shifting colors make it
+difficult to describe this location.  There is no apparent light source yet
+everything in the room is clearly visible.  Looking down, a thick miasma
+obscures the ground and gives off the alamring scent of death.  
+~
+36 262160 0 0 0 0
+S
+#3694
+Broadcast Room for Mordraneth~
+You are in an unfinished room.
+~
+36 0 0 0 0 0
+D1
+~
+~
+0 0 3693
+S
+#3695
+Broadcast Room 2 for Mordraneth~
 You are in an unfinished room.
 ~
 36 0 0 0 0 0
 D3
 ~
 ~
-0 0 19659
+0 0 3693
 S
 $~

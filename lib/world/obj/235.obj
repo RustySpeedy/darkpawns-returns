@@ -1,0 +1,217 @@
+#23500
+a warm potion~
+a warm potion~
+A small bottle of red liquid lies here.~
+~
+10 65 0 0 0 1 0 0 0
+30 79 0 0
+1 800 40.00
+#23501
+charred leggings~
+charred leggings~
+A pair of blackened leggings lies among ash.~
+~
+9 12607488 0 0 0 33 0 0 0
+15 0 0 0
+6 1200 15.00
+#23503
+frog leg~
+a frog leg~
+A leg torn from the carcass of a colorful frog twitches on the ground.~
+~
+19 65 0 0 0 1 0 0 0
+30 0 0 0
+1 50 100.00
+#23505
+belt woven shadow~
+a belt of woven shadow~
+Strands of shadow woven into a garment devour the light.~
+~
+9 72400962 0 0 0 2049 0 0 0
+4 0 0 0
+3 4000 10.00
+A
+19 2
+A
+12 15
+A
+27 1
+#23507
+an ivory mace~
+an ivory mace~
+A mace carved from pure ivory is lying here.~
+~
+5 139214914 0 0 0 8193 0 0 0
+0 4 6 6
+10 0 7.00
+A
+18 4
+A
+19 1
+A
+25 5
+#23509
+cobalt knife~
+a cobalt knife~
+A long, thin bladed knife sticks in the ground.~
+~
+5 76578818 0 0 0 8193 0 0 0
+0 4 7 11
+0 0 10.00
+A
+19 1
+A
+18 3
+#23511
+mask electrified bone~
+a mask of electrified bone~
+A mask shaped from bones emits sparks among the dust.~
+~
+9 3 0 0 0 131073 0 0 0
+10 0 0 0
+2 800 15.00
+A
+18 1
+A
+29 36
+#23516
+small brown mat rug~
+a small, brown rug~
+A small, brown rug lies before the shed.~
+~
+15 0 0 0 0 0 0 0 0
+1000 0 -1 0
+15 5000 100.00
+#23525
+swirling moss colored portal gate~
+a swirling, moss-covered portal~
+A pulsing ball of moss-colored energy hovers by the wall.~
+~
+1 3 0 0 0 0 0 0 0
+0 0 -1 0
+0 23531 100.00
+S portal.lua 2
+#23531
+swirling moss colored portal gate~
+a swirling, moss-covered portal~
+A pulsing ball of moss-colored energy hovers by the wall.~
+~
+1 3 0 0 0 0 0 0 0
+0 0 -1 0
+0 23525 100.00
+S portal.lua 2
+#23535
+ring flames portal gate~
+a ring of flames~
+A flaming ring shimmers in the air.~
+~
+1 1 0 0 0 0 0 0 0
+0 0 -1 0
+0 23539 100.00
+S portal.lua 2
+#23539
+ring fire portal gate~
+a ring of fire~
+A flaming ring shimmers in the air.~
+~
+1 1 0 0 0 0 0 0 0
+0 0 -1 0
+0 23535 100.00
+S portal.lua 2
+#23545
+mini miniature black hole portal gate small sphere~
+a miniature black hole~
+A small, impossibly dense sphere of blackness pulses in the air.~
+~
+1 2 0 0 0 0 0 0 0
+0 0 -1 0
+0 23551 100.00
+S portal.lua 2
+#23551
+mini miniature black hole portal gate small sphere~
+a miniature black hole~
+A small, impossibly dense sphere of blackness pulses in the air.~
+~
+1 2 0 0 0 0 0 0 0
+0 0 -1 0
+0 23545 100.00
+S portal.lua 2
+#23559
+water jug~
+a small water jug~
+A small jug of water sits in the corner.~
+~
+23 0 0 0 0 0 0 0 0
+1000 1000 0 0
+1005 0 100.00
+#23560
+giant oak tree grand portal gate~
+the grand oak tree~
+A HUGE oak tree with a dark hollow in the towers above.~
+~
+1 64 0 0 0 0 0 0 0
+0 0 -1 0
+0 23564 100.00
+S portal.lua 2
+#23564
+giant oak tree grand portal gate~
+the grand oak tree~
+A HUGE oak tree with a dark hollow in the towers above.~
+~
+1 64 0 0 0 0 0 0 0
+0 0 -1 0
+0 23560 100.00
+S portal.lua 2
+#23571
+small brass key~
+a small, brass key~
+A small key made of tarnished brass is lying here.~
+~
+18 4 0 0 0 16385 0 0 0
+0 0 0 0
+1 10 100.00
+#23572
+stone spellstone shiny~
+a shiny spellstone~
+A shiny stone with a magical inscription twinkles on the ground.~
+~
+2 3 0 0 0 16385 0 0 0
+30 82 0 0
+2 1000 6.00
+#23573
+a small pine desk~
+a small pine desk~
+A small desk finely crafted from pine sits in the corner.~
+~
+15 0 0 0 0 0 0 0 0
+1000 5 -1 0
+500 1000 100.00
+#23574
+a short spade~
+a short spade~
+A small gardening spade is lying here.~
+~
+5 0 0 0 0 24577 0 0 0
+0 3 7 14
+4 500 20.00
+A
+29 5
+A
+25 17
+#23575
+large oak splinter~
+a large, oak splinter~
+A large splinter, as straight as an arrow lies here.~
+~
+7 2 0 0 0 1 0 0 0
+0 4 10 0
+1 300 18.00
+#23576
+vial hum humming liquid~
+a vial of humming liquid~
+A vial filled with clear liquid humms on the ground.~
+~
+10 0 0 0 0 1 0 0 0
+30 50 19 0
+1 200 100.00
+$~

@@ -5322,7 +5322,7 @@ Dworkin's Study~
 and if it wasn't so dusty in here. There is a fireplace here. That's
 probably where the dust has blown in.
 ~
-27 8 0 0 0 0
+27 1048584 0 0 0 0
 D1
 ~
 ~
@@ -7207,16 +7207,12 @@ D4
 S
 #3065
 The Center Of The Pattern~
-  The center of the Pattern is the center of the universe. From here you
-may seek the powerful artifact known as the Eye of the Logrus (as well
-as other names).
+The center of the great Pattern of Amber is the center of the known universe.
+From here you may seek instantaneous travel to certain different destinations
+throughout the lands.  You may also seek greater attunement to the great Eye.
 ~
-27 520 0 0 0 0
+27 536 0 0 0 0
 R 30/pattern_3065.lua 32
-D5
-~
-~
-0 0 2960
 S
 #3066
 Fishmonger's Road~

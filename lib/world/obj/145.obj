@@ -21,7 +21,7 @@ A glass jar has been left here.~
 ~
 12 65608 0 0 0 16385 0 0 0
 0 0 0 0
-2 5500 5500
+2 5500 5500.00
 E
 jar glass~
 It's a normal sized jar, with a large cork for a lid.
@@ -49,7 +49,67 @@ A huge mirror with an intricately carved border is standing here.~
 ~
 12 80 0 0 0 0 0 0 0
 0 0 0 0
-200 0 5500
+200 0 5500.00
+#14505
+a simple iron key~
+a simple iron key~
+A plain iron key is lying here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+3 10 100.00
+#14506
+a small bone saw~
+a small bone saw~
+A bonesaw made of steel lies gleaming in the light.~
+~
+5 0 0 0 0 8193 0 0 0
+0 3 2 3
+1 300 25.00
+A
+17 1
+#14507
+black steel safe~
+a black steel safe~
+A black steel safe sits here in a corner.~
+A safe made of thick, black steel with a single keyhole in the front.
+~
+15 0 0 0 0 1 0 0 0
+100 6 14508 0
+1000 100 100.00
+#14508
+black steel key~
+a black steel key~
+A small black key made of steel glints in the light.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+2 0 75.00
+#14509
+keyring ring ~
+an iron keyring~
+An iron keyring lies here.~
+~
+15 0 0 0 0 1 0 0 0
+10 0 -1 0
+1 0 85.00
+#14511
+thick iron key~
+a thick iron key~
+A large, thick key made of sits here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 50.00
+#14512
+large sign~
+a large sign~
+A large warning sign is posted beside the Quarantine Room door.~
+A large sign posted on the east wall reads, "Exercise EXTREME caution with animals in Quarantine."
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+10000 0 100.00
 #14531
 ivory amulet~
 an ivory amulet~
@@ -105,15 +165,25 @@ A puddle of silver lies here.~
 A
 17 -20
 #14535
-object testin~
-a testing object~
-Testing this thing~
+sign reminder~
+a small sign~
+A small wooden sign is posted as a warning outside the Infirmary Pen.~
+Reminder: Sick animals are extremely dangerous.
 ~
-12 0 0 0 0 1025 0 0 0
+16 0 0 0 0 1025 0 0 0
 0 0 0 0
-1 0 100.00
+100000000 0 100.00
 A
 29 31
 A
 26 30
+#14536
+red bold sign~
+a small sign with bold lettering~
+A sign with bold red lettering is posted as a warning outside the Nark Exhibit.~
+The creature in this exhibit is extremely DANGEROUS.
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+100000000 0 100.00
 $~

@@ -169,11 +169,11 @@ An elven sentinel stands here imposingly.
 ~
 An powerful looking, well built individual stands here blocking your path.
 He steps purposely in your way as you advance towards the gates leading 
-into the camp.
+into the castle.
 ~
-194587 0 0 0 656552 0 0 0 0 E
-28 -8 -18 28d5+368 18d4+18
-2500 50000
+194587 0 0 0 1073873960 0 0 0 0 E
+20 6 -10 20d5+210 8d4+10
+2500 30000
 8 8 1
 BareHandAttack: 10
 Race: 1

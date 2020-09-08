@@ -1,0 +1,1128 @@
+#31400
+A Beaten Path in the Forest~
+   You are on a well worn path made by some large hooved animal.  The ground
+is mostly pine needles and leaves from the trees surrounding the path.  At the
+center of the path the ground is soft, and black soil peeks through in some
+places.  Your exits are west back to the open forest and east further in the
+path.  
+~
+314 0 0 0 0 3
+D1
+~
+~
+0 0 31401
+D3
+~
+~
+0 0 31399
+S
+#31401
+A Beaten Path in the Forest~
+   You are on a well worn path made by some large hooved animal.  The ground
+is mostly pine needles and leaves from the trees surrounding the path.  At the
+center of the path the ground is soft, and black soil peeks through in some
+places.  There are three exits, north and east to some sort of burrows.  West
+will take you back to the beaten path through the woods.  
+~
+314 0 0 0 0 3
+D0
+~
+~
+0 0 31402
+D1
+~
+~
+0 0 31396
+D3
+~
+~
+0 0 31400
+S
+#31402
+A Pine Needle Burrow~
+   Your only exit is to the forest to the south.  There is something off about
+this area, it smells a bit like a farm.  There are bits of armor grade metal
+scraps on the ground, they look to be chewed to bits.  There's even an half
+eaten sword...  
+~
+314 0 0 0 0 3
+D2
+~
+~
+0 0 31401
+S
+#31403
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31404
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31405
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31406
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31407
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31408
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31409
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31410
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31411
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31412
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31413
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31414
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31415
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31416
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31417
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31418
+the Pine Forest~
+Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+~
+314 0 0 0 0 3
+S
+#31419
+Norse Stronghold Entrance~
+   There is light coming from flickering torches that line the walls further
+down the wide passageway.  The walls here are made of thick wooden breams
+running vertically and large stones mortared between them.  The beams are met
+at their peaks with similarly sized beams that lay horizontally on the
+ceiling.  Footsteps echo on the hard-packed dirt floor.  The passage continues
+to the south where the light from the torches beckon.  
+~
+314 72 0 0 0 0
+D2
+~
+~
+0 0 31420
+D3
+A solid oak door, reinforced with steel.
+~
+oak door~
+2 31419 31381
+S
+#31420
+Bend in a Dimly Lit Passage~
+   The light from torches that flicker along the walls is brighter here, but
+still dim.  The mortared stone and wooden beam passage continues here and a
+bend leads to the east.  The distinct scent of people can be detected here
+along with smells of food.  Footsteps echo on the hard packed dirt floor of
+the passageway.  
+~
+314 72 0 0 0 0
+D0
+~
+~
+0 0 31419
+D1
+~
+~
+0 0 31421
+S
+#31421
+Well-lit Passage~
+   Several torches line the passageway here and it is brightly lit as a
+result.  The wall to the south is the same stone and wooden beam, but to the
+north a symbol has been etched into a very large square stone that has been
+set into the wall.  Three large candles are lit and sit on the dirt packed floor beneath
+this symbol, drawing pointed attention to the importance this symbol holds.  
+The passage continues to the east where it appears to bend north ahead.  
+~
+314 72 0 0 0 0
+D1
+~
+~
+0 0 31422
+D3
+~
+~
+0 0 31420
+E
+symbol wall etch~
+The etched symbol was crafted with care by patient hands.  The linework is
+smooth and made by someone experienced in this kind of work.  The symbol
+consists of three thick triangles that interweave at the center.  Around these
+triangles, runes are etched in into a border.  The symbol is called the
+Valknut and honors slain warriors that Odin welcomes into Valhalla.  The nine
+points of the triangles symbolizes the Nine Worlds.  
+~
+S
+#31422
+Bend in the Passage~
+   This bend marks the end of the entrance passage and the beginning of the
+living quarters of the stronghold.  A large iron chandelier of candles lights
+the passage here in flickering bright light.  The mortared stone and wooden
+beam walls can be seen easier here and the craftsmanship is apparent.  They
+seem strong enough to withstand an assault of nature or man.  The passage
+opens up to the north.  
+~
+314 72 0 0 0 0
+D0
+~
+~
+0 0 31423
+D3
+~
+~
+0 0 31421
+S
+#31423
+A Wide Hallway in the Stronghold~
+   The passageway opens into a large hallway with doorways that flank each
+side.  The doorways on both sides directly east and west are framed with the
+same large wooden beams.  Animal hides have been hung to provide a door of
+some sort for each room.  Large torches flicker between the doorways in
+addition to the light that radiates from the chandelier directly southward.  
+~
+314 72 0 0 0 0
+D0
+~
+~
+0 0 31426
+D1
+~
+~
+0 0 31424
+D2
+~
+~
+0 0 31422
+D3
+~
+~
+0 0 31425
+S
+#31424
+Stronghold Armory~
+   This expansive room is filled with heaps of armor and weapons.  A large
+candle fixture is suspended from the wooden ceiling beams and holds several
+lit candles that illuminate the room.  The light from the candles flickers on
+the heaps of loosely organized armor.  The northern wall is lined with hooks
+that suits of heavy leather armor hangs from.  On the southern wall hang weapons
+from axes to two-handed swords that seem to only be made for giants.  A dark
+wooden shelf with three levels spans the entire eastern wall and is packed
+with various helms, some with horns welded on the sides.  A large wooden chair
+sits in the northwestern corner pointed towards the door, as if the occupant
+would be on guard and watching the entrance at all times.  
+~
+314 76 0 0 0 0
+D3
+~
+~
+0 0 31423
+S
+#31425
+The Dvergar's Forge~
+   Heat from the forge in the northwestern corner of the room makes the air
+feel oppressive.  The forge was made when this room was constructed and the
+smoke from the forge is led out by a vent connected to he northwestern corner
+of the ceiling.  The forge itself is casted from extremely thick steel and
+burns brightly casting an orange glow on everything in the room.  An anvil the
+size of an elephants head sits in front of the forge and a blacksmith hammer
+is mounted on the northern wall in the center.  A halved barrel sits at the
+eastern wall containing water for extinguishing and metal-work.  A table at
+the southern wall contains various tools used for shaping and hammering the
+metals.  A single large lantern hangs from the tall ceiling from a beam
+assisting the forge in lighting the room.  
+~
+314 76 0 0 0 0
+D1
+~
+~
+0 0 31423
+S
+#31426
+A Wide Hallway in the Stronghold~
+   The wide hallway continues here and northward.  The doorways on both sides directly east
+and west are framed with the same large wooden beams.  Animal hides have been
+hung to provide a door of some sort for each room.  Large torches flicker
+between the doorways in addition to the light that radiates from the
+chandelier southward.  
+~
+314 72 0 0 0 0
+D0
+~
+~
+0 0 31429
+D1
+~
+~
+0 0 31427
+D2
+~
+~
+0 0 31423
+D3
+~
+~
+0 0 31428
+S
+#31427
+Seidr's Quarters~
+   Behind the pristine white animal hide, this room is lit by an altar at the
+far eastern wall.  Candles in various stages of burning flicker brightly and
+some are lit in different hues of orange and red giving the room an ethereal
+quality.  A large pillow, made of stuffed animal hide, lies in the center of
+the room.  A small wooden table sits at the southern wall with various
+instruments used for writing and etchings.  Runes are carved into the walls at
+various symmetrical points on each wall.  Some of these runes almost seem to
+glow.  
+~
+314 262220 0 0 0 0
+D3
+~
+~
+0 0 31426
+S
+#31428
+High Priest's Chamber~
+   Behind the thick hide that serves as the curtain, this room may be the
+cleanest in the entire stronghold.  The well-packed dirt floor is nearly
+polished here and torches are set in each corner of the room to provide ample
+light.  Depictions of Freya, Odin, and other gods are depicted in etchings on
+each wall.  A large table sits at the northern wall with several bound books
+neatly stacked on the surface.  The smell of burning sage comes from a brass
+thurible hanging from a hook over the table.  
+~
+314 76 0 0 0 0
+D1
+~
+~
+0 0 31426
+S
+#31429
+End of a Wide Hallway~
+   The wide hallway continues here and northward into a more narrow passage.
+The doorways on both sides directly east and west are framed with the same
+large wooden beams.  Animal hides have been hung to provide a door of some
+sort for each room.  Large torches flicker between the doorways in addition to
+the light that radiates from the chandelier southward.  
+~
+314 72 0 0 0 0
+D0
+~
+~
+0 0 31432
+D1
+~
+~
+0 0 31431
+D2
+~
+~
+0 0 31426
+D3
+~
+~
+0 0 31430
+S
+#31430
+Barracks of the Berserkers~
+   Pallets line the northern and southern walls of this expansive room.  
+They are covered in thick animal furs that were made to fight the bitter cold
+of this climate.  This is the quarters of the male fighters in the stronghold.
+Torches line the walls, but only two on the western wall are actually lit,
+casting a dim glow to the entire room.  On the western wall between the
+torches is an intricate depiction of Thor in a battle stance.  
+~
+314 72 0 0 0 0
+D1
+~
+~
+0 0 31429
+E
+etching of Thor~
+Thor is decked in full battle armor and stands ready to strike with Mjollnir in his mighty grip. 
+~
+S
+#31431
+Barracks of the Shield Maidens~
+   Pallets line the northern and southern walls of this expansive room.  
+They are covered in thick animal furs that were made to fight the bitter cold
+of this climate.  This is the quarters of the female fighters in the
+stronghold.  Torches line the walls, but only two on the eastern wall are
+actually lit, casting a dim glow to the entire room.  On the eastern wall,
+between the torches, is an intricately carved depiction of Freya, the Norse
+goddess of war, sorcery, death, fertility, and love.  
+~
+314 72 0 0 0 0
+D3
+~
+~
+0 0 31429
+E
+Freya carving goddess~
+Freya is depicted with feminine harsh features that stare defiantly. She is clothed in battle armor raising her hands as if to call forth a mighty power to defeat her enimies.
+~
+S
+#31432
+Hidden Norse Stronghold~
+   This narrow hallways leads into an expansive room to the north.  Torches
+line each stone-mortared and wooden beamed wall, and a large mammoth skull has
+been mounted in the archway that is the ceiling.  A rune has been polished
+into the packed dirt floor and lined with morter so that the rune is clearly
+visible.  
+~
+314 72 0 0 0 0
+D0
+~
+~
+0 0 31433
+D2
+~
+~
+0 0 31429
+E
+rune hagalaz~
+   This rune is two bold parallel vertical lines with a single line that
+begins about a quarter of a way from the top of the left line and drops down
+to meet the second line a quarter of the way to the bottom.  It is called
+Hagalaz and signifies chaos and destruction.  
+~
+S
+#31433
+Center of the War Room~
+   This room is wide open to the left and right with ceilings double the
+height of the rest of the stronghold.  The room is nearly overcome by the size
+of the expansive wooden table that extends nearly from the east wall to the
+west wall.  A large map of the North lies on the table with wooden figurines
+stationed strategically, clearly in the midst of an attack plan.  Large wooden
+chairs with straight backs are tucked into the table here, and an enormous
+candle fixture hands from brass chains over the center of the table to light
+the room.  To the north, behind an extremely large chair is another room
+behind a fur-lined curtain.  
+~
+314 72 0 0 0 0
+D0
+~
+~
+0 0 31434
+D1
+~
+~
+0 0 31437
+D2
+~
+~
+0 0 31432
+D3
+~
+~
+0 0 31436
+D5
+~
+~
+0 0 31435
+S
+#31434
+Jarl's Quarters~
+   This room has a pallet that is double the size found in either of the
+barracks and is lined with luxurious furs that appear to be extremely warm.  
+The walls are lined with tapestries depicting many battles including those in
+which gods such as Odin participated.  The eastern wall holds a large table
+with a chair tucked under and several empty ivory mugs sit atop.  The bleached
+skull of the extinct tundra wolf, triple the size of a typical wolf's skull,
+is mounted in the center of the northern wall.  
+~
+314 76 0 0 0 0
+D2
+~
+~
+0 0 31433
+D5
+A large hatch made of iron.
+~
+iron hatch~
+1 0 31480
+S
+#31435
+Provisions Cache~
+   This room was dug out carefully and the dirt packed tightly and supported
+with the same wooden beams that make up the rest of the stronghold.  Shelves
+line every wall and are filled with dried fruits, meat, and vegetables.  
+Onions and garlic are tied together and suspended from a beam that runs from
+wall to wall.  A wooden ladder leads back up into the war room.  
+~
+314 76 0 0 0 0
+D4
+~
+~
+0 0 31433
+S
+#31436
+Westend of the War Room~
+   This end of the expansive room is lighted by a smaller candle fixture
+mounted from a beam in the high ceiling.  The many candles lit in the fixture
+illuminate this end of the enormous table.  On the western wall, an elaborate
+carving of Odin spans from end to end.  Several ivory mugs are overturned at
+this end of the table and a heavy knife has been stabbed into the surface,
+nearly to the hilt.  
+~
+314 72 0 0 0 0
+D1
+~
+~
+0 0 31433
+E
+Odin carving elaborate~
+   Odin stands proudly dressed in a fitted robe, a cloak worn about his body.
+His right arm is raised, the giant talons of a bird of prey perched on
+his hand.  A sharp, powerful spear in the left hand, and his long silver beard
+and hair neatly pulled back with a headband.  Power emanates from the carving.
+
+~
+S
+#31437
+Eastend of the War Room~
+   This end of the expansive room is lighted by a smaller candle fixture
+mounted from a beam in the high ceiling.  The many candles lit in the fixture
+illuminate this end of the enormous table.  On the eastern wall, the head and
+hide of a giant white bear are mounted as if the watch its hunters as they
+plan their raids.  Huge, tall-backed wooden chairs are pushed into the table,
+and several ivory mugs sit unused on the table's surface.  
+~
+314 72 0 0 0 0
+D3
+~
+~
+0 0 31433
+S
+#31438
+First Floor of a Holy Spire - Foyer~
+   The foyer of this bottom floor is quite clean except where folks come in
+from the elements at the door.  Everything is painted white and a light gold
+trimming accent points here and there.  There is a steep staircase leading up
+to the second floor in the next room over to the west.  There is a large bench
+to the south, and a small candlelit shrine to the north.  
+~
+314 8 0 0 0 0
+D1
+~
+door~
+1 -1 31570
+D3
+~
+~
+0 0 31439
+S
+#31439
+First Floor of a Holy Spire - Resting Area~
+   A small sitting area is set up to your south, and to the north the same.  
+A small wood burning stove sets off in the south western corner, which is
+piped up through the ceiling above.  On the western wall a steep, spiral
+staircase will take you to the secondary floor of this hastily built spire.  
+~
+314 8 0 0 0 0
+D1
+~
+~
+0 0 31438
+D4
+~
+~
+0 0 31440
+D5
+A soft woven rug covers a well-disguised trapdoor in the floor.  
+~
+secret~
+2 31443 31499
+S
+#31440
+Second Floor of a Holy Spire - Church~
+   Seems you found yourself in a place of worship on this floor.  Upward on
+the staircase will take you to the third floor, down will bring you to the
+first.  There are several benches filling the room, all facing a small altar
+and podium at the far eastern end for the floor.  
+~
+314 32776 0 0 0 0
+D1
+~
+~
+0 0 31441
+D4
+~
+~
+0 0 31442
+D5
+~
+~
+0 0 31439
+S
+#31441
+Second Floor of a Holy Spire - Church~
+   Seems you found yourself in a place of worship on this floor.  Upward on
+the staircase will take you to the third floor, down will bring you to the
+first.  There are several benches filling the room, all facing a small altar
+and podium at the far eastern end for the floor.  There is a small window
+peering out to the forest on the eastern wall.  
+~
+314 32776 0 0 0 0
+D3
+~
+~
+0 0 31440
+S
+#31442
+Third Floor of a Holy Spire - Sleeping Quarters~
+   A very clean white washed space, with beds lining the outer walls to the
+north and south.  The beds continue on as the room spans eastward.  The room
+is dimly lit and smells of linens.  
+~
+314 8 0 0 0 0
+D1
+~
+~
+0 0 31443
+D4
+~
+~
+0 0 31444
+D5
+~
+~
+0 0 31440
+S
+#31443
+Third Floor of a Holy Spire - Sleeping Quarters~
+   There are beds on the north wall, as well as the east and south.  There is
+a large glass window protected by metal bars on the eastern wall.  Your only
+escape is to the west.  
+~
+314 8 0 0 0 0
+D3
+~
+~
+0 0 31442
+S
+#31444
+Fourth Floor of a Holy Spire - Armory~
+   The walls are lined with shelves and brackets to keep all the armor and
+weaponry organized.  There is a table for maintenance which is the only place
+in the room any sort of grime or dirt can be found.  The room stretches
+eastward as it transforms into a war room.  
+~
+314 8 0 0 0 0
+D1
+~
+~
+0 0 31445
+D4
+~
+~
+0 0 31446
+D5
+~
+~
+0 0 31442
+S
+#31445
+Fourth Floor of a Holy Spire - War Room~
+   A large glass window on the eastern wall protected by metal bars lets
+natural light in the room.  There is a large table in the center of the room.
+Your only exit is west into the armory.  
+~
+314 8 0 0 0 0
+D3
+~
+~
+0 0 31444
+S
+#31446
+On the Roof of a Holy Spire - The Lookout~
+   This spire was built a few meters above the canopy of the forest.  
+Everything is white washed and pristine.  To the very far northeast you can
+spot a very tall structure that emits a bright light.  You have two exits
+east, to the main area and down the stairs below you.  
+~
+314 0 0 0 0 0
+D1
+~
+~
+0 0 31447
+D5
+~
+~
+0 0 31444
+S
+#31447
+On the Roof of a Holy Spire - Archer's Nest~
+   This spire was built a few meters above the canopy of the forest.  
+Everything is white washed and pristine.  There is a very large ballista on
+the eastern perch.  To the very far northeast you can spot a very tall
+structure that emits a bright light.  Your only exit is west to the rest of
+the archer's nest.  
+~
+314 0 0 0 0 0
+D3
+~
+~
+0 0 31446
+S
+#31455
+the Pine Forest~
+   Deep in the forest you have exits in all four cardinal directions.  East
+will take you further from the road.  West will do the opposite.  North,
+forest, and southmore forest.  Looking up your view of the sky is limited by
+the tree limbs and vegetation.  The ground is moist, thick with pine straw and
+moss.  
+~
+314 0 0 0 0 0
+D1
+~
+~
+0 0 31456
+D2
+~
+~
+0 0 9734
+D3
+~
+~
+0 0 31372
+S
+#31456
+the Pine Forest~
+   Deep in the forest you have exits in all four cardinal directions.  East
+will take you further from the road.  West will do the opposite.  North,
+forest, and southmore forest.  Looking up your view of the sky is limited by
+the tree limbs and vegetation.  The ground is moist, thick with pine straw and
+moss.  
+~
+314 0 0 0 0 0
+D2
+~
+~
+0 0 9735
+D3
+~
+~
+0 0 31455
+S
+#31457
+A Secret Vault~
+   A small room barely big enough for you to fit let alone anyone else.  It is
+mostly dirt and some wood support beams holding up the earth above.  
+~
+314 328 0 0 0 0
+D0
+~
+~
+0 0 31488
+S
+#31480
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch further down casts dim
+light for guidance.  An earthy smell permeates the moist air.  If it weren't
+for the torch further down, the tunnel would be pitch black.  
+~
+314 256 0 0 0 12
+D3
+~
+~
+0 0 31481
+D4
+A large hatch made of iron.
+~
+iron hatch~
+1 0 31434
+S
+#31481
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch further down casts dim
+light for guidance.  An earthy smell permeates the moist air.  If it weren't
+for the torch further down, the tunnel would be pitch black.  
+~
+314 256 0 0 0 12
+D1
+~
+~
+0 0 31480
+D3
+~
+~
+0 0 31482
+S
+#31482
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch on the a northern beam
+casts dim light for guidance.  An earthy smell permeates the moist air.  If it
+weren't for the torch on the northern beam, the tunnel would be pitch black.
+
+~
+314 256 0 0 0 12
+D1
+~
+~
+0 0 31481
+D3
+~
+~
+0 0 31483
+S
+#31483
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch further down casts dim
+light for guidance.  An earthy smell permeates the moist air.  If it weren't
+for the torch further down, the tunnel would be pitch black.  
+~
+314 256 0 0 0 12
+D1
+~
+~
+0 0 31482
+D3
+~
+~
+0 0 31484
+S
+#31484
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch on the a northern beam
+casts dim light for guidance.  An earthy smell permeates the moist air.  If it
+weren't for the torch on the northern beam, the tunnel would be pitch black.
+
+~
+314 256 0 0 0 12
+D1
+~
+~
+0 0 31483
+D3
+~
+~
+0 0 31485
+S
+#31485
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch further down casts dim
+light for guidance.  An earthy smell permeates the moist air.  If it weren't
+for the torch further down, the tunnel would be pitch black.  
+~
+314 256 0 0 0 12
+D1
+~
+~
+0 0 31484
+D3
+~
+~
+0 0 31486
+S
+#31486
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch on the a northern beam
+casts dim light for guidance.  An earthy smell permeates the moist air.  If it
+weren't for the torch on the northern beam, the tunnel would be pitch black.
+The tunnel runs east and west here with a small room to the south.  
+~
+314 0 0 0 0 0
+D1
+~
+~
+0 0 31485
+D2
+~
+~
+0 0 31488
+D3
+~
+~
+0 0 31487
+S
+#31487
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch further down casts dim
+light for guidance.  An earthy smell permeates the moist air.  If it weren't
+for the torch further down, the tunnel would be pitch black.  
+~
+314 256 0 0 0 12
+D1
+~
+~
+0 0 31486
+D2
+~
+~
+0 0 31489
+S
+#31488
+A small alcove ~
+   This alcove is structured much like the rest of the tunnels, except the
+walls are curved, which gives the room an oval shape.  A few torches are here
+on the walls, giving plenty of light.  This seems to be a room made for rest
+during the walk through the tunnel.  
+~
+314 1048832 0 0 0 12
+D0
+~
+~
+0 0 31486
+D2
+~
+secret~
+1 -1 31457
+S
+#31489
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch on the a northern beam
+casts dim light for guidance.  An earthy smell permeates the moist air.  If it
+weren't for the torch on the northern beam, the tunnel would be pitch black.
+~
+314 256 0 0 0 12
+D0
+~
+~
+0 0 31487
+D2
+~
+~
+0 0 31490
+S
+#31490
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch further down casts dim
+light for guidance.  An earthy smell permeates the moist air.  If it weren't
+for the torch further down, the tunnel would be pitch black.  
+~
+314 256 0 0 0 12
+D0
+~
+~
+0 0 31489
+D2
+~
+~
+0 0 31491
+S
+#31491
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch further down casts dim
+light for guidance.  An earthy smell permeates the moist air.  If it weren't
+for the torch further down, the tunnel would be pitch black.  
+~
+314 256 0 0 0 12
+D0
+~
+~
+0 0 31490
+D2
+~
+~
+0 0 31492
+S
+#31492
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch on the a northern beam
+casts dim light for guidance.  An earthy smell permeates the moist air.  If it
+weren't for the torch on the northern beam, the tunnel would be pitch black.
+~
+314 256 0 0 0 12
+D0
+~
+~
+0 0 31491
+D2
+~
+~
+0 0 31493
+S
+#31493
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch further down casts dim
+light for guidance.  An earthy smell permeates the moist air.  If it weren't
+for the torch further down, the tunnel would be pitch black.  
+~
+314 256 0 0 0 12
+D0
+~
+~
+0 0 31492
+D2
+~
+~
+0 0 31494
+S
+#31494
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch on the a northern beam
+casts dim light for guidance.  An earthy smell permeates the moist air.  If it
+weren't for the torch on the northern beam, the tunnel would be pitch black.
+~
+314 256 0 0 0 12
+D0
+~
+~
+0 0 31493
+D3
+~
+~
+0 0 31495
+S
+#31495
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch on the a northern beam
+casts dim light for guidance.  An earthy smell permeates the moist air.  If it
+weren't for the torch on the northern beam, the tunnel would be pitch black.
+~
+314 256 0 0 0 12
+D1
+~
+~
+0 0 31494
+D3
+~
+~
+0 0 31496
+S
+#31496
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch further down casts dim
+light for guidance.  An earthy smell permeates the moist air.  If it weren't
+for the torch further down, the tunnel would be pitch black.  
+~
+314 256 0 0 0 12
+D1
+~
+~
+0 0 31495
+D3
+~
+~
+0 0 31497
+S
+#31497
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch further down casts dim
+light for guidance.  An earthy smell permeates the moist air.  If it weren't
+for the torch further down, the tunnel would be pitch black.  
+~
+314 256 0 0 0 12
+D1
+~
+~
+0 0 31496
+D3
+~
+~
+0 0 31498
+S
+#31498
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch on the a northern beam
+casts dim light for guidance.  An earthy smell permeates the moist air.  If it
+weren't for the torch on the northern beam, the tunnel would be pitch black.
+~
+314 256 0 0 0 12
+D1
+~
+~
+0 0 31497
+D3
+~
+~
+0 0 31499
+S
+#31499
+A dimly lit tunnel~
+   This tunnel was dug carefully in the soil and braced with thick wooden
+beams, similar to the stronghold's structure.  A torch further down casts dim
+light for guidance.  An earthy smell permeates the moist air.  If it weren't
+for the torch further down, the tunnel would be pitch black.  A wooden ladder
+leads up to a trap door in the ceiling of the tunnel here.  
+~
+314 1048832 0 0 0 12
+D1
+~
+~
+0 0 31498
+D4
+A trap door made to enter the other side without notice.
+~
+secret~
+2 31443 31439
+S
+$~

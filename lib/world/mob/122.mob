@@ -318,4 +318,22 @@ well not to assume too much from his appearance.
 Race: 29
 Script: 122/healer.lua 24
 E
+#12321
+short-faced bear~
+the short-faced bear~
+A blood drenched, gnarly looking bear stands towering over you on its hind legs.
+~
+   The giant short-faced bear stands before you.  This is no ordinary bear, he
+stands 12 feet tall, with a vertical reach of 14 feet!  Fucking hell, he is
+stairing at you with soulless eyes.  His arms are extremely long, tipped with
+ferociously long claws.  
+~
+8871996 0 0 0 4490472 0 0 0 0 E
+37 -17 -27 37d5+4495 24d4+31
+0 369000
+8 8 1
+BareHandAttack: 9
+Race: 22
+Noise: An all too familiar grunt sends chills down your spine and makes the hair on your neck stand up.
+E
 $

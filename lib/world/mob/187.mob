@@ -51,6 +51,7 @@ wants to be.
 15 7500
 8 8 1
 Race: 27
+Noise: You hear a guard muttering something nearby..
 E
 #18705
 ender guard royal~
@@ -62,7 +63,7 @@ king and queen.
 ~
 22538 0 0 0 262152 0 0 0 0 E
 13 7 -3 13d5+140 8d4+8
-25 10500
+50 12500
 8 8 1
 Race: 27
 E
@@ -76,7 +77,7 @@ being weak or inept with weapons.
 ~
 22666 0 0 0 1192 0 0 0 0 E
 15 5 -5 15d5+160 10d4+10
-100 14000
+199 14000
 8 8 1
 Race: 27
 E
@@ -89,7 +90,7 @@ She is a small humanoid, but looks strong, both with words and her blade.
 ~
 22666 0 0 0 168 0 0 0 0 E
 14 6 -4 14d5+150 9d4+9
-50 12000
+299 12000
 8 8 2
 Race: 27
 E
@@ -102,8 +103,8 @@ This smallish humanoid looks very sneaky.  It looks as though he could be a
 great thief or maybe even an assassin.
 ~
 10316 0 0 0 262144 0 0 0 0 E
-7 13 3 7d5+80 3d4+3
-15 2500
+10 10 0 10d5+110 5d4+5
+15 6999
 8 8 1
 Race: 27
 E
@@ -130,10 +131,11 @@ This tiny little humanoid has very quick hands as you see him playing here.
 He does not seem to notice you, but you are sure he knows you are about.
 ~
 10316 0 0 0 0 0 0 0 0 E
-2 18 8 2d5+30 1d4+1
-5 200
+7 13 3 7d5+80 4d4+4
+5 3000
 8 8 1
 Race: 27
+Noise: You hear childish laughter in the distance.
 E
 #18711
 girl female ender child~
@@ -145,8 +147,8 @@ She seems quite oblivious to you but her movements seem to be reacting to your
 own.
 ~
 10316 0 0 0 524296 0 0 0 0 E
-2 18 8 2d5+30 1d4+1
-5 200
+6 14 4 6d5+70 3d4+3
+5 2000
 8 8 2
 Race: 27
 E
@@ -158,8 +160,8 @@ A little dragoon is here looking with googly eyes.
 This is some kind of little dragon, actually it is more like a lizard.
 ~
 2120 0 0 0 8 0 0 0 0 E
-3 17 7 3d5+40 1d4+1
-0 350
+6 14 4 6d5+70 3d4+3
+0 1500
 8 8 0
 BareHandAttack: 4
 Race: 13
@@ -174,7 +176,7 @@ powdered in flour.
 ~
 2122 0 0 0 8 0 0 0 0 E
 10 10 0 10d5+110 5d4+5
-10 6000
+120 8000
 8 8 1
 Race: 27
 E
@@ -188,9 +190,11 @@ metal.   He is still not even average humanoid size.
 ~
 2122 0 0 0 8 0 0 0 0 E
 12 8 -2 12d5+130 8d4+8
-50 9000
+50 9999
 8 8 1
+BareHandAttack: 7
 Race: 27
+Noise: You hear and feel a blacksmith obliterating an anvil to the east.
 E
 #18715
 ender tailor~
@@ -202,7 +206,7 @@ obviously very nimble as she works around a piece of cloth with her needle.
 ~
 2122 0 0 0 8 0 0 0 0 E
 11 9 -1 11d5+120 7d4+7
-50 7500
+50 8500
 8 8 2
 Race: 27
 E
@@ -216,7 +220,7 @@ kill you.
 ~
 278600 0 0 0 263176 0 0 0 -750 E
 18 2 -8 18d5+190 12d4+12
-32 20000
+399 20000
 8 8 1
 Race: 27
 E
@@ -230,8 +234,112 @@ strange... maybe he is hiding something.
 ~
 138 0 0 0 262184 0 0 0 -200 E
 12 8 -2 12d5+130 8d4+8
-50 9000
+50 9999
 8 8 1
 Race: 27
+E
+#18718
+smithy wife misses woman wild~
+the smithy's wife~
+A gorgeous, but wild looking woman is here sweeping the dust from the floors.
+~
+   A fluke in nature this one.  She's beautiful, loves to clean, and she's
+mute.  What a lucky fuckin guy.  
+~
+2097358 0 0 0 131072 0 0 0 0 E
+11 9 -1 11d5+120 7d4+8
+1 7500
+8 8 2
+BareHandAttack: 8
+Race: 27
+E
+#18719
+tailor assistant~
+the tailor's assistant~
+A pale homely looking ender girl, fumbles some fabric and thread spools here.
+~
+   A short pudgy ender young lady, with a wild look obviously being supressed
+by the strict nature of her employer.  She looks tired, and slightly
+irritable.  
+~
+74 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 2
+E
+#18720
+short ender medicine man~
+the ender medicine man~
+A terribly short and lean elderly man with knotted braids of white hair stands here frowning.
+~
+   Bright blue irises set deep into this man's elderly face seem deeper than
+the darkest depths of the sea.  Every wrinkle on this small framed face seems
+earned by the years of wisdom he dispersed to heal and guide the Enders.  
+His height is the only thing small about this mighty figure.  
+~
+16411 0 0 0 1073745928 0 0 0 0 E
+14 6 -4 14d5+150 9d4+10
+100 20000
+8 8 1
+Race: 0
+E
+#18721
+ender armorer~
+the ender village armorer~
+An older ender is here sorting weapons and armor for the guards.
+~
+   He's old, cranky, and loves to polish swords.  Vigorously he rubs oil on
+everything fighting the rust.  Like a madman he pants and scrubs, like its the
+only thing he knows.  
+~
+2058 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6999
+8 8 1
+Race: 27
+E
+#18722
+nagging bag old lady woman wife~
+the cook's nagging wife~
+An older, stocky woman is here making her husband absolutely miserable.
+~
+   Ugh, do i have to even describe this bitch.  Ok...  Here stands a woman
+with shoulders that rival that of a water buffalo.  Her hair is gripped tight
+by a tattered bow pulling her eyebrows upward to an arch.  She looks like she
+could whoop the cook's ass, and judging from her knuckles she's done so
+recently.  
+~
+74 0 0 0 0 0 0 0 0 E
+13 7 -3 13d5+140 8d4+9
+0 10500
+8 8 2
+Race: 27
+E
+#18727
+blacksmith apprentice~
+the ender blacksmith's apprentice~
+A young apprentice blacksmith is here ready for his next instruction.
+~
+   A young, filthy little ender teenager.  Covered in black soot and wearing a
+leather apron.  Looks like he hasn't had a break in a while.  
+~
+2122 0 0 0 1024 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6999
+8 8 2
+Race: 27
+E
+#18728
+ender guard royal~
+A royal ender guard~
+A royal ender guard is sleeping here.
+~
+It looks, err, unfinished.
+This little humanoid looks quite tough, maybe that is why he is protecting the king and queen.
+~
+22538 0 0 0 262152 0 0 0 0 E
+13 7 -3 13d5+140 8d4+9
+0 10500
+4 4 1
 E
 $

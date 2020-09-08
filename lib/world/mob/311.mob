@@ -1,0 +1,78 @@
+#31100
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+10 1d1+0
+0 0
+8 8 1
+E
+#31101
+slayer test mob~
+slayer test mob~
+slayer test mob is fuckin right herrre
+~
+It looks, err, unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+10 1d1+0
+0 0
+8 8 0
+E
+#31194
+tundra elk~
+an massive tundra elk~
+An imposing elk is towering here, head down sniffing the ground. 
+~
+The elks antlers are nearly as long as its enormous body.  The power that this
+creature holds cannot be easily described as the strong muscles in its body
+flex with each movement.  Its thick grey-brown coat glimmers in the sunlight
+and it is a wonder a creature so beautiful even exists in this cruel
+environment.  
+~
+72 0 0 0 0 0 0 0 0 E
+24 -4 -14 24d5+276 16d4+16
+0 35000
+8 8 0
+BareHandAttack: 6
+Race: 22
+E
+#31195
+Svalbad reindeer~
+a Svalbad reindeer~
+A reindeer stands here sniffing the air and peering around with eyes that seem to be nearly human.
+~
+The Svalbad reindeer stands tall enough to rest its head upon a Vikings
+shoulders.  Its brown and red coat clearly keeps it warm in the bitter cold of
+its environment.  Its black nose is wet as it stiffs the air and the enormous
+antlers that adorns the top of its head look like they could cause mortal
+damage to any foe.  
+~
+72 0 0 0 0 0 0 0 16 E
+22 -2 -12 22d5+230 14d4+14
+0 30000
+8 8 0
+BareHandAttack: 10
+Race: 22
+E
+#31196
+white fox~
+a pure white fox~
+A fox with a coat of pure white watches with intelligent eyes from the safety of its burrow. 
+~
+The most remarkable part of this fox is its pure white fur, that is likely one
+of the best insulating mechanics of the natural world.  It moves, or slinks
+around cautiously, but appears as if it could sprint off in seconds if
+spooked.  Razor sharp teeth adorn the jaws of this majestic creature.  
+~
+200 0 0 0 0 0 0 0 0 E
+13 7 -3 13d5+140 8d4+8
+0 10500
+8 8 0
+BareHandAttack: 4
+Race: 22
+E
+$

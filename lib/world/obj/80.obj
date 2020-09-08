@@ -556,6 +556,30 @@ It is mounted about a foot off the floor, and rises just above eye-level.
 Housed within it are stands for suits of armor, shields and helms, and the
 entire case itself seems a tribute to prowess in war. 
 ~
+#8069
+putrid decaying parazonium~
+a putrid, decaying parazonium~
+An ancient double-edged dagger pitted, cracked and rusty lies here in a pool of coagulated blood.~
+~
+5 68201026 0 0 0 8193 0 0 0
+0 20 1 11
+3 666 100.00
+E
+oozing parazonium~
+   A long triangular dagger, it is very old and disgusting.  It is pitted,
+rusty, and is constantly oozing some sort of poison.  The poison is the
+consistency of clotted blood and the color of dried blood.  
+~
+A
+19 3
+A
+18 -1
+A
+5 -3
+A
+29 13
+A
+28 -15
 #8070
 gauntlets bronze~
 a pair of bronze gauntlets~
@@ -614,6 +638,23 @@ A
 19 1
 A
 5 -1
+#8079
+ooze brown poison~
+a small fissure oozing a brown pasty substance~
+A small fissure has formed in the ground here, it is oozing some strange putrid brown substance!~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+555 666 4.00
+E
+ooze brown poison fissure~
+   Looking closer at the fissure you see that the liquid is hot and steaming,
+almost boiling.  It is a brown dried blood looking color and looks like it has
+a grainy texture.  Surely it is poisonious.  Why is the fissure here?  Is it
+because the horrifying bitch Locusta has emerged from the depths?  It is said
+that if the ground bleeds her poison, she will be fully ressurected with her
+parazonium.  Be weary adventurer, the Behemoth trembles in her presence.  
+~
 #8080
 leggings bronze~
 a pair of bronze leggings~
@@ -675,7 +716,7 @@ A
 13 2
 #8095
 changes made bulletin board~
-A mystical, floating, neon-lit bulletin board is here.~
+a mystical, floating, neon-lit bulletin board is here.~
 A mystical, floating, neon-lit bulletin board is here.~
 ~
 13 0 0 0 0 0 0 0 0
@@ -749,4 +790,146 @@ A yellowish potion is here.~
 10 0 0 0 0 1 0 0 0
 10 19 0 0
 1 110 100.00
+#8165
+jester's armor ~
+an armored jester's jacket~
+Jester's armor~
+~
+9 324160 0 0 0 9 0 0 0
+21 0 0 0
+5 10000 0.50
+A
+19 2
+A
+29 20
+#8166
+farrier's knife~
+a Farrier's knife~
+A glistening knife is lying here.~
+~
+5 0 0 0 0 8193 0 0 0
+0 5 4 11
+5 500 4.00
+A
+19 1
+A
+18 1
+#8167
+farrier hammer~
+a Farrier's hammer~
+A strong wooden handled hammer lies on the ground.~
+~
+5 0 0 0 0 24577 0 0 0
+0 6 3 5
+7 500 4.00
+A
+1 1
+A
+17 -5
+#8168
+possi fire fly fireflies~
+a possi of fireflies~
+A small possi of fireflies hovering here providing a calming yellow-green illumination of the surroundings.~
+~
+1 33554515 0 0 0 262145 0 0 0
+0 0 -1 0
+1 5000 8.00
+A
+19 2
+A
+29 33
+A
+29 26
+A
+29 7
+A
+29 1
+A
+29 3
+#8169
+bug trap~
+a hand-crafted bug trap~
+A small box made by Gag herself. It is suprisingly well built, and has small ornate carvings of little bugs around the outer framing. It has a screen made from horses hair, and the wood looks to have been reclaimed from old barn repairs.~
+   A small box made by Gag herself.  It is suprisingly well built, and has
+small ornate carvings of little bugs around the outer framing.  It has a
+screen made from horses hair, and the wood looks to have been reclaimed from
+old barn repairs.  
+~
+15 64 0 0 0 16385 0 0 0
+15 1 -1 0
+4 0 51.00
+E
+trap bug hand-crafted~
+   A small box made by Gag herself.  It is suprisingly well built, and has
+small ornate carvings of little bugs around the outer framing.  It has a
+screen made from horses hair, and the wood looks to have been reclaimed from
+old barn repairs.  
+~
+A
+28 2
+#8170
+fireplace~
+a massive stone-fireplace~
+You are beckoned by the warm fire raging within this stone fireplace.~
+A well-stoked fire is raging inside this fireplace.
+~
+15 1 0 0 0 1 0 0 0
+100 0 -1 0
+1000 0 100.00
+#8171
+wolverine tooth~
+a gold-dipped tooth on a leather cord~
+A small tooth dipped in gold, lies here attached to a leather cord.~
+Could this be for the secret door in the bar?
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 0.50
+#8172
+anvil~
+Magda's anvil~
+A worn old anvil that has seen a lifetime of beatings is here waiting for more.~
+~
+12 2 0 0 0 1 0 0 0
+0 0 0 0
+300 10000 100.00
+E
+anvil~
+   You are feasting your eyes on a large heavily used anvil.  Magda loves this
+anvil more than she loves anyone or anything.  I think she actually may have
+some sort of romantic relationship with this block of hardened steel.  She
+likes to oil it and pound it hard.  Really?  
+~
+#8173
+floor safe~
+a floor safe~
+A hardened-steel forged plate is bolted to the ground with a theft-proof slot cut into the top.~
+~
+15 0 0 0 0 1 0 0 0
+1000 15 8174 0
+1000 0 100.00
+#8174
+floor safe key~
+the key to Finn's floor safe~
+A small key on a leather cord is lying here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 5.00
+#8176
+massive pile gold coins~
+a massive pile gold coins~
+A massive pile gold coins is here!~
+~
+20 0 0 0 0 1 0 0 0
+11111 0 0 0
+0 0 0.00
+#8188
+javelin~
+a short javelin~
+A small spear has been left here.~
+~
+5 0 0 0 0 319489 0 0 0
+0 3 1 14
+0 0 100.00
 $~

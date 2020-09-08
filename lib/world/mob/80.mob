@@ -582,6 +582,30 @@ perfect ballad.
 8 8 1
 Race: 1
 E
+#8075
+horrifying locusta woman~
+Locusta, the horrifying~
+An abosolutely terrifying, decaying, dagger wielding psychopath is coming at you like you cheated on her with her sister.
+~
+   Locusta is about 6 ft tall, however she is hovering so her height is hard
+to judge.  She looks like she was a beautiful woman until the rot and decay
+set in.  She appears to be ressurected or reanimated by some sick fuck.  She
+wears an almost translucent night gown, that shows off her rotting lady bits.
+She is known for her poison expertise and her ability to assassinate high
+ranking royalty without detection.  These days she is just a trapped, albiet
+down right evil, soul in a powerful undead version of her past self.  She is
+forced by an unknown implementor to live out eternity on a non-stop bloody
+killing spree.  If you were able to read this and not die, kudos to you my
+friend.  
+~
+8642589 0 0 0 1141122216 2 0 0 -1000 E
+38 -18 -28 38d5+6660 25d4+55
+666 372000
+8 8 2
+BareHandAttack: 11
+Race: 25
+Noise: Your life is in danger, be weary adventurer.
+E
 #8076
 harga~
 Harga~
@@ -787,5 +811,129 @@ tired, there is still a familiar gleam in his soft green eyes.
 0 0
 8 8 1
 Race: 0
+E
+#8163
+tyr elderly man~
+Tyr the retired~
+An elderly but healthy man is here watching the city move all around him.
+~
+   Once, the man was a great warrior who travelled the world.  You can tell by
+the scars on his hands and the face, he has seen his share of bloodshed.  
+Also, seems after retiring from his days of war, he has now retired from
+tending the bar beneath the old Kir Draxin Inn.  Ever since Finn Elkheart took
+over the hospitality industry in KD, Tyr has found himself without a purpose.
+He decided to wander the streets aimlessly drinking his home brewed ale
+watching the city grow and change as time goes on.  
+~
+1310792 0 0 0 0 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 60000
+8 8 1
+E
+#8164
+wallace elkheart guard guardian man huge~
+Wallace Elkheart, the guardian~
+A very large man leans against the wall picking his teeth with a small dagger.
+~
+   This gargantuan man looks like he built more like a bison than a human.  
+His armor is regal, seasoned, speckled and scratched from the days past when
+he and his brother Finn roamed the lands.  He has a long grey beard resting on
+a non-cha lant and confident face.  
+~
+114702 0 0 0 12416 0 0 0 0 E
+25 -5 -20 25d5+800 16d4+17
+0 37500
+8 8 1
+BareHandAttack: 13
+E
+#8166
+silver stocky woman stable hand magda elkheart~
+Magda Elkheart~
+Magda Elkheart, the stable attendant, is here working hard.
+~
+   A short, stocky, and wise-looking older woman with a welcoming smile tends
+to her duties as the KDL stable hand.  A short, stocky, and wise-looking older
+woman with a welcoming smile tends to her duties as the KDL stable hand.  She
+is quite musclular due to the never ending duties here in the stables.  Her
+actions are always diliberate and precise.  Seems like she's been doing this
+her entire life.  Shoeing horses, tossing hay bails, grooming the horses, and
+all that other horse related business.  
+~
+6170 0 0 0 0 0 0 0 0 E
+27 -7 -17 27d5+345 18d4+18
+0 45000
+8 8 2
+BareHandAttack: 7
+E
+#8168
+gag~
+Gag, the discarded~
+A filthy, little girl is here looking curious and a bit unstable.
+~
+   You are resting your eyes on one of the Lodge's discarded children.  
+Probably another one of Mr.  Elkhearts bastard children from his many nights
+spent in the maids' quarters.  She is dirty and malnurished.  Seems to be
+quite content here, children are very resiliant so that doesn't seem too off
+putting.  
+~
+51226 0 0 0 918530 0 0 0 100 E
+23 -3 -13 23d5+253 15d4+16
+0 32500
+6 6 2
+BareHandAttack: 4
+Race: 0
+Noise: A faint sniffling can be heard but it is muffled and hard to determine its origin.
+E
+#8169
+javelin juggling jester man madman juste~
+Juste the Jester~
+A cackling madman is circling the area effortlessly juggling javelins.
+~
+   It looks like the morose old man wearing a battered, yet well crafted, suit
+of lightweight armor.  The armor is covered in a tightly woven otherworldly
+fabric decorated in black and bright red diamonds.  This seedy-looking fools
+dome is capped by a jesters hat.  The hat is the same bright red and black as
+the suit, the ends of the extruding and drooping horns have small rusty bells
+attached.  Judging by the mans actions he can be summed up in this one
+sentence He is an absolute psychopath and a javelin juggling jester named
+Juste.  
+~
+8577050 0 0 0 139392 2 0 0 0 E
+23 -3 -13 23d5+253 15d4+23
+500 32500
+8 8 1
+BareHandAttack: 14
+Race: 0
+Noise: You hear some undoubtedly psychotic cackling seemingly so close you swear you felt its breath.
+E
+#8172
+finn elkheart man bartender~
+Finn Elkheart~
+A man with a look that commands respect is sitting on a bar stool here.
+~
+   Mr.  Elkheart is a stout man, about forty years old.  He is dressed in
+earthy colors, nothing fancy.  He looks hard as nails, and is covered in
+various scars.  His features are very similar to his brother Wallaces.  
+However, he is clean shaven and has a much more serious look on his face.  He
+sits comfortably on a stool made just for him, watching his lodge patrons
+intently.  
+~
+10 0 0 0 0 0 0 0 0 E
+39 -19 -29 39d5+5661 26d4+26
+0 375000
+6 6 1
+E
+#8174
+receptionist lady Scarlette~
+Scarlette Elkheart~
+The Kir Drax'in Lodge's receptionist and manager is here pulling double duties.
+~
+A tall woman, in her middle ages. She is cleanly dressed and has a resting bitch face. Her name is Scarlette Elkheart, her husband is Wallace, the hulking man guarding the front door.
+~
+10 0 0 0 0 0 0 0 0 E
+39 -19 -29 39d5+5661 26d4+26
+0 375000
+8 8 2
+Noise: The sound of papers being shuffled, organized, and wadded up comes from the busy lady at the counter.
 E
 $

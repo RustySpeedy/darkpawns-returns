@@ -1,0 +1,35 @@
+Splender (Oct 19) [ 8116] blade
+Berith   (Oct 23) [ 8008] mourn emote
+Berith   (Oct 25) [18727] sleeping mobs/chars can't avoid subdue
+Slayer   (Jan  5) [ 9101] do not forget to link pine forest to forest north east of town and north west of town
+Slayer   (Jan  6) [31798] do not forget to do the short-faced bear cave
+Slayer   (Jan 13) [30000] AFK triggers nosum
+Slayer   (Apr 23) [ 3675] educate on looking before you walk
+Slayer   (Apr 23) [ 3675] educate on wandering aggros like behemoth and locusta
+Slayer   (Apr 23) [ 3675] noexit dt with corpse with recalls
+Slayer   (Apr 24) [ 3601] add 196 and 36 to nix list for redferne 79
+Darius   (Apr 24) [ 8086] Nix list is located in DB.c line 2126
+Darius   (Apr 27) [31434] Made it Random die of chance on reset if an enraged rollo will load or not :)
+Slayer   (May  9) [31767] push 317.obj 317.mob 317.zon
+Slayer   (May  9) [31767] push 36.all files
+Slayer   (May  9) [31767] push help file
+Slayer   (May  9) [31767] push 314.obj 314.mob 314.zon 314.wld
+Slayer   (May  9) [31767] push 317.shp
+Slayer   (May  9) [31767] push 99.all files
+Slayer   (May  9) [31767] push 46.obj
+Slayer   (May  9) [31767] push 80.all
+Darius   (May  9) [    3] the stork plows noogie's mom for baby making 
+Slayer   (May 11) [31851] push 318.obj 318.mob 318.zon
+Slayer   (May 11) [31851] push 79.zon 79.obj 79.mob
+Slayer   (May 13) [ 3641] hungry thirsty remort to !H !T
+Slayer   (May 13) [ 3641] amend pk help file, to mention that a NPK Peaceful player attacks someone or an outlaw they're on their own
+Darius   (May 13) [    3] Make a reaper broadcast for information about "look/exam certificate"
+Darius   (May 13) [31434] slayer we gotta fix the rollo zone commands it's broken to shit and beyond came to look and saw the mess
+Darius   (May 15) [ 3694] push 99.room 99.obj 99.mob 99.zon
+Noogie   (May 15) [    3] grand
+Slayer   (May 18) [ 8162] specassign.c specproc1-3.c
+Slayer   (May 18) [ 3613] copy mordran.lua over
+Slayer   (May 18) [ 3613] spec_proc3.c and specassign.c
+Slayer   (May 19) [ 3601] FIX on north and east to block, only allows one to work at a time, combine them both in a custom code
+Slayer   (May 21) [ 3607] import 235.all except shop
+Slayer   (May 21) [ 3607] import 235.all*

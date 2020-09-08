@@ -6540,12 +6540,12 @@ D3
 ~
 0 -1 9420
 E
-rabbit~
-It is very much dead.
-~
-E
 carcass~
 It looks like a rabbit.
+~
+E
+rabbit~
+It is very much dead.
 ~
 S
 #9422
@@ -6608,13 +6608,13 @@ D3
 ~
 0 -1 9423
 E
+pylon~
+It is engraved with blue runes.
+~
+E
 runes rune~
 They seem familiar to you... almost like the runes of healing engraved in
 the walls of the temple back in the city.
-~
-E
-pylon~
-It is engraved with blue runes.
 ~
 S
 #9425
@@ -9443,6 +9443,10 @@ trails made by loggers, trappers, and animals. To the north and west, a
 massive mountain range looms over you.
 ~
 91 32768 0 0 0 3
+D0
+~
+~
+0 0 31567
 D1
 ~
 ~
@@ -9464,10 +9468,14 @@ grow tall and straight beside you. To the north and west, an enormous
 mountain range towers into the sky.
 ~
 91 32768 0 0 0 3
+D0
+~
+~
+0 0 31534
 D1
 ~
 ~
-0 -1 9571
+0 0 31291
 D2
 ~
 ~
@@ -10010,10 +10018,6 @@ D0
 ~
 ~
 0 -1 9570
-D1
-~
-~
-0 -1 9594
 D2
 ~
 ~
@@ -10270,10 +10274,6 @@ D0
 ~
 ~
 0 -1 9593
-D1
-~
-~
-0 -1 9605
 D2
 ~
 ~
@@ -12143,6 +12143,7 @@ On the River~
 mountain range looms on the western horizon, appearing just over the tips
 of the trees that surround you in the forst.
    On the northern bank, a vertical cliff prevent landing or docking.
+ADD BRIDGE ENTERING A CUTOUT IN THE MOUNTAIN OR MAYBE A TUNNEL? idk
 ~
 91 8388612 0 0 0 7
 D1
@@ -12335,15 +12336,16 @@ D3
 S
 #9717
 The Forest~
-   You are standing in the great forest. Huge trees tower above you,
-almost covering the mountains to the northwest from sight. You can 
-hear the flow of a river to the north.
+   You are standing in the great forest.  Huge trees tower above you, almost
+covering the mountains to the northwest from sight.  You can hear the flow of
+a river to the north.  A narrow wooden bridge can be seen to the north covered
+in dark green moss.  
 ~
 91 32768 0 0 0 3
 D0
 ~
 ~
-0 -1 9709
+0 -1 23597
 D1
 ~
 ~
@@ -12734,6 +12736,10 @@ sky around you, nearly blotting out the mountain range whose rocky foot
 lies in broken slabs of basalt to your north.
 ~
 91 32768 0 0 0 3
+D0
+~
+~
+0 0 31455
 D1
 ~
 ~
@@ -12745,7 +12751,7 @@ D2
 D3
 ~
 ~
-0 -1 9571
+0 0 31294
 S
 #9735
 The Forest~
@@ -12754,6 +12760,10 @@ sky around you, nearly blotting out the mountain range whose rocky foot
 lies in broken slabs of basalt to your north.
 ~
 91 32768 0 0 0 3
+D0
+~
+~
+0 0 31456
 D1
 ~
 ~
@@ -13106,10 +13116,6 @@ D2
 ~
 ~
 0 -1 9765
-D3
-~
-~
-0 -1 9581
 S
 #9751
 The Forest~
@@ -13466,10 +13472,6 @@ D2
 ~
 ~
 0 -1 9782
-D3
-~
-~
-0 -1 9594
 S
 #9766
 The Forest~
@@ -13860,10 +13862,6 @@ D2
 ~
 ~
 0 -1 9799
-D3
-~
-~
-0 -1 9605
 S
 #9783
 The Forest~
@@ -16510,5 +16508,42 @@ D4
 ~
 grate~
 1 0 9756
+S
+#9898
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+91 32772 0 0 0 3
+D0
+The road continues to the north.
+~
+~
+0 0 9899
+D2
+The road continues to the south.
+~
+~
+0 0 21286
+S
+#9899
+A Forest Road~
+   You are strolling along a forest road that runs to the north and south.
+Birds and unseen, rustling forest creatures scurry about the forest floor
+to the east and west, disturbing the serenity of the pine forest.
+   Fallen logs and mossy rocks seem to have been intentionally piled along
+the side of the road to the east and west and prevent passage in those
+directions.
+~
+91 32772 0 0 0 3
+D2
+The road continues to the south.
+~
+~
+0 0 9898
 S
 $~

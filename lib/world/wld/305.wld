@@ -1,0 +1,1573 @@
+#30500
+Vestibule of the Celestial Tower~
+The frigid temperatures outside suddenly give way to warmth in this foyer.  
+It is a relatively small room with a door to the east and the west.  Each door
+glows softly with an unnatural hue.  The eastern side of the room is crafted
+from what appears to be a single peice of something like quartz crystal, while
+the western side of the room is made from seamless polished black basalt that
+is cool to the touch despite the ambient warmth.  There is a large steel
+plaque embeded in the northern wall.  
+~
+305 0 0 0 0 0
+D1
+A single solid sheet of quartz crystal barricades the path.  There are no obvious keyholes, and the door appears to glow with a bluish tint.
+~
+door~
+2 30502 30501
+D3
+A huge single sheet of basalt halts your progress west.  The stone is cool to
+the touch and glows with a faint blue aura.  
+~
+door~
+2 30503 30515
+E
+plaque~
+   The Celstial Tower - Prison of the Southern Fringe
+
+                *  The Improsoned  *
+
+Ser Alrec Greystone of Tyvar, son of Ser Edwin Greystone.
+Ser Demetrius Greystone of Tyvar, son of Ser Edwin Greystone.
+
+Only the gravest of crimes warrant banishment to the fringe realms.
+Herein the judged remain exiled, never again to feel the warmth of
+the empire.
+~
+S
+#30501
+Perimeter Hall~
+You are in a narrow hallway running along the interior perimeter of the spire.
+The walls and ceiling appear to be made from a solid, opaque quartz crystal.
+The cloudy white walls are polished and smooth.  Every several feet there is a
+glowing orb within the crystal of the ceiling above, bathing the hallway in a
+calm yellow light.  A red carpet with golden trim runs up the hallway to the
+north, and the western exit leads to the vestibule.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30502
+D3
+A single solid sheet of quartz crystal barricades the path.  There are no
+obvious keyholes, and the door appears to glow with a bluish tint.  
+~
+door~
+2 30502 30500
+S
+#30502
+Perimeter Hall~
+You are in a narrow hallway running along the interior perimeter of the spire.
+The walls and ceiling appear to be made from a solid, opaque quartz crystal.
+The cloudy white walls are polished and smooth.  Every several feet there is a
+glowing orb within the crystal of the ceiling above, bathing the hallway in a
+calm yellow light.  A red carpet with golden trim runs along the hallway as it
+continues to the east and south.  
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30503
+D2
+~
+~
+0 0 30501
+S
+#30503
+Perimeter Hall~
+You are in a narrow hallway running along the interior perimeter of the spire.
+The walls and ceiling appear to be made from a solid, opaque quartz crystal.
+The cloudy white walls are polished and smooth.  Every several feet there is a
+glowing orb within the crystal of the ceiling above, bathing the hallway in a
+calm yellow light.  A red carpet with golden trim runs along the hallway as it
+continues to the west, and the northern exit leads to a larger room.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30504
+D3
+~
+~
+0 0 30502
+S
+#30504
+The Foundation~
+You're standing in the south western corner of a cavernous room.  The same
+red, gold-trimmed carpet covers the floor of this expansive space.  You can
+see nine strange grey pillars running from floor to ceiling.  They appear to
+be at least twice as wide as the largest oaks you've seen in the forest.  The
+walls and ceiling are the same cloudy, opaque crystal, polished to a smooth
+and glossy finish.  The room continues onward to the north and east.  There is
+a hallway leading to the south of here.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30507
+D1
+~
+~
+0 0 30505
+D2
+~
+~
+0 0 30503
+S
+#30505
+The Foundation~
+You're standing in the south eastern corner of a cavernous room.  The same
+red, gold-trimmed carpet covers the floor of this expansive space.  You can
+see nine strange grey pillars running from floor to ceiling.  They appear to
+be at least twice as wide as the largest oaks you've seen in the forest.  The
+walls and ceiling are the same cloudy, opaque crystal, polished to a smooth
+and glossy finish.  The room continues onward to the north and west.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30506
+D3
+~
+~
+0 0 30504
+S
+#30506
+The Foundation~
+You're standing on the eastern side of a cavernous room.  The same red,
+gold-trimmed carpet covers the floor of this expansive space.  You can see
+nine strange grey pillars running from floor to ceiling.  They appear to be at
+least twice as wide as the largest oaks you've seen in the forest.  The walls
+and ceiling are the same cloudy, opaque crystal, polished to a smooth and
+glossy finish.  The room continues onward to the north, west, and south.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30509
+D2
+~
+~
+0 0 30505
+D3
+~
+~
+0 0 30507
+S
+#30507
+The Foundation~
+You're standing on the western side of a cavernous room.  The same red,
+gold-trimmed carpet covers the floor of this expansive space.  You can see
+nine strange grey pillars running from floor to ceiling.  They appear to be at
+least twice as wide as the largest oaks you've seen in the forest.  The walls
+and ceiling are the same cloudy, opaque crystal, polished to a smooth and
+glossy finish.  The room continues onward to the north, east, and south.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30508
+D1
+~
+~
+0 0 30506
+D2
+~
+~
+0 0 30504
+S
+#30508
+The Foundation~
+You're standing in the north eastern corner of a cavernous room.  The same
+red, gold-trimmed carpet covers the floor of this expansive space.  You can
+see nine strange grey pillars running from floor to ceiling.  They appear to
+be at least twice as wide as the largest oaks you've seen in the forest.  The
+walls and ceiling are the same cloudy, opaque crystal, polished to a smooth
+and glossy finish.  The room continues onward to the north and east.  There is
+a hallway leading to the north of here.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30510
+D1
+~
+~
+0 0 30509
+D2
+~
+~
+0 0 30507
+S
+#30509
+The Foundation~
+You're standing in the north eastern corner of a cavernous room.  The same
+red, gold-trimmed carpet covers the floor of this expansive space.  You can
+see nine strange grey pillars running from floor to ceiling.  They appear to
+be at least twice as wide as the largest oaks you've seen in the forest.  The
+walls and ceiling are the same cloudy, opaque crystal, polished to a smooth
+and glossy finish.  The room continues onward to the west and south.  
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30506
+D3
+~
+~
+0 0 30508
+S
+#30510
+Perimeter Hall~
+You are in a narrow hallway running along the interior perimeter of the spire.
+The walls and ceiling appear to be made from a solid, opaque quartz crystal.
+The cloudy white walls are polished and smooth.  Every several feet there is a
+glowing orb within the crystal of the ceiling above, bathing the hallway in a
+calm yellow light.  A red carpet with golden trim runs along the hallway as it
+continues to the north, and the southern exit leads to a larger room.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30511
+D2
+~
+~
+0 0 30508
+S
+#30511
+Perimeter Hall~
+You are in a narrow hallway running along the interior perimeter of the spire.
+The walls and ceiling appear to be made from a solid, opaque quartz crystal.
+The cloudy white walls are polished and smooth.  Every several feet there is a
+glowing orb within the crystal of the ceiling above, bathing the hallway in a
+calm yellow light.  A red carpet with golden trim runs along the hallway as it
+continues to the north and south.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30512
+D2
+~
+~
+0 0 30510
+S
+#30512
+Perimeter Hall~
+You are in a narrow hallway running along the interior perimeter of the spire.
+The walls and ceiling appear to be made from a solid, opaque quartz crystal.
+The cloudy white walls are polished and smooth.  Every several feet there is a
+glowing orb within the crystal of the ceiling above, bathing the hallway in a
+calm yellow light.  A red carpet with golden trim runs along the hallway as it
+continues to the south.  The carpet abruptly ends, revealing the crystal floor
+beneath, before a door to the west.  
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30511
+D3
+A smooth, almost mirror finished, metal door blocks the western exit.  There
+is a simple metal handle on the otherwise smooth door.  There are no obvious
+locks or hinges on the door.  
+~
+door~
+1 0 30513
+S
+#30513
+Eastern Foundation Core~
+This domed room is quite different from the angular halls of the east.  The
+perfectly domed ceiling goes all the way to the floor, giving the room a round
+shape.  At the top in the center of the dome, there is a brightly shining
+globe embedded in the crystal above.  The walls in this room are smooth, but
+have a very coarse texture to them and are unpolished.  Within the crystal
+wall to the right, there are nine beams of light about three feet tall, and
+each of them glow a bright green.  Above each beam of light there is a small
+panel.  There is also a small flat workspace carved into the southern wall.  
+There is a large silver door to the north, and a smaller silver door to the
+east.  
+~
+305 0 0 0 0 0
+D0
+A large silver door blocks the way to the north.  It is cold to the touch, and
+is polished to an almost mirror-like shine.  There is a small triangular
+recepticle in the door.  
+~
+door~
+2 30504 30514
+D1
+A smooth, almost mirror finished, metal door blocks the eastern exit.  There
+is a simple metal handle on the otherwise smooth door.  There are no obvious
+locks or hinges on the door.  
+~
+door~
+1 0 30512
+S
+#30514
+Vangaard's~
+You are in an unfinished room.
+~
+305 0 0 0 0 0
+D2
+A large silver door blocks the way to the north.  It is cold to the touch, and
+is polished to an almost mirror-like shine.  There is a small triangular
+recepticle in the door.  
+~
+door~
+2 30504 30513
+D4
+~
+~
+0 0 30621
+S
+#30515
+Perimeter Hall~
+You are in a narrow hallway running along the interior perimeter of the spire.
+The walls and ceiling appear to be made from a solid single block of basalt.
+The seamless, dark walls are cold, polished and smooth.  Every several feet
+there is a glowing dome inset into the basalt of the ceiling above, bathing
+the hallway in a cold blue light.  A red carpet with golden trim runs up the
+hallway to the north, and the eastern exit leads to the vestibule.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30516
+D1
+A huge single sheet of basalt halts your progress east.  The stone is cool to
+the touch and glows with a faint blue aura.  
+~
+door~
+2 30503 30500
+S
+#30516
+Perimeter Hall~
+You are in a narrow hallway running along the interior perimeter of the spire.
+The walls and ceiling appear to be made from a solid single block of basalt.
+The seamless, dark walls are cold, polished and smooth.  Every several feet
+there is a glowing dome inset into the basalt of the ceiling above, bathing
+the hallway in a cold blue light.  A red carpet with golden trim runs along
+the hallway as it continues to the west and south.  
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30515
+D3
+~
+~
+0 0 30517
+S
+#30517
+Perimeter Hall~
+You are in a narrow hallway running along the interior perimeter of the spire.
+The walls and ceiling appear to be made from a solid single block of basalt.
+The seamless, dark walls are cold, polished and smooth.  Every several feet
+there is a glowing dome inset into the basalt of the ceiling above, bathing
+the hallway in a cold blue light.  A red carpet with golden trim runs along
+the hallway as it continues to the east, and the northern exit leads to a
+larger room.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30518
+D1
+~
+~
+0 0 30516
+S
+#30518
+The Foundation~
+You're standing in the south eastern corner of a cavernous room.  The same
+red, gold-trimmed carpet covers the floor of this expansive space.  You can
+see nine strange cloudy crystal pillars running from floor to ceiling.  They
+appear to be at least twice as wide as the largest oaks you've seen in the
+forest.  The walls and ceiling are the same seamless, dark basalt, polished to
+a smooth and glossy finish.  The room continues onward to the north and west,
+and the southern exit leads to a narrow hallway.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30521
+D2
+~
+~
+0 0 30517
+D3
+~
+~
+0 0 30519
+S
+#30519
+The Foundation~
+You're standing in the south western corner of a cavernous room.  The same
+red, gold-trimmed carpet covers the floor of this expansive space.  You can
+see nine strange cloudy crystal pillars running from floor to ceiling.  They
+appear to be at least twice as wide as the largest oaks you've seen in the
+forest.  The walls and ceiling are the same seamless, dark basalt, polished to
+a smooth and glossy finish.  The room continues onward to the north and east.
+
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30520
+D1
+~
+~
+0 0 30518
+S
+#30520
+The Foundation~
+You're standing near the western wall of a cavernous room.  The same red,
+gold-trimmed carpet covers the floor of this expansive space.  You can see
+nine strange cloudy crystal pillars running from floor to ceiling.  They
+appear to be at least twice as wide as the largest oaks you've seen in the
+forest.  The walls and ceiling are the same seamless, dark basalt, polished to
+a smooth and glossy finish.  The room continues onward to the north, east, and
+south.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30523
+D1
+~
+~
+0 0 30521
+D2
+~
+~
+0 0 30519
+S
+#30521
+The Foundation~
+You're standing near the eastern wall of a cavernous room.  The same red,
+gold-trimmed carpet covers the floor of this expansive space.  You can see
+nine strange cloudy crystal pillars running from floor to ceiling.  They
+appear to be at least twice as wide as the largest oaks you've seen in the
+forest.  The walls and ceiling are the same seamless, dark basalt, polished to
+a smooth and glossy finish.  The room continues onward to the north, west, and
+south.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30522
+D2
+~
+~
+0 0 30518
+D3
+~
+~
+0 0 30520
+S
+#30522
+The Foundation~
+You're standing in the northeastern corner of a cavernous room.  The same red,
+gold-trimmed carpet covers the floor of this expansive space.  You can see
+nine strange cloudy crystal pillars running from floor to ceiling.  They
+appear to be at least twice as wide as the largest oaks you've seen in the
+forest.  The walls and ceiling are the same seamless, dark basalt, polished to
+a smooth and glossy finish.  The room continues onward to the south and west,
+and the northern exit leads to a narrow hallway.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30524
+D2
+~
+~
+0 0 30521
+D3
+~
+~
+0 0 30523
+S
+#30523
+The Foundation~
+You're standing in the southwestern corner of a cavernous room.  The same
+red, gold-trimmed carpet covers the floor of this expansive space.  You can
+see nine strange cloudy crystal pillars running from floor to ceiling.  They
+appear to be at least twice as wide as the largest oaks you've seen in the
+forest.  The walls and ceiling are the same seamless, dark basalt, polished to
+a smooth and glossy finish.  The room continues onward to the south and east.
+
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30522
+D2
+~
+~
+0 0 30520
+S
+#30524
+Perimeter Hall~
+You are in a narrow hallway running along the interior perimeter of the spire.
+The walls and ceiling appear to be made from a solid single block of basalt.
+The seamless, dark walls are cold, polished and smooth.  Every several feet
+there is a glowing dome inset into the basalt of the ceiling above, bathing
+the hallway in a cold blue light.  A red carpet with golden trim runs along
+the hallway as it continues to the north, and the southern exit leads to a
+larger room.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30525
+D2
+~
+~
+0 0 30522
+S
+#30525
+Perimeter Hall~
+You are in a narrow hallway running along the interior perimeter of the spire.
+The walls and ceiling appear to be made from a solid single block of basalt.
+The seamless, dark walls are cold, polished and smooth.  Every several feet
+there is a glowing dome inset into the basalt of the ceiling above, bathing
+the hallway in a cold blue light.  A red carpet with golden trim runs along
+the hallway as it continues to the north and south.  
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30526
+D2
+~
+~
+0 0 30524
+S
+#30526
+Perimeter Hall~
+You are in a narrow hallway running along the interior perimeter of the spire.
+The walls and ceiling appear to be made from a solid single block of basalt.
+The seamless, dark walls are cold, polished and smooth.  Every several feet
+there is a glowing dome inset into the basalt of the ceiling above, bathing
+the hallway in a cold blue light.  A red carpet with golden trim runs along
+the hallway as it continues to the south.  The carpet abruptly ends before a
+room to the east, revealing the hard stone of the basalt below.  
+~
+305 0 0 0 0 0
+D1
+A copper colored door blocks the way to the east.  It is cold to the touch,
+and is polished to an almost mirror-like shine.  
+~
+door~
+1 0 30527
+D2
+~
+~
+0 0 30525
+S
+#30527
+Western Foundation Core~
+This domed room is quite different from the angular halls of the west.  The
+perfectly domed ceiling goes all the way to the floor, giving the room a round
+shape.  At the top in the center of the dome, there is a brightly shining disc
+embedded into the basalt above.  The walls in this room are smooth, but have a
+very coarse texture to them and are unpolished.  Inset within the basalt wall
+to the left, there are nine beams of light about three feet tall, and each of
+them glow a bright green.  Above each beam of light there is a small panel.  
+There is also a small flat workspace carved into the southern wall.  There is
+a large copper colored door to the north, and a smaller silver door to the
+west.  
+~
+305 0 0 0 0 0
+D0
+A large copper colored door blocks the way to the north.  It is cold to the
+touch, and is polished to an almost mirror-like shine.  There is a small
+triangular recepticle in the door.  
+~
+door~
+2 30505 30528
+D3
+A copper colored door blocks the way to the west.  It is cold to the touch,
+and is polished to an almost mirror-like shine.  
+~
+door~
+1 0 30526
+S
+#30528
+Vangaard's~
+You are in an unfinished room.
+~
+305 0 0 0 0 0
+D2
+A large copper colored door blocks the way to the south.  It is cold to the touch, and is polished to an almost mirror-like shine. There is a small triangular recepticle in the door.
+~
+door~
+2 30505 30527
+D4
+~
+~
+0 0 30601
+S
+#30529
+Vangaard's~
+You are in an unfinished room.
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30531
+D5
+~
+~
+0 0 30620
+S
+#30530
+Vangaard's~
+You are in an unfinished room.
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30533
+D1
+~
+~
+0 0 30531
+S
+#30531
+Vangaard's~
+You are in an unfinished room.
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30529
+D3
+~
+~
+0 0 30530
+S
+#30532
+Vangaard's~
+You are in an unfinished room.
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30535
+D1
+~
+~
+0 0 30533
+S
+#30533
+Vangaard's~
+You are in an unfinished room.
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30530
+D3
+~
+~
+0 0 30532
+S
+#30534
+Vangaard's~
+You are in an unfinished room.
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30536
+D1
+~
+~
+0 0 30535
+S
+#30535
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30537
+D2
+~
+~
+0 0 30532
+D3
+~
+~
+0 0 30534
+S
+#30536
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30537
+D2
+~
+~
+0 0 30534
+S
+#30537
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30539
+D1
+~
+~
+0 0 30538
+D2
+~
+~
+0 0 30535
+D3
+~
+~
+0 0 30536
+S
+#30538
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30540
+D3
+~
+~
+0 0 30537
+S
+#30539
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30540
+D2
+~
+~
+0 0 30537
+S
+#30540
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30542
+D1
+~
+~
+0 0 30541
+D2
+~
+~
+0 0 30538
+D3
+~
+~
+0 0 30539
+S
+#30541
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D3
+~
+~
+0 0 30540
+S
+#30542
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30543
+D2
+~
+~
+0 0 30540
+S
+#30543
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30544
+D3
+~
+~
+0 0 30542
+S
+#30544
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30543
+D4
+~
+~
+0 0 30641
+S
+#30545
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30546
+D5
+~
+~
+0 0 30640
+S
+#30546
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30547
+D2
+~
+~
+0 0 30545
+S
+#30547
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30548
+D3
+~
+~
+0 0 30546
+S
+#30548
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30549
+D2
+~
+~
+0 0 30547
+S
+#30549
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30550
+D3
+~
+~
+0 0 30548
+S
+#30550
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30553
+D1
+~
+~
+0 0 30551
+D2
+~
+~
+0 0 30549
+S
+#30551
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30554
+D3
+~
+~
+0 0 30550
+S
+#30552
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30556
+D1
+~
+~
+0 0 30553
+S
+#30553
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30557
+D1
+~
+~
+0 0 30554
+D2
+~
+~
+0 0 30550
+D3
+~
+~
+0 0 30552
+S
+#30554
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30551
+D3
+~
+~
+0 0 30553
+S
+#30555
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30556
+S
+#30556
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30558
+D1
+~
+~
+0 0 30557
+D2
+~
+~
+0 0 30552
+D3
+~
+~
+0 0 30555
+S
+#30557
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30553
+D3
+~
+~
+0 0 30556
+S
+#30558
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30556
+D3
+~
+~
+0 0 30559
+S
+#30559
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30560
+D1
+~
+~
+0 0 30558
+S
+#30560
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30559
+D4
+~
+~
+0 0 30657
+S
+#30561
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30563
+D5
+~
+~
+0 0 30656
+S
+#30562
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30565
+D1
+~
+~
+0 0 30563
+S
+#30563
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30561
+D3
+~
+~
+0 0 30562
+S
+#30564
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30565
+S
+#30565
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30566
+D2
+~
+~
+0 0 30562
+D3
+~
+~
+0 0 30564
+S
+#30566
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30567
+D2
+~
+~
+0 0 30565
+S
+#30567
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30568
+D3
+~
+~
+0 0 30566
+S
+#30568
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30567
+D4
+~
+~
+0 0 30677
+S
+#30569
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30570
+D5
+~
+~
+0 0 30674
+S
+#30570
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30571
+D2
+~
+~
+0 0 30569
+S
+#30571
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30572
+D3
+~
+~
+0 0 30570
+S
+#30572
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30575
+D1
+~
+~
+0 0 30573
+D2
+~
+~
+0 0 30571
+S
+#30573
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D3
+~
+~
+0 0 30572
+S
+#30574
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30576
+D1
+~
+~
+0 0 30575
+S
+#30575
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30572
+D3
+~
+~
+0 0 30574
+S
+#30576
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30574
+D4
+~
+~
+0 0 30677
+S
+#30577
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30579
+D3
+~
+~
+0 0 30578
+S
+#30578
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30580
+D1
+~
+~
+0 0 30577
+S
+#30579
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30581
+D3
+~
+~
+0 0 30577
+S
+#30580
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30578
+D4
+~
+~
+0 0 30582
+S
+#30581
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30579
+D4
+~
+~
+0 0 30582
+S
+#30582
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30584
+D3
+~
+~
+0 0 30583
+S
+#30583
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30585
+D1
+~
+~
+0 0 30582
+S
+#30584
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30586
+D3
+~
+~
+0 0 30582
+S
+#30585
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D1
+~
+~
+0 0 30587
+D2
+~
+~
+0 0 30583
+S
+#30586
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30584
+D3
+~
+~
+0 0 30587
+S
+#30587
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D0
+~
+~
+0 0 30588
+D1
+~
+~
+0 0 30586
+D3
+~
+~
+0 0 30585
+S
+#30588
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+D2
+~
+~
+0 0 30587
+S
+#30589
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+S
+#30590
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+S
+#30591
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+S
+#30592
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+S
+#30593
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+S
+#30594
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+S
+#30595
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+S
+#30596
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+S
+#30597
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+S
+#30598
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+S
+#30599
+Vangaard's~
+Entrance to zone exit south outdoors
+~
+305 0 0 0 0 0
+S
+$~

@@ -220,7 +220,7 @@ Race: 13
 E
 #33
 mordraneth stealer souls black cloaked figure~
-Mordraneth, stealer of souls~
+Mordraneth, Stealer of Souls~
 A black-cloaked figure awaits patiently.
 ~
 A skeletal figure peers back at you, a glowing ball of fire in its right
@@ -233,6 +233,7 @@ your life force slip away. Best you leave it alone...
 8 8 0
 BareHandAttack: 8
 Race: 11
+Script: 212/mordran.lua 128
 E
 #34
 figure bounty hunter~
@@ -406,5 +407,30 @@ many-toothed maw capable of devouring men whole.
 0 372000
 8 8 2
 Race: 11
+E
+#88
+giant turkey~
+a giant turkey~
+A giant turkey is sitting here.
+~
+It is a goddamn turkey.  A big 'ol bird.  What else do you want.
+~
+8 0 0 0 0 0 0 0 0 E
+39 -19 -29 39d5+5661 26d4+26
+0 375000
+8 8 1
+Noise: GOBBLE!
+E
+#89
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 0 128 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+6 6 0
 E
 $

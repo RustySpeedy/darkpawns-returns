@@ -62,7 +62,7 @@ A single red rose is resting here.~
 ~
 12 0 0 0 0 16385 0 0 0
 0 0 0 0
-1 5 5
+1 5 5.00
 #18307
 rose glasses~
 a pair of rose colored glasses~
@@ -106,7 +106,7 @@ A sharp sword with a long blade and bone handle is lying here.~
 ~
 5 0 0 0 0 8193 0 0 0
 0 12 10 3
-3 6000 6000
+3 6000 6000.00
 A
 18 5
 A
@@ -128,26 +128,34 @@ A black, leather duster is crumpled up here.~
 50 0 0 0
 5 0 100.00
 #18313
-rune stone orodreth~
-the Rune Stone of Orodreth~
-A powerful rune stone hovers slightly off the ground here.~
+runic crown orodreth~
+the Runic Star-Crystal Crown of Orodreth~
+A powerful aura surrounds a glorious crown lying here.~
 ~
-1 33619969 0 0 0 16385 0 0 0
+1 33619969 0 0 0 17 0 0 0
 0 0 -1 0
 10 10000 100.00
 E
-rune stone~
-This is the fabled Rune Stone of Orodreth.  Legends claim that this small
-piece of glowing rock bestows the blessings of the god Orodreth upon the
-bearer. The stone is small, fitting in the palm of your hand- but is
-very heavy.  Indecipherable symbols are ornately carved onto the stone.
+runic crown orodreth~
+   This is the fabled Runic Star-Crystal Crown of Orodreth.  Legends claim
+that this majestic piece of Star-Crystal bestows the blessings of the Elder
+God Orodreth upon the bearer.  The stones surrounding the crystal range in all
+the colors in the Heavens and are small enough to fit into the palm of your
+hand.  The crown gives off a tremendously weighty aura.  Indecipherable
+runic-symbols are ornately carved into the crown.  
 ~
 A
-26 3
+19 1
 A
-27 3
+18 2
 A
-28 3
+26 10
+A
+27 10
+A
+28 10
+A
+12 10
 #18314
 khanda~
 a khanda~

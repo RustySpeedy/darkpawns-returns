@@ -1,11 +1,12 @@
 #19600
-dragon fountain~
-a fountain~
-A dragon-shaped fountain spurts cool water into the air.~
+head cool water fountain~
+the marble head of a saint~
+Cool water spurts from the granite head of a revered saint, once attached to its body, into a tithing bowl.~
 ~
 23 0 0 0 0 0 0 0 0
 999999 999999 15 0
-1000004 1000 100.00
+1000004 4219 100.00
+S portal.lua 2
 E
 dragon fountain~
 The water looks clear and cold, and stems froma source that can only be
@@ -95,7 +96,7 @@ A shimmering portal of turquoise light hovers in the middle of the room.~
 ~
 1 0 0 0 0 0 0 0 0
 0 0 -1 0
-0 18203 100.00
+0 11379 100.00
 #19607
 white portal gate~
 a shimmering white portal~
@@ -111,7 +112,7 @@ A shimmering portal of orange light hovers in the middle of the room.~
 ~
 1 0 0 0 0 0 0 0 0
 0 0 -1 0
-0 8008 100.00
+0 4979 100.00
 #19609
 yellow portal gate~
 a shimmering yellow portal~
@@ -263,7 +264,7 @@ An elaborate stone bird bath rests in the middle of the garden.~
 ~
 23 0 0 0 0 0 0 0 0
 999999 999999 15 0
-0 0 100.00
+1000004 0 100.00
 E
 bird bath~
 Sculpted from pure sandstone from the desert canyon, this bird bath
@@ -313,15 +314,15 @@ A beautiful statue of marble fills the room.~
 0 0 0 0
 10 0 100.00
 E
-plaque~
-It simply reads "Targhee, the holiest of mages and her guardian Angel"
-~
-E
 statue marble targhee angelfire~
 The statue has been exquisitely carved from only the finest of marble. It has
 a large square base with veins of gold coursing through it in an intricate
 pattern. There are two powerful figures side by side and a small plaque on
 the statue's base.
+~
+E
+plaque~
+It simply reads "Targhee, the holiest of mages and her guardian Angel"
 ~
 #19654
 majestic throne bones~
@@ -348,50 +349,80 @@ A short metal key with a head resembling a human skull lies here.~
 0 0 0 0
 2 10 100.00
 #19666
-crafted bulletin knight apocalypse board~
-the Knights of the Apocalypse bulletin board~
-A finely crafted bulletin board hangs from the wall.~
+crafted bulletin Vallhalla Rising board~
+Valhalla Rising's Communications Board~
+A board used for Valhalla Rising communications is bolted to the floor.~
 ~
 12 0 0 0 0 0 0 0 0
 0 0 0 0
 10 100 100.00
+#19672
+bag tricks trick~
+Bag of Tricks~
+A peculiar bag rests on the ground.~
+~
+15 196616 0 0 0 1 0 0 0
+120 1 -1 0
+20 1000 0.00
+E
+bag trick tricks~
+   A small burlap bag in appearance, but looking in you see a black hole of
+infinite capacity.  You wonder what, and how much this mysterious bag could
+hold.  
+~
+#19673
+void voidcloth pouch dark~
+a voidcloth pouch~
+A pouch of dark material pulls at its surroundings.~
+~
+15 65610 0 0 0 1 0 0 0
+120 1 -1 0
+20 1000 0.00
+E
+void voidcloth pouch dark~
+Woven from pitch-black material, this pouch seemingly swallows all matter within close proximity.
+~
+#19674
+minni heill kiesta chest~
+an faera heill kiesta~
+A large chest made of lightweight wood and steel is here on the ground.~
+~
+15 2 0 0 0 1 0 0 0
+130 1 -1 0
+20 1000 0.00
+#19675
+key bone finger~
+a small key made from a human finger~
+The phalanges of a single finger have been discarded here.~
+~
+12 2 0 0 0 1 0 0 0
+0 0 0 0
+1 1000 100.00
 #19676
-basalt key~
-a basalt key~
-A basalt key has been carelessly left here.~
+gold ruby key~
+an ornate ruby and gold skeleton key~
+An ornate ruby and gold skeleton key has carelessly been left here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
 1 10 100.00
 #19677
-finely crafted bulletin board etheral syns~
-the Etheral Syns bulletin board~
-A finely crafted bulletin board hangs from the wall.~
+finely crafted bulletin board valhalla rising~
+the Valhalla Rising board of Bulletins~
+A large gold inlaid oak bulletin board hangs over a broken window.~
 ~
 12 0 0 0 0 0 0 0 0
 0 0 0 0
 100 100 100.00
 #19678
-statue serpent montezuma~
-a statue~
-A Statue of the Great Serpent Montezuma stands here.~
+statue broken desecrated saint~
+a busted ass statue~
+An ancient statue, chiseled from granite, of an unknown saint stands here missing its head.~
 ~
 12 1 0 0 0 0 0 0 0
 0 0 0 0
-10 10 100.00
-E
-statue serpent montezuma~
-This once cursed monster ruled the seas, from the far east oceans of Zepcaca
-to the west of Fentero. Led by Sidious, a crew of Titans vanquished the
-powerful creature.
-
-After such a fierce battle, only a few dozen remained standing, their comrades
-slain. The corpse of the foul beast was buried within a deep cave never to
-be seen again.
-
-It wasn't until 10 years later that the Titans began building a magnificient
-castle within this damned, hellish cave.
-~
+10 31798 100.00
+S portal.lua 2
 #19686
 key iron~
 an iron key~
@@ -400,6 +431,41 @@ A large, iron key has carelessly been left here.~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
 2 50 100.00
+#19687
+key castle valhalla handle~
+a blackened axe handle~
+A short, burnt wooden axe handle lies here.~
+~
+12 2 0 0 0 16385 0 0 0
+0 0 0 0
+2 5000 100.00
+#19688
+32526~
+the Heill Kista~
+A enormous, indestructable chest inlaid with gold and jewels is bolted to the floor here.~
+~
+15 1 0 0 0 0 0 0 0
+999 15 19675 0
+1 30 100.00
+E
+heil kista box inlaid~
+   Vallhalla Rising aint nuthin to fuck with.  So keep your fucking paws out
+of this box.  
+~
+#19689
+pistol blaster heater~
+a Taurus Judge .410 Dome Burster~
+Do not touch this alien object, its daddy will fuck you, and not in a good way.~
+~
+5 0 0 0 0 24577 0 0 0
+0 500 20 12
+10 0 0.00
+A
+19 25
+A
+18 25
+A
+29 31
 #19695
 rocky key~
 a rocky key~
@@ -407,7 +473,7 @@ A key fashioned from solid rock lies on the ground.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 100 100
+1 100 100.00
 #19696
 fountain penguin~
 a fountain~
@@ -416,4 +482,66 @@ A fountain sits here, crafted into the shape of a penguin.~
 23 0 0 0 0 0 0 0 0
 90000 90000 0 0
 90005 100 100.00
+#19697
+carved shankha~
+a carved Shankha~
+A elaborately carved divine conch shell emanates a soft glow.~
+~
+17 65602 0 0 0 16385 0 0 0
+25 25 5 0
+30 1000 100.00
+E
+carved shankha~
+   Previously adorned by a divine conch, this porcelaneous shell has been
+etched with images of Lakshmi and Vishnu.  This sacred emblem represents fame,
+longevity, and prosperity within Caelitis, the physical embodiment of the
+Hindu Gods and auspicious symbol of Buddhism.  
+~
+A
+12 15
+A
+27 10
+A
+13 15
+#19698
+blue marble sphere marble spherical~
+a blue, spherical marble~
+A translucent blue marble lying on the ground glistens in the light.~
+~
+17 65611 0 0 0 16385 0 0 0
+25 25 0 0
+30 1000 100.00
+E
+blue spherical marble ~
+   A translucent marble expands as you add water to it.  Effortlessly, you are
+able to add and remove water at will.  With little more than a magical barrier
+as thick as paper holding it in it appears to repel and filter other
+substances.  
+~
+A
+27 10
+A
+12 15
+A
+13 15
+#19699
+Gjallarhorn horn~
+the ancient Gjallarhorn~
+The ancient Gjallarhorn is lying on the ground.~
+~
+17 74 0 0 0 16385 0 0 0
+25 25 0 0
+30 1000 100.00
+E
+Gjallarhorn horn~
+   The Gjallarhorn seems to have been seen as both a blowing horn and a
+drinking horn, since passages in Old Norse literature describe Mimir and
+possibly Heimdall himself drinking from it.  
+~
+A
+27 10
+A
+12 15
+A
+13 15
 $~

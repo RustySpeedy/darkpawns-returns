@@ -1,0 +1,102 @@
+#31000
+muskoxen bull ox~
+a powerful muskoxen bull~
+A long haired and wild-eyed bull is here watching everything.
+~
+   An old musky ox with long, curved horns is here protecting his herd.  He's
+atleast eight foot long and stands around five feet tall.  This beast is built
+to withstand this horrid climate and the predators that lurk it.  
+~
+524360 0 0 0 0 0 0 0 0 E
+27 -7 -17 27d5+345 18d4+18
+0 70000
+8 8 1
+BareHandAttack: 6
+Race: 22
+Noise: You hear the sound of a bull scraping the ground with its hooves.
+E
+#31001
+cow female muskoxen ox musky~
+a formidable muskoxen female~
+A female muskox is here looking for vegitation.
+~
+   Her coat, a mix of black, grey, and brown, includes long guard hairs that
+almost reach the ground.  Long curved horns to protect herself and her young.
+She is very aware of your presence and that of her young.  
+~
+72 0 0 0 0 0 0 0 0 E
+26 -6 -16 26d5+322 17d4+17
+0 55000
+8 8 2
+BareHandAttack: 10
+Race: 22
+Noise: The winds of the tundra are deafening and unforgiving as they howl into the abyss.
+E
+#31002
+young muskoxen calf ox~
+a clumsy muskoxen calf~
+A young clumsy muskoxen calf is here stumbling around in the snow.
+~
+   Its coat, a mix of black, grey, and brown, includes long guard hairs that
+don't quite reach the ground.  It is young, stupid, clumsy and careless.  
+~
+2097224 0 0 0 0 0 0 0 0 E
+24 -4 -14 24d5+276 16d4+16
+0 40000
+8 8 0
+BareHandAttack: 4
+Noise: In the distance you hear a whisper in the wind that sounds something like the words , 'Go back home stranger.'
+E
+#31003
+white musk ox muskox mythical~
+the mystical white muskoxen bull~
+A blindingly white muskox stands before you regally and glowing.
+~
+   Its long white fur is brilliantly white.  So white that it seems to glow and
+sparkle.  Its hooves are black and polished, as well as its imperfection free
+black horns that curve down and back upward towards the heavens.  This is a
+rare sight to behold and you should leave this creature where it stands.  
+~
+8565081 0 0 0 4236 2 0 0 500 E
+34 -14 -24 34d5+2746 22d4+22
+0 270000
+8 8 0
+BareHandAttack: 10
+Race: 25
+Noise: In the distance you feel the presence of something truly rare and beautiful.
+E
+#31004
+keeper ox herder man~
+the Ox Keeper~
+An old man dressed in many layers of fur and hides is here protecting his herd.
+~
+   An elderly man, from what you can tell.  Most of his body and head are
+covered and iced.  Undoubtedly a hardened soul, whom is no stranger to hard
+times.  
+~
+266313 0 0 0 1152 0 0 0 1000 E
+39 -19 -29 39d5+5661 26d4+26
+0 375000
+8 8 1
+BareHandAttack: 5
+Race: 0
+Noise: Mostly drowned by the wind, you hear a commanding voice shouting, 'YAH! HEYAH!'
+E
+#31005
+Sam Skwanch~
+Sam Skwanch~
+An extra-large, white-haired humanoid is attempting to avoid your detection here.
+~
+   This is Sam Skwanch, he is a ten foot tall humanoid creature.  His body is
+covered in very long, thick white hair.  He has quite a goofy looking face,
+seems like he's smiling showing off huge chunky teeth.  
+~
+8800408 0 0 0 26116224 2 0 0 500 E
+32 -12 -22 32d5+1580 21d4+22
+0 120000
+8 8 1
+BareHandAttack: 6
+Race: 27
+Noise: You hear in the distance a blood curdling scream, 'YOOOOODEEYOOODEEEYEEE'
+E
+$

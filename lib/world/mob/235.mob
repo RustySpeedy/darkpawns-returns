@@ -1,0 +1,255 @@
+#23500
+flame imp~
+a flame imp~
+A red-skinned imp dances about as flames flicker from its mouth.
+~
+   A tiny demon with red skin grins with a mouth full of sharp, yellow teeth.
+Flames lick out from its mouth as it chomps at the air.  It wears no clothing
+but has long, sharp claws at the end of its fingers.  
+~
+24664 0 0 0 263208 0 0 0 0 E
+23 -3 -13 23d5+253 12d4+13
+100 45000
+8 8 2
+BareHandAttack: 11
+Race: 11
+Noise: A sinister giggle echoes about.
+E
+#23501
+Correlian imp lord~
+Correlian the Imp Lord~
+A large imp glowers menacingly.
+~
+   Correlian is a huge imp, standing a foot taller than the rest.  His skin is
+craggy and red, with chunks peeling off in various places.  
+~
+94810 0 0 0 1073741884 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+900 70000
+8 8 1
+BareHandAttack: 10
+E
+#23502
+rainbow frog~
+a rainbow colored frog~
+A frog with multicolored skin hops around.
+~
+   The frog's skin acts like a prism breaking the ambient light into a
+multitude of colors.  Its sleek skin looks moist and given the bright
+coloring, is probably poisonous.  
+~
+16408 0 0 0 4096 0 0 0 0 E
+23 -3 -13 23d5+253 12d4+13
+300 45000
+8 8 0
+BareHandAttack: 4
+Race: 26
+Noise: Riiiiibbiiiiit!
+E
+#23503
+two-headed two headed frog~
+a small, two-headed frog~
+A small, two-headed frog opens and closes its mouth.
+~
+   This frog has TWO heads, both acting independently.  Its skin is sleek and
+moist with a sickly orange hue.  
+~
+8 0 0 0 0 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+600 70000
+8 8 0
+BareHandAttack: 7
+Race: 26
+E
+#23504
+darkness black~
+darkness~
+A formless black entity lurks here.
+~
+   The blackness around is so complete you see nothing.  
+~
+8388636 0 0 0 787494 0 0 0 0 E
+23 -3 -13 23d5+253 12d4+13
+200 45000
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#23505
+black void~
+the black void~
+A dark void spins around consuming any light that approaches.
+~
+   You try to see the details of this black and formless void, but it swallows
+the light before you can make anything out.  
+~
+8388670 0 0 0 525374 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+600 70000
+8 8 0
+BareHandAttack: 12
+Race: 25
+E
+#23506
+oak treant tree~
+an oak treant~
+A large oak tree towers through the mist.
+~
+   The tree stands well over 30 feet tall.  The brown bark contrasts against
+the light green foliage of its leafy branches.  
+~
+16410 0 0 0 0 4 0 0 0 E
+25 -5 -15 25d5+299 16d4+17
+200 45000
+8 8 0
+BareHandAttack: 5
+Race: 17
+E
+#23507
+Ara guardian elf woman~
+Ara, Guardian of the Grove~
+An elven woman dressed for battle casually leans against a tree.
+~
+   Ara is a beautiful elven woman clad in leather armor.  The intricate runes
+inscribed in the leather pulse with a magical light.  Her long golden hair is
+neatly wound into a bun revealing her thin, pointed ears.  Her thin and
+angular face presents an enchanting smile as her pale-blue eyes mesmerize you.
+
+~
+8409370 0 0 0 1192 0 0 0 400 E
+30 -10 -20 30d5+414 20d4+20
+900 70000
+8 8 2
+BareHandAttack: 13
+Race: 1
+E
+#23508
+golden fox~
+a golden fox~
+A small fox with golden fur rests here.
+~
+   Golden fur covers this small fox from head to toe.  Keen eyes reveal an
+intelligence not seen in most mammals as it examines you.  
+~
+18586 0 0 0 131072 0 0 0 0 E
+27 -7 -17 27d5+345 18d4+18
+300 75000
+5 5 1
+BareHandAttack: 4
+Race: 22
+E
+#23509
+Gethan the Gardener man hunchback~
+Gethan the Gardener~
+A hunchbacked man surveys the area.
+~
+   Gethan is an older man judging by the crows feet adorning a pair of
+cherry-red eyes.  Though his posture is hunched, he carries himself
+confidently.  Calloused hands and dirty fingernails indicate a life of working
+the dirt.  
+~
+8669276 0 0 0 4224 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+1000 90000
+8 8 1
+BareHandAttack: 10
+Race: 0
+E
+#23510
+a skittish fish~
+a skittish fish~
+A small silver fish chases its next meal.
+~
+   Small silver scales cover this tiny fish.  
+~
+26 0 0 0 1088 16 0 0 0 E
+23 -3 -13 23d5+253 15d4+16
+200 45000
+8 8 0
+BareHandAttack: 4
+Race: 23
+E
+#23511
+electric eel~
+an electric eel~
+A long sleek creature cuts through the water as electricity crackles in its wake.
+~
+   Like a snake without scales, the eel is long and narrow.  Its dark skin is
+slick and it has a pointed nose with a mouth full of small sharp teeth.  
+Sparks of electricity jump out from its body.  
+~
+8405054 0 0 0 1073741856 16 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+0 85000
+8 8 0
+BareHandAttack: 10
+Race: 23
+E
+#23512
+assistant gardener woman~
+an assistant gardener~
+A woman dressed in dirty overalls scurries about.
+~
+   Dressed in dirty overalls, this woman looks fit for gardening.  
+~
+18524 0 0 0 5152 0 0 0 0 E
+21 -1 -11 21d5+220 14d4+14
+300 45000
+8 8 2
+E
+#23513
+large silk worm silkworm~
+a large silkworm~
+A large, white worm trails a string of silk behind it.
+~
+   Creepy and crawly, this huge worm is excreting silk all over the place.  
+~
+2113628 0 0 0 1 0 0 0 0 E
+22 -2 -12 22d5+230 14d4+15
+200 60000
+8 8 0
+Race: 21
+E
+#23514
+giant hornet insect~
+a giant hornet~
+A large stinging insect buzzes nearby.
+~
+   A sinister red carapace is propelled by a set of large black wings.  
+Narrow and bulbous eyes scan the horizon for a target to ram with a stinger
+the size of an adolescent elf's arm.  
+~
+18552 0 0 0 67142696 0 0 0 -100 E
+21 -1 -11 21d5+220 14d4+14
+0 60000
+8 8 1
+BareHandAttack: 1
+Race: 21
+Noise: Bzzzzzzzzzzzzzzzz!
+E
+#23515
+junior gardener~
+a junior gardener~
+A junior gardener looks bored with life.
+~
+   This young man, no older than a teenager, is dressed in the finest
+gardening bib you've seen.  
+~
+18458 0 0 0 0 0 0 0 0 E
+23 -3 -13 23d5+253 15d4+16
+500 60000
+4 8 1
+E
+#23516
+haggard old woman~
+a haggard, old woman~
+A haggard, old woman clutches a basket of shiny objects.
+~
+Grey locks of thinning hair obscure the wrinkled face of an old woman.
+~
+8 0 0 0 0 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+23
+700000 270000
+8 8 2
+E
+$

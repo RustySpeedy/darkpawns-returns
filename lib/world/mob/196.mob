@@ -6,7 +6,7 @@ A martial artist jumps out of the shadows, and into you.
 Clothed entirely in black, the ninja is hard to see in the shadows.  She
 appears to be coming towards you.
 ~
-260186 0 0 0 68596904 0 0 0 0 E
+260187 0 0 0 68596904 0 0 0 0 E
 34 -14 -24 34d5+2746 22d4+22
 625 0
 8 8 2
@@ -405,30 +405,31 @@ even know he was there apart from the fact that you almost run into him.
 Race: 0
 E
 #19675
-sidious leader titans~
-Sidious~
-Sidious, the leader of the Titans stands before you.
+Eric Bloodaxe guardian~
+Eric Bloodaxe~
+Eric Bloodaxe, stands guard holding his shield to his side and eyes on you.
 ~
-This white bearded man is quite old which you can tell by looking at his
-scared face. He has white eyes which gives him the appearance of a vicious
-man, but he is very gentle unless provoked.
+   Eric Bloodaxe is very tall, has long hair, a long beard, and a viscious
+look to him.  Story goes Eric Bloodaxe murdered his own brothers to pave the
+way to the throne a long time ago.  Since his reign he has become a servant of
+Valhalla Rising, and remains here.  
 ~
-16783370 0 0 0 128 0 0 0 0 E
+16779275 0 0 0 1074999548 2 0 0 0 E
 35 -15 -25 35d5+3329 23d4+23
 0 0
 8 8 1
 Race: 19
 E
 #19676
-brakus holy titan~
-Brakus~
-Brakus, the holy Titan watches you carefully as you approach.
+Egil Skallagrimsson guardian~
+Egil Skallagrimsson~
+Egil Skallagrimsson, a terrifying viking stands here grinding his teeth at you.
 ~
-Brakus is a heavy-set man, following and obeying the wishes of his master
-Sidious. Together, it is their duty to protect the entrance to the castle
-beyond.
+   An average looking viking for the most part - long hair, beard, tattoos,
+and all.  Egil was a poet and a psychotic murderer.  His first kill was at the
+age of seven, when he killed a boy with an axe.  
 ~
-6154 0 0 0 128 0 0 0 0 E
+2059 0 0 0 1074999484 2 0 0 0 E
 35 -15 -25 35d5+3329 23d4+23
 0 0
 8 8 1
@@ -450,12 +451,12 @@ as can be, provided you don't turn your back on him...
 Race: 22
 E
 #19688
-annias guardian genie~
-Annias the guardian genie~
-Annias, one of the mythical guardian genies, blocks your path.
+Floki~
+Floki the unstable~
+Floki, an unstable yet formidable viking, stands guard.
 ~
-Annias doesn't have to move much to prevent you passing - he's as wide as the
-tunnel itself but it knows which members to allow entry and which to stop.
+   Floki is here with one eye on you and another on the dagger he sharpens.  
+He's daring you to enter without permission.  
 ~
 17037338 0 0 0 168 0 0 0 0 E
 30 -10 -20 30d5+414 20d4+20
@@ -464,17 +465,16 @@ tunnel itself but it knows which members to allow entry and which to stop.
 Race: 25
 E
 #19689
-azash guardian genie~
-Azash the guardian genie~
-Azash, one of the mythical guardian genies, blocks your path.
+Lagertha~
+Lagertha Lothbrok~
+Lagertha, a beautiful and viscious shield maiden is here keeping watch.
 ~
-Azash doesn't have to move much to prevent you passing - he's as wide as the
-tunnel itself but it knows which members to allow entry and which to stop.
+   Lagertha will straight fuck you up.  
 ~
 17037338 0 0 0 168 0 0 0 0 E
 30 -10 -20 30d5+414 20d4+20
 0 0
-8 8 0
+8 8 2
 Race: 25
 E
 #19690

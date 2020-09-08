@@ -221,7 +221,7 @@ used to make the strongest of armors.
 0 270000
 8 8 0
 BareHandAttack: 4
-Race: 25
+Race: 13
 Noise: The earth shakes.
 E
 #7915
@@ -287,6 +287,56 @@ destroying you in this world.
 8 8 0
 BareHandAttack: 10
 Race: 11
+Script: nobits 0
+E
+#7945
+gray glowing scars man~
+Ardraum the Vengeful~
+Ardraum stands here in a weathered gray cloak, various scars adorning his forarms and face glowing soflty with amber light.
+~
+   Ardraum stands before you loosely wrapped in a weathered gray cloak that
+barely covers his broad shoulders.  Underneath the worn cloak, he is wearing a
+dark shirt and a very dark, armored vest.  The material of the vest is hard to
+pinpoint as its surface seems to absorb all light.  Brown leather pants cover
+his legs, and the ornately worked hilt of a large knife in a scabbard hangs
+from a heavy black leather belt.  A tight cropped beard of dark brown, wiry
+hair adorns the hard expression on his face which contrasts his clean shaven
+head.  Remarkably, his eyes seem to emit an amber glow and a circular scar on
+his forehead is outlined in the same honeyed amber glow.  The sleeves of his
+dark shirt are rolled up to expose his lean, muscular forearms that are
+covered in terrible scars that seem to also emit the same honeyed-amber glow.
+
+~
+8640792 0 0 0 4232396 0 0 0 500 E
+32 -12 -22 32d5+1580 21d4+22
+0 120000
+8 8 0
+Race: 0
+E
+#7947
+ardraum vengeful man cloak~
+Ardraum the Vengeful~
+Ardraum stands here in a weathered gray cloak, peering around with his glowing amber eyes.
+~
+   Ardraum stands before you loosely wrapped in a weathered gray cloak that
+barely covers his broad shoulders.  Underneath the worn cloak, he is wearing a
+dark shirt and a very dark, armored vest.  The material of the vest is hard to
+pinpoint as its surface seems to absorb all light.  Brown leather pants cover
+his legs, and the ornately worked hilt of a large knife in a scabbard hangs
+from a heavy black leather belt.  A tight cropped beard of dark brown, wiry
+hair adorns the hard expression on his face which contrasts his clean shaven
+head.  Remarkably, his eyes seem to emit an amber glow and a circular scar on
+his forehead is outlined in the same honeyed amber glow.  The sleeves of his
+dark shirt are rolled up to expose his lean, muscular forearms that are
+covered in terrible scars that seem to also emit the same honeyed-amber glow.
+~
+8685849 0 0 0 38088 0 0 0 600 E
+33 -13 -23 33d5+2163 22d4+22
+6000 180000
+8 8 1
+BareHandAttack: 13
+Race: 0
+Script: 0 0
 E
 #7969
 black cloaked wanderer mysterious man~
@@ -374,5 +424,76 @@ Whack 'em.
 5 15 5 5d5+60 3d4+2
 0 900
 8 8 1
+E
+#7982
+nyarlathotep chaos man shadow~
+Nyarlathotep~
+A shadowy figure is floating here. The dark edges of his physical presence undulate ominously.
+~
+The crawling chaos.  The king of shadows.  Once known as Nyarlathotep, this
+being is now a ghost of what he once was.  The horrors he brought upon the
+world during his life could never be understated, and it is the echo of these
+horrors that perpetuate his being now.  Partially shadow, partially material,
+the edges of his vaguely man-shaped form are shifting and pulsating, making
+him difficult to focus on.  Just when you think you know exactly what you're
+looking at, his chaotic form becomes something slightly different.  
+~
+380440 0 0 0 1196 0 0 0 -1000 E
+36 -16 -26 36d5+3912 24d4+24
+0 363000
+8 8 1
+BareHandAttack: 12
+Race: 19
+Noise: A peculiar sensation washes over you, as if the natural order of the world is being disturbed.
+E
+#7983
+short-faced bear~
+the short-faced bear~
+A blood drenched, gnarly looking bear stands towering over you on its hind legs.
+~
+   The giant short-faced bear stands before you.  This is no ordinary bear,
+she stands 12 feet tall, with a vertical reach of 14 feet!  Fucking hell, she
+sees you looking her!  Her arms are extremely long, tipped with ferociously
+long and sharp claws.  
+~
+9947196 0 0 0 1344760 2 0 0 0 E
+38 -18 -28 38d5+5078 25d4+26
+0 372000
+8 8 2
+BareHandAttack: 9
+Race: 25
+Noise: An all too familiar grunt sends chills down your spine and makes the hair on your neck stand up.
+E
+#7984
+Locusta poisoner woman~
+the horrifying Locusta~
+A psychotic dagger wielding woman's existance flickers before your eyes.
+~
+   This wench is coming at you like she is possessed.  She is wearing a dirty
+yellow dress, drenched in blood.  She is weilding a sinister dagger that seems
+to ooze a dried blood colored pasty substance.  
+~
+8699929 0 0 0 273596 2 0 0 -1000 E
+36 -30 -26 36d5+3912 24d4+36
+0 363000
+8 8 2
+BareHandAttack: 11
+Race: 25
+Noise: A strange dripping sound comes from seeminginly no-where.
+E
+#7985
+Pei Mei Bak Mei~
+the legendary Pei Mei~
+A tall man with an extremely long goatee is pacing the floor muttering obscenities.
+~
+   Pai Mei is a legendary master of the Bak Mei and Eagle's Claw styles of
+martial arts.  This is one fatal mother fucker.  
+~
+25674265 0 0 0 1157636232 18 0 0 0 E
+39 -57 -29 50d5+12000 26d4+77
+90000 375000
+8 8 0
+BareHandAttack: 3
+Race: 25
 E
 $

@@ -742,80 +742,105 @@ cast the spell you must rest until you gain enough points to cast.
 See also: SPELLS, MAGICK
 #
 MAP
-               *-----*-----*-----*-----*-----*-----*
-               |                                   |
-               |                                   | 
-               *                                   *--*--*--*--*--*--*
-               |                                   |                 |
-               |                                   |                 |
-               *                    *--WG          *                 *
-               |                    |              |                 |
-               |                    |              *                 |
-               *                    *  M-*   *     |                 *
-               |                    |    |   |  AP-*-MG              |
-               |                    |    *-1-*     |                 |
-               *                GB--*    | | |     *--LM             *
-               |                    |    * | CG    |                 | 
-               |                    |      |       |                 |
-               *        AA          *------T-------*  Z     CT       *
-               |        |           |      |       |  |     |        |
-               |        |           |      |       |  |     |        |
-               *--*--*--*--*--*--*--*------*-------*--*--*--*--*--*--*
-               |  |              |  |      |             |     |     |
-               |  *              P  D      |             |     |     |
-               *              A            *--I    B  RO NG LG PG    *
-               |              |     J      |       |  |     |        |
-               |              |     |      |       |  |     |        |
-             --*---*---*---*--*--*--*------*-------*--*--*--*--*--*--*--
-               |           |  |  |  |      |       |        |  |  |  |
-               |           |  |  |  |      |       |        |  |  |  |
-               *           *  TP *  G      *       W        ID Bk Jl *
-               |                           |                         |
-               |                           |                         |
-               *                           *                         *
-               |                           |                         |
-               |                           |                         |
-               *                           *                         *
-               |                           |                         |
-               |                           |                         |
-               *                           *--*                      *
-               |                           |  |                      |
-               |                           |  |                      |
-               *                 TG        *  Sl   DD S           *--*
-               |                 |         |       |  |              |
-               |                 |         |       |  |              |
-               *---*---*---*--*--*--*------*-------*--*--*--*--*--*--*
-                                           |
-                                           |
+&r[&RKIR DRAX'IN MAP&r]&n
+                               NORTH GATE
+                                    |
+                                    |
+    O===O===O===O===O===O===O===O===O
+    |                               |
+    O                               O===O===O===O===O===O===O
+    |                               |                       |
+    O                               O   MG                  O
+    |                               |   |                   |
+    O                       O==W A==O===O                   O
+    |                       |       |                       |
+    O                       O       O===D                   O
+    |                       |       |                       |
+    O                   GB==O   AT  O                       O
+    |          CS           |   |   |                       |
+    O           |           O===C===O  ZOO      CT          O
+    |           |           |   |   |   |       |           |
+    O===O===O===O===O===O===O==TS===O===O===O===O===O===O===O
+    |   |               |   |   |           |       |       |
+    O  CR              PX  DH   O===@       NG      PG      O
+    |               AS      JS  |   BK  RO      LS          |
+    |               |       |   |   |   |       |           |
+   WG===O===O===O===O===O===O==MS===O===O===O===O===O===O===EG
+    |	|   |   |	|	|   |    	|   |   |   |
+    O  RS  TP  CH      DG	O   WS	        ID  $$  JL  O
+    |                           |                           |
+    O                           O===LD	                    O
+    |                           |                           |
+    O                           O                           O
+    |                           |                           |
+    O                           O==SS                       O
+    |                           |                           |
+    O                  TG       O   DM  HS              GB==O
+    |                   |       |   |   |                   |
+    O===O===O===O===O===O===O===O===O===O===O===O===O===O===O
+                                |
+                            SOUTH GATE
 
-AP = Apothecary
-B = Bakery
-Bk = Bank
-CG = Clerics Guild
-D = Donation Room
-DD = Dump
-G = Goods Store
-GB = Guard Barracks (new players should train here)
-ID = Ferrenx the Identifier
-J = Jeweller
-Jl = Jail
-LG = Leon's Leather Goods
-LM = Lawana's Mystical Devices
-M = Morgue
-MG = Mages Guild
-NG = Ninja's Guild
-PG = Psionic's Guild
-S = Stables
-Sl = Slums
-TG = Thieves Guild
-W = Weaponsmith
-WG = Warriors Guild
-Z = Zoo
+
+
+
+
+&r[&RTEMPLE OF THE CROSS&r]&n
+
+                         MG==O      QR
+                             |      |
+                             O==AT==O
+			     |   |
+	                    IN   O
+							
+&r[&RLEGEND&r]&n
+	BK= BAKERY
+	LS= LEATHER SHOP
+	JS= JEWELRY SHOP
+	AS= ARMOR SHOP
+	DG= DRY GOODS SHOP
+	RS= BARBECUE SHOP
+	WS= WEAPON SHOP
+	MG= MAGE GUILD
+        W=  WARRIOR GUILD
+	NG= NINJA GUILD
+	PG= PSIONIC GUILD
+	TG= THIEF GUILD
+	CG= CLERIC GUILD(SEE TEMPLE MAP)
+        D=  MYSTICAL DEVICES
+        A=  APOTHECARY   
+        GB= GUARD BARRACKS
+        AT= TEMPLE ALTAR	
+	C=  TEMPLE OF THE CROSS
+	CS= COLISEUM
+	CR= CHOSEN OFFICES
+	CT= CRYSTAL TEMPLE
+	TS= TOWN SQUARE
+	MS= MARKET SQUARE
+	EG= EAST GATE
+	WG= WEST GATE
+	DH= DONATION HOUSE(MAKESHIFT)
+	PO= POST OFFICE
+	RO= RECORDS OFFICE
+	@=  SUMMONING PLATFORM - PENTAGRAM
+	ID= FERRENX'S IDENTIFY SHOP
+	$$= KIR DRAX'IN BANK
+	LD= KIR DRAX'IN LODGE
+	SS= THE SLUMS
+	DM= THE DUMP
+	HS= HORSE STABLES
+	MG= MORGUE (SEE TEMPLE MAP)
+	IN= INFIRMARY (SEE TEMPLE MAP)
+	QR= QUIET ROOM (SEE TEMPLE MAP)
+	TP= TATTOO PARLOR
+	CS= CUSTOMS HOUSE - BARTER BOARD
  
 #
 MOB MOBILE NPC MOBS
 
 Generic term for any Non-Playing Character in the game.. i.e. "monsters".
+
+SEE ALSO: ROAMING MOBS
 #
 MOONGATE MOON
 
@@ -1074,6 +1099,11 @@ Stealing items from another players corpse is prohibited.  The only
 situation that this is allowed in is with the case of recovery of an item
 which has been stolen by the killed player.  If this is the case, expect to
 be able to prove it.
+
+You may also add a message in your title such as [NPK] or [Peaceful] to show
+the world that you are not participating in PSTEAL/PKILLING. If you can
+provide proof that you had this title and someone kills you, let an immortal
+know and they will avenge you to the highest extent of the Dark Pawns law.
 
 
 See also: PSTEAL, OUTLAW
@@ -1645,5 +1675,220 @@ Dark Pawns would never have existed. Thank you very much, Jeremy.
 
 
 See also: CODE, WIZLIST, IMMLIST
+
+#
+DIRECTIONS
+&R*All directions are from Market Square in Kir Drax'in unless otherwise anotated.&n
+
+&c[Cities]&n
+
+Alaozar:    
+20e5n2e30n
+
+Kir-oshi:
+16s14w20s4e
+
+Haven:
+Waterwalk required.
+all east, n2e, follow road south
+
+Xixieqi:
+Waterwalk required.
+41s
+
+&c[Newbie Zones]&n
+
+The Crystal Temple:
+2n4e2n, open door
+
+The Ender Villiage:
+14s4wd
+
+Kir Drax'in Stadium:
+2n4w2n; up
+
+Kir Drax'in Zoo:
+2n2e2n
+
+Cold Villiage:
+11w7n
+
+Kir Drax'in Slums:
+4se
+
+
+&c[Mid Level Zones]&n
+
+Sea Cave Lagoon:
+Waterwalk Required.
+15s28e7s2wswswn
+
+King Seilons' Keep:
+22w2n
+
+Battleground:
+all south, 28w3n
+
+Biodome:
+Waterwalk required.
+43s11en from docks, 3e1n8e- all n til d
+
+Mines:
+all south, all west, 4s10w6n, all east
+
+Glyndwr (dirt zone):
+Waterwalk required.
+all east, nes2e
+
+Orcs:
+32w5sd
+
+Ogres:
+16e7nw2s
+
+Volcano:
+
+14w7n3wne4n3w3nenen3en2wn2ene5s3esene6e, pick door east, open door east, (speedwalk) 4 south
+
+Swamp of Sadness:
+Waterwalk required.
+18s12e
+
+Hell:
+15w4nw3n3e
+
+Bhyroga:
+15w4nw3nw5n2e4n
+
+Ice Giants:
+From Bhyroga Village
+All north through the gates. M
+Must be picked or unlocked with worn gate key.
+Continue to go all north, all east, s (caves=east)
+
+&cHardcore Zones&n
+
+
+Ssyzyils Island:
+From Xixieqi
+12e7n5w
+
+Arden:
+Waterwalk required.
+32e12n3e2ne
+
+Amber:
+From Arden.
+es3e3ne3n2unun
+
+Elementals:
+Waterwalk required.
+29swsws3w4sws
+
+The Grey Keep:
+18s30w3s7w2n
+
+Desert Grove:
+18s30w4s10w4nw8n
+
+Desert Tunnels:
+From Desert Grove.
+9w5s, speedwalk south, west
+
+Drakaan, Leader of Desert Raiders:
+From desert tunnels.
+d2wd2wn2ws3w2n2u2eu4e (he is east)
+
+Western End of Tunnels:
+From desert tunnels.
+d2wd2wn2ws3w2nuwu7w
+
+Dracolich's Layer:
+From western end of tunnels.
+11w7n
+
+Paphoset's Temple:
+From western end of tunnels.
+2w3n4en
+
+Solomon's Mines: 
+12s30w4s10w5n2e
+
+The Dark Mage's Tower(DMT)
+
+DMT - Main Portal Room:
+14w7n3wnw4nw5ne3nw 
+Must kill ice mage to get key, or pick door.
+2n 
+
+The Dark Mage:
+wse3sne2swse2s4e (he is north)
+
+Apprentice Mage:
+wse3sne2swse2s2n (he is north)
+
+Chess Board:
+wse3sne2swses
+
+The Statue Garden:
+wse3sne2se
+
+The Reflection Pool:
+wse3sne2s3wnw
+
+The Demon Kchz:
+2nwswnwnswnwss (he is west)
+
+&RDRAGONS&n
+
+&cKaedrien, the &CIce&c Dragon&n:
+From the northern gate of Bhyroga.
+all north, all west, down, 3 north, up
+
+&yShax'in, the Brown Dragon&n:
+18s30w4s8ws2wd
+
+&YXedent, Brass dragon&n:
+18 south, 30 west, 5 south, 12 west, 8 north, 5 east
+
+&BNixith, the Blue dragon&n:
+From western end of tunnels in desert.
+2w7s8wd
+
+#
+ROAMING MOBS
+
+There are a number of mobs that roam the Wyldlands of Dark Pawns. Some of these
+are very powerful and some are very powerful AND angry. Once they taste your
+blood they will hunt you down until you are dead or pass over a body of water
+to a new continent.
+
+Here is a list of roaming mobs that will kill you no matter what your level.
+They will loot your stinkin corpse and wear all of your equipment. They're
+sorted by Most Terryfying to Lesser:
+
+Locusta, the horrifying (Backstabber)
+The Dread Rabbit of Caerbannog
+The Chaotic Nyarlathotep
+Ardraum the Vengeful
+Pyros, the Daemon Lord
+the Behemoth
+Adonis, Paladin of the Moonshear
+
+Here is a list of mobs that will do the same, accept only if you are level 24
+or higher:
+
+Death
+Pesitlence
+War
+Famine
+The Black Cloaked Wanderer
+Dracula
+Anastatia
+Dag, the barbarian
+The Shambler
+The Elven Avenger
+
+SEE ALSO: MOB, ATTI
 #
 $

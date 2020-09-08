@@ -1,25 +1,23 @@
 #10021
-angry spectator~
-an angry spectator~
-An angry spectator doesn't look very happy with the game's results.
+drunken spectator~
+a sloppy, drunken man~
+This drunken spectator has spent the majority of the day drinking beer.
 ~
-Wearing the colors of the losing team, he looks extremely pissed. Better not
-do anything to offend him.
+Sloppy and disheveled, he looks less interested in the arena below than he does with getting involved in some action of his own.  Red-faced and full of brazen, alcohol-fueled bravery, he is moving your way quickly.
 ~
 40 0 0 0 0 0 0 0 -250 E
 5 15 5 5d5+60 2d4+2
 20 900
 8 8 1
 Race: 0
-Noise: You hear some angry cries.
+Noise: Someone slurs, "Im gonna beatchur ash punk."
 E
 #10022
-depressed spectator~
-a depressed spectator~
-A depressed spectator looks like he's ready to go home.
+jolly fat spectator~
+a jolly fat man~
+A jolly fat man is jubilantly jumping up and down, shouting at the top of his lungs.
 ~
-Wearing the colors of the losing team, he acts like life just isn't worth
-living anymore.
+With a huge smile on his face, he is enjoying the combat below immensely.  He is jumping around with great excitement, but his large belly is having trouble keeping up with him.
 ~
 8 0 0 0 0 0 0 0 250 E
 6 14 4 6d5+70 3d4+3
@@ -28,60 +26,63 @@ living anymore.
 Race: 0
 E
 #10023
-excited spectator~
-an excited spectator~
-An excited spectator cheers loudly with approval.
+gambler spectator man shady~
+a shady looking gambler~
+A man with dark eyes and slicked back hair is looking around for a bookie to take his bet.
 ~
-Wearing the colors of the winning team, he's one happy go-lucky kind of guy.
+A common sight in the arena, this man banks on his survival through making money betting at the arena.  Day in and day out, he is here studying the fighters and placing his bets.
 ~
 8 0 0 0 0 0 0 0 350 E
 7 13 3 7d5+80 3d4+3
 10 2500
 8 8 1
 Race: 0
-Noise: You hear some excited cheering.
 E
 #10024
-joyful spectator~
-a joyful spectator~
-A joyful spectator is dancing in the aisles.
+offduty guard spectator~
+an off duty guard~
+An off duty guard is sipping some beer and watching the combat below.
 ~
-Wearing the colors of the winning team, he's as happy as happy can be.
+This well built individual is clearly just trying to relax after a shift patrolling the streets.  Still wearing his uniform, his untucked shirt and relaxed posture demonstrate that he is not looking for evildoers for the rest of the day.
 ~
 8 0 0 0 0 0 0 0 500 E
 6 14 4 6d5+70 3d4+3
 8 1500
 8 8 1
 Race: 0
+Noise: You hear someone angrily yell, "You schmuck, get your guard up!"
 E
 #10025
-dedicated spectator~
-a dedicated spectator~
-A dedicated spectator is here, as usual.
+visitor kir oshi spectator~
+a visitor from Kio Oshi~
+A visitor from Kio Oshi watches the action below with wide-eyed excitement.
 ~
-Fully dressed in the colors of his favorite team, he even has all of his
-exposing skin and hair painted to those colors.
+With his bronze skin and sailors attire, he sticks out like a sore thumb.  He
+looks like he has never seen such a coliseum before.  Despite his rugged
+figure and sun-worn face, he has an almost childlike demeanor to him here.  
+He is having the time of his life.  
 ~
 8 0 0 0 0 0 0 0 100 E
 6 14 4 6d5+70 3d4+3
-13 1500
+13 2500
 8 8 1
 Race: 0
 E
 #10026
-loud spectator~
-a loud spectator~
-A loud spectator shouts at the top of his lungs.
+member targs fan spectator~
+a member of Targ's fan club~
+A member of Targ's fan club is walking around waiting for Targ to show up on the arena floor.
 ~
-You can't tell which team he's on, but you're sure that he's the most 
-obnoxious person you've ever met.
+Decked out in a homemade costume that loosely resembles Targs battle ensemble,
+he looks a little bored whenever Targ is not in the arena.  Fortunately for
+everyone else, he looks much less intimidating than Targ does.  
 ~
 8 0 0 0 0 0 0 0 50 E
 7 13 3 7d5+80 3d4+3
 5 2500
 8 8 1
 Race: 0
-Noise: You hear some loud yelling.
+Noise: You hear a badly impersonated representation of Targs battlecry.
 E
 #10027
 lion~
@@ -140,5 +141,194 @@ misconceptions as to his prowess in combat. Do not be misled.
 160 20000
 8 8 1
 Race: 1
+E
+#10031
+ticket taker~
+the ticket taker~
+A tired looking ticket taker lazily shuffles people through the box-office.
+~
+Occasionally wincing from the noise of the crowd, a well-dressed but obviously
+overworked ticket taker is lazily guiding an unruly crowd through the
+box-office into the stadium beyond.  He looks tired and bored, and he is
+clearly ready to go home.  
+~
+10 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+30 14000
+8 8 1
+Race: 0
+Noise: You hear somone yelling, "Tickets!  Get your tickets here!"
+Script: none 0
+E
+#10032
+senatorial guard~
+a senatorial guard~
+A senatorial guard stands here keeping the riffraff out of the balconies.
+~
+A burly and gruff looking guard is blocking the entrance to the balconies.  He does not look like he has got any patience for troublemakers.
+~
+4122 0 0 0 0 0 0 0 350 E
+11 9 -1 11d5+120 7d4+8
+15 7500
+8 8 1
+BareHandAttack: 3
+Race: 0
+E
+#10033
+senator~
+a Kir Drax'in senator~
+A member of the Kir Drax'in senate is lounging here.
+~
+A member of the Kir Drax'in senate is lounging here.  He's watching the games
+below with only passing interest.  He's a little older and has a bulging, fat
+belly indicative of his constant overindulgence.  
+~
+136 0 0 0 0 0 0 0 0 E
+9 11 1 9d5+100 5d4+5
+100 4500
+8 8 1
+Race: 0
+E
+#10034
+young courtesan~
+a young courtesan~
+A young courtesan is here entertaining the senators.
+~
+A beautiful young courtesan is here entertaining the senators.  She nervously
+glances at you, clearly uncomfortable.  
+~
+8 0 0 0 0 0 0 0 0 E
+3 17 7 3d5+40 2d4+2
+10 350
+8 8 2
+Race: 0
+E
+#10035
+xixiequian noble guest~
+a Xixiequian noble~
+A member of the Xixiequian nobility watches the combat arena with interest.
+~
+An Xixiequian noble stands before you, intently watching the fights below.  
+As a guest, he is trying hard to hide his annoyance with the nearby Kir
+Drax'in senators.  Unlike the indulgent senators, this man has a robust build
+and appears to be in good shape.  
+~
+8 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+60 6000
+8 8 1
+Race: 0
+E
+#10036
+elven girl woman spectator~
+a charming young elven woman~
+A cute young elven woman is watching the fights and clapping excitedly.
+~
+She looks very out of place here in the arena.  She has an innocent look to her, but there is nothing innocent about the bloodlust in her eyes as she watches the combat below.  She appears to be younger than much of the crowd present.
+~
+8 0 0 0 0 0 0 0 500 E
+5 15 5 5d5+60 2d4+3
+0 900
+8 8 2
+Race: 1
+Noise: A feminine voice hollars, "Go Elrik, we love you!"
+E
+#10037
+trogdor~
+Trogdor~
+Trogdor stands on guard, ready to pounce on anything that comes in his direction.
+~
+This unusual looking Ssaurian man was born unfortunately deformed.  Born with
+only one massive arm, he was routinely bullied as a child.  After abandoning
+his village, he was eventually taken in by who could only be described as "a
+weatherbeaten man" and trained in the arts of combat.  He now comes to the
+arena with serious combat talent and one huge chip on his shoulder.  The fire
+in his eyes looks like it could burn you.  
+~
+8 0 0 0 0 0 0 0 0 E
+19 1 -9 19d5+200 12d4+13
+15 22500
+8 8 1
+Race: 29
+E
+#10038
+polar bear~
+a massive polar bear~
+A massive polar bear towers above you with fresh blood dripping from his maw.
+~
+An exotic animal to find in this area, this rare beast was imported from lands
+far to the north.  With a massive, imposing frame, this bear does not look
+like something you want to mess with.  It has very large (and very dangerous)
+looking claws.  
+~
+40 0 0 0 0 0 0 0 0 E
+9 11 1 9d5+100 6d4+5
+0 4500
+8 8 1
+Race: 22
+E
+#10039
+Johanssen~
+Johanssen~
+Johanssen is nervously putting on his gear to enter the arena for the first time.
+~
+Likely far too young to have any degree of confidence or skill, Johanssen
+stands in the corner struggling to don his equipment.  Even though he manages
+to have a stern look on his face, his trembling hands betray his fear and
+nervousness.  His hands are calloused from extensive work on his families
+farm, but with the way he is fumbling with his gear it is unlikely that he has
+much in the way of combat training.  
+~
+10 0 0 0 0 0 0 0 750 E
+8 12 2 8d5+90 4d4+4
+10 3500
+8 8 1
+Race: 0
+E
+#10040
+sallow elven doctor~
+a sallow faced elven doctor~
+A gaunt, sallow faced elven doctor leers at you with an frighteningly odd grin.
+~
+Unusually thin, even for an elf, the doctor looks like he may enjoy his job a
+bit too much.  Even in the dim light, you can see his skin has a yellowish
+tint to it.  You wonder if he's here to fix injuries or perform experiments.
+
+~
+2058 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 9d4+9
+0 14000
+8 8 1
+E
+#10041
+corpse slug~
+the corpse slug~
+A massive corpse slug resides in the well.  It's rounded mouth is filled with hollow teeth evolved over eons to desiccate carrion.
+~
+A gargantuan slug resides at the bottom of the well.  It's eternal hunger is
+the perfect match for the endless supply of corpses the arena has to offer.  
+It is quite unfortunate that you're not yet a corpse, and that you're here,
+with the slug.  You begin to question how much longer you've got to live.  At
+least it doesn't have any eyes, but the strange whistling sound it makes is
+very unsettling.  
+~
+44 0 0 0 128 0 0 0 -1000 E
+31 -11 -21 31d5+997 20d4+21
+0 90000
+8 8 0
+E
+#10042
+gambler spectator man shady~
+a shady looking gambler~
+A man with dark eyes and slicked back hair is looking around for a bookie to take his bet.
+~
+A common sight in the arena, this man banks on his survival through making money at the arena.  Day in and day out, he is here studying the fighters and placing his bets.
+~
+8 0 0 0 0 0 0 0 350 E
+7 13 3 7d5+80 4d4+3
+10 2500
+8 8 1
+Race: 0
+Noise: Someone yells, "Yeah! Make me that money, baby!"
 E
 $

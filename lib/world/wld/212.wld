@@ -5,7 +5,7 @@ Behind the desk is a large key rack and several wooden mailboxes. In the
 corner of the room is a large, steel safe which guests of the inn can use to
 store their belongings. The only exit is down a staircase back to the pub.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D5
 ~
 ~
@@ -34,7 +34,7 @@ behind the altar, which is considered too holy for unordained worshipers to go.
 To the west, row after row of wooden pews face the altar and, far in the
 distance, there is a large double door leading to the road.
 ~
-212 294940 0 0 0 0
+212 262172 0 0 0 0
 D3
 ~
 ~
@@ -48,7 +48,7 @@ vantage point, you can see far across the ocean to the north and west, and
 can barely make out the volcano to the south-east. The only exit is down a
 ladder.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D5
 ~
 ~
@@ -65,7 +65,7 @@ you begin to think of the valiant defenders manning this station when the
 legions of the Dark One had surrounded Alaozar. The only exit from here is
 down a long, wooden ladder.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D5
 ~
 ~
@@ -81,7 +81,7 @@ stone floor and you see evidence of small fires having been lit recently. You
 suspect that it becomes very cold up at this height on cold or windy nights.
 The only exit is down a long wooden ladder back to the road far below.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D5
 ~
 ~
@@ -96,7 +96,7 @@ slits have also been chiseled into the walls so that defenders of Alaozar can
 rain deadly arrows upon their foes from above. The only exit is back down a
 long, wooden ladder.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D5
 ~
 ~
@@ -110,7 +110,7 @@ around the room. You look into the kitchen area and see coffee and tea
 brewing. One the walls here are all kinds of strange pictures. From some
 unknown source, jazzy music fills the air. The only exit is down.
 ~
-212 32776 0 0 0 0
+212 8 0 0 0 0
 D5
 ~
 ~
@@ -124,7 +124,7 @@ chests at the foot of the beds. The walls are Spartan and undecorated and the
 bunks are made so well that you suspect you could bounce a gold coin off one.
 The only exit is to the east.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D1
 You see a large gate.
 ~
@@ -141,7 +141,7 @@ west what appears to be a large barracks while to the east is a small sentry
 post. The docks open up to the north while Main Street leads south, through
 town proper.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 door iron~
@@ -170,7 +170,7 @@ surrounded by wooden chairs while on the opposite side of the chamber,
 a weapons locker leans against the wall, awaiting use.
    The only exit is to the west.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D3
 You see a large gate.
 ~
@@ -185,7 +185,7 @@ blocked by the towering city walls however there appears to be a long, wooden
 ladder leading up into some sort of structure high above. You may go south,
 east or up.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D1
 North Perimeter Road runs parallel to the northern wall of town.
 ~
@@ -210,7 +210,7 @@ the north, however this street continues both east and west.  There is also
 a small building to the south with a picture of a book upon the wooden sign
 above the doorway.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D1
 North Perimeter Road runs along the northern walls of Alaozar.
 ~
@@ -235,7 +235,7 @@ above the doorway of the building south of here is a picture of a bubbling
 flask and a bottle of ale.  This roadway leads both east, towards Main Street
 and the Northern Gate, and west.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D1
 To the east of here, Perimeter Road crosses Main Street.
 ~
@@ -259,7 +259,7 @@ there is a thick, iron gate and a tunnel leading under the walls. Perimeter
 Road runs alongside the thick town walls to the east and west while Main Street
 itself leads through the heart of town south of this point.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 You see the inner gate of town.
 ~
@@ -288,7 +288,7 @@ northern side of Alaozar and the city walls block your passage to the north.
 Perimeter Road leads east-west while a small, stone building with a picture
 of a scroll and a magic wand upon the sign can be entered to the south.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D1
 Perimeter Road continues to the east.
 ~
@@ -313,7 +313,7 @@ your passage to the north.  There is a mid-sized building to the south of
 here bearing the picture of a great dragon and a mug of ale upon the sign.
 Perimeter Road continues both east and west.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D1
 Perimeter Road continues both east and west.
 ~
@@ -336,7 +336,7 @@ You have reached a turning-point in Perimeter Road; this is the northeastern
 corner of Alaozar.  The roadway runs west and south from here as it follows
 the high city walls.  You also notice a ladder bolted into the walls here.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D2
 Perimeter Road continues to the south along the edge of town.
 ~
@@ -364,7 +364,7 @@ away somewhere in this mess.  Nor do you doubt that you could come across a
 real gem buried in these shelves -- maybe even a magical spellbook.  There is
 a sign on the northern wall right next to the door.
 ~
-212 32776 0 0 0 0
+212 8 0 0 0 0
 D0
 You see North Perimeter Road.
 ~
@@ -391,7 +391,7 @@ half of the room is a work area with a large counter covered with bubbling
 flasks, strange reference charts, and smoking potions. A sign has been mounted
 next to the door on the northern wall.
 ~
-212 32776 0 0 0 0
+212 8 0 0 0 0
 D0
 You see North Perimeter Road.
 ~
@@ -418,7 +418,7 @@ various types of scrolls. Common spell components can be found here as can
 magical items like wands and staves. A sign has been mounted on the wall next
 to the only exit, a door in the north wall.
 ~
-212 32776 0 0 0 0
+212 8 0 0 0 0
 D0
 You see North Perimeter Road.
 ~
@@ -447,7 +447,7 @@ both modern and ancient.  Two dart boards have been hung on the southern
 wall and on the northern wall, next to the door, there is a sign.  A big,
 old staircase also leads upwards.
 ~
-212 32776 0 0 0 0
+212 8 0 0 0 0
 D0
 The doorway leads back onto Perimeter Road.
 ~
@@ -478,7 +478,7 @@ towering walls that safeguard the Holy City.  This road continues both
 north and south; your way is blocked to the west by the walls but to the
 east there is a large dump.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 Perimeter Road seems to turn to the east further north.
 ~
@@ -501,7 +501,7 @@ This is a lot set aside to be used as a landfill.  People come here to bring
 items they no longer want and does it smell...!  I wouldn't stay here too
 long lest you get ill; the only exit is to the west.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D3
 Perimeter Road.
 ~
@@ -515,7 +515,7 @@ establishment, everything from sacks of grain to lights and packs.  All that
 a traveler would need to make a long journey is here.  A sign has been
 mounted on the wall near the door to the east.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D1
 Main Street
 ~
@@ -540,7 +540,7 @@ south of the Northern Gate.  Main Street continues to the south and on the
 east and west sides of the street are various shops.  You can continue in any
 direction.
 ~
-212 32768 0 0 0 1
+212 0 0 0 0 1
 D0
 Main Street crosses Perimeter Road to the north.
 ~
@@ -570,7 +570,7 @@ of this place will buy almost anything!  You also suspect that you could
 find almost anything in this mess, it would just take a while.  A sign is
 mounted on the wall to one side of the door leading west, to Main Street.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D3
 Main Street.
 ~
@@ -592,7 +592,7 @@ This is a little bakery. A large oven is cooking something that smells like
 heaven and, in neat little rows, the baker has arranged her wares for you to
 see. A sign has been mounted on the door. The only exit is to the east.
 ~
-212 32776 0 0 0 0
+212 8 0 0 0 0
 D1
 ~
 ~
@@ -618,7 +618,7 @@ system.  There is what looks (and smells) like a bakery to the west and the
 avenue itself runs north and south.  Your passage to the east is blocked by
 the tall, strong wall.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 Perimeter Road continues towards the corner of town.
 ~
@@ -644,7 +644,7 @@ invasion of the Dark One's legions. The homes along this roadway are examples
 of the early Lamonto style architecture. The roadway is composed of cobblestone
 and mortar and continues both north and south.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 Perimeter Road continues.
 ~
@@ -662,7 +662,7 @@ You are standing in a large weaponshop run by the local weaponsmith. Around
 the room there are locked cases filled with various weapons, both new and used.
 A large sign has been mounted on the doorway leading east.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D1
 Main Street.
 ~
@@ -688,7 +688,7 @@ towering north gate of town. To the west is a large weapon shop and to the east
 is what appears to be an armorer's shop. You may continue in any cardinal
 direction.
 ~
-212 32768 0 0 0 1
+212 0 0 0 0 1
 D0
 Main Street leads towards the far off gate.
 ~
@@ -717,7 +717,7 @@ Everything from fine mithril coats imported, at great cost, from the elven
 kingdoms across the sea, to crude, cheap, leather coats can be found in this
 establishment.  There is a large sign by the door on the western wall.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D3
 ~
 ~
@@ -730,7 +730,7 @@ thick rugs on the stone floor. Along one wall is a shelf with several bolts
 of multi-colored cloth. A partially open door behind the counter reveals the
 tailor's workplace.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D2
 East Guild Street.
 ~
@@ -746,7 +746,7 @@ as some other arcane-looking equipment you do not recognize.
    A small black sign lies nailed on the back wall.
    The only exit is east, back into Ardyn Park.
 ~
-212 32773 0 0 0 0
+212 5 0 0 0 0
 D1
 ~
 ~
@@ -762,7 +762,7 @@ The Pet Shop~
 This is a surpisingly clean shop filled with many different animals, all for
 sale. A large sign hangs on the eastern wall, right next to the door.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D1
 Back to Parimeter road.
 ~
@@ -796,7 +796,7 @@ ago and, if you look closely, you can make out the nicks and cuts made by iron
 weapons and steel-tipped arrows. Perimeter Road leads both north and south. To
 the east is an old walking cane shop.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 Perimeter Road leads to the north.
 ~
@@ -822,7 +822,7 @@ you are sure some are ordinary, you recognize a few as being powerful magic
 talismans created by ancient wizards long dead. The only exit is back to the
 west.
 ~
-212 32780 0 0 0 0
+212 12 0 0 0 0
 D3
 Perimeter Road.
 ~
@@ -839,7 +839,7 @@ in the corner of the practice area.  There is a large slate mounted on one
 wall, covered with arcane runes and magical formulae.  The only exit is back
 to the south.
 ~
-212 32772 0 0 0 0
+212 4 0 0 0 0
 D2
 West Guild Street.
 ~
@@ -855,7 +855,7 @@ and pouches with which the students practice pick-pocketing and stealing.
 You glance around the room, carefully, and think you see shapes carefully
 hidden in the deep shadows.  The only exit is to the south, onto Guild Street.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D2
 Guild Street.
 ~
@@ -872,7 +872,7 @@ wrought in bronze dominates the scene.  The park continues to the south
 and Main Street leads off to the north through wrought golden gates.
 An old iron grate has been set into the ground here.
 ~
-212 32768 0 0 0 1
+212 0 0 0 0 1
 D0
 Main Str.
 ~
@@ -907,7 +907,7 @@ a clear view of Ardyn Park while this little street continues to the east. To
 the north is a small building which houses the Tailor's Shop and to the south
 is the city's cobbler.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 To the north lies a Tailor's shop.
 ~
@@ -935,7 +935,7 @@ this street intersects with Perimeter Road next to the high town walls. Far
 to the west, you can barely see the green trees and marble fountains of Ardyn
 Park. To the north lies a well-lit tattoo parlor.              
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~
@@ -956,7 +956,7 @@ You are standing on a wider, cobblestone road which runs along the inside of
 the high town walls. Perimeter Road leads to the north and south. Your way to
 the east is blocked by the wall.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 Perimeter Road continues, running alongside the walls.
 ~
@@ -978,7 +978,7 @@ You are standing on a large, clean roadway which runs next to the town walls.
 This cobblestone avenue continues to the north and south; to the east, a
 narrower roadway called Guild Street leads into the center of town.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 Perimeter Road continues, running alongside the walls.
 ~
@@ -1003,7 +1003,7 @@ Clerics' Guild. Guild Street dead-ends into Perimeter Road just west of here
 while it continues into Ardyn Park far to the east. You may go in any
 direction.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 You see the Mages' Guild.
 ~
@@ -1031,7 +1031,7 @@ You are on a narrow street that runs from Ardyn Park to the walls.  North of
 here is the Thieves' Guild and to the south is the Warriors' Guild.  Just
 east of here is Ardyn Park.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 The Thieves' Guild.
 ~
@@ -1062,7 +1062,7 @@ south of here, through golden gates, Main Street continues towards the southern
 edge of town.  To the north, the immense park continues and to the west a
 narrow roadway called Guild Street West leads into the distance.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 There is more park to the north.
 ~
@@ -1086,7 +1086,7 @@ freshly-made shoes. When you look around you can see why, the walls are lined
 with all sorts of shoes, boots, sandals and other footwear you can't even
 recognize.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 Guild Street.
 ~
@@ -1100,7 +1100,7 @@ been erected to divide the mid-sized lots from each other.  The homes built
 upon this court are nice and clean if a bit small.  Perimeter Road is to the
 east.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D1
 Perimeter Road.
 ~
@@ -1113,7 +1113,7 @@ You are standing on a broad road that runs alongside the town wall.  There
 is a pleasant little court to the west but passage to the east is blocked
 by the immense walls of town.  Perimeter Road runs north and south.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 Perimeter Road continues both north and south.
 ~
@@ -1137,7 +1137,7 @@ walls of this town for centuries.  The immense, newly-improved walls block
 your way to the west and a large building prevents you from moving to the
 east, but this road continues both north and south from this point.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 Perimeter Road goes north...
 ~
@@ -1159,7 +1159,7 @@ large bookshelf on one wall.  Long white candles burn around the room but
 never seem to get shorter.  The only exit is back to the north, onto Guild
 Street.
 ~
-212 32780 0 0 0 0
+212 12 0 0 0 0
 D0
 Guild Street.
 ~
@@ -1175,7 +1175,7 @@ over in one corner of the large area while in another are diagrams of anatomy,
 charts showing different weapons, and skematics teaching positioning and
 proficiency during battle. The door back to Guild Street is to the north.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 Guild Street.
 ~
@@ -1191,7 +1191,7 @@ crystal chandelier hangs from the ceiling high above, its candles burning
 brightly. You notice a sign on the counter near the doorway leading east, back
 to main street.
 ~
-212 32780 0 0 0 0
+212 12 0 0 0 0
 D1
 ~
 ~
@@ -1208,7 +1208,7 @@ You are standing on Main Street, just south of Ardyn Park. To the west you see
 the small but elegant building that houses the bank. East of here the huge
 Temple of Djin looms above you. Main Street itself continues to the south.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~
@@ -1232,7 +1232,11 @@ You are standing in the world-famous Temple of Djin. Before you, to the east,
 are rows and rows of wooden pews all facing the high altar. To the west,
 through huge wooden doors, is Main Street.
 ~
-212 32796 0 0 0 0
+212 28 0 0 0 0
+D0
+~
+~
+0 0 21201
 D1
 ~
 ~
@@ -1249,7 +1253,7 @@ the rest of town but rather is paved with smooth red bricks.  The massive city
 wall blocks your way to the east while a large building makes travel to the
 west impossible.  You may go north or south, along Perimeter Road.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~
@@ -1266,7 +1270,7 @@ city walls.  To the west, the high, strong wall blocks your way and to the
 east you see the Sleeping Giant Inn.  Perimeter Road itself continues to
 the north and south.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~
@@ -1288,7 +1292,7 @@ with a bar and several tables.  A staircase in the back of the room leads up
 to a lobby area where you can rent a room for the night.  A door to the
 west leads back onto the street.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D3
 ~
 ~
@@ -1305,7 +1309,7 @@ criminals and traitors against the state. Behind the counter there is a steel
 box full of stamps which you can buy. Near the counter is a large sign. The
 only exit is to the east.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D1
 ~
 ~
@@ -1324,7 +1328,7 @@ Post Office while to the east is a strange, stone building that houses the
 portals where you can travel to distant places magically.  Main Street runs
 north-south.                                                              
 ~
-212 32768 0 0 0 1
+212 0 0 0 0 1
 D0
 ~
 ~
@@ -1350,7 +1354,7 @@ this building have strange runes of power burned into them and, upon the
 ceiling, is a large circle with magical writing within it. To the west lies
 Main Street.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D3
 ~
 ~
@@ -1367,7 +1371,7 @@ This is a dirty, smelly court with little hovels and shacks built on it.  Rats
 scamper across the street and frolic in the mounds of trash that have built
 up here over the years.  Perimeter Road is to the east.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D1
 ~
 ~
@@ -1379,7 +1383,7 @@ East Perimeter Road~
 The road itself leads north and south while a dirty little court runs
 to the west.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~
@@ -1400,7 +1404,7 @@ than dragon fire and makes the whole room very warm.  Over in one corner is
 an anvil and next to it a large iron bucket of water.  A huge hammer
 hangs on one wall.  You can leave back through the door to the south.
 ~
-212 32772 0 0 0 0
+212 4 0 0 0 0
 D2
 Perimeter Road.
 ~
@@ -1415,7 +1419,7 @@ all neatly arranged upon strong wooden shelves. A large desk sits near the
 front of the room with a sign that reads "QUIET!" upon it. The exit is to the
 south.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D2
 ~
 ~
@@ -1431,7 +1435,7 @@ vast riches of people who live on this street and wonder what a thief would
 do to be able to sneak past the elaborate defenses of these mansions.  South
 Perimeter Road is south of here.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D2
 Perimeter road.
 ~
@@ -1446,7 +1450,7 @@ you rather suspect that the town guards would be summoned to take you away
 rather quickly; rich folk like these do not take lightly to trespassers.
 Perimeter Road is to the south.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D2
 Perimeter Road.
 ~
@@ -1459,7 +1463,7 @@ This is the southwest corner of town.  Perimeter Road bends here, leading to
 the north and east.  You look closely at the huge town walls and notice a
 iron ladder leading up to some kind of tower far above.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~
@@ -1479,7 +1483,7 @@ This is Perimeter Road, a cobblestone avenue that runs parallel to the town
 walls around the entire city. You can continue to the east or west on
 Perimeter Road; a small workshop lies to the north.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~
@@ -1499,7 +1503,7 @@ You are on South Perimeter Road, just north of the huge town wall at the
 southern edge of the city.  The road itself leads east-west while to the
 north is the entrance to the library.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~
@@ -1521,7 +1525,7 @@ along the town walls. Main Street leads north-south, running through
 the center of town.  The massive southern gate is just south of this
 point.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~
@@ -1545,7 +1549,7 @@ You are on Perimeter Road, just east of Main Street.  An exclusive court is
 just north of here while to the west Perimeter Road intersects with Main
 Street.  Perimeter Road also runs to the east towards the corner of town.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~
@@ -1566,7 +1570,7 @@ the southern wall of town.  Just north of here is a very nice little court.
 Perimeter Road continues east and west but passage to the south is made
 impossible by the huge walls of town.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~
@@ -1586,7 +1590,7 @@ This is the southeast corner of town where Perimeter Road turns sharply,
 following the city walls.  You may follow the road north or west and may
 also climb an old iron ladder up to a tower high above you.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~
@@ -1610,7 +1614,7 @@ forms, which range from city visitors permits to vendor licences, to
 cargo inspection reports and applications for citizenship.  The city
 gate south is just to your east.
 ~
-212 32780 0 0 0 0
+212 12 0 0 0 0
 D1
 ~
 ~
@@ -1622,7 +1626,7 @@ You are standing beneath the massive southern gate of Alaozar.  Main Street
 leads northward, through town and to the south is the wild world.  West of
 here is a sentry post and to the east are the guard quarters.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~
@@ -1651,7 +1655,7 @@ shelf here record the possessions and wares of merchants who come to sell in
 the markets of town so that they cannot cheat state when filing taxes.  The
 only exit is to the west.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D3
 ~
 ~
@@ -1663,7 +1667,7 @@ This well-lit shop is one of the better parlors that you've seen. The
 proprietor seems to have good artistic sense, as shown by the small 
 renderings of his art lining the walls.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D2
 ~
 ~
@@ -1678,7 +1682,7 @@ to the east and west, disturbing the serenity of the pine forest.
 the side of the road to the east and west and prevent passage in those
 directions.
 ~
-212 32772 0 0 0 3
+212 4 0 0 0 3
 D0
 The forest road continues to the north.
 ~
@@ -1699,7 +1703,7 @@ to the east and west, disturbing the serenity of the pine forest.
 the side of the road to the east and west and prevent passage in those
 directions.
 ~
-212 32772 0 0 0 3
+212 4 0 0 0 3
 D0
 The road continues to the north.
 ~
@@ -1720,7 +1724,7 @@ to the east and west, disturbing the serenity of the pine forest.
 the side of the road to the east and west and prevent passage in those
 directions.
 ~
-212 32772 0 0 0 3
+212 4 0 0 0 3
 D0
 The forest road continues to the north.
 ~
@@ -1741,7 +1745,7 @@ to the east and west, disturbing the serenity of the pine forest.
 the side of the road to the east and west and prevent passage in those
 directions.
 ~
-212 32772 0 0 0 3
+212 4 0 0 0 3
 D0
 The forest road continues to the north.
 ~
@@ -1762,7 +1766,7 @@ to the east and west, disturbing the serenity of the pine forest.
 the side of the road to the east and west and prevent passage in those
 directions.
 ~
-212 32772 0 0 0 3
+212 4 0 0 0 3
 D0
 The forest road continues to the north.
 ~
@@ -1783,7 +1787,7 @@ to the east and west, disturbing the serenity of the pine forest.
 the side of the road to the east and west and prevent passage in those
 directions.
 ~
-212 32772 0 0 0 3
+212 4 0 0 0 3
 D0
 The road continues to the north.
 ~
@@ -1803,7 +1807,7 @@ to the east and west, disturbing the serenity of the pine forest.
 the side of the road to the east and west and prevent passage in those
 directions.
 ~
-212 32772 0 0 0 3
+212 4 0 0 0 3
 D0
 The forest road continues to the north.
 ~
@@ -1823,7 +1827,7 @@ toward 'Alaozar' as it appears on the sign.
    The forest grows thick to the east and west, preventing you from
 conveniently travelling there.
 ~
-212 32772 0 0 0 3
+212 4 0 0 0 3
 D0
 The forest road continues to the north.
 ~
@@ -1842,7 +1846,7 @@ side by side. To the east and west are impenetrable forest, and far ahead
 you can see what looks like the gates to a town. 
    The forest road continues to the south.
 ~
-212 32772 0 0 0 1
+212 4 0 0 0 1
 D0
 ~
 ~
@@ -1859,7 +1863,7 @@ the city are visible even over the city wall, which rises many feet over your
 head.
    To the south, a road leads through the forest.
 ~
-212 32772 0 0 0 0
+212 4 0 0 0 0
 D0
 ~
 ~
@@ -1924,7 +1928,7 @@ Perimeter Road~
 You are standing on Perimeter Road next to the town wall.  To the west there
 is a pet shop.  Perimeter Road continues both north and south.
 ~
-212 32768 0 0 0 0
+212 0 0 0 0 0
 D0
 ~
 ~

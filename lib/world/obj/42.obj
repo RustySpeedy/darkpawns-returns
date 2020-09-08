@@ -163,13 +163,21 @@ A long iron key twisted into and odd shape lies on the ground.~
 #4291
 test cloak~
 a testing cloak~
-Undefined~
+a cloak for testing players vs mobs is on the ground~
 ~
-11 4 0 0 0 1024 0 0 0
+11 3 0 0 0 1024 0 0 0
 0 0 0 0
-1 6000 100.00
+3 6000 100.00
 A
-19 20
+19 30
+A
+18 15
+A
+17 -50
+A
+29 7
+A
+29 3
 #4292
 test light~
 a testing light~

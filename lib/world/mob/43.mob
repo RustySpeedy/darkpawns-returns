@@ -233,13 +233,14 @@ Bahamut is among the noblest creatures of the realm.  His steady, kind mien
 bespeaks the wisdom of eons.  Summoned from heaven by the God of War to serve
 as his steed, Bahamut is a fierce and loyal companion to mighty Mars.
 ~
-10572042 0 0 0 1140855944 0 0 0 400 E
+10571786 0 0 0 1142043784 2 0 0 0 E
 60 -40 -50 60d5+17904 40d4+40
 0 135420039
 8 8 1
 BareHandAttack: 12
 Race: 10
 Noise: The ground trembles from the weight of a massive beast nearby.
+Script: healer.lua 8
 E
 #4314
 Paddy O'Hooligan man~

@@ -1,1 +1,50 @@
+CircleMUD v3.0 Shop File~
+#3640~
+3683
+3684
+3685
+3626
+3627
+-1
+1.00
+1.00
+-1
+%s Sorry hun, I ain't got what your lookin' for.~
+%s Check your eyes, your tryin' to sell me somethin' you don't have!~
+%s Sorry, I aint buyin' what your sellin'.~
+%s Sorry hun, that's too rich for my blood..~
+%s Your so poor you can't afford to pay attention..~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+3640
+0
+3691
+-1
+0
+28
+0
+0
+#3691~
+-1
+1.00
+1.00
+-1
+%s Sorry, I don't stock that item.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+0
+0
+-1
+0
+28
+0
+0
 $~

@@ -1,0 +1,302 @@
+#31401
+Alsherjogod priest man~
+Alsherjogod the High Priest~
+A tall, lean man dressed in an intricately embroidered robe in a feminine cut stands here.
+~
+   This man stands nearly 7 foot tall and is clothed in a robe embroidered
+with various nordic symbols.  The robe is wrapped at the waist and cut in a
+deep V at the breast likely the accentuate his femininity.  He seems to
+straddle the line between feminine and masculine.  He has deep set brown eyes
+that at once appear kind and hard.  
+~
+2074 0 0 0 4264 0 0 0 500 E
+36 -16 -26 36d5+3912 24d4+24
+0 363000
+8 8 0
+BareHandAttack: 13
+Race: 0
+E
+#31402
+man seidr henrick cream~
+Henrick the seidr~
+A bearded man rests here with eyes closed dressed in a cream cloak.
+~
+   This man has a neatly trimmed beard and a kind face.  He is wearing a thick
+cream colored cloak.  He is the seidr of the stronghold which indicates that
+he must wield vast power.  You can hear him quietly humming a steady cadence.
+
+~
+239707 0 0 0 16552 0 0 0 0 E
+36 -16 -26 36d5+3912 24d4+24
+0 363000
+8 8 1
+BareHandAttack: 7
+Race: 0
+Noise: The seidr hums at a low volume steadily without interruption.
+E
+#31403
+shield maiden woman muscular~
+a Shield Maiden~
+A lithe, yet muscular woman saunters around appearing alert and poised for a fight.
+~
+   This woman stands over six feet tall and is clearly experienced in the art
+of combat.  She is wearing loose pants underneath a form fitting leather suit
+cinched around the waist.  A fine cloak embroidered with silk symbols hangs
+from her shoulders down her back.  She is alert to her surroundings and is
+poised to react in a moments notice.  Her auburn hair is intricately woven
+into a long braid that hangs down her back.  
+~
+93 0 0 0 294944 0 0 0 200 E
+25 -5 -15 25d5+299 16d4+16
+0 37500
+8 8 2
+Race: 0
+Noise: You hear a woman utter, 'Hail Freyja, Vanadis, I ask for protection, under your falcon wings and war-maidens shield.'
+E
+#31404
+young berserker man~
+a young Berserker~
+A stout young man stands here arrogantly taking in his surroundings.
+~
+   This young man is wearing a loose leather pants made of animal hide.  A
+belt hangs from his waist containing various weapons and instruments.  A
+leather strap crosses his bare chest and leads to a scabbard on his back made
+to hold a large axe.  He is bearded with golden brown hair that is scraggly
+and the end of which nearly reaches his sternum.  His head is shaved and
+intricate tattoos of Nordic runes cover his arms and chest.  
+~
+93 0 0 0 294944 0 0 0 0 E
+25 -5 -15 25d5+299 16d4+16
+0 37500
+8 8 1
+Race: 0
+Noise: You hear footsteps and the sound of armor being jarred with each step.
+E
+#31405
+Glosbe blacksmith dverger~
+Glosbe the Dverger~
+A dwarf with a harsh scowl on his face stands here stoking the fire in his forge.
+~
+   Stocky and standing less than 5 foot tall, this Dverger looks as if he is
+barely containing his rage.  His face is red with anger and he probably
+channels that rage into his work using a giant hammer to beat metal into
+submission.  He is wearing tattered animal hide pants and a stained white
+shirt with missing buttons.  A leather apron almost black with soot hangs
+around his neck and is tied in the back.  
+~
+8505435 0 0 0 136 0 0 0 0 E
+37 -17 -27 37d5+4495 24d4+24
+15000 369000
+8 8 1
+BareHandAttack: 5
+Race: 2
+Noise: The ground trembles as a blacksmiths hammer slams into an anvil..
+E
+#31406
+Bjornir armorer man elderly~
+Bjornir, the old armorer~
+An elderly, but stocky man stands here hunched over and peers at you with angry, narrowed eyes.
+~
+   Bjornir is an elderly man, who appears well passed his days of battle.  He
+appears to be angry as a default emotion, perhaps thinking his death might be
+in his armory, and not in battle as he probably expected.  He is wearing a
+light leather jerkin and some loose-fitting dark pants.  He looks as if he
+would attack anyone who thought to touch the items in the armory.  His long,
+silver hair is held back with a leather tie and he watches everything closely
+with piercing near-black irises.  
+~
+8669275 0 0 0 136 0 0 0 0 E
+34 -14 -24 34d5+2746 22d4+22
+6000 270000
+8 8 1
+Race: 0
+Noise: Someone in another room yells, 'Put the fucking shit back where it belongs you maggots!'
+E
+#31407
+Rollo Jarl man~
+Jarl Rollo~
+A muscular man wearing the full hide of a bear glares at you from under the upper jaw of the bear.
+~
+   Rollo is the Jarl of the Stronghold and the leader of the Norseman in this
+area.  He appears to be over 7 foot tall and is proportionally wide.  He is
+wearing leather pants and a cloak embroidered in red Nordic runes.  His
+clothing alone indicates his high stature and the air of authority he projects
+only strengthens that notion.  His movements are practiced and the sheer power
+that he wields is apparent.  He could only become more powerful if he were to
+be wielding a weapon in his giant hands.  
+~
+8768075 0 0 0 1212584 0 0 0 0 E
+39 -19 -29 39d5+5661 26d4+39
+30000 375000
+8 8 1
+BareHandAttack: 13
+Race: 0
+Noise: Onto the keel you climb, Cold is the ocean brine. Keeping courage though, Locked in a deadly throe. Baldhead, how no fear, showers fall on you here. With maidens you had a way, All must die one day.
+E
+#31408
+Rollo Jarl man~
+Jarl Rollo, the Enraged~
+A muscular man wearing the full hide of a bear glares at you from under the upper jaw of the bear.
+~
+   Rollo is the Jarl of the Stronghold and the leader of the Norseman in this
+area.  He appears to be over 7 foot tall and is proportionally wide.  He is
+wearing leather pants and a cloak embroidered in red Nordic runes.  His
+clothing alone indicates his high stature and the air of authority he projects
+only strengthens that notion.  His movements are practiced and the sheer power
+that he wields is apparent.  He could only become more powerful if he were to
+be wielding a weapon in his giant hands.  
+~
+8408667 0 0 0 1090730 0 0 0 -1000 E
+39 -19 -29 39d5+5661 26d4+45
+45000 375000
+8 8 1
+BareHandAttack: 3
+Race: 0
+Noise: You hear a booming voice, 'I know your in my hold mother fucker! HERE I COME!'
+E
+#31438
+fat lazy church soldier~
+a lazy crusader~
+An overweight, useless slob of a soldier sits here motionless.
+~
+   A flabby failure and a fucking fool without fortitude and ferocity fiddles
+his fingers.  
+~
+10 0 0 0 0 0 0 0 500 E
+25 -5 -15 25d5+299 16d4+16
+0 37500
+8 8 1
+Race: 0
+E
+#31439
+sleeping soldier holy~
+a drowsy soldier of God~
+A large man, drowsily searches for what woke him here.
+~
+   A muscular soldier wearing pajamas is sleeping here with a tight grip on
+his sword.  He has no idea you are here as he is in a deep slumber.  
+~
+10 0 0 0 0 0 0 0 0 E
+25 -5 -15 25d5+299 16d4+16
+0 37500
+4 8 1
+BareHandAttack: 13
+E
+#31440
+repenting battle-beaten soldier~
+a weary battle-beaten soldier~
+A fully armorered soldier is here bowing his head whispering at the ground.
+~
+   A fully armored soldier wearing scale mail with a large red cross on his
+back and chest.  His helmet is at his side as he preys to his God.  
+~
+2059 0 0 0 1073745920 0 0 0 0 E
+25 -5 -15 25d5+299 16d4+16
+500 37500
+8 8 1
+BareHandAttack: 3
+Race: 0
+E
+#31441
+soldier pagan hunter~
+a blood-thirsty pagan hunter~
+A well armored soldier is here preparing for battle with the heathens.
+~
+   Armored to the teeth, well rested and ready for war.  He is alert and
+itching to spill blood.  
+~
+787723 0 0 0 128 0 0 0 500 E
+27 -7 -17 27d5+345 18d4+18
+0 45000
+8 8 1
+Race: 0
+E
+#31442
+pagan defector man~
+a pagan defector~
+An man who looks nothing like the rest of the soldiers, is bowing his head mumbling something.
+~
+   A viking defector who appears to be worshipping with the enemy here.  He
+keeps lifting his head looking back at the stairs going upward.  Maybe he
+didn't defect and he's a spy?  
+~
+6154 0 0 0 8192 2 0 0 0 E
+26 -6 -16 26d5+322 17d4+17
+500 40000
+8 8 1
+Race: 0
+E
+#31443
+priest man~
+an armored priest~
+A priest, with full battle armor, stands here reciting scripture at anyone that will listen.
+~
+   A very righteous looking man is wearing battle beaten armor that glistens
+in the light.  
+~
+8406299 0 0 0 4232 0 0 0 1000 E
+33 -13 -23 33d5+2163 22d4+22
+10000 180000
+8 8 1
+Race: 0
+Noise: You hear the sounds of sin being washed away from the wicked.. in the form of obnoxious preaching.
+E
+#31444
+grand master man soldier command~
+the Grand Master of the Holy Army~
+A large commanding man stands at the balcony looking northeast.
+~
+   A very muscular and forboding man dressed in high quality plate mail.  
+He's middle-aged, brown hair, and brown eyes.  He is the Grand Master, the
+leader of this army.  
+~
+8936731 0 0 0 135308 2 0 0 1000 E
+39 -19 -29 39d5+5661 26d4+26
+0 375000
+8 8 1
+Race: 0
+E
+#31446
+war strategist man~
+a Holy War Strategist~
+A somewhat soft looking fellow is moving small figurines around on a large table in the center of the room.
+~
+   A man who's sole purpose is to strategically eliminate non-believers via
+complex instruction.  He is in no way a hardened soldier.  Just a pencil
+pushing strategist.  
+~
+6283 0 0 0 4224 0 0 0 500 E
+25 -5 -15 25d5+299 16d4+16
+0 37500
+8 8 1
+Race: 0
+E
+#31447
+grand master's personal guard~
+the Grand Master's guard~
+A massive wall of muscle and armor stands at attention here, protecting his hero.
+~
+   A large soldier, armored in very expensive plate mail.  Far tougher looking
+than anyone else in the spire.  
+~
+18699 0 0 0 1048712 0 0 0 0 E
+31 -11 -21 31d5+997 20d4+20
+0 90000
+8 8 1
+Race: 0
+E
+#31457
+imp treasure hoarder~
+the treasure hoarding imp~
+A creepy, short, oily looking imp is here hoarding the treasure of the north men.
+~
+   An imp with oily and almost translucent skin paces the small space as if
+gone mad.  It holds the items that the Jarl sends down here.  
+~
+8536207 0 0 0 1073775656 0 0 0 -1000 E
+30 -10 -20 30d5+414 20d4+20
+15000 60000
+8 8 0
+BareHandAttack: 14
+E
+$

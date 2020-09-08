@@ -1,0 +1,26 @@
+#23600
+Room~
+You are in an unfinished room.
+~
+236 0 0 0 0 0
+S
+#23601
+test~
+You are in an unfinished room.
+~
+236 0 0 0 0 3
+S
+#23701
+test~
+You are in an unfinished room.
+~
+236 0 0 0 0 0
+S
+#23809
+error test~
+You are in an unfinished room.
+earrror
+~
+236 1 0 0 0 0
+S
+$~

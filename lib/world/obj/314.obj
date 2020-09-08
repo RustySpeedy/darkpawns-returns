@@ -1,0 +1,290 @@
+#31401
+Mjolnir pendant~
+a heavy Mjolnir pendant~
+A silver pendant on a long chain lies here gathering dust.~
+   This pendant is quite large, about the size of a human head.  It is made of
+pure silver and engraved with intricate nordic runes.  The pendant is molded
+in the shape of the god of thunder.  The silver chain and hammer pendant are
+cool to the touch.  This is not mean to be worn, but held in place of your
+shield.  
+~
+9 72925250 0 0 0 513 0 0 0
+5 0 0 0
+10 7000 8.00
+E
+pendant~
+   This pendant is made of pure silver and is engraved with intricate celtic
+knots.  The pendant itself is molded in the shape of Thor's hammer and has a
+heavy weight that belies its size.  The silver chain and hammer pendant are
+quite cool to the touch.  
+~
+A
+19 1
+A
+12 15
+A
+13 15
+#31402
+smoking brass thurible~
+a smoking brass thurible~
+A brass thurible on a chain lies in a heap here still smelling of sage.~
+~
+9 72925504 0 0 0 513 0 0 0
+5 0 0 0
+10 1000 8.00
+E
+brass thurible sage~
+   The thurible is made of brass that has been welded together into smooth
+corners.  One side opens on tiny hinges that allows the addition of dried
+herbs to be burned.  Three brass chains anchored at the peak allow for holding
+or hanging.  
+~
+A
+27 5
+A
+29 4
+A
+12 5
+#31403
+cream runic cloak~
+a cream cloak of ancient runes~
+A cream-colored cloak covered in ancient runic symbols that faintly glow lies here in a heap.~
+~
+9 72401216 0 0 0 1025 0 0 0
+11 0 0 0
+3 1000 8.00
+E
+cloak runic cream~
+   The cloak is thick with soft, supple hide.  It is dual layered and made to
+keep the body heat inside.  The outside of the cloak is covered in Nordic
+runes, some of which emit a soft glow when touched or moved.  
+~
+A
+19 1
+A
+18 -2
+#31404
+smoked trout fish fillet~
+a smoked trout fillet~
+A smoked trout fillet sits here giving off a mild fishy odor.~
+~
+19 0 0 0 0 1 0 0 0
+2 0 0 0
+1 0 90.00
+#31405
+the Skeggox~
+the Skeggox~
+A rosewood handled axe with a wickedly sharp edge gleams in the light here.~
+~
+5 5534018 0 0 0 8193 0 0 0
+0 6 5 3
+10 5000 5.00
+E
+skeggox~
+This one handed axe has a wicked sharp edge. It is made of black steel and the handle is rosewood and covered in norse runes.
+~
+A
+14 -50
+A
+18 3
+A
+19 5
+#31406
+hardened leather skirt~
+a hardened-leather skirt~
+A pile of hardened and woven leather lies here discarded.~
+~
+9 256 0 0 0 65537 0 0 0
+5 0 0 0
+6 1200 3.00
+E
+hardened leather skirt~
+This dark brown leather has been hardened using old methods that render the
+leather nearly impenetrable.  The trips of the leather have been woven into a
+tight, waterproof pattern.  The patina on the leather itself shows that it has
+been put to use and already broken in.  
+~
+A
+18 1
+A
+17 -6
+#31407
+broken-back seax~
+a broken-back seax~
+A very sharp blade with a sharp, angled transition from blade to point lies on the ground.~
+~
+5 66 0 0 0 8193 0 0 0
+0 4 4 14
+5 2000 3.00
+E
+broken-back seax~
+   This blade's edge could cut through flesh and armor like sliding a hot
+knife through butter.  The shape of the blade is a little peculiar as the
+edge-side starts at the rosewood hilt and flows to its sharpened point, but
+the backside is different.  The side of the blade opposite its edge is
+straight from the hilt, but midway through angle sharply breaking the straight
+back.  This allows the point of the dagger to pierce much more effectively.  
+~
+A
+1 1
+A
+18 2
+A
+19 2
+#31408
+scabbard leather hardened bjornir~
+the hardened-leather scabbard of Bjornir~
+Someone left an ancient scabbard laying here like a fool.~
+~
+9 13656384 0 0 0 2049 0 0 0
+5 0 0 0
+2 1000 8.00
+E
+scabbard leather bjornir~
+   A belt made from ancient leather, which has been well taken care of.  
+Seems to have some sort of runes carved into its belt.  The scabbard itself,
+where the sword would be is decorated in steel accents.  
+~
+A
+19 3
+A
+12 -15
+A
+5 1
+#31409
+dverger bulwark~
+the bulwark of the Dverger~
+Some poor soul left an invincible, intricately designed, dwarven steel shield here.~
+~
+9 149745664 0 0 0 513 0 0 0
+17 0 0 0
+23 4000 8.00
+A
+24 -10
+A
+23 -10
+A
+19 1
+#31410
+broken axe handle~
+a broken axe handle~
+Looks as though someone smashed an axe into the ground here so hard that the axe head is missing and the handle is lying in pieces here.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+500 1 40.00
+#31411
+Grand Ulfberth~
+&YG&Gr&Ya&Gn&Yd &CU&wl&Cf&wb&Ce&wr&Ct&wh&n~
+Someone's masterfully crafted ulfberth lies here forgotten.~
+~
+9 184315994 0 0 0 16385 0 0 0
+20 0 0 0
+25 7750 100.00
+A
+17 -5
+A
+13 25
+A
+18 2
+A
+23 -15
+#31412
+cloak of celestial integrity~
+a cloak of celestial integrity~
+A pristine white cloak is on the ground at risk to get dirty.~
+~
+9 140793153 0 0 0 1025 0 0 0
+13 0 0 0
+2 5000 8.00
+A
+19 1
+A
+29 12
+#31413
+celestial integrity armor~
+a pristine breastplate of celestial integrity~
+A pristine breastplate of celestial integrity lies on the ground collecting dust.~
+~
+9 140793153 0 0 0 9 0 0 0
+20 0 0 0
+0 0 15.00
+A
+24 -15
+A
+23 -15
+A
+26 10
+#31414
+figurine wooden viking~
+a small wooden viking Shield Maiden~
+A small wooden figurine has been left here carelessly.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+0 0 30.00
+A
+29 9
+A
+13 5
+A
+29 11
+A
+4 3
+#31434
+unfinished object~
+an unfinished object~
+An unfinished object is lying here.~
+~
+0 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0.00
+#31443
+elk bone key~
+an elk bone key~
+A key carved from the metacarpal of an elk lies here.~
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1 50.00
+#31444
+cross bow cleanser~
+a whitewashed crossbow named "the Cleanser"~
+A large crossbow has been left here irresponsibly.~
+~
+6 0 0 0 0 8193 0 0 0
+0 6 5 0
+7 9000 7.00
+A
+19 4
+A
+18 4
+A
+25 11
+#31445
+glistening white bolt~
+a glistening white bolt~
+Someone left a perfectly good crossbow bolt here.~
+~
+7 258 0 0 0 1 0 0 0
+0 5 5 0
+1 1500 50.00
+#31449
+bolt basket~
+a large container for bolts~
+A steel framed basket with leather weaving, sits here to store crossbow bolts.~
+~
+15 0 0 0 0 1 0 0 0
+150 0 -1 0
+1000 1000 100.00
+#31457
+ornate seax~
+an ornate jeweled seax~
+A beautiful gold and jeweled dagger has been carefully laid on the ground.~
+~
+5 7 0 0 0 8193 0 0 0
+0 4 3 11
+1 0 100.00
+A
+18 4
+$~

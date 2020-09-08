@@ -45,7 +45,7 @@ A small pile of ash lies here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 1000 1
+0 1000 15.00
 #1226
 sand reagent~
 a pinch of sand~
@@ -53,7 +53,7 @@ A small pile of sand lies here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 25 1
+1 25 1.00
 #1227
 eye beholder reagent~
 the eye of a beholder~
@@ -61,7 +61,7 @@ An eye the size of your fist lies here, staring at you.~
 ~
 12 0 0 0 0 16385 0 0 0
 0 0 0 0
-1 1 1
+1 1 1.00
 #1228
 frog leg reagent~
 the leg of a frog~
@@ -69,7 +69,7 @@ A small, stringy green leg is trying to move here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 400 1
+1 400 1.00
 #1229
 chunk iron reagent~
 a small chunk of iron~
@@ -77,7 +77,7 @@ A small chunk of black iron is sitting here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 1 1
+1 1 1.00
 #1230
 dust vampire~
 some vampire dust~
@@ -85,7 +85,7 @@ A small pile of dust lays here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 1 1
+1 1 1.00
 #1231
 small crystal reagent~
 a small, glittering crystal~
@@ -93,7 +93,7 @@ A small crystal glitters brilliantly here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 50 1
+1 50 1.00
 #1232
 hop reagent~
 a hop~
@@ -101,7 +101,7 @@ The dried, ripe flower of a hop plant is here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 1 1
+1 1 1.00
 E
 hop~
 It's a dried, ripe flower.
@@ -113,7 +113,7 @@ A long, black feather is here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 2 2
+1 2 2.00
 #1234
 lens reagent~
 a small, clouded lens~
@@ -121,7 +121,7 @@ A small, dirty lens is sitting here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 90 1
+1 90 1.00
 E
 lens~
 It's a round, dirty piece of glass.
@@ -133,7 +133,7 @@ The scale of a brass dragon is here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 1 1
+1 1 1.00
 #1236
 prism reagent~
 a prism~
@@ -141,7 +141,7 @@ A small, crystal prism sits here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 85 1
+1 85 1.00
 #1237
 hellstone reagent~
 a hellstone~
@@ -149,7 +149,7 @@ A hellstone sits here, burning with infernal fires.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-2 1 1
+2 1 1.00
 #1238
 globe reagent~
 a small globe~
@@ -157,7 +157,7 @@ A small globe is sitting here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 2 2
+1 2 2.00
 #1239
 obsidian shard reagent~
 a shard of obsidian~
@@ -165,7 +165,7 @@ A shard of obsidian is here.~
 ~
 12 65536 0 0 0 1 0 0 0
 0 0 0 0
-1 10 10
+1 10 10.00
 E
 shard obsidian~
 It's a small black piece of rock.
@@ -177,7 +177,7 @@ A tiny, blue sapphire is glinting here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 1 1
+1 1 1.00
 #1241
 steel reagent~
 a steel ball~
@@ -185,7 +185,7 @@ A ball made from steel rolls around here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-3 1 1
+3 1 1.00
 #1242
 glass lens reagent~
 a small, glass lens~
@@ -193,5 +193,5 @@ A glass lens has been left here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 10 10
+1 10 10.00
 $~

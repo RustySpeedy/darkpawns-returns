@@ -1,1 +1,684 @@
-$
+#3600
+fountain ornate water~
+ornate fountain~
+An ornate Fountain depicting legendary scenes is here.~
+~
+23 1 0 0 0 1 0 0 0
+999999 999999 15 0
+1000004 200 100.00
+E
+ornate fountain water~
+   This majestic fountain shows a multitude of legendary battle scenes
+depicting heros of both a Divinely Good and Infernally Evil denomination.  
+The scenes depict legendary creatures such as Dragons, Gorgons, Elementals and
+Eldritch beasts.  Mayhaps the scenes shown are a precursor to YOUR own Grand
+Legend!  Enjoy this fountain's bounty and embark ahead young hero.  
+~
+#3601
+portal gateway returning begining~
+a portal returning to the begining~
+A mythic gateway coated in mystical starlit ethers flows here.~
+~
+12 322 0 0 0 0 0 0 0
+0 0 0 0
+900 3601 100.00
+S portal.lua 2
+E
+portal gate returning beginning mythic mystical~
+   A massive archway makes up the framing of this divine portal.  The surface
+of which has the sheen of a mirror speckled with twinkles of starlight.  You
+can see the lavish Regeneration Room located at the begining of your journey
+on the other side of this portal.  Perhaps stepping thru it shall take you
+there?  
+~
+#3602
+partially chewed canteen~
+a partially chewed on canteen~
+A chewed on canteen with a broken strap lies here forgotten.~
+~
+17 0 0 0 0 1 0 0 0
+15 3 0 0
+3 15 100.00
+#3603
+dented black visor helm~
+a dented black-visored helm~
+A beat up helmet is lying here on the ground.~
+~
+9 65858 0 0 0 17 0 0 0
+4 0 0 0
+1 200 100.00
+A
+3 1
+#3604
+fractured weighted chain~
+a fractured weighted chain~
+A strange looking chain with a few weights on the end lies in ruin here.~
+~
+9 257 0 0 0 2049 0 0 0
+2 0 0 0
+1 200 100.00
+A
+19 1
+#3605
+tarnished silvery shield~
+a tarnished silvery shield~
+A tarnished shield is here up for grabs.~
+~
+9 65536 0 0 0 513 0 0 0
+3 0 0 0
+1 200 100.00
+A
+5 2
+A
+17 -5
+#3606
+busted ancient ring~
+a busted ancient ring~
+A very old ring is on the ground.~
+~
+9 65536 0 0 0 3 0 0 0
+1 0 0 0
+1 200 100.00
+A
+4 1
+A
+13 5
+#3607
+dented black steel greaves~
+some dented black steel greaves~
+A set of damaged black steel greaves are collecting dust here.~
+~
+9 65536 0 0 0 257 0 0 0
+3 0 0 0
+1 200 100.00
+A
+1 1
+A
+17 -4
+#3608
+fractured fire opal~
+a fractured fire opal~
+A fractured opal gem is here collecting dust.~
+~
+9 65537 0 0 0 16385 0 0 0
+1 0 0 0
+1 200 100.00
+A
+19 1
+A
+18 1
+#3609
+cracked orb of power~
+a cracked, orb of power~
+A strange orb is floating inches from the ground.~
+~
+9 65537 0 0 0 262145 0 0 0
+1 0 0 0
+1 200 100.00
+A
+29 10
+#3610
+broken fanged mask~
+a broken, fanged mask~
+A strange looking mask with fangs is collecting dust on the floor.~
+~
+9 65536 0 0 0 131073 0 0 0
+1 0 0 0
+1 200 100.00
+A
+2 1
+A
+17 -4
+A
+28 5
+#3611
+fragmented amulet of protection~
+a fragmented, amulet of protection~
+A dusty old amulet is on the ground waiting for someone to pick it up.~
+~
+9 65536 0 0 0 5 0 0 0
+1 0 0 0
+1 200 100.00
+A
+20 -3
+A
+24 -4
+A
+18 1
+A
+17 -3
+#3612
+cracked disk tainted amber~
+a cracked, disk of tainted amber~
+An odd disk of amber is here collecting dust.~
+~
+9 65538 0 0 0 4097 0 0 0
+2 0 0 0
+1 200 100.00
+A
+12 3
+A
+13 3
+A
+14 3
+A
+23 -5
+#3613
+black boot steel dented~
+some dented, black steel boots~
+A pair of black boots made of steel are here begging for feet.~
+~
+9 65536 0 0 0 65 0 0 0
+3 0 0 0
+1 200 100.00
+A
+17 -5
+A
+2 1
+#3614
+aged steel claws~
+an aged, set of steel claws~
+A set of violent looking claws are here in the floor.~
+~
+9 65536 0 0 0 129 0 0 0
+1 0 0 0
+1 200 100.00
+A
+18 2
+A
+13 3
+#3615
+tarnished mithril chain skirt~
+a tarnished, mithril chain skirt~
+A skirt made from mithril chain lies unattended here.~
+~
+9 65536 0 0 0 65537 0 0 0
+1 0 0 0
+1 200 100.00
+A
+17 -4
+#3616
+badly damaged dragon scale leggings~
+a pair of badly damaged, dragon-scale leggings~
+A set of scaled leggings is here begging for someone to slip them on.~
+~
+9 65536 0 0 0 33 0 0 0
+4 0 0 0
+1 200 100.00
+A
+17 -4
+A
+18 1
+#3617
+tarnished mithril cloak~
+a tarnished, mithril cloak~
+A pile of mithril chain in the form of a cloak is here.~
+~
+9 65536 0 0 0 1025 0 0 0
+1 0 0 0
+1 200 100.00
+A
+17 -3
+A
+14 5
+#3618
+fractured dragon scale breast plate~
+a fractured, dragon-scale breastplate~
+A dragon scaled breastplate lies here in shambles.~
+~
+9 65536 0 0 0 9 0 0 0
+7 0 0 0
+1 200 100.00
+A
+17 -3
+A
+1 1
+A
+5 1
+A
+4 1
+A
+3 1
+#3619
+rusted pitted twisted dagger~
+a rusty, pitted twisted dagger~
+A strange twisted looking dagger is stuck into the ground.~
+~
+5 372738 0 0 0 8193 0 0 0
+0 2 7 11
+1 200 100.00
+A
+19 1
+A
+18 2
+#3620
+cracked lightning-shaped sword~
+a cracked, lightning-shaped sword~
+A strange looking sword lies in the dirt here.~
+~
+5 880641 0 0 0 8193 0 0 0
+0 2 7 3
+1 200 100.00
+A
+19 1
+A
+18 2
+#3621
+desecrated ancient staff power~
+a desecrated, ancient staff of power~
+A powerful yet poorly cared for staff lies in the floor.~
+~
+5 639043 0 0 0 8193 0 0 0
+0 2 6 5
+1 200 100.00
+A
+4 1
+A
+12 3
+#3622
+certificate completion~
+the Right of Passage &YCertificate&n of Completion~
+A small golden certificate is lying here.~
+~
+16 65627 0 0 0 278529 0 0 0
+0 0 0 0
+1 1000 100.00
+E
+certificate completion paper right passage~
+Give this to any &RImmortal&n, for one of the following:
+
+A. One free renaming of an item of your choice.
+B. One free mystery item of value and use pulled at random by an Immortal.
+C. One bag of useful potions.
+D. One time venture funding of 100,000 coins.
+
+Congratulations from Slayer, Darius, Hodor, Noogie, and Vangaard.
+~
+A
+29 1
+#3623
+chaotic gateway portal~
+a chaotic spatial gateway~
+A chaotic gateway formed from a contained spatial tear floats here.~
+~
+12 67 0 0 0 0 0 0 0
+0 0 0 0
+900 3693 100.00
+S portal.lua 2
+#3624
+Kir Drax'in portal gate~
+a shimmering portal with visions of Kir Drax'in~
+A shimmering portal leading to the City of Kir Drax'in hovers in place.~
+~
+12 67 0 0 0 0 0 0 0
+0 0 0 0
+900 8008 100.00
+S portal.lua 2
+#3625
+chaotic tear tablet spatial~
+a chaotic spatial tear leading to a massive tablet~
+A chaotic spatial tear leading to a massive tablet floats here.~
+~
+12 67 0 0 0 0 0 0 0
+0 0 0 0
+900 3601 100.00
+S portal.lua 2
+#3626
+home cooked comfort food~
+some delicious, home-cooked comfort food~
+A mouth watering plate of Reba's comfort food is here waiting for you to devour it.~
+Someone devours a delicious meal.
+~
+19 0 0 0 0 1 0 0 0
+4 0 0 0
+1 1 100.00
+E
+food comfort~
+A steaming plate of mashed potatoes, carrots, and a slow cooked beef roast.
+~
+#3627
+goatskin water container~
+a goatskin water container~
+A meticulously crafted water container from the skin of a goat has been carelessly left here.~
+~
+17 0 0 0 0 1 0 0 0
+6 6 11 0
+11 100 100.00
+#3628
+large engraving monolith~
+a large black monolith~
+An very large obsidian monolith has a important message for whomever decides to enter the Cemetary Gateway.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+600 10000 100.00
+E
+black monolith tablet obsidian~
+&cLooking up at the massive solid obsidian tablet, which
+towers over you three men tall, you see in bold script:&n
+
+              &DBreaching the portal is 
+              intended to be a learning
+              experience,  and a way to
+              load some  equipment.  It
+              is  highly recommended to
+              utilize  &R3&D  characters. 
+              Furthermore,  the area is
+              built  for  you  to &Rpause&D,
+              take in your  scenery and
+              listen   for &Rtips&D  in the
+              peaceful rooms. You  have
+              until  level  11  to  get
+              through.  After  this you
+              will no longer be able to
+              enter. Good Luck!&n
+
+~
+#3673
+cemetary~
+the Cemetary Gates~
+A large gateway beckons you into its bowels, please enter the gate to begin a journey you will never forget!~
+~
+12 3 0 0 0 0 0 0 0
+0 0 0 0
+500 3602 100.00
+S portal.lua 2
+E
+gate gateway portal~
+Please type '&Renter cemetary&n'&n.
+~
+#3674
+strange alien tablet~
+an other-worldy tablet~
+An otherworldy steel and glass tablet emits a strange light from its face. "READ TABLET"~
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+500 10000 100.00
+E
+tablet~
+The strange device is displaying some information:
+
+
+To your west, an exlusive store just for new adventurers. 
+&yWARNING: DO NOT PURCHASE ITEMS FOR VETERAN PLAYERS.&n
+
+To the north, there is a portal, this will take you to the Kir Drax'in Cemetary.
+Where you will gain very useful knowledge on how to navigate the Wyldlands as well as 
+challenge your bravery for some useful items.
+&RThis area is restricted to players level 11 and below.&n
+
+To your east, there is a portal which will take you to an exclusive leveling, gold farming,
+and a few boss mobs who load some pretty awesome equipment. 
+&RThis area is restricted to players level 18 and below.&n
+~
+#3675
+tear fabric space time portal~
+a tear in the fabric of space and time~
+There is a tear in the fabric of space and time here, enter it to escape this strange void!~
+~
+1 0 0 0 0 1 0 0 0
+0 0 0 0
+500 3601 100.00
+S portal.lua 2
+E
+achromatic plain~
+   Doesn't look like its too terribly dangerous, fuck it..  Dive in.  
+~
+#3676
+plain~
+a shimmering portal to the Achromatic Plain~
+A shimmering portal to an Achromatic Plain is here beckoning your entry.~
+~
+1 0 0 0 0 1 0 0 0
+0 0 0 0
+500 3692 100.00
+S portal.lua 2
+E
+achromatic shimmering portal plain~
+Doesn't look like its too terribly dangerous, fuck it.. Dive in.
+Type '&Renter plain&n'.
+~
+#3677
+ancient bronze coin~
+an ancient bronze coin~
+An ancient bronze coin is here...~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+1 200 75.00
+#3678
+ancient spellbook~
+a gold plated spellbook~
+A book with a gold plated spline is here collecting dust.~
+~
+3 0 0 0 0 1 0 0 0
+15 1 1 36
+2 300 30.00
+#3679
+ill fated champion blade~
+an ill-fated champion's blade~
+A dirty sword is here for the taking..~
+~
+5 486031426 0 0 0 8193 0 0 0
+0 10 1 3
+9 1000 10.00
+A
+13 10
+A
+5 1
+A
+29 12
+A
+29 13
+#3680
+obsidian bone power bracelet~
+a bone and obsidian bracelet of power~
+A powerful looking bracelet is on the ground.~
+~
+9 215531842 0 0 0 4097 0 0 0
+2 0 0 0
+1 1000 10.00
+A
+3 1
+A
+4 1
+A
+29 4
+A
+27 1
+A
+12 4
+#3681
+sack stolen goods~
+a sack of stolen goods~
+A large sack is here collecting dust.~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+15 500 50.00
+#3682
+assassins black hood~
+a pitch-black assassin's hood~
+The hood of an assassin has been dropped by mistake and is lying here ripe for the taking.~
+~
+9 212861504 0 0 0 17 0 0 0
+1 0 0 0
+1 1000 10.00
+A
+19 1
+A
+29 5
+#3683
+recall scroll~
+a recall scroll~
+A scroll of recall has been left here.~
+   Slayer the almighty implementor has appeared wielding a giant club named
+the Newbie Knocker.  He looks around for the individual who prayed for his
+help.  Slayer locks on target, rears back and hits them with a powerful swing
+of his club!  &RBOOM!  &n
+~
+2 0 0 0 0 16385 0 0 0
+30 42 0 0
+1 25 100.00
+#3684
+rapid healing elixer~
+a rapid healing elixer~
+A large potion is here ripe for the picking.~
+   As if by some miracle the one, and the ONLY Hodor steps through a tear in
+space and time.  He hovers over a newbie in need, digging through a large bag
+frantically.  Bingo!  Hodor pulls out a shivering, malnurished elven cleric he
+keeps for special occassions, forces them to heal the one who called him here.
+
+~
+10 1 0 0 0 1 0 0 0
+30 15 15 15
+1 50 100.00
+#3685
+powerful concoction~
+a powerful concoction~
+A powerful looking potion is on the ground, you better pick it up before someone else does!~
+   Darius, the dominator of the damned, has smashed through what you perceive
+as reality.  He heads straight for the mother fucker that called him and
+aggressively, whilst staring them in the eyes real serious like, pulls out a
+tiny bag of pixie dust and sprinkles it on their head.  One would expect
+something horrible to happen with the sheer violence that preceded the
+sprinkle, yet the poor victim is rewarded with protection.  
+~
+10 2 0 0 0 1 0 0 0
+30 3 1 73
+1 75 100.00
+#3699
+Immortals reward ledger book prize~
+&WI&Ym&Wm&Yo&Wr&Yt&Wa&Yl&W'&Ys &GRewards &yLed&cger&n~
+An object of unparralled divinity lies here please report to an immortal!~
+~
+16 50331739 0 0 0 0 0 0 0
+0 0 0 0
+0 0 0.00
+E
+4 Weapons~
+76]    a daemonic whip    <9910>
+77]    a biotic dagger    <3503>
+78]    a frost-covered blade    <11008>
+79]    the Hammer of Night    <14402>
+80]    a Bodhidharma staff    <19409>
+81]    a petrified stalk    <11000>
+82]    the Sun Blade    <14128>
+83]    a serpentine dagger    <15807>
+84]    a beheading axe    <11025>
+85]    a diamond-handled whip    <20007>
+86]    a wicked-looking kama    <19436>
+87]    a vengeful blade    <11048>
+88]    a spider-shaped dagger    <14424>
+89]    a bo stick    <7007>
+90]    a strangely-shaped blade    <20021>
+91]    an enchanted blade    <3101>
+92]    an ivory mace    <23507>
+93]    a twisted dagger    <7914>
+94]    an elven blade named "Silverstar"    <19521>
+95]    a daemon's lochaber    <4914>
+96]    a bullwhip    <12802>
+97]    an ornate dagger    <5200>
+98]    a golden axe    <12804>
+99]    a cobalt knife    <23509>
+100]   a sharp, shiny scalpel    <14422>
+~
+E
+3 dr~
+51]    weighted chain    <19413>
+52]    a sickle-shaped claw    <18601>
+53]    black dragon's claw    <14309>
+54]    a set of sharp steel claws    <12110>
+55]    a small fire opal    <19401>
+56]    an unholy mask    <11038>
+57]    a holy mask    <11039>
+58]    a fanged mask    <14427>
+59]    a sickle-shaped claw    <18615>
+60]    a tiger eye    <11003>
+61]    a golden idol    <12801>
+62]    some vengeful armor    <11047>
+63]    a pirate hat    <12134>
+64]    a belt of woven shadow    <23505>
+65]    some daemonic greaves    <7951>
+66]    a jade ring    <4210>
+67]    an onyx ring    <11012>
+68]    an opal ring    <4209>
+69]    a necklace made of bones    <14122>
+70]    a pair of black-laced boots    <15809>
+71]    an orb of power    <11054>
+72]    a cream cloak of ancient runes    <31403>
+73]    a ninja cloak    <3103>
+74]    some magma gauntlets    <1310>
+75]    Chakram    <7913>
+
+To See More Options
+&RRead page 4&n
+~
+E
+immortal reward ledger 1~
+Roll Selection #      Item Name         Item Vnumber
+
+1]     Mithril Chain Skirt      <157>
+2]     Mithril Chain Sleeves    <155>
+3]     Elven Battle Cloak    <19525>
+4]     Dark Cloak of Stealth    <20024>
+5]     Regal Cloak of Torak the Elder    <18724>
+6]     Xixieqian scale gauntlets    <4829>
+7]     daemon skin armor    <4901>
+8]     black lacquered helm    <3100>
+9]     some black steel greaves    <14219>
+10]    a huge suit of grey armor    <14410>
+11]    an amulet of protection    <15815>
+12]    a pair of elverine leggings    <2513>
+13]    charred leggings    <23501>
+14]    a steel battle bracer    <19507>
+15]    a black bracer    <14209>
+16]    a mithril cloak    <21222>
+17]    a belt of valor    <20022>
+18]    a mithril chain mask    <154>
+19]    a hardened-leather skirt    <31406>
+20]    a charred and blackened breastplate    <31212>
+21]    the orb of the Necromancer    <15822>
+22]    a pulsing orb    <5506>
+23]    a silvery shield    <4109>
+24]    an earthly shield    <1308>
+25]    some black steel boots    <14220>
+
+To See More Options
+&RRead Page 2&n
+~
+E
+Page 2~
+Roll Selection #      Item Name         Item Vnumber
+
+26]    the elemental eye    <1317>
+27]    some golden armor    <3109>
+28]    a golden ring of intertwined leaves    <5505>
+29]    dull black armor    <3123>
+30]    a golden crown    <12810>
+31]    some dull black leggings    <3129>
+32]    a golden cloak    <12811>
+33]    some dull black sleeves    <3124>
+34]    a green suit of scale mail armor    <14428>
+35]    an ebony cloak    <4105>
+36]    a rakshasa bracelet    <11013>
+37]    a sparkling rope    <4215>
+38]    a pumice crown    <9905>
+39]    an ornate collar    <11028>
+40]    the ring of the Necromancer    <15808>
+41]    a bloody talisman    <14130>
+42]    a dark black cloth cloak w/ silvery rose clasp    <2739>
+43]    a brass lamp    <11050>
+44]    a golden shield    <12803>
+45]    a green and black shield    <2730>
+46]    a shadow cape    <19111>
+47]    a small pair of spectacles    <14408>
+48]    a silver hunting horn    <2752>
+49]    a living ring    <3501>
+50]    a funerary talisman    <11001>
+
+To See More Options
+&RRead Page 3&n
+~
+$~

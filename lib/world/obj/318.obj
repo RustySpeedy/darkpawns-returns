@@ -1,0 +1,157 @@
+#31801
+troll face~
+&ythe carefully &rremoved&y face of a troll&n~
+A small pile of skin and hair is covered in flies here.~
+~
+9 128 0 0 0 131073 0 0 0
+7 0 0 0
+2 233 10.00
+A
+17 -3
+A
+18 2
+A
+29 20
+A
+13 -10
+#31855
+dragon scale armored boots~
+a pair of dragonscale, armored boots~
+A pair of dragonscale boots have been carelessly left here!~
+~
+9 66 0 0 0 65 0 0 0
+12 0 0 0
+3 5000 10.00
+E
+boots dragonscale serpent skin armored~
+   These boots are covered in the marbled ruby and white scales of a dragon.
+The soles are made of a matte black material that adds grip as well as
+moldable structure.  The scales and construction ensure comfort and defense.
+
+~
+A
+19 2
+A
+29 6
+#31856
+heart~
+the heart of the Dread Biter~
+A very large black heart is on the ground, twitching.~
+~
+3 33554496 0 0 0 1 0 0 0
+30 2 2 82
+0 0 75.00
+E
+heart dread biter~
+   The heart of a most violent beast is still twitching and pulsating.  It is
+black as charcoal and colder than the tundra from which it came.  It is a
+dangerous object, yet powerful in its own right.  
+~
+A
+29 25
+A
+29 11
+A
+26 -40
+#31857
+wristguard white dragonscale~
+a white dragonscale wristguard~
+A Nidhoggr scaled wrist guard has been left here!~
+~
+9 3 0 0 0 4097 0 0 0
+4 0 0 0
+2 5000 15.00
+A
+18 1
+A
+19 1
+A
+13 4
+#31858
+disgusting translucent swollen head~
+a disgusting translucent and swollen head of the Nuckelavee rider~
+A gleeming, swollen mongoloid head with translucent skin and hollow eyes wrigles in the dirt.~
+~
+3 268435520 0 0 0 16385 0 0 0
+30 3 3 80
+20 4000 50.00
+E
+disgusting translucent swollen head~
+   A gleeming, swollen mongoloid head with translucent skin and hollow eyes.
+Its veins still twiching and pumping blood from the missing neck.  It smells
+like spoiled meat and sulfur.  
+~
+#31892
+mushroom patch~
+a large patch of shimmering red mushrooms~
+A large patch of shimmering red mushroom is attached to the wall.~
+~
+15 0 0 0 0 1 0 0 0
+150 0 -1 0
+1500 1 100.00
+E
+mushrooms shimmering patch~
+   A large mushroom patch, all of them are glowing brightly beckoning you to
+consume them.  
+~
+#31893
+glowing red mushroom~
+a glowing red mushroom~
+Someone left a curiously bright red mushroom here.~
+   &BAs &Gt&gh&Ge &Rmus&Whr&Ro&ro&Rm &Mhits&C yo&cur b&We&wll&Gy, &ga
+b&Gurs&Ct &cof y&Yellow, &Bblue, &GRed, g&Re&ro&Rm&ret&Rr&ric
+&rpa&Rt&Wt&Ce&cr&Cns&W co&Bns&bume &Myo&mur &Ra&rtt&Wen&Bt&bio&Wn.  &WSpace
+and time seem irrelevant now...  &n
+~
+10 0 0 0 0 1 0 0 0
+30 57 19 0
+0 0 1.00
+#31894
+glowing green mushroom~
+a glowing green mushroom~
+A green mushroom is glowing and pulsating here.~
+~
+10 1 0 0 0 1 0 0 0
+30 4 98 99
+1 50 100.00
+E
+green mushroom~
+   This does not look edible.  It is oozing green puss, and has a horrid
+stench.  Do not eat this mushroom or do it, whats the worst that can happen?
+~
+#31897
+glowing blue sphere~
+a glowing blue sphere~
+The glowing blue sphere is incased in ice on the eastern wall.~
+~
+15 0 0 0 0 1 0 0 0
+100 13 -1 0
+1000 0 100.00
+E
+blue sphere~
+A blue sphere incased in ice looks like it can be opened by a skilled thief.
+~
+#31898
+small gold ruby wand~
+a small gold and ruby encrusted wand~
+Someone left a very expensive looking wand here.~
+~
+3 0 0 0 0 1 0 0 0
+30 3 3 59
+0 0 3.00
+E
+gold ruby wand~
+   A beautifully crafted golden wand, Meticulously etched in the handle rests
+a suit of armor adorned with small rubys.  
+~
+#31899
+armor~
+Protection of Slayer~
+A big fucking mistake is here.~
+~
+9 3 0 0 0 9 0 0 0
+40 0 0 0
+0 0 0.00
+A
+17 -25
+$~

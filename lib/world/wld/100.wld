@@ -1,9 +1,15 @@
 #10011
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Upper Southern Stands~
+Rows upon rows of stone seating stretch far to the east, and they are stacked
+upon each other like steps leading lower into the coliseum to your south.  
+There is garbage strewn about everywhere, and puddles of questionable liquids
+dirty your boots with each step.  At this height, the combat in the area is a
+bit distant, but you have still got a great view.  The air is humming with the
+cheering of the crowd.  The air is humming with the cheering of the crowd.  
+At the very top of the stands, the seating levels off and leaves some standing
+room for the poor spectators unable to find seats.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D1
 ~
 ~
@@ -14,11 +20,17 @@ D2
 0 0 10017
 S
 #10012
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Upper Southern Stands~
+Many rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading lower into the coliseum to your
+south.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  At this height, the combat in the
+area is a bit distant, but you have still got a great view.  The air is
+humming with the cheering of the crowd.  The air is humming with the cheering
+of the crowd.  At the very top of the stands, the seating levels off and
+leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D1
 ~
 ~
@@ -33,11 +45,17 @@ D3
 0 0 10011
 S
 #10013
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Upper Southern Stands~
+Rows upon rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading lower into the coliseum to your
+south.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  At this height, the combat in the
+area is a bit distant, but you have still got a great view.  The air is
+humming with the cheering of the crowd.  The air is humming with the cheering
+of the crowd.  At the very top of the stands, the seating levels off and
+leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D1
 ~
 ~
@@ -52,11 +70,17 @@ D3
 0 0 10012
 S
 #10014
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Upper Southern Stands~
+Many rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading lower into the coliseum to your
+south.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  At this height, the combat in the
+area is a bit distant, but you have still got a great view.  The air is
+humming with the cheering of the crowd.  The air is humming with the cheering
+of the crowd.  At the very top of the stands, the seating levels off and
+leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D1
 ~
 ~
@@ -71,11 +95,17 @@ D3
 0 0 10013
 S
 #10015
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Upper Southern Stands~
+Rows upon rows of stone seating stretch far to the west, and they are stacked
+upon each other like steps leading lower into the coliseum to your south.  
+There is garbage strewn about everywhere, and puddles of questionable liquids
+dirty your boots with each step.  At this height, the combat in the area is a
+bit distant, but you have still got a great view.  The air is humming with the
+cheering of the crowd.  The air is humming with the cheering of the crowd.  
+At the very top of the stands, the seating levels off and leaves some standing
+room for the poor spectators unable to find seats.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D2
 ~
 ~
@@ -86,11 +116,15 @@ D3
 0 0 10014
 S
 #10016
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center 
-of the stadium, you can see a game in progress.
+Lower Northern Stands~
+Rows upon rows of stone seating stretch far to the east, and they are stacked
+upon each other like steps leading higher into the coliseum.  To your south
+there is a large covered walkway leading to the southern section of the
+stands.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  Below you, the arena can easily be
+seen.  The sounds of combat and cheering fill the air.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D1
 ~
 ~
@@ -101,11 +135,14 @@ D2
 0 0 10023
 S
 #10017
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Lower Northern Stands~
+Many rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading higher into the coliseum to your
+north.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  Below you, the arena can easily be
+seen.  The sounds of combat and cheering fill the air.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -120,11 +157,14 @@ D3
 0 0 10016
 S
 #10018
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Lower Northern Stands~
+Rows upon rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading higher into the coliseum to your
+north.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  Below you, the arena can easily be
+seen.  The sounds of combat and cheering fill the air.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -139,11 +179,14 @@ D3
 0 0 10017
 S
 #10019
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Lower Northern Stands~
+Many rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading higher into the coliseum to your
+north.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  Below you, the arena can easily be
+seen.  The sounds of combat and cheering fill the air.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -158,11 +201,14 @@ D3
 0 0 10018
 S
 #10020
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Lower Northern Stands~
+Rows upon rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading higher into the coliseum to your
+north.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  Below you, the arena can easily be
+seen.  The sounds of combat and cheering fill the air.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -177,11 +223,14 @@ D3
 0 0 10019
 S
 #10021
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Lower Northern Stands~
+Many rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading higher into the coliseum to your
+north.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  Below you, the arena can easily be
+seen.  The sounds of combat and cheering fill the air.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -196,11 +245,15 @@ D3
 0 0 10020
 S
 #10022
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Lower Northern Stands~
+Rows upon rows of stone seating stretch far to the west, and they are stacked
+upon each other like steps leading higher into the coliseum.  To your south
+there is a large covered walkway leading to the southern section of the
+stands.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  Below you, the arena can easily be
+seen.  The sounds of combat and cheering fill the air.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D2
 ~
 ~
@@ -211,11 +264,16 @@ D3
 0 0 10021
 S
 #10023
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+The Western Concourse~
+The concourse connects the northern and southern sections of the stands.  You
+can hear the sounds of vendors selling beer and street food in this area.  
+Though there is not any seating, there is limited standing room with a decent
+view of the arena.  This is also one of the few shaded areas within the
+stands, and can offer a bit of respite from inclement weather or the
+suffocating summer heat.  The concourse continues to the south, and exits into
+the stands to the north.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -224,13 +282,22 @@ D2
 ~
 ~
 0 0 10025
+D3
+~
+~
+0 0 10056
 S
 #10024
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+The Eastern Concourse~
+The concourse connects the northern and southern sections of the stands.  You
+can hear the sounds of vendors selling beer and street food in this area.  
+Though there is not any seating, there is limited standing room with a decent
+view of the arena.  This is also one of the few shaded areas within the
+stands, and can offer a bit of respite from inclement weather or the
+suffocating summer heat.  The concourse continues to the south, and exits into
+the stands to the north.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -241,11 +308,15 @@ D2
 0 0 10026
 S
 #10025
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+The Western Concourse~
+The concourse connects the northern and southern sections of the stands.  You
+can hear the sounds of vendors selling beer and street food in this area.  
+Though there is not any seating, there is limited standing room with a decent
+view of the arena.  This is also one of the few shaded areas within the
+stands, and can offer a bit of respite from inclement weather or the
+suffocating summer heat.  The concourse continues to the north and south.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -254,13 +325,21 @@ D2
 ~
 ~
 0 0 10027
+D3
+~
+~
+0 0 10055
 S
 #10026
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+The Eastern Concourse~
+The concourse connects the northern and southern sections of the stands.  You
+can hear the sounds of vendors selling beer and street food in this area.  
+Though there is not any seating, there is limited standing room with a decent
+view of the arena.  This is also one of the few shaded areas within the
+stands, and can offer a bit of respite from inclement weather or the
+suffocating summer heat.  The concourse continues to the north and south.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -271,11 +350,16 @@ D2
 0 0 10028
 S
 #10027
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+The Western Concourse~
+The concourse connects the northern and southern sections of the stands.  You
+can hear the sounds of vendors selling beer and street food in this area.  
+Though there is not any seating, there is limited standing room with a decent
+view of the arena.  This is also one of the few shaded areas within the
+stands, and can offer a bit of respite from inclement weather or the
+suffocating summer heat.  The concourse continues to the north and exits into
+the stands to your south.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -286,11 +370,14 @@ D2
 0 0 10029
 S
 #10028
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Entrance to the Podium~
+This section of the concourse is much cleaner than the rest of the stands.  
+Spectators are quickly ushered through this area of the concourse and
+loitering here is not permitted.  There is a wide set of stairs up from here
+into the senatorial balconies.  The concourse continues to the north and exits
+into the stands to the south.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -299,13 +386,21 @@ D2
 ~
 ~
 0 0 10035
+D4
+~
+~
+0 0 10050
 S
 #10029
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Lower Southern Stands~
+Rows upon rows of stone seating stretch far to the east, and they are stacked
+upon each other like steps leading higher into the coliseum.  To your north
+there is a large covered walkway leading to the northern section of the
+stands.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  Below you, the arena can easily be
+seen.  The sounds of combat and cheering fill the air.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -314,13 +409,20 @@ D1
 ~
 ~
 0 0 10030
+E
+arena~
+In the arena below you can see hearty warriors fighting against an array of beasts.
+~
 S
 #10030
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Lower Southern Stands~
+Many rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading higher into the coliseum to your
+south.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  Below you, the arena can easily be
+seen.  The sounds of combat and cheering fill the air.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D1
 ~
 ~
@@ -333,13 +435,20 @@ D3
 ~
 ~
 0 0 10029
+E
+seating~
+What can be best described as step-shaped stone benches wrap around the oval-shaped arena.  Used as both seating and as walkways, they're cramped, well-worn, and in various states of disrepair from many years of use.
+~
 S
 #10031
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Lower Southern Stands~
+Rows upon rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading higher into the coliseum to your
+south.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  Below you, the arena can easily be
+seen.  The sounds of combat and cheering fill the air.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D1
 ~
 ~
@@ -352,13 +461,23 @@ D3
 ~
 ~
 0 0 10030
+E
+puddles~
+You get down on your hands and knees and take a huge whiff of the puddle.  It almost makes you retch, and you wonder what the hell is wrong with you.
+~
 S
 #10032
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+The Vomitoria~
+This large, open chamber leads directly into the stands.  It gradually opens
+outward to the east and the west making the many rows of step-like seating
+easily accessible.  There are spectators everywhere, jostling you around as
+people are constantly entering and leaving the arena.  The stone ground is wet
+with spilled beer and water, making it almost treacherously slippery.  There
+are two wide staircases leading down into the lobby.  To the south its
+possible to move further up onto the stands.  Even from here you already have
+a good view of the combat already taking place in the arena below.  
 ~
-100 32776 0 0 0 0
+100 8 0 0 0 0
 D1
 ~
 ~
@@ -377,11 +496,14 @@ D5
 0 0 10041
 S
 #10033
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Lower Southern Stands~
+Rows upon rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading higher into the coliseum to your
+south.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  Below you, the arena can easily be
+seen.  The sounds of combat and cheering fill the air.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D1
 ~
 ~
@@ -396,11 +518,14 @@ D3
 0 0 10032
 S
 #10034
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Lower Southern Stands~
+Many rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading higher into the coliseum to your
+south.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  Below you, the arena can easily be
+seen.  The sounds of combat and cheering fill the air.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D1
 ~
 ~
@@ -415,11 +540,15 @@ D3
 0 0 10033
 S
 #10035
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Lower Southern Stands~
+Rows upon rows of stone seating stretch far to the west, and they are stacked
+upon each other like steps leading higher into the coliseum.  To your north
+there is a large covered walkway leading to the northern section of the
+stands.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  Below you, the arena can easily be
+seen.  The sounds of combat and cheering fill the air.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -428,13 +557,22 @@ D3
 ~
 ~
 0 0 10034
+E
+garbage~
+Ticket stubs, pamphlets, broken ceramics, torn cloth - if it is trash, you can probably find it strewn about the stands.
+~
 S
 #10036
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Upper Southern Stands~
+Rows upon rows of stone seating stretch far to the east, and they are stacked
+upon each other like steps leading lower into the coliseum to your north.  
+There is garbage strewn about everywhere, and puddles of questionable liquids
+dirty your boots with each step.  At this height, the combat in the arena is a
+bit distant, but you have still got a great view.  The air is humming with the
+cheering of the crowd.  At the very top of the stands, the seating levels off
+and leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -445,11 +583,17 @@ D1
 0 0 10037
 S
 #10037
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Upper Southern Stands~
+Many rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading lower into the coliseum to your
+north.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  At this height, the combat in the
+arena is a bit distant, but you have still got a great view.  The air is
+humming with the cheering of the crowd.  The air is humming with the cheering
+of the crowd.  At the very top of the stands, the seating levels off and
+leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -464,11 +608,17 @@ D3
 0 0 10036
 S
 #10038
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Upper Southern Stands~
+Rows upon rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading lower into the coliseum to your
+north.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  At this height, the combat in the
+arena is a bit distant, but you have still got a great view.  The air is
+humming with the cheering of the crowd.  The air is humming with the cheering
+of the crowd.  At the very top of the stands, the seating levels off and
+leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 32776 0 0 0 0
+100 8 0 0 0 0
 D0
 ~
 ~
@@ -483,11 +633,17 @@ D3
 0 0 10037
 S
 #10039
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Upper Southern Stands~
+Many rows of stone seating stretch far to the east and west, and they are
+stacked upon each other like steps leading lower into the coliseum to your
+north.  There is garbage strewn about everywhere, and puddles of questionable
+liquids dirty your boots with each step.  At this height, the combat in the
+arena is a bit distant, but you have still got a great view.  The air is
+humming with the cheering of the crowd.  The air is humming with the cheering
+of the crowd.  At the very top of the stands, the seating levels off and
+leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -502,11 +658,17 @@ D3
 0 0 10038
 S
 #10040
-In the Stands~
-You are standing high in the stands of a large stadium. Down in the center
-of the stadium, you can see a game in progress.
+Upper Southern Stands~
+Rows upon rows of stone seating stretch far to the west, and they are stacked
+upon each other like steps leading lower into the coliseum to your north.  
+There is garbage strewn about everywhere, and puddles of questionable liquids
+dirty your boots with each step.  At this height, the combat in the arena is a
+bit distant, but you have still got a great view.  The air is humming with the
+cheering of the crowd.  The air is humming with the cheering of the crowd.  
+At the very top of the stands, the seating levels off and leaves some standing
+room for the poor spectators unable to find seats.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -515,18 +677,30 @@ D3
 ~
 ~
 0 0 10039
+E
+standing room~
+A wide platform at the top of the stands serves as a place for spectators to
+view the action if they can not find seats.  It is far from the arena floor,
+and it does not look like a great place to watch the action.  
+~
 S
 #10041
-Inside the Stadium~
-You are standing inside a large stadium. To the north, you see some doors
-that can only lead to the field. Up from here is the stands. To the south,
-you can see the entrance to the stadium.
+The Entrance to the Arena~
+You are standing in the wide lobby of the arena.  The marble stone beneath
+your feet is well worn and littered with pamphlets, tickets, and other various
+garbage carelessly tossed out by the throngs of people in the stadium.  
+Directly ahead of you is a massive portcullis that leads into the arenas
+fighting grounds.  Theres a small vestibule leading to the portcullis wherein
+you catch a peek of contenders preparing for battle.  Two broad staircases
+lead up into the stands, where the deafening sounds of the crowd above make it
+clear there is an exciting spectacle on display.  A smaller staircase in the
+vestibule before the portcullis leads down into the arena's staging area.  
 ~
-100 32772 0 0 0 0
+100 4 0 0 0 0
 D0
-You see the entrance to the arena.
+Through the iron bars, you see the arena's fighting grounds.
 ~
-door doors~
+portcullis~
 1 0 10043
 D2
 ~
@@ -536,16 +710,26 @@ D4
 ~
 ~
 0 0 10032
+D5
+~
+~
+0 0 10057
+E
+pamphlets~
+"See the fury of TARG THE TROLL as he crushes his opponents! Don't miss this opportunity - excitement only found in the famous Kir Drax'in Coliseum!"
+~
 S
 #10042
-The Entrance to the Stadium~
-You are at the entrance to a large stadium. The roar of the crowd inside is
-deafening. Obviously, there are a LOT of people in there enjoying themselves.
-To the north, you can continue further into the stadium. To the south, you
-can see the Avenue of the Gods. There is a SIGN tacked up over the entrance,
-written in crude common.
+The Grand Archway of the Coliseum~
+You are beneath a massive archway that marks the entrance to Kir Drax'in's
+coliseum.  You can hear the distinct sounds of men and beasts in combat
+punctuated by a raucous cheering from the huge crowd in the stands.  There is
+an odd combination of odors here, as you can faintly pick up the sickly-sweet
+smells of blood, sweat, and beer.  Large marble pillars line the thoroughfare
+to the north leading further into the stadium.  The road south leads back to
+the Avenue of the Gods.  
 ~
-100 32772 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -555,18 +739,29 @@ D2
 ~
 0 0 8071
 E
-sign~
-Beware! Spectators get quite aggressive during events!
+archway~
+An imposing marble arch towers above you.  Carved along the top of the archway
+are the words, "Omnium Rerum Principia Parva Sunt"
+~
+E
+pillars~
+Beautifully designed pillars line the entrance of the coliseum.  Each features
+intricate carvings of warriors and beasts.  
 ~
 S
 #10043
 The Arena~
-You stand just inside the doors of the arena, which lie to the south. Bits
-of broken weapons and bones line the ground, and the sparse grass that grows
-here is stained with old blood. Spectators line the seats above you in the
-stands.
+You are standing on the grounds of the Kir Draxin combat arena.  The sandy
+ground is saturated with blood and sweat, but each footfall still manages to
+expel a puff of dust.  There are chunks of flesh and pieces of broken
+equipment from previous fights sparsely scattered on the ground around you,
+despite the best efforts of the staff to clean up between rounds.  The massive
+arena engulfs you with expansive grounds and towering spectator stands
+everywhere you look.  The cheers of the fans echo around the arena from all
+directions.  The arena grounds continue to the north and east.  To the south
+there is a massive portcullis blocking the exit of the stadium
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -578,16 +773,21 @@ D1
 D2
 You see the exit of the arena.
 ~
-door doors~
+portcullis~
 1 0 10041
 S
 #10044
 The Arena~
-You stand upon the blood-stained grass of the arena. Fans above you shout
-and scream; some for you, some against. The sounds of battle come from all 
-around. The exit lies to the west.
+You are standing on the grounds of the Kir Draxin combat arena.  The sandy
+ground is saturated with blood and sweat, but each footfall still manages to
+expel a puff of dust.  There are chunks of flesh and pieces of broken
+equipment from previous fights sparsely scattered on the ground around you,
+despite the best efforts of the staff to clean up between rounds.  The massive
+arena engulfs you with expansive grounds and towering spectator stands all
+around.  The cheers of the fans echo around you from all directions.  The
+arena grounds continue to the north, east, and west.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -603,11 +803,16 @@ D3
 S
 #10045
 The Arena~
-The arena field under your feet is pitted and rough. The smell of blood fills
-your nose just as the screams of the spectators fills your ears. The rage of
-battle boils in your blood.
+You are standing on the grounds of the Kir Draxin combat arena.  The sandy
+ground is saturated with blood and sweat, but each footfall still manages to
+expel a puff of dust.  There are chunks of flesh and pieces of broken
+equipment from previous fights sparsely scattered on the ground around you,
+despite the best efforts of the staff to clean up between rounds.  The massive
+arena engulfs you with expansive grounds and towering spectator stands all
+around.  The cheers of the fans echo around you from all directions.  The
+arena grounds continue to the south and east.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D1
 ~
 ~
@@ -619,10 +824,16 @@ D2
 S
 #10046
 The Arena~
-The doors to the southwest seem very far away across the battle-torn field.
-Above you, fans shout for you to press your attack.
+You are standing on the grounds of the Kir Draxin combat arena.  The sandy
+ground is saturated with blood and sweat, but each footfall still manages to
+expel a puff of dust.  There are chunks of flesh and pieces of broken
+equipment from previous fights sparsely scattered on the ground around you,
+despite the best efforts of the staff to clean up between rounds.  The massive
+arena engulfs you with expansive grounds and towering spectator stands all
+around.  The cheers of the fans echo around you from all directions.  The
+arena grounds continue in all directions.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -642,11 +853,17 @@ D3
 S
 #10047
 The Arena~
-Far to the southwest you see the doors of the arena. Around you rise the
-stands on which shouting fans revel, and on the field before you a managerie
-of assorted monsters seek your blood.
+You are standing on the grounds of the Kir Draxin combat arena.  The sandy
+ground is saturated with blood and sweat, but each footfall still manages to
+expel a puff of dust.  There are chunks of flesh and pieces of broken
+equipment from previous fights sparsely scattered on the ground around you,
+despite the best efforts of the staff to clean up between rounds.  The massive
+arena engulfs you with expansive grounds and towering spectator stands all
+around.  The cheers of the fans echo around you from all directions.  The
+arena grounds continue to the south.  In the distant southwest, you can see
+the large iron portcullis blocking the stadiums exit.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D2
 ~
 ~
@@ -654,11 +871,18 @@ D2
 S
 #10048
 The Arena~
-You are standing in the southeastern corner of a wide arena. The noise coming
-at you from all directions is deafening. The crowd, the battles... it's enough
-to make you feel a bit overwhelmed.
+You are standing on the grounds of the Kir Draxin combat arena.  The sandy
+ground is saturated with blood and sweat, but each footfall still manages to
+expel a puff of dust.  There are chunks of flesh and pieces of broken
+equipment from previous fights sparsely scattered on the ground around you,
+despite the best efforts of the staff to clean up between rounds.  The massive
+arena engulfs you with expansive grounds and towering spectator stands all
+around.  The cheers of the fans echo around you from all directions.  The
+arena grounds continue to the north and west.  To your east the Podium towers
+above you, and during the day even manages to provide a little shade to this
+side of the arena.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D0
 ~
 ~
@@ -670,11 +894,18 @@ D3
 S
 #10049
 The Arena~
-The stench of death fills your nose and your eyes glaze over with the thick
-haze covering the arena. The spectators in the stands above you shout loudly
-for blood.
+You are standing on the grounds of the Kir Draxin combat arena.  The sandy
+ground is saturated with blood and sweat, but each footfall still manages to
+expel a puff of dust.  There are chunks of flesh and pieces of broken
+equipment from previous fights sparsely scattered on the ground around you,
+despite the best efforts of the staff to clean up between rounds.  The massive
+arena engulfs you with expansive grounds and towering spectator stands all
+around.  The cheers of the fans echo around you from all directions.  The
+arena grounds continue to the south and west.  To your east the Podium towers
+above you, and during the day even manages to provide a little shade to this
+side of the arena.  
 ~
-100 32768 0 0 0 0
+100 0 0 0 0 0
 D2
 ~
 ~
@@ -683,5 +914,339 @@ D3
 ~
 ~
 0 0 10046
+S
+#10050
+Before the Podium~
+This is where the elite of Kir Drax'in come to watch the arena battles.  The
+transition from the rest of the stands is startling.  The floors are clean and
+well maintained, and the seal of Kir Drax'in's nobility has been carved into
+the eastern wall.  There is a staircase leading down back to the concourse
+proper.  To the north a pair of large, heavy curtains blocks entry into the
+balconies.  
+~
+100 4 0 0 0 0
+D0
+A pair of heavy purple curtains are hanging here.  
+~
+curtains~
+1 0 10051
+D5
+~
+~
+0 0 10028
+S
+#10051
+The Podium~
+Decadently decorated with richly colored fabrics, gold leaf, and padded wooden
+chairs, there is a distinct air of nobility in these balconies.  Prominently
+poised over the arena grounds, the view from here is spectacular.  Large
+curtains cover the stone walls here in an effort dampen the sounds of the
+thundering crowd, but they have a very limited effect.  Large carved marble
+columns support a roof that juts out over the balconies and provides superior
+shade and comfort for the elite society of Kir Draxin.  It is clear that this
+is a place of honor and the general public is not permitted entry.  The
+balconies continue to the north.  To the south a pair of large, heavy curtains
+covers the exit to the concourse.  
+~
+100 0 0 0 0 0
+D0
+~
+~
+0 0 10052
+D2
+A pair of heavy purple curtains are hanging here.
+~
+curtains~
+1 0 10050
+S
+#10052
+The Podium~
+Decadently decorated with richly colored fabrics, gold leaf, and padded wooden
+chairs, there is a distinct air of nobility in these balconies.  Prominently
+poised over the arena grounds, the view from here is spectacular.  Large
+curtains cover the stone walls here in an effort dampen the sounds of the
+thundering crowd, but they have a very limited effect.  Large carved marble
+columns support a roof that juts out over the balconies and provides superior
+shade and comfort for the elite society of Kir Draxin.  It is clear that this
+is a place of honor and the general public is not permitted entry.  The
+balconies continue to the north and south.  
+~
+100 0 0 0 0 0
+D0
+~
+~
+0 0 10053
+D2
+~
+~
+0 0 10051
+E
+columns~
+Large white marble columns bear the weight of the roof above.  There is green ivy growing around them.
+~
+S
+#10053
+The Podium~
+Decadently decorated with richly colored fabrics, gold leaf, and padded wooden
+chairs, there is a distinct air of nobility in these balconies.  Prominently
+poised over the arena grounds, the view from here is spectacular.  Large
+curtains cover the stone walls here in an effort dampen the sounds of the
+thundering crowd, but they have a very limited effect.  Large carved marble
+columns support a roof that juts out over the balconies and provides superior
+shade and comfort for the elite society of Kir Draxin.  It is clear that this
+is a place of honor and the general public is not permitted entry.  The
+balconies continue to the north and south.  
+~
+100 0 0 0 0 0
+D0
+~
+~
+0 0 10054
+D2
+~
+~
+0 0 10052
+E
+fabrics~
+Richly colored fabrics and tapestries hang on the back walls of the balcony.  Many have the seal of the Kir Drax'in senate sewn into them what gold thread.
+~
+S
+#10054
+The Podium~
+Decadently decorated with richly colored fabrics, gold leaf, and padded wooden
+chairs, there is a distinct air of nobility in these balconies.  Prominently
+poised over the arena grounds, the view from here is spectacular.  Large
+curtains cover the stone walls here in an effort dampen the sounds of the
+thundering crowd, but they have a very limited effect.  Large carved marble
+columns support a roof that juts out over the balconies and provides superior
+shade and comfort for the elite society of Kir Draxin.  It is clear that this
+is a place of honor and the general public is not permitted entry.  The
+balconies continue to the south.  
+~
+100 0 0 0 0 0
+D2
+~
+~
+0 0 10053
+S
+#10055
+The Concessions~
+Vendor stalls are packed tightly along the western wall of this room.  
+Various patrons wait in line for streetfood and beer.  The unmistakable smells
+of fried meat contrast with the many baskets of bread, fruits, and sweets
+lining the stall tables.  Several stalls have huge oaken barrels filled to be
+brim with beer, with children scurrying back and forth to get drinks to
+customers.  To the east the concourse is visible, and vendor stalls continue
+onward to the north.  
+~
+100 0 0 0 0 0
+D0
+~
+~
+0 0 10056
+D1
+~
+~
+0 0 10025
+E
+barrels~
+The barrels are filled with a pale yellow beer the spectators lovingly refer
+to as pisswater.  The large barrels are sitting on the stall counters and are
+tapped at the bottom.  They do not, however, have lids, and you can see dead
+insects and other debris floating on the beer's surface.  None of this seems
+to bother anyone else, though.  
+~
+S
+#10056
+The Concessions~
+Vendor stalls are packed tightly along the western wall of this room.  
+Various patrons wait in line for streetfood and beer.  The unmistakable smells
+of fried meat contrast with the many baskets of bread, fruits, and sweets
+lining the stall tables.  Several stalls have huge oaken barrels filled to be
+brim with beer, with children scurrying back and forth to get drinks to
+customers.  To the east the concourse is visible, and vendor stalls continue
+onward to the south.  
+~
+100 0 0 0 0 0
+D1
+~
+~
+0 0 10023
+D2
+~
+~
+0 0 10055
+E
+stalls~
+In one stall you see an older woman hastily throwing chunks of meat into a
+boiling oil.  She expertly skewers them on small wooden sticks for customers.
+They honestly look pretty delicious, but you have no idea what type of meat it
+is.  
+~
+S
+#10057
+Entrance to the Staging Area~
+This dark and dimly lit hallway leads into the arena's staging area.  There is
+a pronounced odor of death, blood, and sweat down here.  Underground, there's
+simply no place for the rotten air to escape other than through this hallway
+into the arena entrance above.  There's a lot of activity here, with people
+moving bodies and equipment in and out of the arena.  A couple of contenders
+are discussing tactics for their upcoming fight, as they prepare to move into
+the lobby above.  Massive stone blocks line the walls of the hallway.  There
+is a stairwell heading up into the lobby, and the corridor continues north
+further into the staging area.  
+~
+100 0 0 0 0 0
+D0
+~
+~
+0 0 10058
+D4
+~
+~
+0 0 10041
+S
+#10058
+A Dimly Lit Hallway Beneath the Arena~
+Deeper into the staging area, the scent of death and blood becomes
+overpowering, though no one around seems to notice.  Lit only by torches and a
+small grate above struggling to vent the noxious fumes, it is a sharp contrast
+from the arena's exterior.  The corridor continues onward to the north.  To
+the east is a preparation room for combatants, and to the west are the beast
+pens.  Whether it is poor design, or the managers of the arena just like
+frightening the upcoming combatants, the beasts are clearly visible from the
+preparation rooms.  There is a reinforced barred door keeping the beasts in
+the pen.  
+~
+100 4 0 0 0 0
+D0
+~
+~
+0 0 10061
+D1
+~
+~
+0 0 10059
+D2
+~
+~
+0 0 10057
+D3
+a reinforced barred door
+~
+door~
+1 0 10060
+S
+#10059
+The Combatant Preparation Chambers~
+This room is lined with simple wooden benches along the walls.  There is
+equipment of varying, albeit relatively low, quality strewn about the room.  
+There are a couple grizzled veterans quietly preparing for battle in one
+corner of the room.  It is an unfortunate truth that this is the last place,
+aside from the arena grounds themselves, that many a young man has seen.  
+Through the door on the western wall, the beast pens across the hallway are
+clearly visible.  
+~
+100 0 0 0 0 0
+D3
+~
+~
+0 0 10058
+S
+#10060
+The Beast Pens~
+These pen are where the keep the beasts for upcoming battles.  Torn up raw
+meat lies rotting on the floor.  Whether fed to the beasts by uncaring
+keepers, or the result of fights between the bests themselves, it saturates
+the air with a festering stink.  The air here is almost cloudy with flies and
+gnats feasting upon the rotting meat, and the floor is slick with blood.  
+However it is the keepers manage to move animals in and out of here with any
+order is a mystery.  There is a large reinforced barred door to the east
+keeping the beasts in their pens.  
+~
+100 0 0 0 0 0
+D1
+a reinforced barred door
+~
+door~
+1 0 10058
+S
+#10061
+A Dimly Lit Hallway Beneath the Arena~
+At the back end of the staging area, the grotesque nature of the arena becomes
+evident.  Blood trails lead to both the east and the west.  To the east is the
+triage room where injured combatants are taken for medical assistance.  To the
+west is the "disposal" room where corpses, both beast and man, are taken to be
+eliminated.  Surrounded by injury, death, and rot, you find it quite difficult
+to breath.  To the south the hallway continues toward the exit of the staging
+area.  
+~
+100 0 0 0 0 0
+D1
+~
+~
+0 0 10062
+D2
+~
+~
+0 0 10058
+D3
+~
+~
+0 0 10063
+S
+#10062
+The Arena's Triage Chamber~
+Hanging on the walls of this room are a myriad of crude medical devices still
+coated with the brown remnants of coagulated blood.  There is a single table
+in the middle of the room, also stained with old blood.  Presumably this is
+where injured combatants are lain for operation.  Cabinets filled with
+bandages and other miscellaneous surgical items line the eastern wall.  To the
+west is the main hallway of the staging area.  
+~
+100 0 0 0 0 0
+D3
+~
+~
+0 0 10061
+S
+#10063
+The Arena's Disposal Chambers~
+This is where the corpses from combat are taken to be disposed.  There's a
+large furnace with a gated opening on the western wall.  In the middle of the
+room there is what appears to be a well, although the smell emanating from the
+pit would suggest otherwise.  Along the walls hang saws and hammers of various
+sizes, suggesting that some corpses are...  Reduced...  Prior to being "taken
+care of". A crude hand-written sign hangs on the northern wall.  The eastern
+door heads into the staging area corridor.  
+~
+100 0 0 0 0 0
+D1
+~
+~
+0 0 10061
+D5
+A massive metal grate.
+~
+grate~
+1 0 10064
+E
+sign~
+DO NOT DANGLE MEAT CHUNKS OVER THE WELL. We don't want another incident.
+~
+E
+well~
+The smell of rot coming from the well is horrifying.  You can hear growls and splashing echoing up from deep within the well.
+~
+S
+#10064
+The Bottom of the Arena's Disposal Well~
+You immediately realize that being here is a huge mistake.  The only natural
+light in this room is the pale speck of the well's opening, which is far, far
+out of reach.  The cobbled brick that was lining the wall gave way to burrowed
+dirt and stone.  The liquid at the bottom of this well is blood, not water.  
+Perhaps curiosity shouldn't have gotten the best of you.  
+~
+100 257 0 0 0 0
 S
 $~

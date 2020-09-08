@@ -380,7 +380,7 @@ An old, old manticore is here.
 ~
  This old fellow looks like he's been around a while.
 ~
-57388 0 0 0 136 0 0 0 0 E
+57452 0 0 0 136 0 0 0 0 E
 32 -12 -22 32d5+1580 21d4+21
 0 120000
 8 8 0
@@ -807,6 +807,20 @@ even more sparks!!!
 0 4500
 8 8 0
 Race: 25
+E
+#2775
+Spirit~
+the Spiritual Realization of the Great Pattern of Amber~
+Something is here which can barely be seen.
+~
+   A seamless, formless, phaseless entity made up of the grand, unyielding
+eternal powers of the Great Pattern of Amber to make contact with the current
+bearer of the mighty conduit known only as the Jewel of Judgement.  
+~
+16777227 0 0 0 557098 0 0 0 0 E
+1 19 9 1d5+20 1d4+1
+0 100
+8 8 0
 E
 #3005
 receptionist~

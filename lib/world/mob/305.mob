@@ -1,0 +1,75 @@
+#30500
+haughty seraph guard~
+a haughty seraph~
+A haughty seraph standing at attention looks down his nose at you.
+~
+A large, winged being stands at attention before the eastern door.  He is clad
+in thick armor but seems to wield no weapon.  Instead, his bony fingers end in
+what appear to be very sharp, crystalline spikes.  His stony face betrays no
+emotion other than disdain for your presence.  
+~
+247834 0 0 0 4264 0 0 0 0 E
+35 -15 -25 35d5+3329 23d4+23
+0 360000
+8 8 1
+BareHandAttack: 3
+Race: 25
+E
+#30501
+guardian basalt golem construct~
+Guardian basalt golem~
+A mountainous construct of basalt towers over you.  His eyes glow with an eerie red light.
+~
+With a central mass of a square but smooth chunk of basalt, appendages appear
+to be better described as 'really close' to the golem, rather than attached to
+it.  A rounded, emotionless head floats just barely above the surface of the
+torso.  This construct stands squarely before you and the western door.  
+~
+256026 0 0 0 8360 0 0 0 0 E
+35 -15 -25 35d5+3329 23d4+23
+0 360000
+8 8 1
+BareHandAttack: 7
+E
+#30502
+griffin beast maltheus guard~
+Maltheus, the foundation's animator~
+Maltheus, the foundation's animator, is tinkering with one of the many panels on the wall.
+~
+Maltheus appears to be very focused on the panels on the wall.  He makes
+subtle changes while constantly glancing at the green bars of light in the
+room.  Despite his massive frame, he moves gracefully while he is working.  
+He appears to be a griffin, but molded somehow to be more humanoid.  Maltheus
+still very much looks the part of bird mixed with beast.  There are large
+retractable talons embedded in his scaly, yellow arms.  Two muscular wings
+almost as tall as him are pulled tightly to his back, appearing almost as a
+cape.  
+~
+8642586 0 0 0 1073743016 0 0 0 1000 E
+33 -13 -23 33d5+2163 24d4+22
+0 180000
+8 8 1
+BareHandAttack: 8
+Race: 24
+Script: none 1
+E
+#30503
+beast bentham guard golem construct animator~
+Bentham, the foundation's animator~
+Bentham, the foundation's animator, is pacing back and forth between the panels on the wall.
+~
+Bentham feverishly watches the bars of light set into the stone.  Every few
+moments he makes some adjustments on the nearby panels.  He appears to be a
+magical construct of some sort, a golem built of the same materials as the
+walls around you.  He appears to be designed for his task, with a short and
+spindly frame able to move lithely between the panels despite weight of the
+stone.  Though he appears to be magically formed, and therefore controlled,
+but his actions betray a sentience not typically found in golems.  
+~
+8642586 0 0 0 1073743016 0 0 0 -1000 E
+33 -13 -23 33d5+2163 24d4+22
+0 180000
+8 8 1
+BareHandAttack: 7
+E
+$

@@ -1,10 +1,12 @@
 #14500
 zookeeper zoo keeper~
 a zookeeper~
-A zookeeper is here, keeping a trained eye on everything.
+A zookeeper is here monitoring the inhabitants and visitors, smiling at any passersby.
 ~
-He looks like a janitor, but you know that his job is very dangerous, keeping
-the animals and monsters in control and the visitors from bothering them.
+   He is dressed in brown pants and a tucked-in dark blue button-up shirt.  
+He is well-kempt with neat blonde hair that is combed back, and clearly
+engages in regular physical activity, because muscles ripple under his shirt
+sleeves.  
 ~
 4172 0 0 0 8 0 0 0 0 E
 10 10 0 10d5+110 5d4+5
@@ -17,8 +19,9 @@ monkey carve_meat~
 a monkey~
 A monkey shrieks loudly and throws excrement at you.
 ~
-It's a small monkey, about the size of a young child. It sees you staring at
-it, grabs a handful of dirt, and throws it at you, cackling insanely.
+   About the size of a small child, this monkey examines everyting around it
+with dark intelligent eyes.  It is covered in an almost orange fur and its
+hands and feet look quite strong.  
 ~
 14 0 0 0 262144 0 0 0 0 E
 2 18 8 2d5+30 1d4+1
@@ -30,10 +33,10 @@ E
 #14502
 lizard~
 a lizard~
-A green lizard is here, running away from you.
+A small, green lizard stares at you through tiny black eyes.
 ~
-It's a bright green lizard, about as long as your forearm. Its head bobs up
-and down when it sees you, challenging you to battle.
+A bright green lizard is about the length of a boot. Its eyes stare at you while bobbing its head up and down rapidly.
+It scuttles about through the leaves and brush on the miniature forest's floor.
 ~
 10 0 0 0 0 0 0 0 0 E
 1 19 9 1d5+20 1d4+0
@@ -65,9 +68,9 @@ bear carve_meat~
 a bear~
 A bear slowly lumbers towards you, carefully sniffing the air.
 ~
-This is a black bear, one of the smaller of the species, although it is not
-nearly as large as a grizzly or polar bear, it looks like it could rip a
-not very experienced warrior to shreds with ease.
+   Soft black fur covers this bear's large frame.  It isn't quite as large as
+a grizzly bear and appears to be rather docile.  Its dark black eyes peer at
+you curiously from the shadows in the cave.  
 ~
 10 0 0 0 0 0 0 0 0 E
 6 14 4 6d5+70 3d4+3
@@ -157,32 +160,38 @@ BareHandAttack: 6
 Race: 22
 E
 #14510
-swan carve_bird~
-a swan~
-A swan paddles through the water here.
+sickly lioness~
+an ill-looking lioness~
+An ill lioness pads back and forth slowly, ready to pounce.
 ~
-Its feathers are pure white, and its long neck holds up a small head ending
-in an orange beak. It looks like a glorified duck.
+   This creatures golden brown fur is matted together in some places.  Her
+ribs are showing through her fur and her eyes appear wild and hollow.  She
+grunts and moans deeply as she looks about her wildly.  
 ~
-10 0 0 0 0 0 0 0 0 E
-1 19 9 1d5+20 1d4+0
-0 100
+42 0 0 0 1048576 0 0 0 0 E
+10 10 0 10d5+135 5d4+7
+0 6000
 8 8 0
-Race: 24
-Noise: A loud honk gets on your nerves.
+BareHandAttack: 3
+Race: 22
+Noise: A deep and gutteral groan rumbles loudly.
 E
 #14511
-bird small carve_meat~
-a small bird~
-A small bird chirps at you.
+zoo physician~
+the Zoo Physician~
+The Zoo Physician stands here scowling at his instruments.
 ~
-It's no bigger than your fist.
+   He is a tall and bulky figure dressed in brown pants with many pockets.  
+His black boots match his belt and he is wearing a form fitting vest over a
+cream shirt.  He is wearing square wire rimmed glasses and has a permanent
+scowl on his face.  
 ~
-8 0 0 0 67108864 0 0 0 0 E
-1 19 9 1d5+20 1d4+0
-0 100
+138 0 0 0 0 0 0 0 0 E
+15 5 -5 20d7+160 10d4+10
+0 14000
 8 8 0
-Race: 24
+BareHandAttack: 13
+Race: 0
 E
 #14512
 crow carve_bird~
@@ -214,59 +223,74 @@ condor.
 Race: 24
 E
 #14514
-owl carve_bird~
-an owl~
-An owl sits here, waiting for a mouse to appear.
+animal handler~
+an animal handler~
+An animal handler stands here closely watching the animals and the exhibits.
 ~
-When it sees you it decides to stretch out its toes, showing off sharp, black
-talons.
+   This animal handler is dressed in a uniform consisting of dark brown
+pants, a white long sleeve shirt underneath a brown leather vest.  Her dark
+hair is pulled back and tied into a low pony-tail and she looks around
+frequently, keeping a close eye on the exhibits and animals.  
 ~
-8 0 0 0 67108864 0 0 0 0 E
-2 18 8 2d5+30 1d4+1
-0 200
-8 8 0
-Race: 24
-Noise: Something nearby lets out a hoot.
+4104 0 0 0 0 0 0 0 0 E
+9 11 1 9d5+100 5d4+5
+0 4500
+8 8 2
+BareHandAttack: 13
+Race: 0
 E
 #14515
 zaivrag carve_meat~
 zaivrag~
-The zaivrag stalks towards you.
+The zaivrag stalks toward you slowly, emitting a low growl deep from its throat.
 ~
-It looks like a lion, but has large wings growing out of its back and two
-horns from its head. Its long tail is covered in scales, and a barb hangs from
-the end of it.
+   Wiry golden fur broken by thick auburn stripes covers this creatures lithe
+body.  Muscles ripple with its powerful movement about the exhibit.  The
+zaivrag's enormous jaws jut out from its face revealing incisors almost the
+same size of its head.  Its dark amber eyes peer out suspiciously and the wiry
+fur becomes longer between its large pointy ears.  This longer, wiry fur is
+darker at the crown of its head and goes all the way to the tip of its tail.
+The creature's tail has a bulbous end with rows of spiny barbs that are ivory
+at the base and become black at their sharp tips.  
 ~
 10 0 0 0 0 0 0 0 0 E
 6 13 4 6d5+70 3d4+3
 0 1300
 8 8 0
 BareHandAttack: 8
-Noise: Something nearby lets out a roar.
+Noise: A low, deep grumble can be heard coming from somewhere within the exhibit.
 E
 #14516
 zoomaster master~
 the Zoomaster~
-The Zoomaster stands here, urging you to look around.
+The Zoomaster stands here with a plastered smile greeting newcomers and casting sideways glances over his shoulder.
 ~
-He's an average looking guy, currently explaining how the zoo is set up,
-apparently, the aviary is north of here, the wild animals are west, and the
-dangerous, exotic creatures are east.
+   This man's 6' 2" frame stands dressed in a dark blue coat with brass
+buttons that reach all the way up to his burly neck.  He's wearing a dark
+brown pant with the cuffs rolled up to reveal worn leather boots.  He looks as
+if he is trying to emit an air of authority, but its apparent by his nervous
+fidgeting and constant sideways glances that he's on the lookout for
+something.  Underneath his eyes are bags that were clearly earned by sleepless
+nights.  Many days of not shaving has earned his face a dirty looking scruff
+that barely conceals his sharp facial features.  
 ~
 4106 0 0 0 0 0 0 0 0 E
 11 0 -1 11d5+120 7d4+7
 20 6700
 8 8 1
 Race: 0
-Noise: You hear someone yelling about the splendors of the zoo nearby.
+Noise: A man's high pitched call announces the Zoo's offerings: "The fierce lioness! The wicked Nark! The playful monkeys! Be on the lookout for a new exhibit that is sure to impress being revealed soon!"
 E
 #14527
 maaralis~
 a maaralis~
-A maaralis stomps its feet and bangs its fists against its chest.
+A maaralis shuffles it's powerful feet on the platform and eyes you wearily.
 ~
-The maaralis is a large, four-armed monkeylike beast. Each arm ends in four,
-blunt fingers. Its skin is a pale blue and it has beady eyes.
+   This creature's large body is covered in orange and brown fur.  It's body
+is strikingly similar to that of a human, with long legs that almost mirror
+it's muscular arms.  It's mouth is slightly elongated and houses sharp
+incisors that look quite dangerous.  The creature's dark eyes glint at your
+from beneath long lashes and watch you with intelligent, sad eyes.  
 ~
 10 0 0 0 0 0 0 0 0 E
 4 15 6 4d5+50 2d4+2
@@ -275,13 +299,18 @@ blunt fingers. Its skin is a pale blue and it has beady eyes.
 BareHandAttack: 7
 E
 #14529
-steel slug~
-the steel slug~
+metallic slug~
+the metallic slug~
 A large, metallic slug slowly slides towards you.
 ~
-It looks like a giant slug, except its skin seems to be made from steel. Two
-glass eyeballs stare at you from the end of thin eyestalks. It opens a jaw
-to show off sharp, metal teeth.
+   This creature appears to be some sort of slug with a shell made of an
+organic metallic material.  The shell's polished metal surface glints in the
+light and appears to be quite heavy, which is an indicator of the creature's
+strength.  The slug's skin itself is wet, slimy brown that gives off a slight
+neon-green glow similar to that emitted by phytoplankton in the ocean.  The
+slug's eyes almost appear to be made of polished obsidian on flexible stalks
+and the mouth below them hold razor sharp teeth that look like they could
+shred diamonds.  
 ~
 10 0 0 0 0 0 0 0 0 E
 9 10 0 9d5+100 4d4+4
@@ -292,10 +321,16 @@ E
 #14530
 torewe~
 the torewe~
-The torewe floats here, tentacles flailing wildly.
+The torewe floats here, it's numerous tentacles slowly examining the objects around it.
 ~
-It is a large sphere, about three feet in diameter, with two tentacles on
-opposite sides of itself. You can't see a mouth or any noticable eyes.
+   This creature's true shape is hard to define, as it seems to never stop
+changing.  It appears to be a curious-natured creature as it's sometimes long
+tentactles reach out to everything around it, probing and caressing.  It moves
+in a slow manner as it examines, but always the tentacles pull back to its
+main body.  The color seems to always return to a neutral gray, but flows from
+grey to white to black in differnet hues.  The main body, if you could call it
+that, is spherical in shape, but seems to have the pliability to be able to
+change that as well.  
 ~
 10 0 0 0 0 0 0 0 0 E
 4 15 6 4d5+50 2d4+2
@@ -306,16 +341,25 @@ E
 #14531
 nark~
 the nark~
-The nark is here, standing on two legs.
+The nark scuttles about on its many legs emitting a hiss that sounds like razors scraping rock.
 ~
-The nark looks like a spider, except with 16 legs and no head. It's just a
-body and legs. Each leg has a spur sticking out at every joint.
+   This creature looks like a mash of several different venomous animals.  
+Its body is armored with a glossy black carapace that stems all the way down
+to its legs.  The legs themselves resemble spider legs that articulate at at
+least three different joints until they end at razor sharp points.  This
+creature seems to lack any discernable eyes, but responds quickly to any
+noise.  Fine, sharp hairs cover each leg and look more like deadly pins that
+could shoot out at any moment.  It scuttles about seeming to search for prey
+and emits a hiss that sounds like razors scraping against stone.  
 ~
-10 0 0 0 0 0 0 0 0 E
+42 0 0 0 40 0 0 0 0 E
 10 9 0 10d5+110 5d4+5
 0 5200
 8 8 0
-BareHandAttack: 7
+BareHandAttack: 3
+Race: 21
+Noise: A quiet hiss accompanied by a scuttling noise can be heard.
+Script: 0 0
 E
 #14532
 Sinzhe~

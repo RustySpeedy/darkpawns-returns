@@ -741,6 +741,30 @@ ready for some "action".
 8 8 2
 Race: 0
 E
+#9153
+Dread Rabbit Caerbannog~
+the Dread Rabbit of Caerbannog~
+The dreaded rabbit with "sharp, pointy teeth" hops around here.
+~
+   The dreaded guardian of the forbidden Cave of Caerbannog, home to the
+legendary beast AAAARRRRRRGGGGHHHHHH.  This monster is so terrible it has
+killed all who have ever tried to enter the forbidden cave.  Only death awaits
+those who challenge this fearsome beast, death with nasty, big, sharp, pointy
+teeth!!  It's perfect white fur is permanently streaked red with the blood of
+its fallen victims, stupid enough to dare to challenge this dreaded hopping
+disaster.  It has been foretold in legends near as old as time that the only
+way to slay this dreaded beast permanently is with the Holy Hand Grenade of
+Antioch.  Mayhaps even without this divine object maybe its "death" can
+temporarily stop its dreaded slaug
+~
+9693224 0 0 0 1442984 18 0 0 -1000 E
+36 -16 -26 36d6+4912 24d4+32
+145000 363000
+8 8 0
+BareHandAttack: 4
+Race: 22
+Noise: A wierd hopping sound followed by a terrifying "DUUUUUUUUNNNNNN DUN" noise is heard.
+E
 #9701
 ahab salesman sailor~
 Ahab~

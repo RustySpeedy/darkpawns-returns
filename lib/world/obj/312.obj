@@ -1,0 +1,89 @@
+#31209
+head spear~
+a Holy-man's head on a spear~
+A clergyman's head with a horrified expression has been placed on a spear here as a warning.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+2000 0 100.00
+E
+head spear clergy~
+   There is a note tattooed into the forehead in small letters, the eastern
+forest belongs to the all Father.  
+~
+#31212
+charred breastplate~
+a charred and blackened breastplate~
+A shitty looking breastplate is just lying here making the rest of the area look shittier.~
+~
+9 65602 0 0 0 9 0 0 0
+18 0 0 0
+20 1000 6.00
+A
+2 1
+A
+24 10
+A
+26 3
+#31218
+monolith~
+a black monolith~
+A sleek, black foreign object is just off the side of the road.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 100.00
+E
+black monolith object~
+   Standing about as tall as an average man, the object is what some call a
+monolith.  It is sleek, black, and otherwordly.  
+~
+#31221
+white marble arrow~
+a white marble arrow~
+A white marble statue of an arrow points eastward.~
+~
+0 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 100.00
+E
+arrow~
+In a beautiful chiseled script the arrow reads, 'The great beacon of the north lies to the east.'
+~
+#31223
+granite sign~
+a large granite sign~
+A large granite sign is off to the eastern side of the road surrounded by flowers and small trinkets.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0.00
+E
+sign granite~
+&RWARNING!!&n
+
+It is &Ccolder&n than a witches tit.
+
+You better have your own heat source, and an iron will if you plan on making the trip any further north.
+
+You have been warned.
+~
+#31225
+black white marble obsidian monolith~
+a monolith and a message~
+Sitting just off to the western side of the bridge, a large black monolith with a message catches your attention.~
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+0 0 100.00
+E
+message monolith~
+   A large black monolith, with a message engraved into the obsidian and
+filled with marble.  The lettering stands out even in the chaotic winds and
+ice.  
+
+"Frjosa Hel-vgr Tundra is beyond this point. Look before you leap..."
+
+Seems the rest of the message has been scratched out by what looks to be a dragons claws.
+~
+$~

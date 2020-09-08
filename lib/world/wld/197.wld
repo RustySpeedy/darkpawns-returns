@@ -318,10 +318,9 @@ you to peer inside.
 door~
 2 -1 19715
 E
-opening~
-Inside the room to the west you spot a large chest filled to bursting
-with more gold and jewels than you can remember ever seeing in one 
-place before.
+sign~
+The sign reads:
+  "Gaze upon my wondrous collections, but please do not enter."
 ~
 E
 hole~
@@ -329,9 +328,10 @@ Inside the room to the east you can see a full suit of armor, shining
 brightly as if it were brand new.
 ~
 E
-sign~
-The sign reads:
-  "Gaze upon my wondrous collections, but please do not enter."
+opening~
+Inside the room to the west you spot a large chest filled to bursting
+with more gold and jewels than you can remember ever seeing in one 
+place before.
 ~
 S
 #19715
@@ -402,10 +402,9 @@ small sign.
 door~
 2 -1 19718
 E
-opening~
-Through the opening in the western door can be seen the portrait of
-beautiful woman.  It appears to have been painted by that famous 
-artist, oh what's his name?  It must have cost a great fortune.
+sign~
+The sign reads:
+  "Gaze upon my wondrous collections, but please do not enter."
 ~
 E
 hole~
@@ -414,9 +413,10 @@ is quite old and has many arcane symbols in gold leaf upon the binding.
 It must contain all the wisdom of the ages.
 ~
 E
-sign~
-The sign reads:
-  "Gaze upon my wondrous collections, but please do not enter."
+opening~
+Through the opening in the western door can be seen the portrait of
+beautiful woman.  It appears to have been painted by that famous 
+artist, oh what's his name?  It must have cost a great fortune.
 ~
 S
 #19718
@@ -503,10 +503,10 @@ sign.
 door~
 2 -1 19722
 E
-opening~
-You are startled by the sight of a large red dragon staring back at 
-you, but you soon realize that it is only the head, stuffed and 
-mounted on the wall.  What a great trophy!
+sign~
+The sign reads:
+"Gaze upon my wondrous collections, but please do not enter and 
+disturb them."
 ~
 E
 hole~
@@ -514,10 +514,10 @@ Through the hole in the western door you can see the finest array of
 weapons you have ever seen.
 ~
 E
-sign~
-The sign reads:
-"Gaze upon my wondrous collections, but please do not enter and 
-disturb them."
+opening~
+You are startled by the sight of a large red dragon staring back at 
+you, but you soon realize that it is only the head, stuffed and 
+mounted on the wall.  What a great trophy!
 ~
 S
 #19722
@@ -687,13 +687,13 @@ were you!
 ~
 0 -1 19708
 E
+walls~
+The walls are wet and covered with some sort of fungus.
+~
+E
 floor slime~
 The slime at your feet has a greenish cast to it and sticks to your 
 feet when you move.
-~
-E
-walls~
-The walls are wet and covered with some sort of fungus.
 ~
 S
 #19730
@@ -717,13 +717,13 @@ and empty bottles amid the muck.
 ~
 0 -1 19731
 E
+wall floor slime~
+Truly gross!  You can't wait to escape from this slimepit!
+~
+E
 something strands ceiling~
 Something wet and stringy is hanging down from above.  You aren't sure
 that you even WANT to know what it really is!
-~
-E
-wall floor slime~
-Truly gross!  You can't wait to escape from this slimepit!
 ~
 S
 #19731

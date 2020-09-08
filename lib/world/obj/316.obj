@@ -1,0 +1,52 @@
+#31601
+1~
+a tarnished oil lamp~
+A tarnished brass oil lamp lays here half empty, burning softly.~
+~
+1 1 0 0 0 16385 0 0 0
+0 0 -1 0
+3 10 15.00
+A
+26 10
+#31602
+brown leather bound journal~
+a brown leather-bound journal~
+A deep brown leather-bound journal lies here gathering dust.~
+~
+12 0 0 0 0 16385 0 0 0
+0 0 0 0
+2 1000 9.00
+A
+4 2
+A
+27 4
+A
+3 1
+#31649
+blood soaked bear paw~
+a blood-soaked bear paw~
+A bloody, still moving front bear paw, hacked off of the gigantic short-faced bear has been discarded here.~
+It seems as though an extremely large bear lost his paw. It is still moving and bleeding somehow! What horrifyingly creature did this come from?
+~
+5 451211330 0 0 0 8193 0 0 0
+0 5 5 9
+29 666 6.66
+E
+blood soaked bear paw~
+   It seems as though an extremely large bear lost his paw.  It is still
+moving and bleeding somehow!  What horrifyingly creature did this come from?
+
+~
+A
+25 23
+A
+25 13
+A
+6 -3
+A
+26 -5
+A
+19 11
+A
+18 8
+$~

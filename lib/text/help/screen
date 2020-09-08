@@ -9,7 +9,7 @@ Objects:                           | Information:
 GET DROP JUNK DONATE PUT GIVE WEAR | SCORE HELP INFO WHO NEWS TIME WEATHER
 GRAB INVENTORY EQUIPMENT REMOVE    | WHERE CONSIDER LEVELS WIZLIST IMMLIST
 EXAMINE EAT DRINK TASTE SIP POUR   | CREDITS TOGGLE FLAGS SKILLS FAQ PROMPT
-PALM                               |
+PALM                               | ROAMING MOBS
 -----------------------------------+-------------------------------------------
 Combat:                            | Utility:
 KILL WIELD FLEE ASSIST TRACK       | ! BUG IDEA TYPO QUIT SAVE BRIEF COMPACT

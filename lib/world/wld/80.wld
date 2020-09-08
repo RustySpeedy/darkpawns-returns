@@ -61,13 +61,16 @@ D3
 0 0 8023
 S
 #8003
-Northern Wall Road~
-   The stone wall to your north and east is barely off of the crude
-cobblestone road on which you stand. To the southwest rises the back
-wall of the temple, and to the west you can see this road turn to
-the south where it meets the city rampart.
+North Wall Rd. and North Gate~
+   To the southwest, the back wall of the temple is visible and to the west
+you can see this road turn south where it meets the city rampart.  North will
+take you to the north gate of Kir Drax'in.  
 ~
 80 32768 0 0 0 1
+D0
+~
+~
+0 0 31292
 D2
 ~
 ~
@@ -98,6 +101,10 @@ D3
 ~
 ~
 0 0 8161
+D5
+~
+~
+0 0 8091
 E
 sign~
 It reads:
@@ -473,7 +480,7 @@ D1
 D3
 ~
 ~
-0 0 8024
+0 0 8191
 S
 #8024
 Northern Wall Road~
@@ -486,7 +493,7 @@ must be for pedestrian traffic only.
 D1
 ~
 ~
-0 0 8023
+0 0 8190
 D3
 ~
 ~
@@ -607,10 +614,11 @@ amongst the tall ivory towers of paradise.
 S
 #8031
 Main Street~
-   You stand on a street running from the Temple of the Cross to your north
-to the city gates of Kir Drax'in far to the south.  East of here is the front
-entrance to a well-lit inn.  Temple Square is just to your north, and the
-Market Square is just to your south.
+   You are on the main street of Kir Drax'in it runs north ending at the
+Temple of the Cross.  Far south from here, it ends at the Southern Kir Drax'in
+Gate.  To the east is the entrance to the Kir Drax'in Inn and Lodge.  
+Directly south from here is the Market Square.  The streets are paved with a
+rare and smooth river stone, although it is busy, it is well kept.  
 ~
 80 32768 0 0 0 1
 D0
@@ -619,9 +627,10 @@ The Temple Square lies to the north.
 ~
 0 -1 8021
 D1
+It's a really heavy duty wrought-iron gate.
 ~
-~
-0 0 8068
+wrought~
+1 0 8164
 D2
 Market Square
 ~
@@ -1392,24 +1401,27 @@ D2
 0 0 9140
 S
 #8068
-Entrance to Inn of Kir Drax'in~
-   Not a very ornate entrance for an inn of this size, but it'll do for a
-night of rest. Up some stairs you see the glowing light of the reception,
-and to the east a dark doorway frames an inviting pub.
+Elkheart Drive~
+   You are on a large walkway paved in stone, but this is not just any stone.
+This stone is reclaimed from the demolition of the old Kir Drax'in Inn and
+Tyr's pub.  To the south you can smell the horse barn where tenants keep their
+mounts.  To the east you spot set of stairs leading to a large vestibule.  
+The building is too far away to see any close details, you'll need to climb
+the stairs up to the Lodge.  
 ~
-80 32780 0 0 0 0
-D1
+80 32784 0 0 0 1
+D2
 ~
 ~
-0 0 8090
+0 0 8166
 D3
 ~
 ~
-0 0 8031
+0 0 8129
 D4
 ~
 ~
-0 0 8069
+0 0 8165
 S
 #8069
 Inn Lobby~
@@ -1417,7 +1429,7 @@ Inn Lobby~
 iron door, obviously designed for keeping out unwanted guests.  The only
 exit is down a flight of stairs to the ground floor.
 ~
-80 32780 0 0 0 0
+80 12 0 0 0 0
 D5
 ~
 ~
@@ -1844,11 +1856,37 @@ tables, well nicked by knife points, stand around it. Light trickles in from
 the exit to the west, and oil lamps hang suspended in the corners of the room.
 The smell of fresh ale fills the air.
 ~
-80 32780 0 0 0 0
+80 12 0 0 0 0
 D3
 ~
 ~
 0 0 8068
+S
+#8091
+Temple of the Cross - Trophy Room~
+   A room dimly lit by torches at the entrance and a small fire burning in a
+fireplace at the back of the room.  The smell of rotting flesh and charred
+meat fills the air occasionally.  The fireplace seems to suck most of the
+smells up the chimney and out of the roof.  There is a large pit in the center
+of the room that used to have a purpose which as long been abandoned and
+forgotten.  It is now used to toss heads into.  You assume these heads are a
+vulgar display of power by locals.  
+~
+80 4 0 0 0 0
+D4
+~
+~
+0 0 8004
+S
+#8092
+Reserved for Special~
+You are in an unfinished room.
+~
+80 0 0 0 0 0
+D2
+~
+~
+0 0 8132
 S
 #8099
 A Burning Hut~
@@ -2423,20 +2461,23 @@ D2
 0 0 8129
 S
 #8129
-Main Street~
-   You stand on a street running from the Temple of the Cross to the north
-to the city gates of Kir Drax'in far to the south.  The cobbles in the road
-appear a bit more worn here.  There is a newly constructed brick wall to 
-the east with an opening in it.  The brick wall appears to run the length
-of southern Main Street.
-   To the north Main Street heads back to Market Square while to the south,
-the road continues toward South Central Square.
+the Intersection of Main St. and Elkheart Dr.~
+   You are at the interestection of the main road running from the Temple of
+the Cross to the southern gates of Kir Drax'in.  The cobble in the road has
+been restored recently with the new road to the east having just been
+constructed.  To the north you will find Market Square, east is a small street
+that leads to the Lodge, and finally south will take you to South Central
+Square.  
 ~
 80 32768 0 0 0 1
 D0
 ~
 ~
 0 0 8128
+D1
+~
+~
+0 0 8068
 D2
 ~
 ~
@@ -3043,20 +3084,25 @@ D2
 0 0 8162
 S
 #8162
-Temple Infirmary~
-   This is a large room where the sick and the dying are cared for by the
-nuns and priestesses of the Church.  There are about fifty straw beds arranged
-in four rows here, and almost all of them are full.  Most of the patients are
-either common citizens or foreigners; the military has their own infirmary
-as do the large temples.  The wealthier citizens can afford an in-home visit
-by a Church healer.  The entire room smells of medicinal soap.  There is
-a single exit through a marble archway to the north.
+Atrium of Passage~
+   The marble archway from the north leads into a vast, pristine atrium.  
+Light spills in from the stained-glass ceiling casting a warm, multi-colored
+glow onto the black veined marble floor.  To the south, statues line the walls
+in various poses, evidently infamous Kir Draxin men and women.  The southern
+end of the space houses a wide, red and black flecked marble staircase that
+narrows as it climbs upward leading to a well-lit space beyond.  
+
+&RA wealth of knowledge and experience awaits if you ascend the staircase.&n
 ~
 80 28 0 0 0 0
 D0
 ~
 ~
 0 0 8161
+D4
+~
+~
+0 0 3601
 S
 #8163
 Quiet Room~
@@ -3071,5 +3117,571 @@ D2
 ~
 ~
 0 0 8160
+S
+#8164
+a Perfect Circle~
+   The only way out is to the west, back through the large wrought-iron gates.
+Here stands a gigantic stone platform chiseled from one solid piece of rock.
+The enormous slab is at least as a yard thick and twenty-five yards in
+diameter, it is a perfect circle.  Seems to have been here for thousands of
+years, nobody knows how it got here.  There are burn marks, gouges, claw marks
+and many other imperfections all over the stone.  Regardless of what it used
+to be for when it was originally built, some folks use this to contain
+dangerous encounters for various reasons.  At the center of the platform there
+is a large demonic pentagram burned deep into the stone.  
+~
+80 32772 0 0 0 1
+D3
+~
+~
+0 0 8031
+E
+pentagram~
+&R       .d$$$******$$$$c.        
+    .d$P"            "$$c      
+   $$$$$.           .$$$*$.    
+ .$$ 4$L*$$.     .$$Pd$  '$b   
+ $F   *$. "$$e.e$$" 4$F   ^$b  
+d$     $$   z$$$e   $$     '$. 
+$P     `$L$$P` `"$$d$"      $$ 
+$$     e$$F       4$$b.     $$ 
+$b  .$$" $$      .$$ "4$b.  $$ 
+$$e$P"    $b     d$`    "$$c$F 
+'$P$$$$$$$$$$$$$$$$$$$$$$$$$$  
+ "$c.      4$.  $$       .$$   
+  ^$$.      $$ d$"      d$P    
+    "$$c.   `$b$F    .d$P"     
+      `4$$$c.$$$..e$$P"        
+          `^^^^^^^`&n
+~
+S
+#8165
+the Kir Drax'in Lodge Vestibule~
+   The gigantic oak and wrought iron doors were crafted by ancient dwarves,
+these doors are a prize posession of the owner of the lodge.  He personally
+refinished them and brought them back to life, after salvaging them from the
+ruins of a dwarven mountain stronghold.  The walls of the lodge are mostly
+four to three foot square stone blocks.  There is a roof over your head but
+there are no walls here, just two enormous pillars at each corner to bare the
+weight of it.  The floor of the vestibule is polished oak similiar to the
+door.  
+~
+80 32788 0 0 0 1
+D1
+   The owner's finest and most prized possession, the ancient dwarven doors
+that he and Wallace discovered, from many winters past.  They are extremely
+ornate and are awe inspiring.  
+~
+ancient~
+1 0 8169
+D5
+~
+~
+0 0 8068
+S
+#8166
+Kir Drax'in Lodge's Stables~
+   Looking north you see a half-door on a spring that is easily swung either
+in or out.  To the south of room are the horse stables, where the smell of
+fresh horse manure is coming from.  The floor is lined with hay and the barn
+is constructed from heavy one foot by one foot solid beams and reclaimed wood
+from a nearby windmill.  Looking upward you see high ceilings with ventilation
+piped in and down to the woodburning stove that sits on a stone platform near
+the stablehand's workbench and shoeing tools.  At the top of the southern
+corner of the building you can see a hayloft, which is strangely dark
+considering how well lit the rest of the barn is.  Two beady little eyes about
+the size of a small child keep catching your attention randomly.  
+~
+80 32796 0 0 0 0
+D0
+~
+~
+0 0 8068
+D2
+~
+~
+0 0 8167
+S
+#8167
+The Stables~
+   To the north you can see the main room of the barn.  Upward, there is a
+well built set of stairs that leads up to the hay loft.  There are several
+rows of stalls for individual horses.  There are feed bags, hay bails, and a
+watering trough that runs along the backside of the stalls.  To the west there
+is a large storage unit that holds saddles and saddle bags that belong to the
+tenants of Kir Drax'in Lodge, each with a number that corresponds with it's
+respective horse stall.  
+~
+80 32776 0 0 0 0
+D0
+~
+~
+0 0 8166
+D4
+~
+~
+0 0 8168
+S
+#8168
+a Dark and Dusty Hay Loft~
+   Dust from all of the hay being tossed below to the lower barn area is
+everywhere, as well as suspended in the still air.  There are stacks upon
+stacks of hay lining all of the wills and piled to the ceiling.  Everything
+seems to be perfectly aligned.  You notice, however, a gap in one of the large
+stacks.  There is a pile of hay in the middle of the room.  Your only exit is
+down the ladder back into the horse stall area.  
+~
+80 32793 0 0 0 0
+D5
+~
+~
+0 0 8167
+E
+gap~
+   If you stand at the right angle you can see various items in the space.  
+They look to be makeshift wooden barn animals, a tattered burlap sack, and
+another object that seems chewed on so often that it is unrecognizable.  
+~
+E
+sack~
+   At first glance it appeared to be just an old potato sack.  However, after
+studying the sack you find that it is sloppily embroidered.  You should look
+closer at the embroidery.  
+~
+E
+embroidery~
+The word, or name?: Gag
+~
+S
+#8169
+the Kir Drax'in Lodge Foyer~
+   In the foyer you can go west back outside to the vestibule, or east through
+large archway into the lodge's main lobby.  The ceilings are very high and
+painted with scenes of battles won by the Kir Drax'in people against various
+evil entities.  A particular scene catches your eye - that of a very large
+reptilian creature towering over the city's buildings destroying houses,
+shops, and swallowing adventurers whole.  The Behemoth has always been a
+looming fear amongst the citizens of Kir Drax'in.  The floors are polished oak
+and accented with marble tiles down the center leading to the lobby.  
+~
+80 32792 0 0 0 0
+D1
+~
+~
+0 0 8170
+D3
+   The owner's finest and most prized possession, the ancient dwarven doors
+that he and Wallace discovered, from many winters past.  They are extremely
+ornate and are awe inspiring.  
+~
+ancient~
+1 0 8165
+S
+#8170
+the Kir Drax'in Lodge Main Lobby~
+   This is the busiest room in the lodge at peak hours, except maybe the bar
+which is quite busy to your south.  There is a large ornate oaken counter
+here, finished at the top by a slab of black marble with specks of volcanic
+rock and gold flake.  The floors surrounding the counter are hidden underneath
+an imported rug made from a silk and wool blend.  There is a gigantic
+fireplace at the north wall surrounded by more reclaimed stone from the old
+inn.  There are chairs and couches surrounding the fireplace.  Additionally,
+there is a low-rise table with refreshments for the guests of the Kir
+Drax'in Lodge.  
+~
+80 294940 0 0 0 0
+D1
+~
+~
+0 0 8174
+D2
+~
+~
+0 0 8171
+D3
+~
+~
+0 0 8169
+S
+#8171
+Finn Elkheart's Bar and Lounge~
+   To leave the bar, you will need to go back north where you came from.  The
+main bar area is very dimly lit by lanterns at each table, which there are
+twelve.  The ceiling is covered in copper tiles with a dark smoke stained oak
+molding.  To the south you spot the bar, it is extremely long and spans the
+width of the room, east to south.  There is a section of the bar that can be
+lifted upward, to give access to the bartender To the west, you spot a large
+bookshelf, only there are no books just various artifacts and stuffed
+creatures.  
+~
+80 393308 0 0 0 0
+D0
+~
+~
+0 0 8170
+D1
+A section of the bar that can be opened.
+~
+bar~
+1 0 8172
+D3
+Nothing to see here, except a bunch of stuff Mr. Elkheart has collected over the years.
+~
+wolverine~
+2 8173 8173
+E
+bar~
+   The bar, in all its glory, looks almost alive.  It is crafted from a single
+giant base of an enormous oak tree.  The tree must have been 12' in diameter.
+Its been hand carved by Finn Elkheart himself.  The embossed carvings tell a
+story of the long and colorful history of Kir Drax'in and its people.  The
+counter is a single gigantic slab of marble, mostly green with specs of gold
+flake and onyx throughout.  Behind the bar are various cups, mugs, and
+glasses.  To the back wall shelves upon shelves of liquor and wine.  There are
+a few wooden kegs with the house brew.  
+~
+S
+#8172
+Behind the Bar~
+   Oaken and ornate, the shelves reach ten ft high and span the three walls
+behind the bar.  Each shelf has an array of imported and domestic liquors.  
+There are kegs underneath the bar surrounded by large ice blocks, which do not
+seem to be melting.  There is a coin safe in the floor where Finn drops his
+profits.  
+~
+80 24 0 0 0 0
+D3
+A section of the bar you can open.
+~
+bar~
+1 0 8171
+S
+#8173
+the Back Room~
+   Finn's dimly lit back room houses some of his most prized treasures.  They
+are locked away behind thick glass and steel barred cases around the room.  
+There is a single table in the middle of the room, it is covered in a deep red
+felt fabric.  The table is in the shape of a octogon, which is surrounded by
+eight padded, leather and oak chairs.  
+~
+80 0 0 0 0 0
+D1
+Back into the main bar.
+~
+wolverine~
+2 8171 8171
+E
+cases~
+   There are 3 extremely large cases on each wall.  Except for the wall with
+the secret door back into the main bar.  Case one, contains an array of
+daggers, swords, and other weapons.  Case two, contains spell books, scrolls,
+and other magical texts.  Case three, contains the heads, some still blinking,
+of slain monsters.  Seems this one is air tight and sound proof as you cannot
+smell the rotting flesh or hear the screams of those heads that are still
+alive.  
+~
+S
+#8174
+the Kir Drax'in Lodge's Front Desk~
+   At the front desk, you find plush carpet surrounding it.  The desk is more
+of a counter, topped with beautiful marble and supported by a ornate carved
+oak base.  Ceilings are extremely high and just as delicately engineered and
+designed.  There is a large chandelier hanging down above this area.  The exit
+west will take you back to the main lobby.  Heading north, and up the stairs
+will bring you to the Dragon Suites.  Taking a stroll south will bring you to
+the Four-Horsemen Suites.  
+~
+80 32792 0 0 0 0
+D0
+~
+~
+0 0 8178
+D2
+~
+~
+0 0 8175
+D3
+~
+~
+0 0 8170
+S
+#8175
+a Stairwell to the Four Horsemen Suites~
+   You are at the base of the black-stained oak staircase leading up to the
+Four Horsemen themed suites.  Everything that can be is wood and stained
+black, except the carpet, which is the color of dried blood and made of a
+durable woven hemp.  There are a few ornate brass lanterns hanging from the
+tall ceiling.  Guessing from the look of this stairwell the rest of the wing
+should prove ominous.  One possible escape is back to the front desk area where
+it is comfortable and inviting.  The less appealing choice would be to ascend
+the stairway to what looks to be a nightmare.  
+~
+80 32768 0 0 0 0
+D0
+~
+~
+0 0 8174
+D4
+A sign written in a carefully painted script reads, "This area is under construction."
+~
+horseman~
+2 0 8176
+S
+#8176
+the Hall of the Four Horsemen~
+   You are in the hallway that serves entry into two of the four suites in
+this wing.  Nobody in there right mind would pick one of the suites to sleep
+in.  The air is stale and smells of whiskey and unwashed travellers.  The
+walls are stone and dripping with condensation.  Carpet is sopping wet and
+moldy.  It is cold, wet, and just right if your already dead.  Perhaps, these
+rooms are not for a stable minded individual.  The only light is seeping in
+from underneat the doors and from the stairwell to the north.  The hallway
+continues southward.  
+~
+80 32768 0 0 0 0
+D1
+The door to the Famine suite, blocks your entry thankfully.
+~
+Famine~
+1 0 8188
+D2
+~
+~
+0 0 8177
+D3
+The door is blackened-oak, you are overwhelmed by images of disease and suffering racing through your imagination.
+~
+door~
+1 0 8186
+D5
+~
+~
+0 0 8175
+S
+#8177
+the Hall of the Four Horsemen~
+   You are in the hallway that serves entry into two of the four suites in
+this wing.  Nobody in there right mind would pick one of the suites to sleep
+in.  The air is stale and smells of whiskey and unwashed travellers.  The
+walls are stone and dripping with condensation.  Carpet is sopping wet and
+moldy.  It is cold, wet, and just right if your already dead.  Perhaps, these
+rooms are not for a stable minded individual.  The only light is seeping in
+from underneat the doors and from the stairwell to the north.  The hallway
+ends here.
+~
+80 32768 0 0 0 0
+D0
+~
+~
+0 0 8176
+D1
+A solid black door that gives you the overwhelming urge to leave it closed.
+~
+door~
+1 0 8182
+D3
+An ominous blackened-oak door, gives off a violent aura.
+~
+War~
+1 0 8184
+S
+#8178
+Stairs to the Dragon Suites~
+   The stairs are more of that same beautiful oak with a plush deep red carpet
+running down the center.  The walls are decorated with various paintings and
+artwork depicting some of the many dragons of the land.  Going south you will
+find yourself back at the front desk.  Up the stairs is the hallway where you
+will find the suites.  
+~
+80 32768 0 0 0 0
+D2
+~
+~
+0 0 8174
+D4
+A sign written in a carefully painted script reads, "This area is under construction."
+~
+dragon~
+2 0 8179
+S
+#8179
+the Hall of Dragons~
+   You find yourself in a hallway with minimal lighting.  The only light
+sources are the ornate yet subtle amber lanterns affixed to a cast iron mount
+above each door.  The entrances to the rooms are all quite unique from one
+another.  Each door has its own style of carvings, moldings, and wood stains.
+They covered the floors in carpet fit for kings bare feet, imported from the
+far southern city of Xixieqian The walls are solid stone blocks adorned with
+framed artwork depicting the dragons of the land.  
+~
+80 32768 0 0 0 0
+D0
+~
+~
+0 0 8180
+D1
+   The door is bleach-white oak covered in small carved scales around the
+edges.  The handle is polished and etched brass, as well as the keyhole plate.
+At the center Kaerdein commands your attention in a well illustrated ice
+cavern, wings stretched.  ~
+door~
+1 0 8183
+D3
+   Looking closer at the doors carvings you notice a scene where Nixith is
+devouring a mountain of warriors.  The door is a deep blue, the carvings inner
+grooves are of the natural oak beneath.  The door is waxed and polished to a
+semi-gloss sheen.  
+~
+door~
+1 0 8181
+D5
+~
+~
+0 0 8178
+S
+#8180
+the Hall of Dragons~
+   You find yourself in a hallway with minimal lighting.  The only light
+sources are the ornate yet subtle amber lanterns affixed to a cast iron mount
+above each door.  The entrances to the rooms are all quite unique from one
+another.  Each door has its own style of carvings, moldings, and wood stains.
+They covered the floors in carpet fit for kings bare feet, imported from the
+far southern city of Xixieqian  The walls ar e solid stone blocks adorned with
+framed artwork depicting the dragons of the land.  
+~
+80 32768 0 0 0 0
+D1
+~
+~
+0 0 8187
+D2
+~
+~
+0 0 8179
+D3
+This particular door is all matt black, aside from the massive carving of Shax'
+~
+~
+0 0 8185
+S
+#8181
+Nixith Suite Master~
+You are in an unfinished room.
+~
+80 32768 0 0 0 0
+D1
+~
+~
+0 0 8179
+S
+#8182
+Nixith Suite Storage~
+You are in an unfinished room.
+~
+80 32768 0 0 0 0
+D3
+~
+~
+0 0 8177
+S
+#8183
+Kaerdein Suite Master~
+You are in an unfinished room.
+~
+80 32768 0 0 0 0
+D3
+~
+~
+0 0 8179
+S
+#8184
+The Famine Suite~
+You are in an unfinished room.
+~
+80 32768 0 0 0 0
+D1
+~
+~
+0 0 8177
+S
+#8185
+Shax'in Suite Master~
+You are in an unfinished room.
+~
+80 32768 0 0 0 0
+D1
+~
+~
+0 0 8180
+S
+#8186
+The Pestilence Suite~
+You are in an unfinished room.
+~
+80 32768 0 0 0 0
+D1
+~
+~
+0 0 8176
+S
+#8187
+Khal'mast Suite Master~
+You are in an unfinished room.
+~
+80 32768 0 0 0 0
+D3
+~
+~
+0 0 8180
+S
+#8188
+The War Suite~
+You are in an unfinished room.
+~
+80 32768 0 0 0 0
+D3
+~
+~
+0 0 8176
+S
+#8189
+The Pestilence Suite~
+You are in an unfinished room.
+~
+80 0 0 0 0 0
+S
+#8190
+Northern Wall Road~
+   You stand on the wall road which separates the city of Kir Drax'in from
+the towering bulwark that protects it.  The road is especially narrow here
+as it passes between the city wall and the walls of the arena.  This road
+must be for pedestrian traffic only.
+~
+80 0 0 0 0 0
+D1
+~
+~
+0 0 8191
+D3
+~
+~
+0 0 8024
+S
+#8191
+Northern Wall Road~
+   You stand on the wall road which separates the city of Kir Drax'in from
+the towering bulwark that protects it.  The road is especially narrow here
+as it passes between the city wall and the walls of the arena.  This road
+must be for pedestrian traffic only.
+~
+80 0 0 0 0 0
+D1
+~
+~
+0 0 8023
+D3
+~
+~
+0 0 8190
 S
 $~

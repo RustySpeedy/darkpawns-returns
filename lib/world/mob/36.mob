@@ -1,1 +1,769 @@
+#3600
+ghost rookie guard~
+a ghost of a rookie guard of Kir Drax'in~
+A ghost of one of the rookie guards of Kir Drax'in floats before you.
+~
+   The visage of the ethereal figure floating before you appears to be that of
+a young man, mayhaps not older than sixteen summers with barely any
+recognizable facial hair, perhaps even a fairly sheltered upbringing.  The
+garb he is wearing is a regalia known to be that of the famed guards of
+Kir Drax'in.  Though these vestments have been semi-destroyed, showing perhaps
+how he was killed.  
+~
+221258 0 0 0 67109928 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+0 400
+8 8 0
+Race: 9
+E
+#3601
+ghost rookie guard~
+a ghost of a rookie guard of Kir Drax'in~
+A ghost of one of the rookie guards of Kir Drax'in floats before you.
+~
+   The visage of the ethereal figure floating before you appears to be that of
+a young man, mayhaps not older than sixteen summers with barely any
+recognizable facial hair, perhaps even a fairly sheltered upbringing.  The
+garb he is wearing is a regalia known to be that of the famed guards of
+Kir Drax'in.  Though these vestments have been semi-destroyed, showing perhaps
+how he was killed.  
+~
+81994 0 0 0 67109928 0 0 0 0 E
+2 18 8 2d5+30 1d4+1
+50 400
+8 8 0
+BareHandAttack: 7
+Race: 9
+E
+#3602
+ghost guard young~
+a ghost of the youth regiment of guards~
+A ghost of one of the younger members of the guards of Kir Drax'in floats here.
+~
+   The visage of the ethereal figure floating before you appears to be that of
+a young man, perhaps around eighteen summers with some moderate facial hair,
+even sporting a few notable scars gained during the course of duty.  The garb
+he is wearing is a regalia known to be that of the famed guards of Kir Drax'in.
+Though these vestments have been semi-destroyed, showing perhaps how he was
+killed.  
+~
+81994 0 0 0 67109928 0 0 0 0 E
+3 17 7 3d5+40 2d4+2
+50 550
+8 8 0
+Race: 9
+E
+#3603
+ghost guard veteran~
+a ghost of a veteran battle-hardened guard of Kir Drax'in~
+A ghost of a veteran battle-hardened guard of Kir Drax'in floats here.
+~
+   The visage of the ethereal figure floating before you appears to be that of
+a young man, around twenty-five summers in age with clean cut features.  He
+sports a well-chiseled physique and has the look of a seasoned veteran.  The
+garb he is wearing is a regalia known to be that of the famed guards of
+Kir Drax'in.  Though these vestments have been semi-destroyed, showing perhaps
+how he was killed.  
+~
+122954 0 0 0 67241000 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+50 850
+8 8 0
+Race: 9
+E
+#3604
+zombie honor guard~
+a Zombified Honor Guard of Kir Drax'in~
+A zombified honor guard stands here decaying slowly.
+~
+   Once a powerful, righteous honor guard, a position given to those great
+veteran guards that have passed the age of retirement but still want to uphold
+justice and protect their dear city of Kir Drax'in.  This proud warrior now
+stands here befouled by vile Necromantic magicks to become the zombified
+puppet standing before you.  The armor is tattered and age-worn, the weapons
+are pitted and brittle due to decay.  Perhaps this poor wretched soul can be
+put back to his honorable slumber once more.  
+~
+24586 0 0 0 40 0 0 0 0 E
+5 15 5 5d5+60 3d4+3
+50 900
+8 8 0
+BareHandAttack: 4
+Race: 9
+E
+#3605
+altar boy church cross temple ghost~
+a poor, abused altar boy of the Temple of the Cross~
+a ghost of a poor, abused altar boy of the Temple of the Cross cries here.
+~
+   A poor, abused, taken in as an orphan and abused again, child-like altar
+boy floats here crying uncessingly due to the trauma both mentally and
+physically given to him on a nearly daily basis by the bishops and priests of
+the Temple of the Cross.  This poor forgotten bastard is one of many easily
+replacable "supplies" the church has to offer.  
+~
+10 0 0 0 0 0 0 0 0 E
+3 17 7 3d5+40 2d4+2
+50 350
+8 8 1
+Race: 9
+E
+#3606
+ghoul acolyte church temple cross~
+a risen ghoul of an acolyte of the Temple of the Cross~
+A gaunt-looking creature resembling an acolyte of the Cross is here growling.
+~
+   A shallow-faced, gaunt looking thing stands here haunched over in tattered
+robes denoting him being a former Acolyte ranked member of the Temple of the
+Cross.  He has now joined the eternal ranks of the undead as a flesh hungry
+ghoul.  His decrepit rotting smell is so pungent its quite nearly toxic,
+perhaps fire can cure this malady.  
+~
+16398 0 0 0 40 0 0 0 0 E
+3 17 7 3d5+40 2d4+2
+50 550
+8 8 1
+BareHandAttack: 4
+Race: 9
+E
+#3607
+church scribe wraith cross temple~
+a wraith of a church scribe of the Temple of the Cross~
+A wraith of a former scribe to the Temple of the Cross floats here.
+~
+   The poor soul seen before you was once that of a noble scribe, translating
+and copying the holy texts of the Temple of the Cross into multiple languages
+to spread the faith throughout the lands.  Now his attire is shredded and
+torn, his fingernails drip a foul black ichor and he seems to be able to sniff
+out the aura of living souls.....  Beware.  
+~
+16398 0 0 0 8 0 0 0 0 E
+4 16 6 4d5+50 2d4+2
+50 700
+8 8 0
+Race: 9
+E
+#3608
+priest dread wraith temple cross~
+a dread wraith of a former Priest of the Temple of the Cross~
+A dread wraith hovers here staring at you due to the scent of life.
+~
+   This wretched existence before you is no longer the "Noble" priest it was
+once dressed as.  This being has nothing but an insatiable lust and hunger for
+the souls of the living.  
+~
+90122 0 0 0 40 0 0 0 0 E
+5 15 5 5d5+60 3d4+3
+50 900
+8 8 0
+Race: 9
+E
+#3609
+lesser vampire bishop temple cross~
+a former Bishop bitten by a rogue vampire~
+A lesser vampiric former Bishop of the Temple of the Cross is here.
+~
+   In times when "life" flowed through his veins this figure was a
+well-respected and envied Bishop of the Temple of the Cross.  Unfortunately
+for him he was not only bitten, but was also partially turned and is now
+nothing but a lesser vampire doomed to live to eternity in the servitude of
+his undying masters.  
+~
+81962 0 0 0 1073750016 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+50 1700
+8 8 0
+BareHandAttack: 4
+Race: 9
+E
+#3610
+elite ranger mass flesh kir drax'in~
+a twisted mass of flesh belonging to the Rangers of Kir Drax'in~
+A twisted mass of flesh belonging to former Rangers of Kir Drax'in pustulates.
+~
+   First glance upon this wretched creation leaves you with the long lasting
+urge to vomit.  Whatever twisted, sick, demented mind used their dark
+necromantic magicks to not only re-animate but also warp and mutate the
+remains of these great venerable heroes that were the Legendary Rangers of Kir
+Drax'in.  They were the first group to head out into the unexplored, vicious
+wilderness and their mission was to not only map it out but to put down any
+great threats to the city.  Now even in death they gain no peace.  
+~
+16442 0 0 0 1073742856 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+99 2500
+8 8 0
+BareHandAttack: 5
+Race: 25
+E
+#3611
+evil bitch church inquisitor temple cross Leora Glaisbare~
+the zombified Leora Galisbare, Church Inquisitor of the Temple of the Cross~
+The zombified church inquisitor Leora Glaisbare stands here smirking at you.
+~
+   This vile woman was so widely feared even the criminals and heretics in
+neighbouring towns knew of her during her life.  She was a scourge upon those
+that commited "Sins against the Holy Mother Church" and would strive to
+"exorcise the demons" those that fell into her clutches possesed.  She wasn't
+missed when she died and now some evil, scum sucking bastard has brought this
+heinous bitch back from the grave!  
+~
+24586 0 0 0 1073742856 0 0 0 0 E
+7 13 3 7d5+80 4d4+4
+99 2800
+8 8 0
+BareHandAttack: 4
+Race: 9
+E
+#3612
+dwarven quartermaster spectre Tagon Stormhammer~
+a spectre of the dwarven quartermaster Tagon Stormhammer~
+A spectre of the powerful dwarven quartermaster of Kir Drax'in floats here.
+~
+   Tagon Stormhammer stood strong and developed the great weapons, armor and
+war machines for the Great city of Kir Drax'in for over 300 years.  But then
+he suddenly vanished, no-one was ever able to figure out the mystery behind
+his dissapearance but now it is quite evident that he met with some foul play
+and then was forcibly brought back from beyond the grave.  
+~
+90154 0 0 0 1073742856 0 0 0 0 E
+7 13 3 7d5+80 4d4+4
+99 2760
+8 8 0
+Race: 9
+E
+#3613
+reanimated corpse armored church guard~
+the reanimated corpse of an armored church guard~
+An undead armored church guard, twitches and thrashes about the grave site in a unintelligent manner.
+~
+It looks, err, unfinished.
+~
+81930 0 0 0 131080 2 0 0 0 E
+6 14 4 6d5+70 3d4+3
+99 2300
+8 8 0
+BareHandAttack: 10
+Race: 9
+E
+#3614
+High Priest Temple Ghost Apparition~
+the ghost of the High Priest of the Temple of the Cross~
+A tortured apparition wearing flowing robes and a priests biretta aimlessly paces around here.
+~
+   An ethereal glow mists off of the flowing robes covering this lanky thin
+frame of the former gaunt man.  His eyes seem sculpted from ice and appear to
+be watching from the caves of his eye sockets.  Tears of agony stream down
+from those icy eyes and he keeps screeching the same phrase, "The Dread Rabbit
+is come!"
+~
+16426 0 0 0 1160 0 0 0 0 E
+6 14 4 6d5+70 3d4+3
+99 3000
+8 8 0
+BareHandAttack: 12
+E
+#3615
+undead corpse reanimated Mayor Ulrik Kir Drax'in~
+the walking dead corpse of Ulrik the original Mayor of Kir Drax'in~
+A grey-skinned corpse, belonging to Ulrik the famed ex-mayor of Kir Dax'in shambles about.
+~
+   A faded coat, once a symbol of the stature of this man, covers the stinking
+corpse in torn tatters.  The body of Ulrik, the former mayor of Kir Drax'in,
+still retains some of his former flesh, rotting at an unnaturally slow rate.
+The socket of his right eye is empty, except for a bundle of soil covered
+nerves trailing to end at a partially shriveled eyeball hanging nearly to his
+jawline.  
+~
+16426 0 0 0 1073873928 0 0 0 0 E
+8 12 2 8d5+90 4d4+4
+199 4000
+8 8 0
+BareHandAttack: 10
+Race: 9
+E
+#3616
+Lieutenant Orbeshi guard corpse undead~
+the undead corpse of Lieutenant Orbeshi~
+A decomposing corpse belonging to the late Lieutenant Orbeshi of the Kir Drax'in Guard is twitching violently here.
+~
+   Lieutenant Orbeshi was a tall, commanding presence in life, and his stony
+face still hints at his former person.  He wears a formerly bright red coat
+with brass buttons and could almost pass for a live person, except the
+remainder of his body below his waist lay in ruins.  Whatever forces have
+reanimated this man, they force his ruined lower appendages to work despite
+their state.  What were once his legs are now a mash of sinew, bone, and
+muscle seemingly haphazardly forced together to create an inhuman twitching
+movement that is terrifyingly fast.  
+~
+2090 0 0 0 128 0 0 0 0 E
+9 11 1 9d5+100 5d4+5
+199 6000
+8 8 0
+BareHandAttack: 6
+Race: 9
+E
+#3617
+Lieutenant Wolfsbane corpse reanimated~
+the reanimated corpse of Lieutenant Wolfsbane~
+A decomposing corpse belonging to the late Lieutenant Wolfsbane of the Kir Drax'in Guard is shuffling about here.
+~
+   A face half peeled away to reveal the shiny white bone underneath stares in
+stark terror.  His eyes stare at an unknown horror as he relives the last
+moments of his life repeatedly.  He bellows loudly, "Flank him, men!  The
+Behemoth must have a weak spot.  Find it and aim true!" He stands ready to
+charge, a broken longsword in his right hand.  His left arm ends at the elbow,
+but he doesn't appear to notice as he thrusts it out in front of him as if he
+were holding a shield.  
+~
+18490 0 0 0 1160 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+199 8000
+8 8 1
+Race: 9
+E
+#3618
+Lieutenant Danziq undead zombie reanimated corpse~
+the reanimated corpse of Lieutenant Danziq~
+A decomposing corpse belonging to the late Lieutenant Danziq of the Kir Drax'in Guard is shuffling about here.
+~
+   This corpse is clothed in a fine soldier's uniform, the front of which
+appears neatly intact, down to the brass buttons on his coat.  His face is
+dark with fear and despite the fact that he is long dead, appears mostly
+intact, that is until he is viewed from behind.  Someone or something tore
+this man from the back of his head down to his calves.  Claw marks show at the
+edges where something sharp has ripped away all flesh leaving only bones
+showing.  The back half of his body is simply bleach white bone with sickly
+green organs pumping slowly behind their osseous cage.  
+~
+92202 0 0 0 128 2 0 0 0 E
+10 10 0 10d5+110 5d4+10
+199 9000
+8 8 1
+BareHandAttack: 14
+Race: 9
+E
+#3619
+reanimated zombie corpse Al'Tor the Willbreaker Captain Guard~
+Al'Tor Willbreaker, Captain of the Kir Drax'in Guard, the undead~
+The well-dressed, massive framed corpse of the late Al'Tor Willbreaker is here waiting to punish your scrawny ass.
+~
+   Even in death, this man casts a commanding shadow.  From the stony face to
+the stance this man holds, he could break the will of the greatest heroes or
+foes.  His dark blue coat, ripped at the sleeves show grey cast flesh that
+cover arms that look as if they could rip the wings off of a dragon.  His eyes
+show no fear, but that may be what lead to his untimely death possibly at the
+teeth of Nidhoggr the Dread Biter himself.  
+~
+221227 0 0 0 131200 0 0 0 0 E
+12 8 -2 12d5+130 8d4+8
+599 16000
+8 8 0
+BareHandAttack: 13
+Race: 9
+E
+#3620
+Broadcaster 1 ~
+BROADCASTER 1 ~
+BROADCASTER 1 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &cYou hear a terrifying voice cry, '&wTo display hit, mana, and move points, and status of tank and person you are fighting, type 'prompt all' you poor soul&c.'&n
+E
+#3621
+Broadcaster 2 ~
+BROADCASTER 2 ~
+BROADCASTER 2 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  You hear a terrifying voice cry, '&WRolling good stats is very important. Spend some time doing so. Your abilities play a vital role, ESPECIALLY CON and STR, type 'help strength' to read about all the scores.&c'&n
+E
+#3622
+Broadcaster 3 ~
+BROADCASTER 3 ~
+BROADCASTER 3 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  The voice of a tortured soul rings out, '&WYou will die (help death). Higher level mobs may take your loot. Other mobs will only kill, allowing you to retrieve your belongings off of your corpse (help retrieve).&c'&n
+E
+#3623
+Broadcaster 4 ~
+BROADCASTER 4 ~
+BROADCASTER 4 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  You hear a terrifying voice cry, '&WTo display hit, mana, and move points, and status of tank and person you are fighting, type 'prompt all' you poor soul.&c'&n
+E
+#3624
+Broadcaster 5 ~
+BROADCASTER 5 ~
+BROADCASTER 5 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  You hear a terrifying voice cry, '&WYour most beneficial tool to start is by typing 'help map' it will show you where to obtain your skills and where the shops reside.&c'&n
+E
+#3625
+Broadcaster 6 ~
+BROADCASTER 6 ~
+BROADCASTER 6 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c An entrapped soul cries, '&WTo find out what skills are currently available at your level and their proficiency type 'practice' this list grows every few levels.&c'&n
+E
+#3626
+Broadcaster 7 ~
+BROADCASTER 7 ~
+BROADCASTER 7 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  You hear a terrifying voice cry, '&WTyping the word 'policy' will allow you to read the pertinent information needed.&c'&n
+E
+#3627
+Broadcaster 8 ~
+BROADCASTER 8 ~
+BROADCASTER 8 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  You hear a terrifying voice cry, '&WTyping the word 'info' will allow you to read the pertinent Survival information needed.&c'&n
+E
+#3628
+Broadcaster 9 ~
+BROADCASTER 9 ~
+BROADCASTER 9 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  A faint and sad voice from an unknown origin cries out, '&WType 'color complete' (help color for more info) to add a dash of color to combat and social interactions.&c'&n
+E
+#3629
+Broadcaster 10 ~
+BROADCASTER 10 ~
+BROADCASTER 10 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  A raspy voice mutters into your eardrum, '&WIf you find yourself in jail, you can pay the guard off and be released (help bribe). Be careful because you will be leaving the jail battered and bruised.&c'&n
+E
+#3630
+Broadcaster 11 ~
+BROADCASTER 11 ~
+BROADCASTER 11 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  You hear a faint cry, '&WCommands play a powerful role in keeping you from becoming a useless corpse type 'commands' to see whats available.&c'&n
+E
+#3631
+Broadcaster 12 ~
+BROADCASTER 12 ~
+BROADCASTER 12 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  A raspy voice calls out, '&WIt would be wise to seek entry into a clan. There are groups of adventurers who are members of clans. There are many benefits of being part of one. Type 'Help Clan' and 'Clan Info'.&c'&n
+E
+#3632
+Broadcaster 13 ~
+BROADCASTER 13 ~
+BROADCASTER 13 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  An enlightened voice tells you, '&W'Dark Pawns has a comprehensive alias system, allowing you to customize commands and create strings of commands. Type 'help alias' to learn how.&c'&n
+E
+#3633
+Broadcaster 14 ~
+BROADCASTER 14 ~
+BROADCASTER 14 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  A sad voice cries out, '&WMobs can use any number of abilities and spells on you. Some can even be invisible or hide in plain sight, or follow you after attacking you. Learn to use your own abilities in defense, or skills to detect.&c'&n
+E
+#3634
+Broadcaster 15 ~
+BROADCASTER 15 ~
+BROADCASTER 15 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  A withered soul yells out, '&W Typing "Time" will tell you the current in-game time. The day begins at 5am, shops open at 6am. Shops close at 6pm and darkness consumes the world at 9pm, requiring a light source to see outside the city.&c'&n
+E
+#3635
+Broadcaster 16 ~
+BROADCASTER 16 ~
+BROADCASTER 16 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  A commanding voice filled with regret speaks, '&WUnfortunately, I lost everything in a dump accident. I was killed by a criminal in the dump. If you die in the dump all of your equipment goes into an incinerator and is gone forever.&c'&n
+E
+#3636
+Broadcaster 17 ~
+BROADCASTER 17 ~
+BROADCASTER 17 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  A soft female voice whispers, '&WThere are many places that are extremely dangerous and can result in your death or even a total loss of all equipment. It is vital that when you are in unfimiliar places, that you use the "look <direction>" cmd
+E
+#3637
+Broadcaster 18 ~
+BROADCASTER 18 ~
+BROADCASTER 18 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  You hear a voice say in a terribly sad tone, '&WThere are some truly terrifying beings that roam the lands. They will kill you, steal your stuff, and wear it. Please do you self a favor and type 'Help Roaming'.&c'&n
+E
+#3638
+Broadcaster 19 ~
+BROADCASTER 19 ~
+BROADCASTER 19 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  A ghostly voice whispers, '&WThe power of remorting cannot be underestimated. Hunger and thirst can be eliminated with enough remorts. Type 'Help Remort'.&c'&n
+E
+#3639
+Broadcaster 20 ~
+BROADCASTER 20 ~
+BROADCASTER 20 is squating over a hole in the ground spewing knowledge down onto newbies here! 
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &c  A gruff voice yells, '&W You don't have to die! Use the 'flee' command to escape from a fight so you can regen then come back to finish your foe. You can also set your wimpy to help you flee if you are caught off guard (help flee, help wimpy).
+E
+#3640
+Lady Reba the shopkeeper~
+Lady Reba~
+An older, but beautiful woman is here keeping her shop clean and organized.
+~
+A lady with fiery red hair and child bearing hips.
+~
+10 0 0 0 1073741952 0 0 0 0 E
+35 -15 -25 35d5+3329 23d4+24
+0 360000
+8 8 2
+Race: 0
+E
+#3641
+REAPER BROADCASTER~
+the Reaper Broadcaster~
+A REAPER BROADCASTER
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &gThe disembodied voice of Mordraneth, Stealer of Souls says, '&nCongratulations on passing the tribulations to proceed to Kir'Draxin type 'enter kir'draxin'&g'&n
+E
+#3642
+REAPER BROADCASTER~
+the Reaper Broadcaster~
+A REAPER BROADCASTER
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: &gThe disembodied voice of Mordraneth, Stealer of Souls says, '&nCongratulations on passing the tribulations to return to the begining type 'enter tablet'&g'&n
+E
+#3675
+young man squire~
+a distraught and nervous squire~
+There is a young man, dressed in leather armor running around frantically trying to find his companion.
+~
+   A neverous young man, sweaty and terrified.  Seems to be carrying quite a
+bit of valueable items in his inventory.  
+~
+2252 0 0 0 0 0 0 0 0 E
+5 15 5 5d5+60 3d4+3
+66 1100
+8 8 2
+Race: 0
+E
+#3677
+terror-stricken mage apprentice~
+a terrified mage's apprentice~
+A terror-stricken mage is here, trying to find her way home.
+~
+   A young woman, dressed in fine silken robes.  She carries a stack of books,
+some of which could prove valueable.  
+~
+89 0 0 0 1073741824 0 0 0 0 E
+7 13 3 7d5+80 4d4+4
+123 3000
+8 8 0
+BareHandAttack: 12
+Race: 1
+E
+#3678
+faded champion~
+a faded champion~
+What used to be a great champion is here, fading and malnurished.
+~
+   A man so malnurished and hopeless that you cannot tell his age is here in a
+suit of dry-rotted armor.  
+~
+264264 0 0 0 128 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+1000 10000
+8 8 1
+BareHandAttack: 3
+Race: 0
+E
+#3680
+nude woman Domina Nec Divinos brazen~
+Domina Nec Divinos the brazen~
+A nude woman covered in symbolic tattoos and jewelry is before you.
+~
+   Built like a brick-shithouse the lady appears to be a dangerous sorceress
+hell bent on your destruction.  She probably has her goods out to display her
+intricate tattoos or to distract you long enough to utter some horrifying
+spell.  Hope you brought your tank because this shit is about to get rough.  
+~
+8650825 0 0 0 1141243904 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+1200 20000
+8 8 2
+BareHandAttack: 12
+Race: 0
+Noise: You hear a woman's shrill fit of laughter in the distance.
+E
+#3681
+amateur assassin~
+an amateur assassin~
+An amatuer assassin attempts to avoid your attention here.
+~
+   A clumsy young man, quite fit and light on his feet.  He looks like he is
+trying to take advantage of those who are lost here.  
+~
+247900 0 0 0 1074528264 2 0 0 0 E
+7 13 3 7d5+80 4d4+4
+50 3500
+8 8 1
+BareHandAttack: 11
+Race: 3
+E
+#3682
+Pan Elkheart drunken assassin, Son Finn Elkheart~
+Pan Elkheart, Son of Finn Elkheart, the drunken assassin~
+Pan Elkheart the drunken assassin, Son Finn Elkheart is here contemplating your belongings.
+~
+A large slender man, dressed in stealthy clothing.
+~
+8650844 0 0 0 262312 0 0 0 -400 E
+20 0 -10 20d5+210 13d4+14
+1500 30000
+8 8 0
+BareHandAttack: 14
+Race: 0
+E
+#3683
+lost adventurer~
+a lost adventurer~
+There is a cloaked adventurer wandering around aimlessly.
+~
+   A generic looking adventurer, dressed in light armor and a cloak that hides
+their belongings.  A hood is pulled low as to conceal their identity.  
+~
+76 0 0 0 1032 0 0 0 0 E
+7 13 3 7d5+80 4d4+4
+33 3000
+8 8 0
+Race: 0
+E
 $

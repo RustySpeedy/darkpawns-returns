@@ -1,0 +1,77 @@
+#31595
+multi-species patchwork vambraces ~
+some multi-species patchwork vambraces ~
+A strange pile of leather and bone lies here.~
+~
+9 0 0 0 0 257 0 0 0
+7 0 0 0
+4 1000 9.00
+A
+17 -6
+A
+18 2
+#31596
+pile of bodies~
+a steaming pile of tragedy~
+A steaming, horrifying pile of tragic loss of life demands all of your senses to behold.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+0 31798 100.00
+S portal.lua 2
+E
+pile loss dead salvation~
+   What is before you, is nothing new to this world, just a side of it most
+people chose not to acknowledge.  It is the direct result of an ongoing
+massacre of non-believers.  Those who chose to worship anything other than the
+one true god are raped, robbed, and murdered, then dumped in this forsaken
+pit.  The souls of these poor dead bastards scream out to be avenged.  The
+center mass of the pile of naked, bloody, swollen, and mutilated corpses seems
+to pulsate.  You hear something moaning, maybe you should enter and
+investigate?  Maybe you shouldn't..  
+~
+#31597
+dead body decomposing~
+a decomposing corpse~
+The corpse of an elf is in a bloody and fowl smelling heap here.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+0 0 100.00
+#31598
+Ring Niflungs~
+the pulsating ring of Niflungs~
+The air around a small ring seems to be pulsating here.~
+~
+9 1048898 0 0 0 3 0 0 0
+0 0 0 0
+1 2000 5.00
+E
+ring niflungs~
+   A thick, pure gold, indestructable ring.  It has nordic runes beautifully
+etched into the inner and outer band.  
+~
+A
+19 3
+A
+18 3
+A
+5 -3
+A
+17 -5
+#31599
+corpse female~
+a female corpse~
+Pale, bruised and batterd, the lifeless body of a young woman lies here.~
+~
+15 0 0 0 0 0 0 0 0
+20 0 -1 0
+555 1 8.00
+E
+corpse female~
+   Lifeless, beaten, and filthy properly describes the condition of the
+corpse.  Though obvious catastrophic events took this young womans life, she
+has a stoic and proud look on her face.  She is naked except for tattoos of
+various ancient runes and geometric patterns covering her body.  
+~
+$~

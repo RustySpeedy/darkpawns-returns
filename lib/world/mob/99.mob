@@ -1,29 +1,32 @@
 #9901
 cerberus dog~
 Cerberus~
-A massive 3-headed dog stands guard.
+A gargantuan, 3-headed dog stands guard.
 ~
 Standing every bit of five feet tall, its three heads strain to see
 every direction at once. Jaws wide enough to put your head in (but only
 once) house razor sharp teeth.
 ~
-16426 0 0 0 1180712 0 0 0 -1000 E
-16 4 -6 16d5+170 10d4+10
-0 16000
+8439931 0 0 0 1180712 0 0 0 -1000 E
+23 -3 -13 23d5+525 15d4+16
+0 32500
 8 8 1
 BareHandAttack: 4
 Race: 11
+Script: none 0
 E
 #9902
-evil mist~
-the mist~
-A heavy mist pulses with life.
+infernal mist golem~
+an infernal mist golem~
+A mist with a ruddish hued eye pulsates with life.
 ~
-You see only a thick mist, which writhes as if alive.
+You see a thick mist, with a large, encompassing ruddish hued eye writhing
+above you.  At moments it takes shape which dissapates in turn just as
+quickly.  
 ~
-229898 0 0 0 2 0 0 0 -500 E
-8 12 2 8d5+90 4d4+4
-0 3500
+229434 0 0 0 67122210 0 0 0 0 E
+18 2 -8 18d5+315 12d4+16
+0 20000
 8 8 0
 BareHandAttack: 12
 Race: 25
@@ -44,13 +47,13 @@ BareHandAttack: 8
 Race: 11
 E
 #9904
-larva~
-a larva~
-A humanoid larva rolls about in anguish on the floor.
+soul larva pupae~
+a disgusting soul larva~
+A humanoid soul larva rolls about in anguish on the floor.
 ~
 Half man, half worm, the larva is about to hatch into something unspeakable.
 ~
-20552 0 0 0 0 0 0 0 -90 E
+1069128 0 0 0 1024 0 0 0 -90 E
 5 15 5 5d5+60 3d4+2
 0 900
 8 8 0
@@ -64,8 +67,8 @@ An evil looking man walks around here.
 ~
 He's bald, with the number '666' tattooed on his forehead.
 ~
-9152585 0 0 0 140426 2 0 0 -1000 E
-33 -13 -23 33d5+2163 22d4+22
+8644697 0 0 0 1189002 2 0 0 -1000 E
+33 -13 -23 33d5+2798 22d4+26
 666 180000
 8 8 1
 Race: 0
@@ -92,7 +95,7 @@ A massive demon covered in spikes and horns charges at you.
 ~
 You see a figure clothed in fire; his gaping maws licking flame.
 ~
-256104 0 0 0 1188872 0 0 0 -500 E
+1304681 0 0 0 1188872 0 0 0 -500 E
 24 -4 -14 24d5+276 16d4+16
 50 35000
 8 8 1
@@ -107,9 +110,9 @@ A bone devil looks up from its morbid meal and stares maliciously at you.
 ~
 It looks like a living skeleton, with glowing green eyes and sharp fangs.
 ~
-256040 0 0 0 1057832 0 0 0 -600 E
-16 4 -6 16d5+170 10d4+10
-10 16000
+256041 0 0 0 1057832 0 0 0 -600 E
+19 1 -9 19d5+560 12d4+13
+10 22500
 8 8 0
 BareHandAttack: 8
 Race: 11
@@ -122,9 +125,9 @@ A demon rises from the depths of the lava.
 The demon appears to be living lava; its tortured screams fill your ears
 as it shrieks in pain and lust for blood.
 ~
-49192 0 0 0 1032 0 0 0 -200 E
-15 5 -5 15d5+160 10d4+10
-0 14000
+1073257 0 0 0 132136 0 0 0 -250 E
+19 1 -9 19d5+425 12d4+13
+0 22500
 8 8 0
 BareHandAttack: 12
 Race: 11
@@ -138,26 +141,31 @@ The demon looks humanoid, with several exceptions... inch long, razor sharp
 claws extend from his hands, and his feet are hooved. Blood covers his mis-
 shapen body.
 ~
-256108 0 0 0 173192 2 0 0 -500 E
-22 -2 -12 22d5+230 14d4+14
-45 30000
+1304685 0 0 0 1221800 2 0 0 -500 E
+30 -10 -20 30d5+850 20d4+20
+2750 60000
 8 8 1
 BareHandAttack: 8
 Race: 11
+Noise: The unnerving sound of screaming souls being devoured is heard nearby.
 E
 #9911
-evil~
-Evil~
-An evil presence overcomes you.
+wisp orb hellfire~
+a violent surging wisp of hellfire~
+a wisp of hellfire floats here.
 ~
-It looks very... black.
+A presence made up of many motes of the infernal soul fires tempered for
+centuries in the deepest pits of hell have bore the spark life to this wisp of
+hellfire.  
 ~
-32810 0 0 0 1024 0 0 0 -1000 E
-7 13 3 7d5+80 4d4+3
-0 2500
+253995 0 0 0 1073882122 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
 8 8 0
-BareHandAttack: 2
-Race: 9
+BareHandAttack: 12
+Race: 25
+Noise: The unnerving sound of humanoid souls in enternal torment is heard closeby.
+Script: none 0
 E
 #9912
 dispater devil~
@@ -195,9 +203,9 @@ A beautiful, winged woman glances at you seductively.
 ~
 Her white feathered wings make her look like an angel.
 ~
-2216 0 0 0 67109896 0 0 0 0 E
-8 12 2 8d5+90 4d4+4
-0 3500
+2217 0 0 0 67109896 0 0 0 0 E
+17 3 -7 17d5+420 11d4+12
+0 18000
 8 8 2
 Race: 11
 E
@@ -317,9 +325,9 @@ A tall, gorgeous looking man stands here with an evil grin on his face.
 Feathery, black wings protrude from the back of this beautiful man, his body
 supple and statuesque, his eyes alluring, his nails fine and sharp...
 ~
-256104 0 0 0 173084 0 0 0 -600 E
-28 -8 -18 28d5+368 18d4+18
-0 50000
+8644712 0 0 0 173084 0 0 0 -600 E
+28 -8 -18 35d7+368 18d4+18
+400 50000
 8 8 1
 BareHandAttack: 7
 Race: 11
@@ -327,15 +335,15 @@ E
 #9923
 succubus demon~
 a succubus~
-A scantily clad, woman of unmatched beauty stands here seductivly.
+A scantily clad, unfathomable beauty stands here enticing you.
 ~
 Feathery, black wings protrude from the back of this beautiful, scantily clad
 woman, her body supple and statuesque, her eyes enticing, her nails fine
 and sharp...
 ~
-254056 0 0 0 173084 2 0 0 -600 E
-28 -8 -18 28d5+368 18d4+18
-0 50000
+8642664 0 0 0 173084 2 0 0 -600 E
+28 -8 -18 35d7+368 18d4+18
+980 50000
 8 8 2
 BareHandAttack: 8
 Race: 11
@@ -347,11 +355,110 @@ A massive demon covered in spikes and horns charges at you.
 ~
 You see a figure clothed in fire; his gaping maws licking flame.
 ~
-256104 0 0 0 1188924 0 0 0 -500 E
-24 -4 -14 24d5+276 16d4+16
-0 35000
+8644713 0 0 0 1188924 0 0 0 -500 E
+31 -11 -21 39d7+997 20d4+20
+675 90000
 8 8 0
 Race: 11
 Noise: The smell of burning brimstone fills your nostrils.
+E
+#9925
+Lilliana Succubus Demon~
+Lilliana the Skin Flayer~
+An unearthly, yet utterly horrifying beauty of unequaled splendor stands here.
+~
+Her skin has a faint burgundy sheen to it along with two, curved horns and a
+beautiful, slim, leather-like, scaled tail.  She stands here covered in what
+could ONLY be considered "modest" dental floss, enunciated by the
+humanoid-looking skulls at her waist and shoulders.  There is a strangely
+alluring scent as you proceed closer to this devilish goddess of a woman.  
+~
+9889353 0 0 0 1221820 2 0 0 -800 E
+35 -15 -25 35d5+1540 23d4+24
+22332 360000
+8 8 2
+BareHandAttack: 1
+Race: 11
+Noise: A deliciously arousing scent wafts in almost freezing you in your steps.
+E
+#9926
+paladin knight holy~
+a holy knight of the order of Moonshear~
+A holy knight radiating order and light stands here.
+~
+Standing here encased in a suit of gleaming white plate armor is a paragon of
+virtue.  A true being of goodness, order and light.  
+~
+1237325 0 0 0 1053732 0 0 0 500 E
+24 -4 -14 24d5+535 16d4+19
+335 35000
+8 8 1
+BareHandAttack: 10
+Race: 0
+E
+#9927
+priest valor knight~
+the high-ranking priest of valor~
+A high priest of stands here in a halo of light.
+~
+This high priestess of valor has a existence of paramount importance, she
+stands as a beacon of hope in the fight to drive out the demons.  She stands
+here in her ephemeral robes inscribed with powerful divine runes healing the
+holy knights.  
+~
+1241225 0 0 0 136364 0 0 0 900 E
+27 -7 -20 27d6+475 18d4+18
+352 45000
+8 8 2
+BareHandAttack: 5
+Race: 0
+E
+#9928
+Zalestair Holy Paladin~
+Zalestair the Holy Paladin~
+A powerful, holy commander is here barking out orders.
+~
+This highly charismatic, extremely muscular speciman of a man stands here
+coated in a pleasant glow.  His aura gives you a feeling a holiness and great
+strength, emblazoned upon his gleaming, white platemail is a symbol of a
+flaming blade which denotes Valor.  He is here commanding his soldiers on this
+mission to exterminate the evil influences in the area.  
+~
+8579419 0 0 0 1217708 0 0 0 800 E
+34 -14 -24 34d5+3125 22d4+32
+6425 270000
+8 8 1
+BareHandAttack: 6
+Race: 0
+E
+#9929
+paladin moonshear~
+a high-ranking paladin of the Moonshear~
+A powerful looking holy warrior stands here.
+~
+   Standing here as a pillar of righteousness decked out in gloriously radiant
+full platemail is here.  His rippling muscles flex as he gets ready to stand
+on the frontlines versus the great unending powers of the dark, evil realms
+that are all around.  
+~
+1173769 0 0 0 5379244 0 0 0 750 E
+30 -10 -20 30d5+850 20d4+20
+3500 60000
+8 8 1
+Race: 0
+E
+#9930
+Zalestair enraged paladin moonshear~
+Zalestair, the Enraged Paladin of Moonshear~
+A powerful, holy commander is grumbling here incredibly pissed off!!
+~
+It looks, err, unfinished.
+~
+8513659 0 0 0 1184956 2 0 0 700 E
+38 -18 -28 38d5+5078 30d4+38
+37500 372000
+8 8 1
+BareHandAttack: 7
+Race: 0
 E
 $

@@ -1,0 +1,53 @@
+#31700
+coffee black~
+a piping hot cup of black coffee~
+Someone left a invigorating cup of Frjosa black bean coffee here.~
+~
+10 0 0 0 0 1 0 0 0
+30 68 68 68
+0 11400 100.00
+#31701
+smooth glass whiskey~
+a glass of Elkheart Single-Barrel~
+A small glass of whiskey is here begging you to drink it.~
+~
+17 0 0 0 0 1 0 0 0
+1 1 5 0
+1 4999 100.00
+#31702
+mystical scroll antimagi~
+the ancient Hel-Vegr book of the anti-magi~
+A large book bound in muskoxen leather is here collecting dust.~
+~
+3 2 0 0 0 16385 0 0 0
+30 3 3 82
+2 49999 100.00
+#31778
+dark matter containment sphere~
+an indestructable sphere imprisoning dark-matter~
+A sphere containing some sort of violent energy is here causing a disruption in the world around it.~
+~
+12 323 0 0 0 262145 0 0 0
+0 0 0 0
+1 9999 1.00
+A
+9 -30
+A
+26 15
+A
+19 3
+A
+29 30
+A
+29 3
+A
+29 1
+#31798
+open furnace~
+a large open furnace~
+A large cast-iron furnace is here to warm your bones.~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0
+1000 1 100.00
+$~

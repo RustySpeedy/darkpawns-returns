@@ -1,0 +1,85 @@
+#31200
+road man worker~
+a North Star road worker~
+A man in tattered work clothes is here scanning the roads surface to make repairs.
+~
+   This man's skin is a dark shade of brown and likely a result of the man
+hours he has spent in the sun.  He is wearing a wide-brimmed hat that has seen
+better days.  His clothes seem well-made, but are dirty as hell.  
+~
+205 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+100 14000
+8 8 1
+BareHandAttack: 13
+Race: 0
+Noise: You hear someone grumbling about people not respecting their enviroment.
+E
+#31201
+scarlet woman~
+a scarlet woman~
+A proud lady of easy virtue is here on the job.
+~
+   She is covered from head to toe in gorgeous furs from the local wildlife,
+except her head and quite a bit of clevage.  The lady-of-the-night seems like
+a good soul who found her niche in this harsh world.  She is looking in your
+direction, sizing you up.  
+~
+8667213 0 0 0 0 0 0 0 500 E
+15 5 -5 15d5+160 10d4+10
+500 14000
+8 8 2
+BareHandAttack: 7
+Race: 0
+E
+#31202
+wizard man dying black cloak~
+a dying wizard~
+A very old man in a black cloak is here coughing and spitting up blood.
+~
+   A very old man, wrinkles and liver spots distort his sad face.  He looks
+unhappy with his life and what he has done with it.  He's draped in all black
+and has a long dirty white beard.  His nose is long, crooked, red and speckled
+with scars.  Put him out of his misery already.  
+~
+72 0 0 0 2048 0 0 0 -500 E
+15 5 -5 15d5+160 10d4+10
+100 14000
+8 8 1
+BareHandAttack: 12
+Race: 5
+E
+#31203
+dog mut stray~
+a mangy mut~
+A mangy looking mut is running around looking for something to eat.
+~
+   It is unclear what breed of dog this is.  She seems pretty healthy aside
+from her matted fur and yellow teeth.  
+~
+73 0 0 0 0 0 0 0 0 E
+7 13 3 7d5+80 4d4+3
+0 1
+8 8 2
+BareHandAttack: 4
+Race: 22
+E
+#31212
+man broken slayer~
+a failed dragon slayer~
+An older gentleman in broken armor, sits slumped over looking devastated and defeated.
+~
+   A man in his later years, wearing broken armor and a busted sword at his
+side.  He keeps muttering something about a dragon so terrifying that it would
+make God himself hesitate to approach.  His eyes are watery and darkened, skin
+bruised and bloody.  Large burns and deep wounds are littering his body
+beneath charred armor.  
+~
+2202 0 0 0 33554440 0 0 0 1000 E
+31 -11 -21 31d5+997 20d4+20
+1000 90000
+6 6 1
+BareHandAttack: 3
+Race: 0
+E
+$

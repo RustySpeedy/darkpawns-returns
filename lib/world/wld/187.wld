@@ -30,17 +30,26 @@ The Ender Village
 ~
 S
 #18701
-An Ender Hut~
-You stand in the center of a small, cosy hut.  All the things required
-for living the simple life are here.  There is a small road running
-by to the south.
+A Small Road~
+This is a small road that is made up off small planks of wood.  There is no
+real way to see high off of the real ground you are, but this road is sturdy
+enough.  There are small huts to the north and west, and a bakery is to the
+east.
 ~
 187 32776 0 0 0 0
+D0
+~
+~
+0 0 18736
 D2
 A Small Road
 ~
 ~
 0 1 18703
+D3
+~
+~
+0 0 18737
 E
 cupboard~
 These cupboards are simple affair with some plates, etc.
@@ -84,10 +93,10 @@ It is a simple table with four posts and a few small wooden chairs around it.
 S
 #18703
 A Small Road~
-This is a small road that is made up off small planks of wood.  There is no
+   This is a small road that is made up off small planks of wood.  There is no
 real way to see high off of the real ground you are, but this road is sturdy
-enough.  There are small huts to the north and west, and a bakery is to the
-east.
+enough.  There are small huts to the north and west, and a large hut lies to
+the east radiating drool-inducing smells.  
 ~
 187 32768 0 0 0 0
 D0
@@ -113,12 +122,21 @@ An Ender Hut
 S
 #18704
 A Bakery~
-This is a simple bakery.  There are all the things needed to bake bread,
-including an oven, pans, and bags of flour.  There does not seem to be any
-counter, so this may not actually be a shop.  A door to the west leads to a
-small road.
+   Warm, moist air welcomes anyone who enters with the promise of baked goods.
+Large clay ovens line the southern wall and are responsible for the sweet and
+smells that fill the flour-dusted room.  A door lies to the north to what
+appears to be a storage room, and shelves containing a myriad of jugs and pots
+in various sizes.  
 ~
 187 32776 0 0 0 0
+D0
+~
+~
+0 0 18733
+D1
+~
+~
+0 0 18734
 D3
 A Small Road
 ~
@@ -295,6 +313,10 @@ A Main Road
 ~
 ~
 0 1 18713
+D2
+~
+~
+0 0 18735
 D5
 ~
 throne~
@@ -364,7 +386,7 @@ and clearly appears to be more for show than purpose.  A town square of
 sizable proportions lies to the west while the exit of the ravine climbs
 above you to the forest floor.
 ~
-187 32768 0 0 0 0
+187 32772 0 0 0 0
 D3
 Central Square
 ~
@@ -574,11 +596,19 @@ shop.  There is a small furnace, and anvil, and a trough of cool water.
 The door to the west leads back to a small village road.
 ~
 187 32776 0 0 0 0
+D1
+~
+~
+0 0 18731
 D3
 A Small Road
 ~
 ~
 0 1 18723
+D5
+~
+~
+0 0 18732
 S
 #18725
 Southern Edge~
@@ -684,5 +714,100 @@ D2
 ~
 ~
 0 0 18712
+S
+#18731
+A Blacksmith's Bedroom~
+   This room is utilitarian with the bare minimum of comforts.  A large bed
+lies with the headboard against the far wall flanked by a pair of small, oak
+nightstands.  At the foot of the bed is a chamberpot that appears to be full.
+The floor is bare except for a faded green rug with crusty white stains.  On a
+coat rack near the door hangs several leather aprons and gloves.  
+~
+187 0 0 0 0 0
+D3
+~
+~
+0 0 18724
+S
+#18732
+A Blacksmith's Storage~
+   A small ladder lands in a squatty little room full of metallic bars, ores,
+and fluxes.  Unfortunately gold and precious metals seem to e lacking in the
+wide array of choices.  The floor is covered in a fine powder of mixed metals
+and little nuggets of ore.  Stacks of half finished weapons and armor line the
+back wall while piles of horseshoes, nails, and other everyday hardware crowd
+the rest of the room.  
+~
+187 0 0 0 0 0
+D4
+~
+~
+0 0 18724
+S
+#18733
+The Baker's Storage~
+   The floor space not covered by large powdery burlap sacks is nearly
+patterned with the flour dusted footprints of the cook.  Rough-hewn wooden
+shelves line the entire room, except for a tiny window on the western wall.  
+A small preparation table sits in the southeast corner containing various
+bowls of wet and dry substances.  
+~
+187 0 0 0 0 0
+D2
+~
+~
+0 0 18704
+S
+#18734
+A Baker's Bedroom~
+   This room is very obviously a sleeping quarters.  A large feather mattress
+that could fit three large people sits in the center of the room.  A wash
+basin lies on the left-most wall along with a rough-made wooden chest.  The
+smells of the bakery drift in through the doorway.  
+~
+187 0 0 0 0 0
+D3
+~
+~
+0 0 18704
+S
+#18735
+The Ender Royal Guard Quarter's~
+   Heavy curtains open to reveal six wooden frames holding thick, down
+mattresses.  Each bed is tidied neatly in an otherwise stark room.  This is
+the sleeping quarters for the guards.  A small wash basin and bowl sit on a
+small table at the southern corner of the room.  
+~
+187 0 0 0 0 0
+D0
+~
+~
+0 0 18712
+S
+#18736
+The Ender Guard's Armory~
+   The door enters on what feels like a small hallway of racks.  Each rack
+contains some tough armor made of a lacquered bark.  Beyond the racks a wall
+can be seen lined with rows of sharp knives, daggers, and axes.  
+~
+187 0 0 0 0 0
+D2
+~
+~
+0 0 18701
+S
+#18737
+The Ender Village Shaman~
+   A large pile of woven blankets sits in the center of the room.  Small,
+wooden shelves line each wall containing various herbal remedies and potions.
+A disturbingly small table sits in the northwest corner of the room.  A ladder
+sits against the shelves, apparently used frequently judging by the line dug
+into the dirt floor that follows the shelves.  
+~
+187 0 0 0 0 0
+D1
+~
+~
+0 0 18701
 S
 $~

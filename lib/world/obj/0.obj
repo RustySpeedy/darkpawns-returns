@@ -58,7 +58,7 @@ A nicely gutted fish lies here.~
 ~
 19 0 0 0 0 1 0 0 0
 10 0 0 0
-1 20 10
+1 20 10.00
 #13
 bird leg legs~
 a leg of bird~
@@ -66,7 +66,7 @@ A nice hunk of bird leg here looks very tasty.~
 ~
 19 0 0 0 0 1 0 0 0
 10 0 0 0
-1 20 10
+1 20 10.00
 #14
 rabbit chops~
 some rabbit chops~
@@ -74,7 +74,7 @@ A nice piece of rabbit chops lies here.~
 ~
 19 0 0 0 0 1 0 0 0
 12 0 0 0
-1 22 10
+1 22 10.00
 #15
 slab ribs~
 a slab of barbecued ribs~
@@ -90,7 +90,7 @@ The head of someone lies here.~
 ~
 17 4 0 0 0 16385 0 0 0
 1 1 13 0
-5 0 10
+5 0 10.00
 #17
 corpse headless beheaded~
 a beheaded corpse~
@@ -98,7 +98,7 @@ A beheaded corpse is here, spilling fresh blood.~
 ~
 15 12 0 0 0 0 0 0 0
 1 0 -1 0
-150 0 500
+150 0 500.00
 #18
 dust pile~
 a pile of dust~
@@ -226,7 +226,7 @@ A wall of fire shoots out licks of flames and waves of heat.~
 ~
 12 0 0 0 0 0 0 0 0
 0 0 0 0
-1 5500 5500
+1 5500 5500.00
 #51
 ice wall~
 a wall of ice~
@@ -234,7 +234,7 @@ A wall of ice blocks all passage.~
 ~
 12 0 0 0 0 0 0 0 0
 0 0 0 0
-1 5500 5500
+1 5500 5500.00
 #52
 cloud poison gas~
 a noxious cloud of poison gas~
@@ -242,7 +242,7 @@ A noxious cloud of poison gas fills the air.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 5500 5500
+1 5500 5500.00
 #64
 circle summoning~
 a circle of summoning~
@@ -256,7 +256,7 @@ Nyte Shade~
 Nyte Shade~
 An ancient wicked dagger lies here.~
 ~
-5 65674 0 0 0 8192 0 0 0
+5 65546 0 0 0 8192 0 0 0
 0 1000 1 11
 1 0 100.00
 A
@@ -430,6 +430,34 @@ A large red ceremonial candle stands here.~
 12 80 0 0 0 1 0 0 0
 0 0 0 0
 2 1000 100.00
+#85
+thanksgiving dinner~
+a thanksgiving dinner~
+A thanksgiving dinner is lying here.~
+Turkey, mashed potatoes, green beans, cranberry sauce, sweet-potato casserole, pie, and beer.
+~
+10 0 0 0 0 1 0 0 0
+30 65 66 1
+0 1 0.00
+#86
+eggnog~
+eggnog~
+Some eggnog is sitting here.  Thankfully it's still cold.~
+eggnog
+~
+10 0 0 0 0 1 0 0 0
+30 97 0 0
+0 0 0.00
+#89
+bone dagger whistler~
+a bone dagger~
+A bone dagger~
+~
+5 65546 0 0 0 8193 0 0 0
+0 6 4 11
+10 0 100.00
+A
+29 33
 #90
 dusty red covered book time~
 the book of time~
@@ -438,6 +466,10 @@ A dusty red-covered book sits on the ground.~
 16 1 0 0 0 16385 0 0 0
 0 0 0 0
 4 20 100.00
+E
+blah~
+Eh?
+~
 E
 dusty red covered book time~
 The book looks as old as creation itself and its pages are completely blank
@@ -449,10 +481,6 @@ name is the secret to his control. When the moon is full, Senyakhaz will
 come if summoned...
 
 The remainder of the page crumbles before you can read further.
-~
-E
-blah~
-Eh?
 ~
 #91
 black rock meteorite~
@@ -563,4 +591,39 @@ this physical plane"...
 The rest is garbled and you can't make it out. Other sections of the book
 reference a plane of elements yet no detail is given.
 ~
+#98
+ancient inkwell~
+an ancient, obsidian inkwell filled with blood~
+An inkwell made from obsidian, filled with the ancient blood of Slayer himself. This is used for writing blood-contracts and other dastardly documents. Gravity has no affect on this item. ~
+An inkwell made from obsidian, filled with the ancient blood of Slayer himself. This is used for writing blood-contracts and other dastardly documents. Gravity has no affect on this item. 
+~
+1 16843595 0 0 0 262145 0 0 0
+0 0 -1 0
+0 10000 100.00
+A
+19 1
+A
+18 1
+A
+29 2
+#99
+ancient inkwell~
+an ancient, obsidian inkwell filled with blood~
+An inkwell made from obsidian, illed with the ancient blood o Slayer himself. This is used for writing blood-contracts and other dastardly documents.~
+An inkwell made from obsidian, illed with the ancient blood o Slayer himself. This is used for writing blood-contracts and other dastardly documents. Gravity has no affect on this item.
+This belongs to Biscuit.
+~
+1 16842763 0 0 0 262145 0 0 0
+0 0 0 0
+0 10000 0.00
+E
+ink~
+An inkwell made from obsidian, illed with the ancient blood o Slayer himself. This is used for writing blood-contracts and other dastardly documents. Gravity has no affect on this item.
+~
+A
+18 2
+A
+19 1
+A
+3 1
 $~

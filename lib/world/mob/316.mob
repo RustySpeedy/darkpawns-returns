@@ -1,0 +1,114 @@
+#31601
+Edris lamplighter man~
+Edris the Lamplighter~
+A thin man with dressed in a warm, fur-lined jacket stands here gazing through the trees.
+~
+Edris is a thin, hardened man with laugh lines that indicate he once lived a
+happy life.  He lives a life of solitude now, with his loyal dog for
+companionship.  He is dressed in warm clothing to battle the sharp winds the
+whistle through the treetops.  He is the Lamplighter that attends the beacon's
+light and ensures it stays lit for travelers to gauge.  He welcomes visitors
+as it breaks the monotony of his life.  
+~
+8395226 0 0 0 8524968 0 0 0 1000 E
+32 -12 -22 32d5+1580 21d4+21
+0 120000
+8 8 1
+BareHandAttack: 13
+Race: 0
+Noise: You hear a man humming some song about keeping the darkness at bay.
+E
+#31602
+sleeping hound asha~
+Asha the hound~
+A small hound lays curled up by the stove half-awake.
+~
+   She is an older dog, likely a hound mutt.  She dozes lightly in front of
+the burning stove.  Her fur is medium length and the dark brown is beginning
+to gray around her snout.  Even though she appears to be sleeping, you can
+tell she is aware of her owner, Edris at all times.  
+~
+266 0 0 0 4104 0 0 0 0 E
+22 -2 -12 22d5+230 14d4+14
+0 1
+8 8 2
+BareHandAttack: 4
+Race: 22
+E
+#31603
+dosfigured man Wren~
+Wren the hermit~
+A man with a horribly disfigured face stares at you while warming his hands on the stove.
+~
+   The pain this man must have endured as the trauma that caused the massive
+scarring on his face is unimaginable.  The scarring itself leaves only minor
+spots of untouched skin.  The long-healed, if you could call it healed, scars
+run down into the collar of the shapeless shirt that he wears.  The man is
+very thin and looks at you with bright, green eyes that sparkle with
+intelligence.  He spends his days in solace, writing into large leather bound
+journals.  
+~
+2138 0 0 0 0 0 0 0 0 E
+31 -11 -21 31d5+997 20d4+20
+0 90000
+8 8 1
+Race: 0
+E
+#31616
+Lieutenant Orbeshi guard corpse reanimated~
+the undead corpse of Lietenant Orbeshi~
+A decomposing corpse belonging to the late Lietenant Orbeshi of the Kir Drax'in Guard is shuffling about here.
+~
+undefined~
+8 0 0 0 0 0 0 0 0 E
+7 13 3 7d5+80 4d4+4
+0 2500
+8 8 0
+E
+#31617
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+7 13 3 7d5+80 4d4+4
+0 2500
+8 8 0
+E
+#31649
+short faced bear~
+the Gigantic Short-Faced Bear~
+An enormous bear whose fur is matted in blood stands on its hind legs furiously.
+~
+   This horrible creature is not like any bear you've ever encountered.  Its
+limbs are significantly longer than a typical grizzly bear or brown bear.  
+Weighing in around the same at almost one ton, it is a bit more slender and
+gracile.  The Short-faced bear is built for speed and the destruction of life.
+~
+8906814 0 0 0 1160 2 0 0 0 E
+35 -15 -25 35d5+3329 23d4+23
+0 360000
+8 8 1
+BareHandAttack: 9
+Race: 22
+Noise: An all too familiar grunt sends chills down your spine and makes the hair on your neck stand up.
+E
+#31663
+brown bear~
+a brown bear~
+A large, overweight bear pads around here with it's head down sniffing the ground.
+~
+   The massive body of this powerful animal is covered in a thick coat of
+brown fur.  Audible thumps can be heard as the bear takes each step.  This
+animal must have very little to fear in the wild, as the power it wields
+cannot be understated.  
+~
+104 0 0 0 0 0 0 0 0 E
+22 -2 -12 22d5+230 14d4+14
+0 30000
+8 8 0
+Race: 22
+E
+$

@@ -1,0 +1,1789 @@
+#23500
+The Garden Gates~
+   A towering set of pewter gates shines with a light dusting of moisture.  
+The sounds of birds and rustling foliage give a peaceful feeling for the lush
+green space beyond.  Stretching to the east and west is a wall of immensely
+thick shrubs standing as tall as the gates.  The view beyond the gates is
+blurry due to a light, but ever-present mist.  
+~
+235 32768 0 0 0 3
+D0
+~
+gate pewter~
+1 0 23501
+D2
+~
+~
+0 0 23597
+S
+#23501
+A Cobblestone Path~
+   Round, grey stones line the path ahead providing solid footing among the
+disorienting mist.  Strange colored birds fly back and forth among the tops of
+the shrub wall, seemingly unperturbed by the presence of strangers.  The path
+leads north and south while nothing of interest lies perpendicular.  
+~
+235 32768 0 0 0 3
+D0
+~
+~
+0 0 23502
+D2
+~
+gate pewter~
+1 0 23500
+S
+#23502
+Intersecting Paths~
+   A gentle pulsing glow illuminates the mist from the left and right sides of
+the path.  The birds are no longer stirring about as if avoiding this section
+of the gardens.  Small flying insects seemingly take advantage of the absence
+of avian predators and buzz furiously all around.  The cobblestone path
+continues north and south.  
+~
+235 32768 0 0 0 0
+D0
+~
+~
+0 0 23503
+D1
+~
+~
+0 0 23535
+D2
+~
+~
+0 0 23501
+D3
+~
+~
+0 0 23525
+S
+#23503
+A Cobblestone Path~
+   The surrounding mist provides a comfortable, if soggy, climate within the
+high walls of the garden.  Neatly packed stones in the ground keep the main
+path running north and south from becoming muddy amidst all the moisture.  
+The luscious green walls are highlighted at random intervals by blooms of
+colorful flowers.  
+~
+235 32768 0 0 0 3
+D0
+~
+~
+0 0 23504
+D2
+~
+~
+0 0 23502
+S
+#23504
+A Cobblestone Path~
+   Fruit bearing trees can be seen all around with enticing low-hanging
+branches.  Though unseen, the chatter of various fauna can be heard from the
+canopy.  A slight breeze wafts sweet scents through the area though the mists
+remain unmoved.  In the dirt beside the path various tracks can be made out
+with both small and large markings, many of which were made in haste.  
+~
+235 32768 0 0 0 3
+D0
+~
+~
+0 0 23505
+D2
+~
+~
+0 0 23503
+S
+#23505
+A Cobblestone Path~
+   Thorny bushes now line the path as encouragement not to stray.  Carefully
+groomed, they dont encroach on the cobblestones and are so thick that theres
+nowhere else to go but forward or return from where you came.  Nesting
+wildlife can be seen darting beneath the bushes, nimbly dodging the long woody
+spikes.  
+~
+235 32768 0 0 0 3
+D0
+~
+~
+0 0 23506
+D2
+~
+~
+0 0 23504
+S
+#23506
+Before an Alcove~
+   A small path appears to the east revealing a narrow alcove.  The mists make
+it impossible to see what lies further down.  The shrubs and plants along the
+entrance appear carefully manicured giving it the appearance of frequent
+passage.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23507
+D1
+~
+~
+0 0 23555
+D2
+~
+~
+0 0 23505
+S
+#23507
+Intersecting Paths~
+   A gentle pulsing glow illuminates the mist from the west side of the path.
+The odd light seems to be driving away the native creatures.  The echo of
+calling birds fills the air, though none are within sight.  The cobblestone
+path continues north and south.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23508
+D2
+~
+~
+0 0 23506
+D3
+~
+~
+0 0 23545
+S
+#23508
+A Broken Path~
+   Broken stones are strewn about the area and the ground is covered in divots
+where the footing was once securely planted.  There is dried blood on the
+ground and the area is littered with torn leaves, broken branches and tufts of
+fur and feathers.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23509
+D2
+~
+~
+0 0 23507
+S
+#23509
+A Cobblestone Path~
+   Thorny bushes now line the path as encouragement not to stray.  Carefully
+groomed, they dont encroach on the cobblestones and are so thick that theres
+nowhere else to go but forward or return from where you came.  Nesting
+wildlife can be seen darting beneath the bushes, nimbly dodging the long woody
+spikes.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23510
+D2
+~
+~
+0 0 23508
+S
+#23510
+A Cobblestone Path~
+   Thorny bushes now line the path as encouragement not to stray.  Carefully
+groomed, they dont encroach on the cobblestones and are so thick that theres
+nowhere else to go but forward or return from where you came.  Nesting
+wildlife can be seen darting beneath the bushes, nimbly dodging the long woody
+spikes.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23511
+D2
+~
+~
+0 0 23509
+S
+#23511
+The Middle of the Path~
+   Looking forward and behind it is difficult to tell if youre in the center
+of the estates but something about this area just feels centered.  Unlike the
+plain pattern set of the cobblestones so far, the path here is arranged in a
+distinct pattern leading the eyes westward.  The mists also seem to be thinned
+out much more in this spot, allowing you to view the remaining corridor ahead.
+
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23512
+D2
+~
+~
+0 0 23510
+D3
+~
+thicket~
+1 0 23559
+S
+#23512
+A Cobblestone Path~
+   The surrounding mist provides a comfortable, if soggy, climate within the
+high walls of the garden.  Neatly packed stones in the ground keep the main
+path running north and south from becoming muddy amidst all the moisture.  
+The luscious green walls are highlighted at random intervals by blooms of
+colorful flowers.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23513
+D2
+~
+~
+0 0 23511
+S
+#23513
+Intersecting Paths~
+   A gentle pulsing glow illuminates the mist from the right.  The birds are
+no longer stirring about as if avoiding this section of the gardens.  Small
+flying insects seemingly take advantage of the absence of avian predators and
+buzz furiously all around.  The cobblestone path continues north and south.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23514
+D1
+~
+~
+0 0 23560
+D2
+~
+~
+0 0 23512
+S
+#23514
+A Cobblestone Path~
+   The surrounding mist provides a comfortable, if soggy, climate within the
+high walls of the garden.  Neatly packed stones in the ground keep the main
+path running north and south from becoming muddy amidst all the moisture.  To
+the west, a bush looks slightly out of place as if it is a newer addition than
+the surrounding foliage.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23515
+D2
+~
+~
+0 0 23513
+D3
+~
+bush~
+1 0 23570
+S
+#23515
+A Cobblestone Path~
+   The surrounding mist provides a comfortable, if soggy, climate within the
+high walls of the garden.  Neatly packed stones in the ground keep the main
+path running north and south from becoming muddy amidst all the moisture.  
+The luscious green walls are highlighted at random intervals by blooms of
+colorful flowers.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23516
+D2
+~
+~
+0 0 23514
+S
+#23516
+A Cobblestone Path~
+   Thorny bushes now line the path as encouragement not to stray.  Carefully
+groomed, they dont encroach on the cobblestones and are so thick that theres
+nowhere else to go but forward or return from where you came.  Nesting
+wildlife can be seen darting beneath the bushes, nimbly dodging the long woody
+spikes.  To the west stands a small shed made of grey brick topped with a
+simple wood roof.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23517
+D2
+~
+~
+0 0 23515
+D3
+~
+door~
+2 0 23571
+S
+#23517
+A Cobblestone Path~
+   The surrounding mist provides a comfortable, if soggy, climate within the
+high walls of the garden.  Neatly packed stones in the ground keep the main
+path running north and south from becoming muddy amidst all the moisture.  
+The luscious green walls are highlighted at random intervals by blooms of
+colorful flowers.  The sound of trickling water can be heard from the west.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23518
+D2
+~
+~
+0 0 23516
+S
+#23518
+A Cobblestone Path~
+   Thorny bushes now line the path as encouragement not to stray.  Carefully
+groomed, they dont encroach on the cobblestones and are so thick that theres
+nowhere else to go but forward or return from where you came.  Nesting
+wildlife can be seen darting beneath the bushes, nimbly dodging the long woody
+spikes.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23519
+D2
+~
+~
+0 0 23517
+S
+#23519
+A Cobblestone Path~
+   The surrounding mist provides a comfortable, if soggy, climate within the
+high walls of the garden.  Neatly packed stones in the ground keep the main
+path running north and south from becoming muddy amidst all the moisture.  
+The luscious green walls are highlighted at random intervals by blooms of
+colorful flowers.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23520
+D2
+~
+~
+0 0 23518
+S
+#23520
+A Cobblestone Pathway~
+   The surrounding mist provides a comfortable, if soggy, climate within the
+high walls of the garden.  Neatly packed stones in the ground keep the main
+path running north and south from becoming muddy amidst all the moisture.  
+The luscious green walls are highlighted at random intervals by blooms of
+colorful flowers.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23521
+D2
+~
+~
+0 0 23519
+S
+#23521
+Intersecting Paths~
+   Birds chirp as imsects dart back and forth.  A cool breeze stirs up the
+mist while ot rustles the leaves all around you.  To the west is a large grey
+building while the path continues north and south.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23522
+D2
+~
+~
+0 0 23520
+D3
+~
+~
+0 0 23573
+S
+#23522
+Approaching the Pond~
+   The cobblestones abruptly end as a tightly packed, dirt path continues
+forward.  The mist has turned some of the dirt into mud, but the footing
+remains secure.  Ahead, the mists seem to part revealing a small body of
+water.  The thorny bush walls lining the pathways extends to encircle the pond
+tightly so that there is no way around it.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23523
+D2
+~
+~
+0 0 23521
+S
+#23523
+Water's Edge~
+   At the edge of the pond, the water appears crystal clear.  With a clean
+view of the bottom, gentle slopes of dirt are broken up by stray rocks,
+aquatic plants, and broken limbs.  Small fish dart around chasing even smaller
+prey and water insects dance above on the surface.  The thorny bush walls
+encircling the gardens leave no room to walk around the pond, the only way
+forward is to dive right in.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23524
+D2
+~
+~
+0 0 23522
+S
+#23524
+Wading in the Pond~
+   The water is refreshingly cool and clear as glass.  Fish and other aquatic
+life can be seen swimming around the debris looking for food and shiny things.
+Shadows can be seen darting around in the distance.  The bottom of the pond
+looks fairly deep.  
+~
+235 0 0 0 0 6
+D0
+~
+~
+0 0 23583
+D2
+~
+~
+0 0 23523
+S
+#23525
+Before a Mossy Enclave~
+   With the abundance of moisture in the garden, moss has drastically
+overtaken this section.  A green, velvety covering stretches about in all
+directions.  Every surface and object seems to be touched by moss.  The ground
+squishes and gives ever so softly when tread upon.  
+~
+235 32768 0 0 0 3
+D1
+~
+~
+0 0 23502
+S
+#23526
+A Mossy Enclave~
+   A green carpeted space is filled with the faint, pleasant scent of rain.  
+The ground slightly gives way under your steps as the spongy moss compresses
+beneath your weight.  The mist isn't as thick in the enclave compared to the
+garden proper and small insects and animals can be seen scurrying about.  The
+enclave appears to be a rectangular area encased in the same dense plant-life
+walling off the garden from the outside world.  
+~
+235 0 0 0 0 3
+D1
+~
+~
+0 0 23527
+D2
+~
+~
+0 0 23529
+S
+#23527
+A Mossy Enclave~
+   A green carpeted space is filled with the faint, pleasant scent of rain.  
+The ground slightly gives way under your steps as the spongy moss compresses
+beneath your weight.  The mist isn't as thick in the enclave compared to the
+garden proper and small insects and animals can be seen scurrying about.  The
+enclave appears to be a rectangular area encased in the same dense plant-life
+walling off the garden from the outside world.  
+~
+235 0 0 0 0 3
+D1
+~
+~
+0 0 23528
+D2
+~
+~
+0 0 23530
+D3
+~
+~
+0 0 23526
+S
+#23528
+A Mossy Enclave~
+   A green carpeted space is filled with the faint, pleasant scent of rain.  
+The ground slightly gives way under your steps as the spongy moss compresses
+beneath your weight.  The mist isn't as thick in the enclave compared to the
+garden proper and small insects and animals can be seen scurrying about.  The
+enclave appears to be a rectangular area encased in the same dense plant-life
+walling off the garden from the outside world.  
+~
+235 0 0 0 0 3
+D2
+~
+~
+0 0 23531
+D3
+~
+~
+0 0 23527
+S
+#23529
+A Mossy Enclave~
+   A green carpeted space is filled with the faint, pleasant scent of rain.  
+The ground slightly gives way under your steps as the spongy moss compresses
+beneath your weight.  The mist isn't as thick in the enclave compared to the
+garden proper and small insects and animals can be seen scurrying about.  The
+enclave appears to be a rectangular area encased in the same dense plant-life
+walling off the garden from the outside world.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23526
+D1
+~
+~
+0 0 23530
+D2
+~
+~
+0 0 23532
+S
+#23530
+A Mossy Enclave~
+   A green carpeted space is filled with the faint, pleasant scent of rain.  
+The ground slightly gives way under your steps as the spongy moss compresses
+beneath your weight.  The mist isn't as thick in the enclave compared to the
+garden proper and small insects and animals can be seen scurrying about.  The
+enclave appears to be a rectangular area encased in the same dense plant-life
+walling off the garden from the outside world.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23527
+D1
+~
+~
+0 0 23531
+D2
+~
+~
+0 0 23533
+D3
+~
+~
+0 0 23529
+S
+#23531
+A Mossy Enclave~
+   A green carpeted space is filled with the faint, pleasant scent of rain.  
+The ground slightly gives way under your steps as the spongy moss compresses
+beneath your weight.  The mist isn't as thick in the enclave compared to the
+garden proper and small insects and animals can be seen scurrying about.  The
+enclave appears to be a rectangular area encased in the same dense plant-life
+walling off the garden from the outside world.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23528
+D2
+~
+~
+0 0 23534
+D3
+~
+~
+0 0 23530
+S
+#23532
+A Mossy Enclave~
+   A green carpeted space is filled with the faint, pleasant scent of rain.  
+The ground slightly gives way under your steps as the spongy moss compresses
+beneath your weight.  The mist isn't as thick in the enclave compared to the
+garden proper and small insects and animals can be seen scurrying about.  The
+enclave appears to be a rectangular area encased in the same dense plant-life
+walling off the garden from the outside world.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23529
+D1
+~
+~
+0 0 23533
+S
+#23533
+A Mossy Enclave~
+   A green carpeted space is filled with the faint, pleasant scent of rain.  
+The ground slightly gives way under your steps as the spongy moss compresses
+beneath your weight.  The mist isn't as thick in the enclave compared to the
+garden proper and small insects and animals can be seen scurrying about.  The
+enclave appears to be a rectangular area encased in the same dense plant-life
+walling off the garden from the outside world.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23530
+D1
+~
+~
+0 0 23534
+D3
+~
+~
+0 0 23532
+S
+#23534
+A Mossy Enclave~
+   A green carpeted space is filled with the faint, pleasant scent of rain.  
+The ground slightly gives way under your steps as the spongy moss compresses
+beneath your weight.  The mist isn't as thick in the enclave compared to the
+garden proper and small insects and animals can be seen scurrying about.  The
+enclave appears to be a rectangular area encased in the same dense plant-life
+walling off the garden from the outside world.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23531
+D3
+~
+~
+0 0 23533
+S
+#23535
+A Half Burned Copse~
+   The green and lively garden comes to an abrupt halt as the surrounding
+plant life is speckled with burning embers and small streams of smoke.  Warm
+air flows from the back of the room towards the cobblestone pathway as it
+looks to escape the rising heat.  For now the creeping fire appears to be kept
+at bay by an unseen force.  
+~
+235 32768 0 0 0 3
+D3
+~
+~
+0 0 23502
+S
+#23536
+A Field of Ash~
+   Muted grey powder covers the field in all directions.  Footprints of all
+shapes and sizes mark the landscape, weaving between smouldering tree stumps
+and smoking remnants of bushes.  Glowing embers blow through the air seeking
+out dry tinder to set ablaze.  
+~
+235 0 0 0 0 3
+D1
+~
+~
+0 0 23537
+D2
+~
+~
+0 0 23539
+S
+#23537
+A Field of Ash~
+   Muted grey powder covers the field in all directions.  Footprints of all
+shapes and sizes mark the landscape, weaving between smouldering tree stumps
+and smoking remnants of bushes.  Glowing embers blow through the air seeking
+out dry tinder to set ablaze.  
+~
+235 0 0 0 0 3
+D1
+~
+~
+0 0 23538
+D2
+~
+~
+0 0 23540
+D3
+~
+~
+0 0 23536
+S
+#23538
+A Field of Ash~
+   Muted grey powder covers the field in all directions.  Footprints of all
+shapes and sizes mark the landscape, weaving between smouldering tree stumps
+and smoking remnants of bushes.  Glowing embers blow through the air seeking
+out dry tinder to set ablaze.  
+~
+235 0 0 0 0 3
+D2
+~
+~
+0 0 23541
+D3
+~
+~
+0 0 23537
+S
+#23539
+A Field of Ash~
+   Muted grey powder covers the field in all directions.  Footprints of all
+shapes and sizes mark the landscape, weaving between smouldering tree stumps
+and smoking remnants of bushes.  Glowing embers blow through the air seeking
+out dry tinder to set ablaze.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23536
+D1
+~
+~
+0 0 23540
+D2
+~
+~
+0 0 23542
+S
+#23540
+A Field of Ash~
+   Muted grey powder covers the field in all directions.  Footprints of all
+shapes and sizes mark the landscape, weaving between smouldering tree stumps
+and smoking remnants of bushes.  Glowing embers blow through the air seeking
+out dry tinder to set ablaze.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23537
+D1
+~
+~
+0 0 23541
+D2
+~
+~
+0 0 23543
+D3
+~
+~
+0 0 23539
+S
+#23541
+A Field of Ash~
+   Muted grey powder covers the field in all directions.  Footprints of all
+shapes and sizes mark the landscape, weaving between smouldering tree stumps
+and smoking remnants of bushes.  Glowing embers blow through the air seeking
+out dry tinder to set ablaze.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23538
+D2
+~
+~
+0 0 23544
+D3
+~
+~
+0 0 23540
+S
+#23542
+A Field of Ash~
+   Muted grey powder covers the field in all directions.  Footprints of all
+shapes and sizes mark the landscape, weaving between smouldering tree stumps
+and smoking remnants of bushes.  Glowing embers blow through the air seeking
+out dry tinder to set ablaze.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23539
+D1
+~
+~
+0 0 23543
+S
+#23543
+A Field of Ash~
+   Muted grey powder covers the field in all directions.  Footprints of all
+shapes and sizes mark the landscape, weaving between smouldering tree stumps
+and smoking remnants of bushes.  Glowing embers blow through the air seeking
+out dry tinder to set ablaze.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23540
+D1
+~
+~
+0 0 23544
+D3
+~
+~
+0 0 23542
+S
+#23544
+A Field of Ash~
+   Muted grey powder covers the field in all directions.  Footprints of all
+shapes and sizes mark the landscape, weaving between smouldering tree stumps
+and smoking remnants of bushes.  Glowing embers blow through the air seeking
+out dry tinder to set ablaze.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23541
+D3
+~
+~
+0 0 23543
+S
+#23545
+Creeping Dark~
+   Stepping off the path, the surroundings quickly fade to twilight.  
+Combined with the mist, it is difficult to see further than an arm-length in
+any direction.  An odd sensation seemingly pulls towards the western wnd of
+the area.  
+~
+235 1 0 0 0 3
+D1
+~
+~
+0 0 23507
+S
+#23546
+Pitch Black~
+   Nothing is visible within this formless void.  All light has fled making
+the area completely disorienting to navigate.  As the vertigo sets in, you
+stumble about bumping into various branches and leaves.  
+~
+235 1 0 0 0 3
+D1
+~
+~
+0 0 23547
+D2
+~
+~
+0 0 23549
+S
+#23547
+Pitch Black~
+   Nothing is visible within this formless void.  All light has fled making
+the area completely disorienting to navigate.  As the vertigo sets in, you
+stumble about bumping into various branches and leaves.  
+~
+235 1 0 0 0 3
+D1
+~
+~
+0 0 23548
+D2
+~
+~
+0 0 23550
+D3
+~
+~
+0 0 23546
+S
+#23548
+Pitch Black~
+   Nothing is visible within this formless void.  All light has fled making
+the area completely disorienting to navigate.  As the vertigo sets in, you
+stumble about bumping into various branches and leaves.  
+~
+235 1 0 0 0 3
+D2
+~
+~
+0 0 23551
+D3
+~
+~
+0 0 23547
+S
+#23549
+Pitch Black~
+   Nothing is visible within this formless void.  All light has fled making
+the area completely disorienting to navigate.  As the vertigo sets in, you
+stumble about bumping into various branches and leaves.  
+~
+235 1 0 0 0 3
+D0
+~
+~
+0 0 23546
+D1
+~
+~
+0 0 23550
+D2
+~
+~
+0 0 23552
+S
+#23550
+Pitch Black~
+   Nothing is visible within this formless void.  All light has fled making
+the area completely disorienting to navigate.  As the vertigo sets in, you
+stumble about bumping into various branches and leaves.  
+~
+235 1 0 0 0 3
+D0
+~
+~
+0 0 23547
+D1
+~
+~
+0 0 23551
+D2
+~
+~
+0 0 23553
+D3
+~
+~
+0 0 23549
+S
+#23551
+Pitch Black~
+   Nothing is visible within this formless void.  All light has fled making
+the area completely disorienting to navigate.  As the vertigo sets in, you
+stumble about bumping into various branches and leaves.  
+~
+235 1 0 0 0 3
+D0
+~
+~
+0 0 23548
+D2
+~
+~
+0 0 23554
+D3
+~
+~
+0 0 23550
+S
+#23552
+Pitch Black~
+   Nothing is visible within this formless void.  All light has fled making
+the area completely disorienting to navigate.  As the vertigo sets in, you
+stumble about bumping into various branches and leaves.  
+~
+235 1 0 0 0 3
+D0
+~
+~
+0 0 23549
+D1
+~
+~
+0 0 23553
+S
+#23553
+Pitch Black~
+   Nothing is visible within this formless void.  All light has fled making
+the area completely disorienting to navigate.  As the vertigo sets in, you
+stumble about bumping into various branches and leaves.  
+~
+235 1 0 0 0 3
+D0
+~
+~
+0 0 23550
+D1
+~
+~
+0 0 23554
+D3
+~
+~
+0 0 23552
+S
+#23554
+Pitch Black~
+   Nothing is visible within this formless void.  All light has fled making
+the area completely disorienting to navigate.  As the vertigo sets in, you
+stumble about bumping into various branches and leaves.  
+~
+235 1 0 0 0 3
+D0
+~
+~
+0 0 23551
+D3
+~
+~
+0 0 23553
+S
+#23555
+A Quiet Alcove~
+   The alcove is shady but the mist has faded some, making the air lighter to
+breathe.  The ground is worn down to compacted dirt, evidence of heavy use.  
+Scattered around are various gardening tools and other objects useful for
+garden maintenance.  
+~
+235 0 0 0 0 3
+D1
+~
+~
+0 0 23556
+D3
+~
+~
+0 0 23506
+S
+#23556
+A Quiet Alcove~
+   Looking around, shiny objects can be seen nestled in the thick foliage of
+the garden walls.  Instead of tool racks and other common storage methods, it
+seems that the groundskeepers simply place their means among the bushes.  
+~
+235 0 0 0 0 3
+D1
+~
+~
+0 0 23557
+D3
+~
+~
+0 0 23555
+S
+#23557
+A Quiet Alcove~
+   Bags of seeds lay half spilled along the wall.  Various flower bulbs and
+seedlings are scattered across the ground making the footing a bit tricky.  
+Off to the side are large rain barrels full of water.  
+~
+235 0 0 0 0 3
+D1
+~
+~
+0 0 23558
+D3
+~
+~
+0 0 23556
+S
+#23558
+A Quiet Alcove~
+   A small table sits in the very back of the alcove.  Beneath the table is a
+collection of watering cans and gardening apparel, all looking heavily used.
+Several chairs line the walls to either side along with some comfortable
+looking cots.  
+~
+235 0 0 0 0 3
+D3
+~
+~
+0 0 23557
+S
+#23559
+A Hollow Thicket~
+   This bushy hollow radiates serenity and comfort.  The mist has failed to
+permeate the space and a cool breeze can be felt as the plants about gently
+rustle.  A small table in the back of the hollow holds several neatly folded
+blankets and pillows.  The ground is covered in a soft, short grass that is
+perfect for resting.  
+~
+235 786512 0 0 0 3
+D1
+~
+thicket~
+1 0 23511
+S
+#23560
+At the Grand Oak~
+   Here the garden looks much older and mature.  Plants and bushes are
+thick-stemmed and hearty and are no longer neatly organized into defined
+patterns.  The shade of a large tree blocks much of the light from above.  
+~
+235 0 0 0 0 3
+D3
+~
+~
+0 0 23513
+S
+#23561
+An Ancient Grove~
+   The grove is shaded by massive oak trees with thick trunks and looming
+branches of full, green leaves.  Due to the shade of the trees, very little
+else grows in the immediate area save some small grasses.  Dead leaves obscure
+the dirt beneath your feet and crunch loudly with every step.  
+~
+235 0 0 0 0 3
+D1
+~
+~
+0 0 23562
+D2
+~
+~
+0 0 23564
+S
+#23562
+An Ancient Grove~
+   The grove is shaded by massive oak trees with thick trunks and looming
+branches of full, green leaves.  Due to the shade of the trees, very little
+else grows in the immediate area save some small grasses.  Dead leaves obscure
+the dirt beneath your feet and crunch loudly with every step.  
+~
+235 0 0 0 0 3
+D1
+~
+~
+0 0 23563
+D2
+~
+~
+0 0 23565
+D3
+~
+~
+0 0 23561
+S
+#23563
+An Ancient Grove~
+   The grove is shaded by massive oak trees with thick trunks and looming
+branches of full, green leaves.  Due to the shade of the trees, very little
+else grows in the immediate area save some small grasses.  Dead leaves obscure
+the dirt beneath your feet and crunch loudly with every step.  
+~
+235 0 0 0 0 3
+D2
+~
+~
+0 0 23566
+D3
+~
+~
+0 0 23562
+S
+#23564
+An Ancient Grove~
+   The grove is shaded by massive oak trees with thick trunks and looming
+branches of full, green leaves.  Due to the shade of the trees, very little
+else grows in the immediate area save some small grasses.  Dead leaves obscure
+the dirt beneath your feet and crunch loudly with every step.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23561
+D1
+~
+~
+0 0 23565
+D2
+~
+~
+0 0 23567
+S
+#23565
+An Ancient Grove~
+   The grove is shaded by massive oak trees with thick trunks and looming
+branches of full, green leaves.  Due to the shade of the trees, very little
+else grows in the immediate area save some small grasses.  Dead leaves obscure
+the dirt beneath your feet and crunch loudly with every step.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23562
+D1
+~
+~
+0 0 23566
+D2
+~
+~
+0 0 23568
+D3
+~
+~
+0 0 23564
+S
+#23566
+An Ancient Grove~
+   The grove is shaded by massive oak trees with thick trunks and looming
+branches of full, green leaves.  Due to the shade of the trees, very little
+else grows in the immediate area save some small grasses.  Dead leaves obscure
+the dirt beneath your feet and crunch loudly with every step.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23563
+D2
+~
+~
+0 0 23569
+D3
+~
+~
+0 0 23565
+S
+#23567
+An Ancient Grove~
+   The grove is shaded by massive oak trees with thick trunks and looming
+branches of full, green leaves.  Due to the shade of the trees, very little
+else grows in the immediate area save some small grasses.  Dead leaves obscure
+the dirt beneath your feet and crunch loudly with every step.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23564
+D1
+~
+~
+0 0 23568
+S
+#23568
+An Ancient Grove~
+   The grove is shaded by massive oak trees with thick trunks and looming
+branches of full, green leaves.  Due to the shade of the trees, very little
+else grows in the immediate area save some small grasses.  Dead leaves obscure
+the dirt beneath your feet and crunch loudly with every step.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23565
+D1
+~
+~
+0 0 23569
+D3
+~
+~
+0 0 23567
+S
+#23569
+An Ancient Grove~
+   The grove is shaded by massive oak trees with thick trunks and looming
+branches of full, green leaves.  Due to the shade of the trees, very little
+else grows in the immediate area save some small grasses.  Dead leaves obscure
+the dirt beneath your feet and crunch loudly with every step.  
+~
+235 0 0 0 0 3
+D0
+~
+~
+0 0 23566
+D3
+~
+~
+0 0 23568
+S
+#23570
+Hidden Underbrush~
+   Pushing past the bushes you stumble into a small hollowed area.  The cozy
+den appears to be recently made and is littered with small branches with
+young, green leaves.  There are remnants of mostly eaten fruits in a pile near
+the back that give off a subtle but pleasant aroma.  
+~
+235 0 0 0 0 0
+D1
+~
+bush~
+1 0 23514
+S
+#23571
+The Master Gardener's Shed~
+   The interior is neat but plain, with large workbenches and chests of
+drawers along the walls.  The wooden floors are well-kept but creak with age.
+Various tools line the walls ready for work while others sit atop the
+workbench in different stages of repair.  
+~
+235 0 0 0 0 0
+D0
+~
+~
+0 0 23572
+D1
+~
+door~
+2 0 23516
+S
+#23572
+The Master Gardener's Shed~
+   This half of the shed has been made into simple but comfortable bedroom.  
+There is a small, open window on the wall facing the path that let's in some
+light and fresh air.  Hanging on the wall, adjacent to the bed, is a small
+portrait of a beautiful elven woman.  
+~
+235 0 0 0 0 0
+D2
+~
+~
+0 0 23571
+S
+#23573
+Before a Grey Building~
+   A break in the garden wall reveals a tall, grey building made of
+symmetrically cut stone.  The flat roof slightly overhangs the front of the
+building and is made of wooden planks.  A plain wooden door sits in the middle
+of the building face.  
+~
+235 0 0 0 0 0
+D1
+~
+~
+0 0 23521
+D3
+~
+door~
+1 0 23579
+S
+#23574
+A Hydroponics Lab~
+   Rows of tables span the entire length of the lab.  Various sized glass
+containers sit upon the tables with tubing feeding into each container.  
+Seedlings of trees and other plants can be seen growing in some of the
+containers, feeding off the nourishing liquids.  Beneath the tables are vials
+and bags of chemicals and reagents that give off a sterile scent.  
+~
+235 0 0 0 0 0
+D1
+~
+~
+0 0 23575
+D2
+~
+~
+0 0 23577
+S
+#23575
+A Hydroponics Lab~
+   Rows of tables span the entire length of the lab.  Various sized glass
+containers sit upon the tables with tubing feeding into each container.  
+Seedlings of trees and other plants can be seen growing in some of the
+containers, feeding off the nourishing liquids.  Beneath the tables are vials
+and bags of chemicals and reagents that give off a sterile scent.  
+~
+235 0 0 0 0 0
+D1
+~
+~
+0 0 23576
+D2
+~
+~
+0 0 23578
+D3
+~
+~
+0 0 23574
+S
+#23576
+A Hydroponics Lab~
+   Rows of tables span the entire length of the lab.  Various sized glass
+containers sit upon the tables with tubing feeding into each container.  
+Seedlings of trees and other plants can be seen growing in some of the
+containers, feeding off the nourishing liquids.  Beneath the tables are vials
+and bags of chemicals and reagents that give off a sterile scent.  
+~
+235 0 0 0 0 0
+D2
+~
+~
+0 0 23579
+D3
+~
+~
+0 0 23575
+S
+#23577
+A Hydroponics Lab~
+   Rows of tables span the entire length of the lab.  Various sized glass
+containers sit upon the tables with tubing feeding into each container.  
+Seedlings of trees and other plants can be seen growing in some of the
+containers, feeding off the nourishing liquids.  Beneath the tables are vials
+and bags of chemicals and reagents that give off a sterile scent.  
+~
+235 0 0 0 0 0
+D0
+~
+~
+0 0 23574
+D1
+~
+~
+0 0 23578
+D2
+~
+~
+0 0 23580
+S
+#23578
+A Hydroponics Lab~
+   Rows of tables span the entire length of the lab.  Various sized glass
+containers sit upon the tables with tubing feeding into each container.  
+Seedlings of trees and other plants can be seen growing in some of the
+containers, feeding off the nourishing liquids.  Beneath the tables are vials
+and bags of chemicals and reagents that give off a sterile scent.  
+~
+235 0 0 0 0 0
+D0
+~
+~
+0 0 23575
+D1
+~
+~
+0 0 23579
+D2
+~
+~
+0 0 23581
+D3
+~
+~
+0 0 23577
+S
+#23579
+A Hydroponics Lab~
+   Rows of tables span the entire length of the lab.  Various sized glass
+containers sit upon the tables with tubing feeding into each container.  
+Seedlings of trees and other plants can be seen growing in some of the
+containers, feeding off the nourishing liquids.  Beneath the tables are vials
+and bags of chemicals and reagents that give off a sterile scent.  
+~
+235 0 0 0 0 0
+D0
+~
+~
+0 0 23576
+D1
+~
+door~
+1 0 23573
+D2
+~
+~
+0 0 23582
+D3
+~
+~
+0 0 23578
+S
+#23580
+A Hydroponics Lab~
+   Rows of tables span the entire length of the lab.  Various sized glass
+containers sit upon the tables with tubing feeding into each container.  
+Seedlings of trees and other plants can be seen growing in some of the
+containers, feeding off the nourishing liquids.  Beneath the tables are vials
+and bags of chemicals and reagents that give off a sterile scent.  
+~
+235 0 0 0 0 0
+D0
+~
+~
+0 0 23577
+D1
+~
+~
+0 0 23581
+S
+#23581
+A Hydroponics Lab~
+   Rows of tables span the entire length of the lab.  Various sized glass
+containers sit upon the tables with tubing feeding into each container.  
+Seedlings of trees and other plants can be seen growing in some of the
+containers, feeding off the nourishing liquids.  Beneath the tables are vials
+and bags of chemicals and reagents that give off a sterile scent.  
+~
+235 0 0 0 0 0
+D0
+~
+~
+0 0 23578
+D1
+~
+~
+0 0 23582
+D3
+~
+~
+0 0 23580
+S
+#23582
+A Hydroponics Lab~
+   Rows of tables span the entire length of the lab.  Various sized glass
+containers sit upon the tables with tubing feeding into each container.  
+Seedlings of trees and other plants can be seen growing in some of the
+containers, feeding off the nourishing liquids.  Beneath the tables are vials
+and bags of chemicals and reagents that give off a sterile scent.  
+~
+235 0 0 0 0 0
+D0
+~
+~
+0 0 23579
+D3
+~
+~
+0 0 23581
+S
+#23583
+A Quiet Pond~
+   The water is crystal clear, and if not for the apparent depths, one might
+see straight to the bottom.  Small fish and freshwater mammals can be seen
+darting around the lively depths, chasing after their next meal.  Cool to the
+touch, the water brings a refr
+~
+235 0 0 0 0 6
+D2
+~
+~
+0 0 23524
+D5
+~
+~
+0 0 23584
+S
+#23584
+Beneath the Surface~
+   Beneath the water swims a multitude of life.  Though the liquid is crystal
+clear, the movement all about stirs up dirt and silt slightly obscuring the
+view.  The pond is deceptively deep given the small circumference of the
+surface and gazing down the light quickly fades to blackness.  The deeper the
+water, the colder it gets and the once abundant life seems to be scarce.  
+~
+235 0 0 0 0 8
+D4
+~
+~
+0 0 23583
+D5
+~
+~
+0 0 23585
+S
+#23585
+Beneath the Surface~
+   Beneath the water swims a multitude of life.  Though the liquid is crystal
+clear, the movement all about stirs up dirt and silt slightly obscuring the
+view.  The pond is deceptively deep given the small circumference of the
+surface and gazing down the light quickly fades to blackness.  The deeper the
+water, the colder it gets and the once abundant life seems to be scarce.  
+~
+235 0 0 0 0 8
+D4
+~
+~
+0 0 23584
+D5
+~
+~
+0 0 23586
+S
+#23586
+Beneath the Surface~
+   Beneath the water swims a multitude of life.  Though the liquid is crystal
+clear, the movement all about stirs up dirt and silt slightly obscuring the
+view.  The pond is deceptively deep given the small circumference of the
+surface and gazing down the light quickly fades to blackness.  The deeper the
+water, the colder it gets and the once abundant life seems to be scarce.  
+~
+235 0 0 0 0 8
+D4
+~
+~
+0 0 23585
+D5
+~
+~
+0 0 23587
+S
+#23587
+A Muddy Bottom~
+   The bottom of the pond is muddy, dark and cold.  Light trickles ever so
+gently into view but is insufficient to illuminate anything of note.  Burst of
+movement can be felt all about as if a large object is moving through the
+water.  Feeling around there seems to be bones partially buried in the muddy
+bottom.  A small flicker of light seemingly wavers from a small hole in the
+ground.  
+~
+235 0 0 0 0 8
+D0
+~
+~
+0 0 23589
+D1
+~
+~
+0 0 23591
+D2
+~
+~
+0 0 23588
+D3
+~
+~
+0 0 23590
+D4
+~
+~
+0 0 23586
+D5
+~
+hole~
+1 0 23592
+S
+#23588
+A Muddy Bottom~
+   The bottom of the pond is muddy, dark and cold.  Light trickles ever so
+gently into view but is insufficient to illuminate anything of note.  Burst of
+movement can be felt all about as if a large object is moving through the
+water.  Feeling around there seems to be bones partially buried in the muddy
+bottom.  
+~
+235 0 0 0 0 8
+D0
+~
+~
+0 0 23587
+S
+#23589
+A Muddy Bottom~
+   The bottom of the pond is muddy, dark and cold.  Light trickles ever so
+gently into view but is insufficient to illuminate anything of note.  Burst of
+movement can be felt all about as if a large object is moving through the
+water.  Feeling around there seems to be bones partially buried in the muddy
+bottom.  
+~
+235 0 0 0 0 8
+D2
+~
+~
+0 0 23587
+S
+#23590
+A Muddy Bottom~
+   The bottom of the pond is muddy, dark and cold.  Light trickles ever so
+gently into view but is insufficient to illuminate anything of note.  Burst of
+movement can be felt all about as if a large object is moving through the
+water.  Feeling around there seems to be bones partially buried in the muddy
+bottom.  
+~
+235 0 0 0 0 8
+D1
+~
+~
+0 0 23587
+S
+#23591
+A Muddy Bottom~
+   The bottom of the pond is muddy, dark and cold.  Light trickles ever so
+gently into view but is insufficient to illuminate anything of note.  Burst of
+movement can be felt all about as if a large object is moving through the
+water.  Feeling around there seems to be bones partially buried in the muddy
+bottom.  
+~
+235 0 0 0 0 8
+D3
+~
+~
+0 0 23587
+S
+#23592
+A Hole in the Depths~
+   The darkness is cut through by a thin film of bioluminescence on the walls.
+This appears to be the den of an underwater predator given the scattering of
+carcasses about the room.  Chunks of flesh and smears of blood float about
+lazily in the cold water.  A soft clicking noise can be heard echoing
+throughout the chamber.  
+~
+235 0 0 0 0 8
+D4
+~
+hole~
+1 0 23587
+S
+#23596
+Nopes~
+You are in an unfinished room.
+~
+235 0 0 0 0 0
+S
+#23597
+A Moss-covered Bridge~
+   The bridge itself seems to have been constructed a very long time ago.  
+The wood is still extremely sturdy, but has become intertwined with the
+landscape here.  Dark green moss covers nearly every surface, except where
+frequent footfall takes place.  In areas of heavy traffic, the dark gray
+surface of the wood peeks through the moss.  
+~
+235 0 0 0 0 0
+D0
+~
+~
+0 0 23500
+D2
+~
+~
+0 0 9717
+S
+#23598
+Test~
+You are in an unfinished room.
+~
+235 0 0 0 0 0
+S
+#23599
+A simple test~
+   Testing some shit.  
+~
+235 0 0 0 0 0
+S
+$~

@@ -1,0 +1,27 @@
+CircleMUD v3.0 Shop File~
+#31798~
+31700
+31701
+31702
+-1
+1.00
+1.00
+-1
+%s Take a look at my list again, that is not something I sell.~
+%s You don't seem to have that.~
+%s I don't trade in such items.~
+%s I can't afford that!~
+%s You are too poor!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+0
+31798
+0
+31798
+-1
+0
+28
+0
+0
+$~

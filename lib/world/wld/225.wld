@@ -1,8 +1,9 @@
 #22500
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare up and engulf you ankles.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 0
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -23,9 +24,10 @@ D3
 S
 #22501
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare up and engulf you ankles.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 0
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -46,9 +48,10 @@ D3
 S
 #22502
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare up and engulf you ankles.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 0
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -69,9 +72,10 @@ D3
 S
 #22503
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare up and engulf you ankles.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 0
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -92,9 +96,10 @@ D3
 S
 #22504
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare up and engulf you ankles.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 0
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -115,9 +120,10 @@ D3
 S
 #22505
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare up and engulf you ankles.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 0
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -138,9 +144,10 @@ D3
 S
 #22506
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare up and engulf you ankles.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 0
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -161,9 +168,10 @@ D3
 S
 #22507
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare up and engulf you ankles.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 0
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -184,9 +192,10 @@ D3
 S
 #22508
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare up and engulf you ankles.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 0
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -207,9 +216,10 @@ D3
 S
 #22509
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare up and engulf you ankles.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 0
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -230,36 +240,28 @@ D3
 S
 #22510
 The First Veil~
-You are in an unfinished room.
+   As you step into this area the natural light dims slightly and the cosmic
+energy that once wound around your ankles receeds gently.  This room seems
+fairly serene and peaceful in comparrison to what you just passed through.  
 ~
-225 520 0 0 0 0
-D0
-~
-~
-0 0 22504
-D1
-~
-~
-0 0 3022
+225 262792 0 0 0 0
 D2
 ~
 ~
 0 0 22511
-D3
-~
-~
-0 0 22500
 S
 #22511
-Walking the Pattern~
-You are in an unfinished room.
+Walking the Pattern.~
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 4
 R 30/pattern_dmg.lua 4
 D0
 ~
 ~
-0 0 22510
+0 0 3022
 D1
 ~
 ~
@@ -275,9 +277,11 @@ D3
 S
 #22512
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 4
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -298,9 +302,11 @@ D3
 S
 #22513
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 4
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -321,10 +327,12 @@ D3
 S
 #22514
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 4
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -344,10 +352,12 @@ D3
 S
 #22515
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 4
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -367,10 +377,12 @@ D3
 S
 #22516
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 4
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -390,10 +402,12 @@ D3
 S
 #22517
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 4
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -413,10 +427,12 @@ D3
 S
 #22518
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 4
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -436,10 +452,12 @@ D3
 S
 #22519
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 4
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -459,10 +477,12 @@ D3
 S
 #22520
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 4
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -482,10 +502,12 @@ D3
 S
 #22521
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 4
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -505,10 +527,12 @@ D3
 S
 #22522
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 4
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -528,10 +552,12 @@ D3
 S
 #22523
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 4
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -551,10 +577,12 @@ D3
 S
 #22524
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern flare wildly around your body stopping at
+your mid-section.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 4
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -574,33 +602,25 @@ D3
 S
 #22525
 The Second Veil~
-You are in an unfinished room.
+   As you step into this area the natural light dims slightly and the cosmic
+energy that once wound around your mid-section receeds gently.  This room
+seems fairly serene and peaceful in comparrison to what you just passed
+through.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 262792 0 0 0 0
 D0
 ~
 ~
 0 0 22526
-D1
-~
-~
-0 0 22511
-D2
-~
-~
-0 0 3022
-D3
-~
-~
-0 0 22518
 S
 #22526
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern burst up violently winding around your body
+pausing upon reaching mid-chest.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 5
+R 30/patter_dmg.lua 0
 D0
 ~
 ~
@@ -612,7 +632,7 @@ D1
 D2
 ~
 ~
-0 0 22525
+0 0 3022
 D3
 ~
 ~
@@ -620,10 +640,12 @@ D3
 S
 #22527
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern burst up violently winding around your body
+pausing upon reaching mid-chest.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 5
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -643,10 +665,12 @@ D3
 S
 #22528
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern burst up violently winding around your body
+pausing upon reaching mid-chest.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 5
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -666,10 +690,12 @@ D3
 S
 #22529
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern burst up violently winding around your body
+pausing upon reaching mid-chest.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 5
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -689,10 +715,12 @@ D3
 S
 #22530
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern burst up violently winding around your body
+pausing upon reaching mid-chest.  
 ~
-225 520 0 0 0 0
-R 30/pattern_dmg.lua 4
+225 648 0 0 0 5
+R 30/patter_dmg.lua 4
 D0
 ~
 ~
@@ -712,9 +740,11 @@ D3
 S
 #22531
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern burst up violently winding around your body
+pausing upon reaching mid-chest.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 5
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -735,9 +765,11 @@ D3
 S
 #22532
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern burst up violently winding around your body
+pausing upon reaching mid-chest.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 5
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -758,9 +790,11 @@ D3
 S
 #22533
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern burst up violently winding around your body
+pausing upon reaching mid-chest.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 5
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -781,9 +815,11 @@ D3
 S
 #22534
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern burst up violently winding around your body
+pausing upon reaching mid-chest.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 5
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -804,9 +840,11 @@ D3
 S
 #22535
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern burst up violently winding around your body
+pausing upon reaching mid-chest.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 5
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -827,9 +865,11 @@ D3
 S
 #22536
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern burst up violently winding around your body
+pausing upon reaching mid-chest.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 5
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -850,9 +890,11 @@ D3
 S
 #22537
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern burst up violently winding around your body
+pausing upon reaching mid-chest.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 5
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -873,31 +915,23 @@ D3
 S
 #22538
 The Third Veil~
-You are in an unfinished room.
+   As you step into this area the natural light dims slightly and the cosmic
+energy that once wound around your mid-chest receeds gently.  This room seems
+fairly serene and peaceful in comparrison to what you just passed through.  
 ~
-225 520 0 0 0 0
-D0
-~
-~
-0 0 22528
+225 262792 0 0 0 0
 D1
 ~
 ~
 0 0 22539
-D2
-~
-~
-0 0 22531
-D3
-~
-~
-0 0 3022
 S
 #22539
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern crash upon you as an unstoppable wave
+quickly wrapping around you covering your head.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 10
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -914,13 +948,15 @@ D2
 D3
 ~
 ~
-0 0 22538
+0 0 3022
 S
 #22540
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern crash upon you as an unstoppable wave
+quickly wrapping around you covering your head.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 10
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -941,9 +977,11 @@ D3
 S
 #22541
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern crash upon you as an unstoppable wave
+quickly wrapping around you covering your head.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 10
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -964,9 +1002,11 @@ D3
 S
 #22542
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern crash upon you as an unstoppable wave
+quickly wrapping around you covering your head.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 10
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -987,9 +1027,11 @@ D3
 S
 #22543
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern crash upon you as an unstoppable wave
+quickly wrapping around you covering your head.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 10
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -1010,9 +1052,11 @@ D3
 S
 #22544
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern crash upon you as an unstoppable wave
+quickly wrapping around you covering your head.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 10
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -1033,9 +1077,11 @@ D3
 S
 #22545
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern crash upon you as an unstoppable wave
+quickly wrapping around you covering your head.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 10
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -1056,9 +1102,11 @@ D3
 S
 #22546
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern crash upon you as an unstoppable wave
+quickly wrapping around you covering your head.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 10
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -1079,9 +1127,11 @@ D3
 S
 #22547
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern crash upon you as an unstoppable wave
+quickly wrapping around you covering your head.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 10
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -1102,9 +1152,11 @@ D3
 S
 #22548
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern crash upon you as an unstoppable wave
+quickly wrapping around you covering your head.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 10
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -1125,9 +1177,11 @@ D3
 S
 #22549
 Walking the Pattern~
-You are in an unfinished room.
+   As you tread upon the pattern laid down here by the infinite cosmos, sparks
+of cosmic energy from the pattern crash upon you as an unstoppable wave
+quickly wrapping around you covering your head.  
 ~
-225 520 0 0 0 0
+225 648 0 0 0 10
 R 30/pattern_dmg.lua 4
 D0
 ~
@@ -1147,10 +1201,10 @@ D3
 0 0 22550
 S
 #22550
-The Center of the Great Pattern~
+The Center of the Pattern inlaid within the Jewel of Judgement~
 You are in an unfinished room.
 ~
-225 520 0 0 0 0
+225 664 0 0 0 0
 R 30/pattern_3065.lua 32
 S
 #22551
@@ -2282,6 +2336,25 @@ The Center of the Great Pattern~
 You are in an unfinished room.
 ~
 225 520 0 0 0 0
+R 30/pattern_3065.lua 32
+S
+#22601
+BROADCAST ROOM FOR PATTERN CENTER ROOMS~
+Broadcaster's room for the Center of the Pattern for three distint patterns
+~
+225 152 0 0 0 0
+D0
+~
+~
+0 0 22550
+D1
+~
+~
+0 0 22600
+D5
+~
+~
+0 0 3065
 S
 #22800
 An unfinished room~

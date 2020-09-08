@@ -1,7 +1,7 @@
 #9900
-black stone soul~
-a dull black stone~
-A dull black stone sits here.~
+obsidian heart soul stone~
+a dark, obsidian demonic heart stone~
+A dark, obisidian stone lies here pulsating with vile energy.~
 ~
 12 66064 0 0 0 16385 0 0 0
 0 0 0 0
@@ -13,40 +13,52 @@ light mist.
 ~
 #9901
 collar studded dog~
-a studded dog collar~
-A studded dog collar lies here.~
-It's pretty studded.
+a three-headed spiked, studded dog collar~
+A spiked, studded dog collar with three loops lies here.~
+It's pretty dangerous looking.
 ~
 9 0 0 0 0 5 0 0 0
-2 0 0 0
-1 400 100.00
+4 0 0 0
+10 1600 65.00
 A
 17 -3
+A
+19 1
+A
+18 1
+A
+2 -2
 #9902
 sword demonic~
 a demonic sword~
 A flame-red sword lies discarded here.~
 ~
 5 0 0 0 0 8193 0 0 0
-0 2 4 3
-10 200 25.00
+0 6 3 3
+10 1950 20.00
 A
-13 4
+19 1
+A
+18 1
 #9903
-garrote vapor coil~
-an ethereal garrote~
-A coil of vapor trails along the ground.~
-An ethereal garrote loops around your neck!
+demonic jewel gemstone eye~
+a demonic-eyed jewel~
+A gemstone that looks strangely like a large demonic eye floats here.~
+A gemstone crafted from the finest heart stones of high tier demons.
 ~
-5 32 0 0 0 24577 0 0 0
-0 3 4 2
-1 600 25.00
+1 32 0 0 0 278529 0 0 0
+0 0 -1 0
+5 2000 25.00
 E
-garrote~
-It looks like a near-invisible strand of spider's web.
+<NONE>~
+<NONE>
 ~
 A
-2 1
+12 6
+A
+13 12
+A
+29 5
 #9904
 guards leg evil~
 some evil leg guards~
@@ -74,40 +86,35 @@ A crown made of lightweight rock lies here.~
 A
 12 8
 #9906
-scroll important~
-an important-looking scroll~
+scroll important holy~
+an important-looking holy scroll~
 A scroll lies in the dust.~
 paper cut
 ~
-2 0 0 0 0 1 0 0 0
-19 30 0 0
-1 600 10.00
+2 33554498 0 0 0 1 0 0 0
+26 47 48 48
+1 1800 10.00
 E
 scroll~
-The words seem to shift under your gaze, but meaning is clear: FIRE!
+The words and symbols seem to shift under your gaze, but it is quite clear it
+give you a sense of safety and hope.  
 ~
 #9907
-necklace flame~
-a necklace of flame~
-A necklace of magick flame lies here.~
+demonic key teeth~
+a key made of teeth~
+A key made out of fused human teeth lies here.~
 ~
-8 577 0 0 0 5 0 0 0
+18 65541 0 0 0 5 0 0 0
 0 0 0 0
-1 1000 10.00
-A
-13 -2
-A
-3 1
-A
-4 1
+2 25 65.00
 #9908
 tarot card gypsy~
 a tarot card~
 A gypsy tarot card lies here face down in the dirt.~
 ~
 3 64 0 0 0 16385 0 0 0
-24 6 4 30
-1 3000 30.00
+26 6 4 83
+1 3000 20.00
 A
 2 1
 A
@@ -117,11 +124,13 @@ daemonic armguards~
 some daemonic armguards~
 A pair of jet black armguards lie here pulsating with an unholy aura.~
 ~
-9 326283 0 0 0 257 0 0 0
+9 324235 0 0 0 257 0 0 0
 10 0 0 0
 15 4500 10.00
 A
 18 1
+A
+19 1
 #9910
 daemonic whip~
 a daemonic whip~
@@ -137,11 +146,11 @@ A
 #9911
 holy cross~
 a blood-encrusted holy cross~
-A priests holy cross lies here, covered in blood.~
+A priestly holy cross lies here, covered in blood.~
 ~
 9 1473 0 0 0 5 0 0 0
-4 0 0 0
-4 4500 25.00
+6 0 0 0
+4 4500 20.00
 A
 19 1
 #9912
@@ -150,20 +159,233 @@ the Unholy Rod of Dispater~
 An long, unholy, powerful black rod is leaning against a rock here.~
 ~
 3 206359168 0 0 0 16385 0 0 0
-30 12 5 58
+30 12 9 58
 10 6000 10.00
+E
+rod unholy dispater~
+A stunningly horrifying yet beautifully crafted rod.  Shaped from a humanoid
+spinal column, topped with an angelic skull, adorned with infernal starfire
+rubies and obisidian heart stones.  It leaves you breathless and terrified.  
+~
 A
 19 2
 A
-12 20
+12 25
+A
+27 10
 #9913
-dagger of venom~
-a dagger of venom~
-A dagger of venom is sitting here.~
+cloak of humanoid flesh~
+cloak of humanoid flesh~
+A cloak stitched together from the faces of living victims lies here hauntingly.~
 ~
-3 240128 0 0 0 8193 0 0 0
-8 9 2 33
-4 250 25.00
+11 199233 0 0 0 1025 0 0 0
+0 0 0 0
+10 1500 15.00
+E
+cloak humanoid flesh~
+There are dozen's of faces that can be seen, that are currently "stitched" into this cloak which results in the fabric of things nightmares are afraid of.
+~
+A
+6 -6
+A
+18 2
 A
 19 1
+A
+17 -5
+#9914
+bone whip scourge flayer cat~
+a multi-tailed, barbed-bone whip~
+A whip made to look utterly disturbing and terrifyingly evil lies here.~
+~
+5 4210771 0 0 0 8193 0 0 0
+0 6 5 2
+18 7500 12.00
+E
+whip bone scourge cat~
+This "whip" is seemingly pulled from the stuff of nightmares.  While looking
+it over one can easily make out spinal sections of various humanoid races
+intricately sown together with fleshy tendons.  
+~
+A
+18 2
+A
+19 2
+A
+26 6
+A
+27 6
+A
+2 2
+#9915
+blessed longsword~
+a blessed longsword~
+A longsword blessed by the priests of virtue is laying here.~
+~
+5 4212033 0 0 0 8193 0 0 0
+0 6 3 3
+8 750 75.00
+A
+1 1
+A
+19 1
+A
+18 1
+#9916
+blessed greatsword~
+a blessed greatsword~
+A greatsword blessed by the priests of valor is laying here.~
+~
+5 409228609 0 0 0 1 0 0 0
+0 7 4 3
+15 850 75.00
+A
+1 2
+A
+2 -1
+A
+18 1
+A
+19 1
+#9917
+holy robes of valor~
+holy robes of valor~
+A set of robes insribed with divine runes is lying here.~
+~
+9 207275331 0 0 0 9 0 0 0
+10 0 0 0
+12 3500 10.00
+A
+4 2
+A
+27 10
+A
+12 15
+#9918
+holy armguards of valor~
+the holy armguards of valor~
+A set of armguards radiating a ferocious holy light are laying here.~
+~
+9 455745 0 0 0 257 0 0 0
+12 0 0 0
+10 3750 15.00
+A
+18 2
+A
+19 1
+#9919
+holy helmet valor~
+holy platemail helmet of valor~
+A powerfully inscribed helmet of valor lies here.~
+~
+9 149746753 0 0 0 1 0 0 0
+12 0 0 0
+12 3850 15.00
+A
+6 2
+A
+17 -5
+A
+13 10
+A
+26 5
+#9920
+dagger chaos hell~
+a hellish, smoking dagger~
+A violent, fiendish looking dagger lies here smoking.~
+~
+5 2625 0 0 0 8193 0 0 0
+0 4 6 11
+1 8500 7.00
+A
+18 4
+A
+19 4
+A
+5 -2
+A
+6 -2
+A
+9 25
+#9921
+radiant cloak moonshear~
+a radiant paladin's cloak of Moonshear~
+A holy radiant, formal cloak lies here forgotten.~
+~
+9 144981059 0 0 0 1025 0 0 0
+10 0 0 0
+8 6750 10.00
+A
+17 -6
+A
+18 2
+A
+13 15
+A
+19 -2
+#9922
+heraldic tabard divine protection ~
+&yH&me&yr&ma&yl&md&yi&mc &nTabard of &WDivine &wP&Yr&wo&Yt&we&Yc&wt&Yi&wo&Yn&n~
+A tabard with an ethereal divine glow lies here.~
+~
+9 216822851 0 0 0 16385 0 0 0
+20 0 0 0
+25 8500 75.00
+E
+tabard protection moonshear divine heraldic~
+   Emblazoned with the divine holy symbols of the Goddess of the Moonshear.  
+This tabard is given only to those of great worth in the church as they are
+quite rare.  
+~
+A
+17 -5
+A
+13 25
+A
+18 2
+A
+24 -15
+A
+23 -15
+#9923
+Bastard Sword Divine Moonshear~
+&wBastard&n sword of the&W Divine &BMoon&cshear&n~
+An instrument of Divine Justice is lying here!~
+~
+5 216855635 0 0 0 8193 0 0 0
+0 8 4 3
+25 9500 50.00
+A
+19 3
+A
+18 3
+A
+26 5
+A
+17 5
+A
+29 12
+#9924
+paladin corpses moonshear pile~
+A pile of disembodied corpses bearing the symbol of Moonshear~
+A pile of disembodied paladin corpses is here.~
+~
+13 0 0 0 0 0 0 0 0
+0 0 0 0
+500 0 40.00
+#9930
+Change this to something else~
+a golden, bejewelled ornate statue~
+A golden, bejewelled ornate statue is presented here.~
+~
+1 67 0 0 0 0 0 0 0
+0 0 -1 0
+300 9972 100.00
+S NOBITS 0
+E
+statue ornate golden pride~
+This extremely ornate statue is made of solid gold, bejewelled in precious
+gemstones at all available locations.  The facial features of the statue seem
+to constantly shift around usually showing your own face upon it.  
+~
 $~

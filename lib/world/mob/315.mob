@@ -1,0 +1,94 @@
+#31513
+blood wyrm bloodwyrm worm~
+a bloodwyrm~
+A hideous bloodwyrm slides toward you.
+~
+   This violet monstrosity burrows in the damp earth in search of prey.  It is
+five feet long, and has a wide maw bristling with jagged teeth.  Attacking any
+source of vibration, the bloodwyrm is a danger to be feared and shunned.  
+~
+1048648 0 0 0 0 0 0 0 0 E
+18 2 -8 18d5+190 12d4+12
+0 20000
+8 8 0
+BareHandAttack: 4
+E
+#31514
+thorn slinger~
+a thornslinger~
+A spreading white plant creeps along the ground.
+~
+   Hugging the ground, a spidery, white plant stretches to cover an eight-foot
+swath of ground before you.  Beneath its dew-covered leaves, and pale yellow
+blossoms hides a bed of nasty, barbed thorns, ready to be fired upon any
+unsuspecting creature foolish enough to wander too near.  
+~
+1048680 0 0 0 0 0 0 0 0 E
+15 5 -5 15d5+160 10d4+10
+0 14000
+8 8 0
+BareHandAttack: 1
+E
+#31515
+cusith ~
+Cusith~
+Cusith is here, growling loudly and shaking his enormous head.
+~
+   Dark green in color, with a long braided tail, this creature is an eerie
+sight.  The hound, Cusith, stands before you, nearly the size of a bullock,
+baring his teeth and flexing his enormous claws.  
+~
+10289224 0 0 0 1073742888 0 0 0 0 E
+29 -9 -19 29d5+391 19d4+19
+0 55000
+8 8 0
+BareHandAttack: 9
+Race: 25
+E
+#31516
+Red Cap old man~
+Red Cap~
+Red Cap stands here, leering hungrily at you.
+~
+   Wearing a red-stained hat, colored by the blood of his victims, Red Cap
+stands before you.  He is a short, stocky old man with long grey hair.  He has
+the peculiar feature of claws where his hands ought to be.  
+~
+10223688 0 0 0 128 0 0 0 -700 E
+29 -9 -19 29d5+391 19d4+19
+0 55000
+8 8 1
+Race: 27
+E
+#31517
+wolverine~
+a wolverine~
+A puffy, brown wolverine saunters around searching for prey.
+~
+   This animal is covered in puffy, brown fur that ends in a bushy snub of a
+tail.  Sharp teeth glisten from its jaws and wild eyes seem to take in its
+surroundings.  Tiny, blunted ears sit atop its head resembling a small bear.
+~
+72 0 0 0 0 0 0 0 0 E
+19 1 -9 19d5+200 12d4+12
+0 22500
+8 8 0
+Race: 22
+E
+#31518
+porcupine~
+a porcupine~
+A cautiously moving small animal covered in brown needle-like fur moves around here sniffing the air. 
+~
+   The porcupine sniffs the air with its pink nose, and its beady, black eyes
+seem to dart wildly around it trying to spot signs of danger.  It's quills
+cover the entire body, but look quite sharp at their points.  
+~
+72 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+110 5d4+5
+0 6000
+8 8 0
+BareHandAttack: 4
+Race: 22
+E
+$
