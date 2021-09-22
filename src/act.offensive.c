@@ -51,10 +51,12 @@ void raw_kill(struct char_data * ch, int attacktype);
 void improve_skill(struct char_data *ch, int skill_num);
 extern int is_shopkeeper(struct char_data * chChar);
 
+
 ACMD(do_assist)
 {
   struct char_data *helpee, *opponent;
-
+  
+  
   if (FIGHTING(ch)) {
     send_to_char("You're already fighting!  How can you assist "
          "someone else?\r\n", ch);
@@ -101,6 +103,7 @@ ACMD(do_assist)
 ACMD(do_hit)
 {
   struct char_data *vict;
+
   ACMD(do_dismount);
 
   one_argument(argument, arg);

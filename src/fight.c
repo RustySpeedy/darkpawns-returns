@@ -76,6 +76,8 @@ struct char_data *HUNTING(struct char_data *ch);
 void set_hunting(struct char_data *ch, struct char_data *victim);
 bool can_speak(struct char_data *ch);
 void make_dust(struct char_data *ch, int attacktype);
+struct follow_type *k;
+ACMD(do_assist);
 
 /*
  *                  Weapon attack texts
@@ -1893,7 +1895,9 @@ hit(struct char_data * ch, struct char_data * victim, int type)
 
 
 
+
 /* control the fights going on.  Called every 2 seconds from comm.c. */
+/* changed ninja to gain secondary and tertiary attacks equal to thief and assassin -bdoyle */
 void
 perform_violence(void)
 {
@@ -1927,11 +1931,11 @@ perform_violence(void)
      if((IS_WARRIOR(ch) || IS_PALADIN(ch) || IS_RANGER(ch))&&
         (GET_LEVEL(ch)>10)&& (number(1,100)<60+GET_LEVEL(ch)) )
         attacks++;
-         if((GET_CLASS(ch)==CLASS_AVATAR || GET_CLASS(ch)==CLASS_NINJA)
+         if((GET_CLASS(ch)==CLASS_AVATAR)
             && (GET_LEVEL(ch)>12) &&
             (number(1,100)<60+GET_LEVEL(ch)) )
             attacks++;
-     if((GET_CLASS(ch)==CLASS_THIEF || GET_CLASS(ch) == CLASS_ASSASSIN)&&
+     if((GET_CLASS(ch)==CLASS_THIEF || GET_CLASS(ch) == CLASS_ASSASSIN || GET_CLASS(ch)==CLASS_NINJA)&&
         (GET_LEVEL(ch)>15)&& (number(1,100)<30+GET_LEVEL(ch)) )
         attacks++;
      if((GET_LEVEL(ch)>25)&& (number(1,100)<75) )
@@ -2020,7 +2024,11 @@ perform_violence(void)
      }
      else if (FIGHTING(ch)) /*ch fighting themselves*/
         stop_fighting(ch);
-
+     for (k = ch->followers; k; k=k->next) {
+        if (PRF_FLAGGED(k->follower, PRF_AUTOASSIST) &&
+          (k->follower->in_room == ch->in_room))
+         do_assist(k->follower, GET_NAME(ch), 0, 0);
+    }
      i++;
       }
 

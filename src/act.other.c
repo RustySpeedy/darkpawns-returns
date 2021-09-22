@@ -1184,7 +1184,9 @@ ACMD(do_gen_tog)
     {"Clan tells are now on.\r\n",
      "Clan tells are now off.\r\n"},
     {"Broadcast channel is now on.\r\n",
-     "Broadcast channel is now off.\r\n"}
+     "Broadcast channel is now off.\r\n"},
+    {"You will no longer Auto-Assist.\r\n",
+     "You will now Auto-Assist.\r\n"}
   };
 
 
@@ -1265,6 +1267,9 @@ ACMD(do_gen_tog)
     break;
   case SCMD_NOBROAD:
     result = PRF_TOG_CHK(ch, PRF_NOBROAD);
+    break;
+  case SCMD_AUTOASSIST:
+    result = PRF_TOG_CHK(ch, PRF_AUTOASSIST);
     break;
   default:
     log("SYSERR: Unknown subcmd in do_gen_toggle");

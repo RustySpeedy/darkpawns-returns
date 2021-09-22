@@ -168,6 +168,9 @@ void assign_mobiles(void)
   SPECIAL(chosen_guard);
   SPECIAL(wall_guard_ns);
   SPECIAL(key_seller);
+  SPECIAL(priest);
+  SPECIAL(demon);
+  SPECIAL(elite_demon);
 
   /* Matt's spec procs - mobs (spec_procs3.c) */
   SPECIAL(elements_minion);
@@ -266,7 +269,9 @@ void assign_mobiles(void)
   ASSIGNMOB(7979, eq_thief);
   ASSIGNMOB(7969, magic_user);
   ASSIGNMOB(7970, cleric);  /* unicorn */
-
+  ASSIGNMOB(7947, magic_user);
+  ASSIGNMOB(7984, backstabber);
+  
   /* Kir Drax'in */
   ASSIGNMOB(8014, guild_guard);
   ASSIGNMOB(8017, guild_guard);
@@ -308,11 +313,23 @@ void assign_mobiles(void)
   /* road/forest*/
   ASSIGNMOB(9151, backstabber);
 
-  /* Cemetary */
-
-  ASSIGNMOB(9903, magic_user);
-  ASSIGNMOB(9905, magic_user); /* crowley */
-  ASSIGNMOB(9911, magic_user);
+  /* HELL */
+  
+  ASSIGNMOB(9901, demon);
+  ASSIGNMOB(9905, backstabber); /* crowley */
+  ASSIGNMOB(9907, demon);
+  ASSIGNMOB(9908, demon);
+  ASSIGNMOB(9909, demon);
+  ASSIGNMOB(9910, elite_demon);
+  ASSIGNMOB(9911, never_die);
+  ASSIGNMOB(9914, demon);
+  ASSIGNMOB(9924, demon);
+  ASSIGNMOB(9925, elite_demon);
+  ASSIGNMOB(9926, fighter);
+  ASSIGNMOB(9927, cleric);
+  ASSIGNMOB(9928, paladin);
+  ASSIGNMOB(9929, paladin);
+  ASSIGNMOB(9930, paladin);
 
   /* Stadium  */
   ASSIGNMOB(10029, troll);
@@ -388,7 +405,7 @@ void assign_mobiles(void)
   ASSIGNMOB(14430, no_get);
   ASSIGNMOB(14432, brain_eater);
   ASSIGNMOB(14435, magic_user);
-
+  ASSIGNMOB(14442, cleric);
 
   /* the plains */
   ASSIGNMOB(15108, fido);
@@ -460,6 +477,11 @@ void assign_mobiles(void)
   ASSIGNMOB(19691, castle_guard_north);
   ASSIGNMOB(19675, castle_guard_north);
   ASSIGNMOB(19676, castle_guard_north);
+  ASSIGNMOB(19688, castle_guard_north);
+  ASSIGNMOB(19689, castle_guard_north);
+  
+  /* The Ender Villiage */
+  ASSIGNMOB(18720, magic_user);
 
   /* */
   ASSIGNMOB(19900, troll);
@@ -506,8 +528,45 @@ void assign_mobiles(void)
   ASSIGNMOB(21242, thief);
   ASSIGNMOB(21244, tattoo3);
   ASSIGNMOB(21246, con_seller);
+  
+/*THE NORTHERN EXPANSE */
+  ASSIGNMOB(31440, fighter);
+  ASSIGNMOB(31439, fighter);
+  ASSIGNMOB(31403, fighter);
+  ASSIGNMOB(31407, fighter);
+  ASSIGNMOB(31406, fighter);
+  ASSIGNMOB(31404, fighter);
+  ASSIGNMOB(31405, fighter);
+  ASSIGNMOB(31344, fighter);
+  ASSIGNMOB(31444, paladin);
+  ASSIGNMOB(31441, paladin);
+  ASSIGNMOB(31446, paladin);
+  ASSIGNMOB(31447, no_move_east);
+  ASSIGNMOB(31381, no_move_east);
+  ASSIGNMOB(31200, janitor);
+  ASSIGNMOB(31402, magic_user);
+  ASSIGNMOB(31403, magic_user);
+  ASSIGNMOB(31003, magic_user);
+  ASSIGNMOB(31401, cleric);
+  ASSIGNMOB(31443, cleric);
+  ASSIGNMOB(31301, cleric);
+  ASSIGNMOB(31855, dragon_breath);
+  ASSIGNMOB(31004, rescuer);
+  ASSIGNMOB(31201, prostitute);
+  ASSIGNMOB(31457, backstabber);
+  ASSIGNMOB(31203, fido);
+  ASSIGNMOB(31856, beholder);
 
-
+  /*Blight of Passage*/
+  
+  ASSIGNMOB(3619, fighter);
+  ASSIGNMOB(3680, magic_user);
+  ASSIGNMOB(3682, thief);
+  ASSIGNMOB(3681, thief);
+  ASSIGNMOB(3677, magic_user);
+  ASSIGNMOB(3678, fighter);
+  ASSIGNMOB(3675, fighter);
+  
 }
 
 
@@ -589,6 +648,9 @@ void assign_rooms(void)
   SPECIAL(alien_elevator);
   SPECIAL(portal_to_temple);
   SPECIAL(itoh);
+  SPECIAL(reba_entrance);
+  SPECIAL(cemetary_entrance);
+  SPECIAL(plain_entrance);
 
   /* Matt's spec procs - rooms (spec_procs3.c) */
   SPECIAL(elements_master_column);
@@ -608,7 +670,6 @@ void assign_rooms(void)
   ASSIGNROOM(8114, assassin);
   ASSIGNROOM(8118, jail);
   ASSIGNROOM(8085, dump);
-
   ASSIGNROOM(14305, carrion);
   ASSIGNROOM(18399, oro_study_room);
   ASSIGNROOM(18397, oro_quarters_room);
@@ -630,11 +691,14 @@ void assign_rooms(void)
   ASSIGNROOM(1384, elements_load_cylinders);
   ASSIGNROOM(1372, elements_galeru_column);
   ASSIGNROOM(1394, elements_galeru_alive);
+  
 
   /* Multi-zone Procs */
   ASSIGNROOM(1389, fly_exit_up);
-
-
+  ASSIGNROOM(3601, reba_entrance);
+  ASSIGNROOM(3689, cemetary_entrance);
+  ASSIGNROOM(3690, plain_entrance);
+  
   if (dts_are_dumps)
     for (i = 0; i < top_of_world; i++)
       if (IS_SET_AR(ROOM_FLAGS(i), ROOM_DEATH))

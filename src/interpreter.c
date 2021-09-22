@@ -92,7 +92,7 @@ ACMD(do_assist);
 ACMD(do_auto);
 ACMD(do_at);
 ACMD(do_appraise);
-// ACMD(adjust_mobs);
+ACMD(adjust_mobs);
 ACMD(do_backstab);
 ACMD(do_ban);
 ACMD(do_bearhug);
@@ -322,7 +322,7 @@ const struct command_info cmd_info[] = {
   { "abilities", POS_SLEEPING, do_abils    , 0, 0 },
   { "at"       , POS_DEAD    , do_at       , LVL_GRGOD, 0 },
   { "advance"  , POS_DEAD    , do_advance  , LVL_GRGOD, 0 },
-  // { "admobs"   , POS_DEAD    , adjust_mobs, LVL_IMPL-1, 0},
+  { "admobs"   , POS_DEAD    , adjust_mobs, LVL_IMPL-1, 0},
   { "afk"      , POS_DEAD    , do_afk      , 0, 0 },
   { "aid"      , POS_STANDING, do_first_aid, 0, 0 },
   { "alias"    , POS_DEAD    , do_alias    , 0, 0 },
@@ -338,7 +338,8 @@ const struct command_info cmd_info[] = {
   { "ask"      , POS_RESTING , do_spec_comm, 0, SCMD_ASK },
   { "auction"  , POS_SLEEPING, do_gen_comm , 0, SCMD_AUCTION },
   { "auto"     , POS_DEAD    , do_auto     , 0, 0 },
-
+  { "autoassist" , POS_DEAD    , do_gen_tog  , 0, SCMD_AUTOASSIST},
+  
   { "bounce"   , POS_STANDING, do_action   , 0, 0 },
   { "backstab" , POS_STANDING, do_backstab , 1, 0 },
   { "bah"      , POS_RESTING , do_action   , 0, 0 },

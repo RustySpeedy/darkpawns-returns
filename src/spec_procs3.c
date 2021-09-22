@@ -1299,3 +1299,317 @@ SPECIAL(fly_exit_up)
 
   return (TRUE);
 }
+
+SPECIAL(demon)
+{
+ struct char_data *vict;
+
+  if (cmd || GET_POS(ch) != POS_FIGHTING || GET_HIT(ch) < 0)
+    return FALSE;
+
+  /* pseudo-randomly choose someone in the room who is fighting me */
+  for (vict = world[ch->in_room].people; vict; vict = vict->next_in_room)
+    if (FIGHTING(vict) == ch && !number(0, 4))
+      break;
+
+  /* if I didn't pick any of those, then just slam the guy I'm fighting */
+  if (vict == NULL)
+    vict = FIGHTING(ch);
+
+
+  switch (number(0,GET_LEVEL(ch)/2)+GET_LEVEL(ch)/2)
+   {
+   case 0:
+   case 1:
+   case 2: 
+   case 3:
+     cast_spell(ch, vict,NULL, SPELL_FIREBALL);
+     break;
+   case 4:
+   case 5:
+   case 6:
+   case 7:
+     cast_spell(ch, ch, NULL, SPELL_INVULNERABILITY);
+     break;
+   case 8:
+   case 9:
+   case 10:
+   case 11:
+     cast_spell(ch, vict, NULL, SPELL_HELLFIRE);
+     break;
+   }
+  return(TRUE);
+}
+
+
+SPECIAL(elite_demon)
+{
+ struct char_data *vict;
+
+  if (cmd || GET_POS(ch) != POS_FIGHTING || GET_HIT(ch) < 0)
+    return FALSE;
+
+  /* pseudo-randomly choose someone in the room who is fighting me */
+  for (vict = world[ch->in_room].people; vict; vict = vict->next_in_room)
+    if (FIGHTING(vict) == ch && !number(0, 4))
+      break;
+
+  /* if I didn't pick any of those, then just slam the guy I'm fighting */
+  if (vict == NULL)
+    vict = FIGHTING(ch);
+
+
+  switch (number(0,GET_LEVEL(ch)/2)+GET_LEVEL(ch)/2)
+   {
+   case 0:
+   case 1:
+   case 2: 
+   case 3:
+     cast_spell(ch, vict,NULL, SPELL_FIREBALL);
+     break;
+   case 4:
+   case 5:
+   case 6:
+   case 7:
+     cast_spell(ch, ch, NULL, SPELL_INVULNERABILITY);
+     break;
+   case 8:
+   case 9:
+   case 10:
+   case 11:
+     cast_spell(ch, vict, NULL, SPELL_HELLFIRE);
+     break;
+   case 12:
+   case 13:
+   case 14:
+     cast_spell(ch, vict, NULL, SPELL_DISINTEGRATE);
+     break;
+   case 15:
+   case 16:
+   case 17:
+   case 18:
+     cast_spell(ch, vict, NULL, SPELL_DISRUPT);
+     break;
+       }
+       
+  return(TRUE);
+}
+
+#define NEWBIE_LEVEL 11
+SPECIAL(reba_entrance)
+{
+   if ( !CMD_IS("west") )
+     return FALSE;
+
+   if ( (GET_LEVEL(ch) >= NEWBIE_LEVEL) && (GET_LEVEL(ch) < LEVEL_IMMORT))
+   {
+      stc("Nah, you're too much of a badass to go in there!\r\n", ch);
+      return TRUE;
+   }
+
+   return FALSE;
+}
+
+#define NEWBIE_LEVEL 11
+SPECIAL(cemetary_entrance)
+{
+   if ( !CMD_IS("enter") )
+     return FALSE;
+
+   if ( (GET_LEVEL(ch) >= NEWBIE_LEVEL) && (GET_LEVEL(ch) < LEVEL_IMMORT))
+   {
+      stc("Nah, you're too much of a badass to go in there!\r\n", ch);
+      return TRUE;
+   }
+
+   return FALSE;
+}
+
+#define MIDBIE_LEVEL 18
+SPECIAL(plain_entrance)
+{
+   if ( !CMD_IS("enter") )
+     return FALSE;
+
+   if ( (GET_LEVEL(ch) >= MIDBIE_LEVEL) && (GET_LEVEL(ch) < LEVEL_IMMORT))
+   {
+      stc("Nah, you're too much of a badass to go in there!\r\n", ch);
+      return TRUE;
+   }
+
+   return FALSE;
+}
+
+SPECIAL(priest)
+{
+  struct char_data *vict;
+  byte lspell, healperc=0;
+
+  if (!AWAKE(ch) || !IS_NPC(ch) || cmd || GET_HIT(ch) < 0)
+    return(FALSE);
+
+  if (GET_POS(ch)!=POS_FIGHTING)
+      if ((GET_POS(ch)<POS_STANDING) && (GET_POS(ch)>POS_STUNNED))
+    do_stand(ch, "", 0, 0);
+
+  if  (IS_SET_AR(world[ch->in_room].room_flags, ROOM_PEACEFUL))
+    return(FALSE);
+
+  if (!FIGHTING(ch))
+    if (GET_HIT(ch) < GET_MAX_HIT(ch)-10)
+      {
+    if ((lspell = GET_LEVEL(ch)) >= 20)
+      cast_spell(ch, ch, NULL, SPELL_HEAL);
+    else if (lspell > 12)
+      cast_spell(ch, ch, NULL, SPELL_CURE_CRITIC);
+    else
+      cast_spell(ch, ch, NULL, SPELL_CURE_LIGHT);
+      }
+
+
+  /* Find a dude to do evil things upon ! */
+  vict = FIGHTING(ch);
+
+  /* gen number from 0 to level */
+  lspell = number(0,GET_LEVEL(ch));
+  lspell+= GET_LEVEL(ch)/5;
+  lspell = MIN(GET_LEVEL(ch), lspell);
+
+  if (lspell < 1)
+    lspell = 1;
+
+  if (lspell <3 && ( (IS_EVIL(ch)&& IS_EVIL(vict))||
+                     (IS_GOOD(ch)&& IS_GOOD(vict)) )  )
+    lspell = 4;     /*Don't let dispel themselves */
+
+      
+  /* first -- hit a foe, or help yourself? */
+  if (ch->points.hit < (ch->points.max_hit / 2))
+    healperc = 7;
+  else if (ch->points.hit < (ch->points.max_hit / 4))
+    healperc = 5;
+  else if (ch->points.hit < (ch->points.max_hit / 8))
+    healperc = 3;
+
+  if (number(1,healperc+2)<3)
+    { /* hit a foe */
+
+      /* call lightning */
+      if (OUTSIDE(ch) && (weather_info.sky>=SKY_RAINING) && (lspell >= 15) &&
+      (number(0,5)==0))
+    {
+      act("$n stares into the sky.",1,ch,0,0,TO_ROOM);
+      cast_spell(ch, vict, NULL, SPELL_CALL_LIGHTNING);
+      return(TRUE);
+    }
+
+      switch(lspell)
+    {
+    case 1:
+    case 2:
+    case 3:
+      if (IS_EVIL(ch))
+        cast_spell(ch, vict, NULL, SPELL_DISPEL_GOOD);
+      else
+        cast_spell(ch, vict, NULL, SPELL_DISPEL_EVIL);
+      break;
+    case 4:
+    case 5:
+    case 6:
+      cast_spell(ch, vict, NULL, SPELL_BLINDNESS);
+      break;
+    case 7:
+      cast_spell(ch, vict, NULL, SPELL_CURSE);
+      break;
+    case 8:
+    case 9:
+    case 10:
+    case 11:
+    case 13:
+    case 14:
+    case 15:
+    case 16:
+      cast_spell(ch, vict, NULL, SPELL_POISON);
+      break;
+    case 17:
+    case 18:
+    case 19:
+          cast_spell(ch, vict, NULL, SPELL_EARTHQUAKE);
+          break;
+    case 20:
+    case 21:
+    case 22:
+    case 23:
+    case 24:
+      break;
+    case 25:
+    case 26:
+    case 27:
+    default:
+      cast_spell(ch, vict, NULL, SPELL_HARM);
+      break;
+    }
+
+      return(TRUE);
+
+    }
+  else
+    {
+      /* do heal */
+
+      if (IS_AFFECTED(ch, AFF_BLIND) && (lspell >= 4) & (number(0,3)==0))
+    {
+      cast_spell(ch, vict, NULL, SPELL_CURE_BLIND);
+      return(TRUE);
+    }
+
+      if (IS_AFFECTED(ch, AFF_CURSE) && (lspell >= 6) && (number(0,6)==0))
+    {
+      cast_spell(ch, vict, NULL, SPELL_REMOVE_CURSE);
+      return(TRUE);
+    }
+
+      if (IS_AFFECTED(ch, AFF_POISON) && (lspell >= 5) && (number(0,6)==0))
+    {
+      cast_spell(ch, vict, NULL, SPELL_REMOVE_POISON);
+      return(TRUE);
+    }
+
+      if (!number (0,3))
+    switch(lspell)
+      {
+      case 1:
+      case 2:
+      case 3:
+      case 4:
+      case 5:
+        cast_spell(ch, ch, NULL, SPELL_CURE_LIGHT);
+        break;
+      case 6:
+      case 7:
+      case 8:
+      case 9:
+      case 10:
+      case 11:
+      case 12:
+      case 13:
+      case 14:
+      case 15:
+      case 16:
+      case 17:
+        break;
+      case 18:
+        cast_spell(ch, ch, NULL, SPELL_CURE_CRITIC);
+        break;
+      default:
+        if (!IS_AFFECTED(ch, AFF_SANCTUARY))
+          cast_spell(ch, ch, NULL, SPELL_SANCTUARY);
+        else
+          cast_spell(ch, ch, NULL, SPELL_HEAL);
+        break;
+      }
+
+      return(TRUE);
+
+    }
+}

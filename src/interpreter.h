@@ -134,6 +134,7 @@ struct alias {
 #define SCMD_NONEWBIE   17
 #define SCMD_NOCTELL    18
 #define SCMD_NOBROAD    19
+#define SCMD_AUTOASSIST 20
 
 /* do_wizutil */
 #define SCMD_REROLL 0

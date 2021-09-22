@@ -780,12 +780,15 @@ is_playing(char *vict_name)
  * a few characters from the source string.)
  */
 
-size_t strlcpy(char *dest, const char *source, size_t totalsize)
+
+ size_t strlcpy(char *dest, const char *source, size_t totalsize)
 {
   strncpy(dest, source, totalsize - 1);
   dest[totalsize - 1] = '\0';
   return strlen(source);
 }
+
+
 
 /* sprintnbit function ported from Circle 3.1 (called sprintbit in Circle3.1) */
 /*

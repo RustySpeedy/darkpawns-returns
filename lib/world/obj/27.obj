@@ -943,13 +943,13 @@ A swirling red medallion on a chain lies here.~
 A
 18 2
 #2773
-jewel judgment ruby~
+Jewel of Judgement semi-attuned~
 the Jewel of Judgment~
 A huge ruby on a heavy gold chain lies here.~
 ~
-8 16844123 0 0 0 16389 0 0 0
+8 68955 0 0 0 16389 0 0 0
 0 0 0 0
-2 10000 100.00
+2 50000 100.00
 E
 jewel judgment ruby chain~
 It's the biggest damn ruby you've ever seen, and it's somewhat 
@@ -957,21 +957,17 @@ disturbing. There seems to be some sort of pattern moving within the
 jewel. As you gaze into it longer you start to feel drawn within the jewel.
 ~
 A
-18 -1
-A
-19 -1
-A
 29 12
 A
 29 7
 #2774
-Jewel of Judgment~
+Jewel of Judgement fully-attuned~
 the Jewel of Judgment~
 A huge ruby on a heavy gold chain lies here.~
 ~
-8 16975179 0 0 0 16389 0 0 0
+8 197963 0 0 0 16389 0 0 0
 0 0 0 0
-2 10000 100.00
+2 100000 100.00
 E
 jewel judgment ruby chain~
 It's the biggest damn ruby you've ever seen, and it's somewhat 
@@ -980,9 +976,11 @@ jewel. You easily shake off the pulling feeling of the jewel and assert
 your mental dominance over it, commanding it to your every whim.
 ~
 A
-18 1
+18 2
 A
-19 1
+19 2
+A
+17 -10
 A
 29 12
 A
@@ -1106,16 +1104,16 @@ The Royal Throne of Amber is sitting here.~
 300 5 0 0
 400 0 100.00
 E
-unicorn backrest~
-The carving of the unicorn on the throne's backrest depicts a beautiful
-and thoughtful unicorn standing in a small clearing in a forest.
-~
-E
 throne~
 The Royal Throne of Amber is a large, ornate chair carved from a single
 piece of solid amber. It's probably the largest piece in existence!
 There are several scenes on its sides and arms, but the carving of
 the unicorn on its backrest is the most impressive.
+~
+E
+unicorn backrest~
+The carving of the unicorn on the throne's backrest depicts a beautiful
+and thoughtful unicorn standing in a small clearing in a forest.
 ~
 #2930
 key merlinkey~

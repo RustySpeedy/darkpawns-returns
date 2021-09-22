@@ -113,17 +113,15 @@ typedef struct no_load_type load_limits;
 
 static load_limits ObjLimits[] =
 {
-	{81,   LEVEL_GRGOD},            /* Tracers ring */
-	{82,   LEVEL_GRGOD},            /* Sword of doom */
-	{8095,   LEVEL_GRGOD},            /* Tracer's master key */
+        {81,   LEVEL_GRGOD},            /* Tracers ring */
+        {82,   LEVEL_GRGOD},            /* Sword of doom */
+      {8095,   LEVEL_GRGOD},            /* Tracer's master key */
 };
 
 int num_objlim = sizeof (ObjLimits) / sizeof (load_limits);
 
-load_limits MobLimits[] =
-{
-	{1,  LEVEL_GRGOD},                 /* Puff */
-};
+load_limits *MobLimits = NULL;
+/*       {1,  LEVEL_GRGOD}, */                  /* Puff */
 
 int num_moblim = sizeof (MobLimits) / sizeof (load_limits);
 
@@ -1303,14 +1301,7 @@ ACMD(do_load)
      return;
       }
 
-      for (i = 0; i < num_moblim; i++) {
-         if ( (number == MobLimits[i].item_num) &&
-          (GET_LEVEL(ch) < MobLimits[i].min_level) ) {
-        send_to_char("You're not godly enough to load that!\n\r", ch);
-        return;
-         }
-      }
-      mob = read_mobile(r_num, REAL);
+          mob = read_mobile(r_num, REAL);
       char_to_room(mob, ch->in_room);
 
       sprintf(buf, "(GC) %s loaded %s at %s.", GET_NAME(ch), GET_NAME(mob),

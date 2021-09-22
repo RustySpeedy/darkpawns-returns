@@ -15,4 +15,9 @@ lib/etc/plrmail
 log
 syslog*
 lib/plrobjs
+lib/plralias
+lib/plrpoof
 lib/misc/help
+*.svn*
+src/lua
+*.idea

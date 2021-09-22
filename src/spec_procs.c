@@ -175,7 +175,7 @@ list_skills(struct char_data * ch)
   for (sortpos = 1; sortpos < MAX_SKILLS; sortpos++)
     {
       i = spell_sort_info[sortpos];
-      if (strlen(buf2) >= MAX_STRING_LENGTH - GARBAGE_SPACE)
+      if (strlen(buf2) >= MAX_STRING_LENGTH - 32)
     {
       strcat(buf2, "**OVERFLOW**\r\n");
       break;

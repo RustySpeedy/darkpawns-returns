@@ -1,10 +1,15 @@
 #22500
-Walking the Pattern~
-   As you tread upon the pattern laid down here by the infinite cosmos, sparks
-of cosmic energy from the pattern flare up and engulf you ankles.  
+The Foundation of Beginings~
+   As you begin to get your wits about you it is immediately apparent that
+locations have changed.  As you look around at your surroundings there are
+vast amounts of cosmic debris and a very unique Aurora Borealis like stream
+coming from all around.  The only seemingly viable pathway exists towards the
+North where violent sparks of cosmic lightning convulse along this ever
+color-changing path.  The exits to the South, East and West lead only to
+destruction
 ~
 225 648 0 0 0 0
-R 30/pattern_dmg.lua 4
+R None 0
 D0
 ~
 ~
@@ -2332,7 +2337,7 @@ D3
 0 0 3022
 S
 #22600
-The Center of the Great Pattern~
+The Center of the Great Pattern inlaid into the Jewel of Judgement~
 You are in an unfinished room.
 ~
 225 520 0 0 0 0
@@ -2355,6 +2360,739 @@ D5
 ~
 ~
 0 0 3065
+S
+#22759
+Spatial Tears of the Uncaring Realm of Shadows~
+   Unfortunately you have stepped off the path of consolidated shadows and
+fallen into the unyielding, domineering energies of the realms of shadows and
+have been torn to shreds by the violent, uncaring energies.  
+
+
+Better Luck Next Time!
+~
+225 646 0 0 0 5
+S
+#22760
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  To the
+east you can make out the lush, vibrant, majestic trees of the Forest Arden.
+The black road of shadow continues west.  As you turn to head back the shadows
+wrap around you forcing you back from where you came.  
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22760
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22761
+S
+#22761
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the east and the west.  
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22760
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22762
+S
+#22762
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the east and the west.  
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22761
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22763
+S
+#22763
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the east and the west.  
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22762
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22764
+S
+#22764
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the east and the west.  
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22763
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22765
+S
+#22765
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the east and the west.  
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22764
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22766
+S
+#22766
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the east and the west.  
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22765
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22767
+S
+#22767
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the east and the west.  
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22766
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22768
+S
+#22768
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the west and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the east and the north.
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22769
+D1
+~
+~
+0 0 22767
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22759
+S
+#22769
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the west and the east is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the north and the south.
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22770
+D1
+~
+~
+0 0 22759
+D2
+~
+~
+0 0 22768
+D3
+~
+~
+0 0 22759
+S
+#22770
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the west and the east is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the north and the south.
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22771
+D1
+~
+~
+0 0 22759
+D2
+~
+~
+0 0 22769
+D3
+~
+~
+0 0 22759
+S
+#22771
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the east is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the west and the south.
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22759
+D2
+~
+~
+0 0 22770
+D3
+~
+~
+0 0 22772
+S
+#22772
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the east and the west.  
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22771
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22773
+S
+#22773
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the east and the west.  
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22772
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22774
+S
+#22774
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the east and the west.  
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22773
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22775
+S
+#22775
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the east and the west.  
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22774
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22776
+S
+#22776
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the west is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the east and the south.
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22775
+D2
+~
+~
+0 0 22777
+D3
+~
+~
+0 0 22759
+S
+#22777
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the west and the east is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the north and the south.
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22776
+D1
+~
+~
+0 0 22759
+D2
+~
+~
+0 0 22778
+D3
+~
+~
+0 0 22759
+S
+#22778
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the south and the east is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues to the west and the north.
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22777
+D1
+~
+~
+0 0 22759
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22779
+S
+#22779
+The Black Road of Shadow~
+   You have stepped onto a strange, otherworldly, wide, pitch-black road made
+from compressed shadows.  It appears as roughly hewn black bricks laid in a
+consecutive grid.  To the north and the south is an ever expanding shadowy
+void that has constantly appearing, violent looking spatial cracks.  The black
+road of shadow continues back to the east.  To the west looks to be a strange
+sub-basement interior.  
+~
+225 133 0 0 0 3
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22778
+D2
+~
+~
+0 0 22759
+D3
+~
+~
+0 0 22780
+S
+#22780
+The End of the Black Road of Shadow~
+   As you finally reach this point on your journey across the black road it
+becomes quickly obvious that you have seemingly appeared into the back storage
+room of some strange bar or inn.  A large oaken, reinforced door lies to the
+west.  Gazing quickly to the south and north shows a vast infinite void of
+unrelenting chaos, sending shivers to the depth of your soul.  
+~
+225 13 0 0 0 0
+D0
+~
+~
+0 0 22759
+D1
+~
+~
+0 0 22779
+D2
+~
+~
+0 0 22759
+D3
+~
+Oaken Reinforced Door~
+2 22522 22781
+E
+door~
+   A mystical, octogonal pattern featuring a glaring, violent serpent's eye is
+carved into the door here.  
+~
+S
+#22781
+Unfinished Pub~
+You are in an unfinished room.
+~
+225 0 0 0 0 0
+D0
+~
+~
+0 0 22782
+D1
+~
+Oaken Reinforced Door~
+2 22522 22780
+D2
+~
+~
+0 0 22783
+D3
+~
+~
+0 0 22785
+S
+#22782
+Unfinished Pub~
+You are in an unfinished room.
+~
+225 0 0 0 0 0
+D2
+~
+~
+0 0 22781
+D3
+~
+~
+0 0 22784
+S
+#22783
+Unfinished Pub~
+You are in an unfinished room.
+~
+225 0 0 0 0 0
+D0
+~
+~
+0 0 22781
+D3
+~
+~
+0 0 22786
+S
+#22784
+Unfinished Pub~
+You are in an unfinished room.
+~
+225 0 0 0 0 0
+D1
+~
+~
+0 0 22782
+D2
+~
+~
+0 0 22785
+D3
+~
+~
+0 0 22787
+S
+#22785
+Unfinished Pub~
+You are in an unfinished room.
+~
+225 0 0 0 0 0
+D0
+~
+~
+0 0 22784
+D1
+~
+~
+0 0 22781
+D2
+~
+~
+0 0 22786
+D3
+~
+~
+0 0 22788
+S
+#22786
+Unfinished Pub~
+You are in an unfinished room.
+~
+225 1048576 0 0 0 0
+D0
+~
+~
+0 0 22785
+D1
+~
+~
+0 0 22783
+D2
+~
+secret~
+1 -1 22790
+D3
+~
+~
+0 0 22789
+S
+#22787
+Unfinished Pub~
+You are in an unfinished room.
+~
+225 0 0 0 0 0
+D1
+~
+~
+0 0 22784
+D2
+~
+~
+0 0 22788
+S
+#22788
+Unfinished Pub~
+You are in an unfinished room.
+~
+225 0 0 0 0 0
+D0
+~
+~
+0 0 22787
+D1
+~
+~
+0 0 22785
+D2
+~
+~
+0 0 22789
+S
+#22789
+Unfinished Pub~
+You are in an unfinished room.
+~
+225 0 0 0 0 0
+D0
+~
+~
+0 0 22788
+D1
+~
+~
+0 0 22786
+S
+#22790
+Manager's Office for the Dragon's Eye Pub~
+You are in an unfinished room.
+~
+225 12 0 0 0 0
+D0
+~
+Wall~
+1 -1 22786
 S
 #22800
 An unfinished room~

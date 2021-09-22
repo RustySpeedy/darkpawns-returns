@@ -40,7 +40,7 @@ Init() {
    ulimit -c 1200000
    
    # The port on which to run the MUD
-   PORT=4350
+   PORT=6966
 
    # Default flags to pass to the MUD server (see running.doc for a description
    # of all flags).

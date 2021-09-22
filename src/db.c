@@ -2123,6 +2123,12 @@ void reset_zone(int zone)
              ||(IS_SET_AR(world[to_room].room_flags,ROOM_HOUSE))
              ||(IS_SET_AR(world[to_room].room_flags,ROOM_ATRIUM))
              ||(world[to_room].sector_type == SECT_CITY)
+             || (zone_table[world[to_room].zone].number == 36)
+             || (zone_table[world[to_room].zone].number == 198)
+             || (zone_table[world[to_room].zone].number == 100)
+             || (zone_table[world[to_room].zone].number == 187)
+             || (zone_table[world[to_room].zone].number == 145)
+             || (zone_table[world[to_room].zone].number == 70)
              || (zone_table[world[to_room].zone].number == 163) );
 
           char_from_room(mob);
