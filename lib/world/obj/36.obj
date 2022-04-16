@@ -292,7 +292,6 @@ B. One free mystery item of value and use pulled at random by an Immortal.
 C. One bag of useful potions.
 D. One time venture funding of 100,000 coins.
 
-Congratulations from Slayer, Darius, Hodor, Noogie, and Vangaard.
 ~
 A
 29 1
@@ -548,6 +547,30 @@ sprinkle, yet the poor victim is rewarded with protection.
 10 2 0 0 0 1 0 0 0
 30 3 1 73
 1 75 100.00
+#3696
+coin gold~
+a substantial pile of gold coins~
+A substantial amount of money has been left here.~
+~
+20 0 0 0 0 1 0 0 0
+250000 0 0 0
+0 0 0.00
+#3697
+artisans tool bag~
+an artisans toolbag, made from the hide of Tannrgrisnir~
+A tooled-leather artisan's tool bag is on the ground.~
+~
+15 0 0 0 0 1 0 0 0
+250 1 -1 0
+10 999 0.00
+#3698
+glass Glenlivet Winchester 50 year~
+a small glass of Glenlivet Winchester 50 year~
+A strangely inviting glass of scotch is on the ground.~
+~
+10 65536 0 0 0 16385 0 0 0
+30 65 73 66
+1 999 0.00
 #3699
 Immortals reward ledger book prize~
 &WI&Ym&Wm&Yo&Wr&Yt&Wa&Yl&W'&Ys &GRewards &yLed&cger&n~

@@ -13,12 +13,13 @@ the borrowed skin of someone who was much larger.  The nails on her hands and
 feet are overgrown and dirty, but sharp enough to be weapons.  Her ragged
 breath exudes a cloud of revolting air.  She sniffs the air around her.  
 ~
-395337 0 0 0 65705 0 0 0 -1000 E
-39 -30 -29 39d5+5661 26d4+26
+133193 0 0 0 65705 0 0 0 -1000 E
+39 -30 -29 39d5+999 26d4+65
 666 375000
 8 8 2
 BareHandAttack: 8
 Race: 27
+Noise: You hear a labored breathing that sounds like a pig sucking in air through fatty flaps..
 E
 #31302
 wendigo black creature~
@@ -62,7 +63,7 @@ with paws.  The clicking and snapping sound it makes as it travels across the
 ground are likely caused by the mismatched joints that have been rigged by its
 creator.  
 ~
-8914956 0 0 0 1077936264 2 0 0 -1000 E
+8914956 0 0 0 1077936256 2 0 0 -1000 E
 35 -15 -25 35d5+3329 23d4+24
 0 360000
 8 8 0

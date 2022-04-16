@@ -1652,6 +1652,7 @@ following the air currents of your exhalations.
    Death will come quickly here should you linger.
 ~
 49 265 0 0 0 11
+R archive/elemental_room.lua 4
 D3
 You can escape the foul air to the west.
 ~
@@ -1797,7 +1798,8 @@ into which a daemon skull rests, its hollow eye sockets gleaming yellow
 as it watches over the dead.
    The only exit is to the north.
 ~
-49 9 0 0 0 0
+49 9 0 0 0 13
+R archive/elemental_room.lua 4
 D0
 The tunnel continues to the north.
 ~
@@ -1861,6 +1863,7 @@ north however, a cold mist seeps from under the door, creating a vortex of
 roiling steam at its base.
 ~
 49 13 0 0 0 11
+R archive/elemental_room.lua 4
 D0
 You can see a sturdy door to the north.
 ~
@@ -1882,6 +1885,7 @@ a toxic gas as it splashes into the lava streams.
 to the north.
 ~
 49 40 0 0 0 11
+R archive/elemental_room.lua 4
 D0
 The tunnel continues to the north.
 ~
@@ -1903,6 +1907,7 @@ hellish elements.
 an unstable tunnel.
 ~
 49 40 0 0 0 11
+R archive/elemental_room.lua 4
 D0
 The tunnel continues to the north.
 ~
@@ -1925,6 +1930,7 @@ below.
 melts away like the southern, eastern, and wested walls here.
 ~
 49 44 0 0 0 11
+R archive/elemental_room.lua 4
 D0
 You see bluish fire to the north.
 ~
@@ -1948,6 +1954,7 @@ crystal amidst the dense black rock that composes the core of the mountain.
 of ash that disrupts the currents and spins you around.
 ~
 49 44 0 0 0 11
+R archive/elemental_room.lua 4
 D4
 The top of the shaft lies in that direction.
 ~
@@ -1969,6 +1976,7 @@ is becoming more difficult as you soar upwards on hot currents or
 plummet on cold ones.
 ~
 49 44 0 0 0 11
+R archive/elemental_room.lua 4
 D4
 The chimney continues above you.
 ~
@@ -1990,6 +1998,7 @@ is becoming more difficult as you soar upwards on hot currents or
 plummet on cold ones.
 ~
 49 44 0 0 0 11
+R archive/elemental_room.lua 4
 D4
 The chimney continues above you.
 ~
@@ -2012,6 +2021,7 @@ the area in a hellish crimson.
    Above you, ash and smoke roil in the currents of air.
 ~
 49 44 0 0 0 11
+R archive/elemental_room.lua 4
 D4
 The chimney continues above you.
 ~
@@ -2053,7 +2063,7 @@ imagined the horrid calls of distress.
    Above you, a single stalactite points into the shaft, standing a
 silent vigil over the frigid fog.
 ~
-49 12 0 0 0 0
+49 67108876 0 0 0 0
 D3
 The wall is smooth to the west.
 ~
@@ -2076,7 +2086,7 @@ impossible.
    Staring down, you notice a faint glow.  A pale, almost sickly, blue
 light seems to radiate from deep within the shaft below you.
 ~
-49 41 0 0 0 9
+49 67108905 0 0 0 9
 D4
 You can see the top of the shaft there.
 ~
@@ -2096,7 +2106,7 @@ growing larger as yellow tendrils of mist swirl around the light below.
    The wet walls prevent you from getting a foothold in any direction.  
 You can only travel up or down the shaft.
 ~
-49 12 0 0 0 9
+49 67108876 0 0 0 9
 D4
 The sharf continues, growing darker above.
 ~
@@ -2120,7 +2130,7 @@ odd sensation that you are no longer within the mountain.
    You can descend toward the greenish light or ascend toward the 
 dark top of the shaft.
 ~
-49 12 0 0 0 9
+49 67108876 0 0 0 9
 D4
 The shaft grows darker as you stare above you.
 ~
@@ -2143,7 +2153,7 @@ putrid greenish glow below.
 still cohesive despite the strong constant air currents from below.
    You can continue up or down the tunnel.
 ~
-49 12 0 0 0 9
+49 67108876 0 0 0 9
 D4
 You see the shaft extend upwards.
 ~
@@ -2167,7 +2177,7 @@ top of the shaft which is far out of sight in the darkness above you.
 Below you, you can see the mists swirl and you catch a strong scent of
 sulfur.
 ~
-49 12 0 0 0 9
+49 67108876 0 0 0 9
 D4
 You see the shaft continue upward into darkness and mist.
 ~
@@ -2189,7 +2199,7 @@ yellowish ochre.
    The shaft continues upwards, far out of sight and descends into frigid
 winds below you.
 ~
-49 44 0 0 0 9
+49 67108908 0 0 0 9
 D4
 The top of the shaft is over half a mile away up there.
 ~
@@ -2211,7 +2221,7 @@ below.
 sight and reach.  Below you, the burgundy mists seem to solidify and you
 can swear you hear faint shrieks of pain coming from them.
 ~
-49 44 0 0 0 9
+49 67108908 0 0 0 9
 D4
 The shaft continues above you.
 ~
@@ -2235,7 +2245,7 @@ extremeties.  Below you, the circle of light mesmerizes you and invites
 you closer, though above you, the shaft grows warmer and seems far less
 dangerous.
 ~
-49 44 0 0 0 9
+49 67108908 0 0 0 9
 D4
 The shaft entrance lies far above you.
 ~

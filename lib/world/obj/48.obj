@@ -20,7 +20,7 @@ An odd hoopak made from treated bamboo lies here.~
 ~
 5 0 0 0 0 8193 0 0 0
 0 3 4 7
-3 100 100
+3 100 100.00
 E
 hoopak bamboo~
 A favourite weapon of smaller folk, this weapon appears to be a
@@ -156,7 +156,7 @@ A potion labelled "General Remedy" occupies a vial here.~
 ~
 10 0 0 0 0 16385 0 0 0
 30 15 0 0
-1 300 25
+1 300 25.00
 E
 healing potion~
 The potion is clear and smells of ginseng and garlic.
@@ -169,7 +169,7 @@ You smell the faintest hint of opium from somewhere nearby.
 ~
 10 0 0 0 0 1 0 0 0
 35 67 72 0
-1 500 20
+1 500 20.00
 E
 potion opiate misty~
 Liquid snuff.  This potion will make you far more intoxicated than
@@ -183,7 +183,7 @@ The divining rod bends toward the ground.
 ~
 4 0 0 0 0 1 0 0 0
 30 30 20 44
-10 400 50
+10 400 50.00
 E
 bamboo divining rod~
 The diving rod has been carved from pale bamboo reeds and points
@@ -375,13 +375,15 @@ a Xixieqian scale mail vest~
 A scale mail vest shines brightly here.~
 ~
 9 141316096 0 0 0 9 0 0 0
-8 0 0 0
-30 450 100.00
+14 0 0 0
+30 450 6.00
 E
 armor armour scale mail vest~
 Hundreds of hammered interlocking scales make this vest of armour
 suitable for flexibility and maneuvering in combat.
 ~
+A
+17 -5
 #4829
 gauntlets scale mail xixieqian~
 Xixieqian scale gauntlets~

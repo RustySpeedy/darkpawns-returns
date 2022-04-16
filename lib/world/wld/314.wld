@@ -600,7 +600,7 @@ the staircase will take you to the third floor, down will bring you to the
 first.  There are several benches filling the room, all facing a small altar
 and podium at the far eastern end for the floor.  
 ~
-314 32776 0 0 0 0
+314 8 0 0 0 0
 D1
 ~
 ~
@@ -622,7 +622,7 @@ first.  There are several benches filling the room, all facing a small altar
 and podium at the far eastern end for the floor.  There is a small window
 peering out to the forest on the eastern wall.  
 ~
-314 32776 0 0 0 0
+314 8 0 0 0 0
 D3
 ~
 ~
@@ -926,7 +926,7 @@ walls are curved, which gives the room an oval shape.  A few torches are here
 on the walls, giving plenty of light.  This seems to be a room made for rest
 during the walk through the tunnel.  
 ~
-314 1048832 0 0 0 12
+314 256 0 0 0 12
 D0
 ~
 ~
@@ -934,7 +934,7 @@ D0
 D2
 ~
 secret~
-1 -1 31457
+1 31443 31457
 S
 #31489
 A dimly lit tunnel~
@@ -1114,7 +1114,7 @@ light for guidance.  An earthy smell permeates the moist air.  If it weren't
 for the torch further down, the tunnel would be pitch black.  A wooden ladder
 leads up to a trap door in the ceiling of the tunnel here.  
 ~
-314 1048832 0 0 0 12
+314 256 0 0 0 12
 D1
 ~
 ~

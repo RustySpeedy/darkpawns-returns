@@ -136,6 +136,18 @@ A
 19 1
 A
 17 1
+#4215
+sparkling rope~
+a sparkling rope~
+A length of rope sparkles in the sun light.~
+~
+12 65 0 0 0 6149 0 0 0
+0 0 0 0
+3 2500 10.00
+A
+27 1
+A
+12 5
 #4220
 key icy~
 an icy key~
@@ -163,21 +175,13 @@ A long iron key twisted into and odd shape lies on the ground.~
 #4291
 test cloak~
 a testing cloak~
-a cloak for testing players vs mobs is on the ground~
+Undefined~
 ~
-11 3 0 0 0 1024 0 0 0
+11 4 0 0 0 1024 0 0 0
 0 0 0 0
-3 6000 100.00
+1 6000 100.00
 A
-19 30
-A
-18 15
-A
-17 -50
-A
-29 7
-A
-29 3
+19 20
 #4292
 test light~
 a testing light~

@@ -125,9 +125,9 @@ Quetzalcoatl is a giant feathered snake.  The ssaurs and lizardmen worship
 him as a trickster god - both benevolent and destructive at the same time.
 Standing before him, you feel a sense of awe - and fear.
 ~
-501768 0 0 0 67142792 0 0 0 0 E
-34 -14 -24 34d5+2746 22d4+22
-0 270000
+8628248 0 0 0 68289720 2 0 0 0 E
+39 -19 -29 39d5+11876 33d4+39
+0 475000
 8 8 1
 Race: 19
 E
@@ -217,8 +217,8 @@ mottled green scales covering its body look thicker than the plates of steel
 used to make the strongest of armors.
 ~
 8751160 0 0 0 1224 0 0 0 -1000 E
-34 -14 -24 34d5+2746 22d4+22
-0 270000
+33 -13 -23 33d5+2163 22d4+22
+0 180000
 8 8 0
 BareHandAttack: 4
 Race: 13
@@ -391,7 +391,7 @@ Complete with top-knot and rows and rows of pouches, He looks to have been
 adventuring for some time. His happy countenance is marked with a look of
 much experience.
 ~
-16393 0 0 0 263168 0 0 0 0 E
+16393 0 0 0 263168 16 0 0 0 E
 16 4 -6 16d5+170 10d4+10
 0 16000
 8 8 1

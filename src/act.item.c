@@ -1452,11 +1452,7 @@ perform_wear(struct char_data * ch, struct obj_data * obj, int where)
     "You're already holding something.\r\n",
     "You're already wearing something about your legs.\n\r",
     "You're already wearing something on your face.\n\r",
-    "Something is already hovering near your head.\n\r",
-    "YOU SHOULD NEVER SEE THIS MESSAGE.  PLEASE REPORT.\r\n",
-    "Something is already around your ankles.\r\n",
-    "YOU SHOULD NEVER SEE THIS MESSAGE.  PLEASE REPORT.\r\n",
-    "You've already got something in your fucking ears and it aint brains.\r\n"
+    "Something is already hovering near your head.\n\r"
   };
 
   /* first, make sure that the wear position is valid. */

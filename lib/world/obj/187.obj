@@ -285,7 +285,7 @@ A bottle of green beer is here waiting to be drunk.~
 ~
 10 1 0 0 0 1 0 0 0
 30 66 36 1
-1 87500 100.00
+1 10000 100.00
 #18722
 ender sewing needle~
 a large ender tailor's sewing needle~
@@ -323,7 +323,7 @@ A
 A
 26 3
 #18747
-ender throne~
+ender king chair~
 a small, pyrite throne~
 A small throne with an oddly golden color is here.~
 This throne is pretending to be gold, but is really made of cheap pyrite!
@@ -346,13 +346,13 @@ A small brass pot with a dent the shape of a foot teeters precariously by the be
 ~
 15 2 0 0 0 0 0 0 0
 1000 0 -1 0
-0 0 100.00
+400 0 100.00
 #18750
 scrap pile~
 a scrap pile~
 A pile of scrap metal might contain something useful.~
 ~
 15 0 0 0 0 0 0 0 0
-1000 1 -1 0
-0 0 100.00
+9999 0 -1 0
+500 500 100.00
 $~

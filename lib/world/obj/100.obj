@@ -19,7 +19,7 @@ Some crudely made bracers lie here.~
 #10012
 senator short sword~
 a senatorial guard's short sword~
-A senatorial guard's shot sword is lying here.~
+A senatorial guard's short sword is lying here.~
 ~
 5 6311936 0 0 0 24577 0 0 0
 0 1 6 3
@@ -33,4 +33,13 @@ A vial of tranlucent slime from a slug.
 10 0 0 0 0 1 0 0 0
 30 65 66 19
 2 600 25.00
+#10014
+Corpse slug acid bile~
+corpse slug bile~
+a pool of corrosive liquid eats through the floor~
+it looks like it could eat through almost anything
+~
+18 0 0 0 0 1 0 0 0
+0 0 0 0
+0 100 15.00
 $~

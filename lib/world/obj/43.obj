@@ -565,11 +565,17 @@ to glow eternal.
 #4348
 good book~
 the good book~
-An unfinished object is lying here.~
+A dusty old book lies here.~
 ~
 11 0 0 0 0 16385 0 0 0
 0 0 0 0
-0 0 100.00
+1 1000 2.00
+A
+27 15
+A
+12 15
+A
+13 15
 #4350
 wino~
 a dead wino~
@@ -1096,26 +1102,23 @@ A
 A
 26 1
 #4408
-knife sharp bronze~
-a sharp bronze knife~
-An antiquated bronze knife rests on the floor.~
+primitive obsidian dagger~
+a primitive obsidian dagger~
+A large knife chiseled from obsidian has been left on the ground here.~
 ~
-5 143925312 0 0 0 8193 0 0 0
-0 6 5 11
-0 1000 50.00
+5 143925314 0 0 0 8193 0 0 0
+0 20 1 11
+1 1000 0.00
 E
-sharp bronze knife~
-This is a rather old school knife of bronze, and emits a
-pleasant odor of strange and rare spices.
+obsidian knife primitive~
+   This is an ancient, prehistoric, dagger chiseled by some of the first
+humans to walk the land.  It is made from pure obsidian, and omits a strange
+humming sound.  
 ~
 A
-18 2
+18 3
 A
-19 2
-A
-28 1
-A
-25 9
+19 3
 #4409
 spicy beef cutlets~
 spicy beef cutlets~

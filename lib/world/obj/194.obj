@@ -57,7 +57,7 @@ A pile of dark cloth has been left here.~
 12 0 0 0
 3 4000 35.00
 A
-12 10
+12 15
 A
 27 10
 A
@@ -79,7 +79,7 @@ Someone left thier backpack on the ground here.~
 ~
 15 64 0 0 0 1025 0 0 0
 50 1 -1 0
-5 1 1
+5 1 1.00
 #19407
 pool~
 a pool of water~
@@ -87,7 +87,7 @@ A small pool of water is here in the center of the court yard.~
 ~
 23 0 0 0 0 1 0 0 0
 10000 10000 15 0
-10000 1 1
+10000 1 1.00
 #19408
 cudgel~
 a cudgel~
@@ -151,7 +151,7 @@ A small potion bottle of swirling blue liquid lies here.~
 ~
 10 64 0 0 0 1 0 0 0
 20 36 0 0
-3 5000 5000
+3 5000 5000.00
 #19413
 weighted chain~
 a weighted chain~
@@ -202,7 +202,7 @@ A lightweight black hammer lies here.~
 ~
 5 217321472 0 0 0 8193 0 0 0
 0 3 5 5
-15 3050 3050
+15 3050 3050.00
 #19422
 fan iron~
 an iron fan~
@@ -268,7 +268,7 @@ A small black dart lies in the dust here.~
 ~
 7 0 0 0 0 16385 0 0 0
 0 1 4 0
-1 5 5
+1 5 5.00
 #19429
 three sectioned staff~
 a three sectioned staff~
@@ -344,7 +344,7 @@ A small green ring lies here. ~
 ~
 11 0 0 0 0 3 0 0 0
 0 0 0 0
-1 500 600
+1 500 600.00
 #19498
 shoes black tabi~
 some black tabi shoes~

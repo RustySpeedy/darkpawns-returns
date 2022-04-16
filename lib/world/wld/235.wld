@@ -6,7 +6,7 @@ green space beyond.  Stretching to the east and west is a wall of immensely
 thick shrubs standing as tall as the gates.  The view beyond the gates is
 blurry due to a light, but ever-present mist.  
 ~
-235 32768 0 0 0 3
+235 0 0 0 0 3
 D0
 ~
 gate pewter~
@@ -23,7 +23,7 @@ disorienting mist.  Strange colored birds fly back and forth among the tops of
 the shrub wall, seemingly unperturbed by the presence of strangers.  The path
 leads north and south while nothing of interest lies perpendicular.  
 ~
-235 32768 0 0 0 3
+235 0 0 0 0 3
 D0
 ~
 ~
@@ -41,7 +41,7 @@ of the gardens.  Small flying insects seemingly take advantage of the absence
 of avian predators and buzz furiously all around.  The cobblestone path
 continues north and south.  
 ~
-235 32768 0 0 0 0
+235 0 0 0 0 0
 D0
 ~
 ~
@@ -67,7 +67,7 @@ path running north and south from becoming muddy amidst all the moisture.
 The luscious green walls are highlighted at random intervals by blooms of
 colorful flowers.  
 ~
-235 32768 0 0 0 3
+235 0 0 0 0 3
 D0
 ~
 ~
@@ -85,7 +85,7 @@ canopy.  A slight breeze wafts sweet scents through the area though the mists
 remain unmoved.  In the dirt beside the path various tracks can be made out
 with both small and large markings, many of which were made in haste.  
 ~
-235 32768 0 0 0 3
+235 0 0 0 0 3
 D0
 ~
 ~
@@ -103,7 +103,7 @@ nowhere else to go but forward or return from where you came.  Nesting
 wildlife can be seen darting beneath the bushes, nimbly dodging the long woody
 spikes.  
 ~
-235 32768 0 0 0 3
+235 0 0 0 0 3
 D0
 ~
 ~
@@ -331,7 +331,7 @@ D2
 D3
 ~
 door~
-2 0 23571
+2 23571 23571
 S
 #23517
 A Cobblestone Path~
@@ -486,7 +486,7 @@ overtaken this section.  A green, velvety covering stretches about in all
 directions.  Every surface and object seems to be touched by moss.  The ground
 squishes and gives ever so softly when tread upon.  
 ~
-235 32768 0 0 0 3
+235 0 0 0 0 3
 D1
 ~
 ~
@@ -695,7 +695,7 @@ air flows from the back of the room towards the cobblestone pathway as it
 looks to escape the rising heat.  For now the creeping fire appears to be kept
 at bay by an unseen force.  
 ~
-235 32768 0 0 0 3
+235 0 0 0 0 3
 D3
 ~
 ~

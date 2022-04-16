@@ -6,14 +6,26 @@ A polished sphere containing two piercing blue eyes and their nerve endings susp
 3 81322050 0 0 0 16385 0 0 0
 30 5 4 4
 2 1000 8.00
+E
+oculus eye orb~
+   Filled with a clear, not-of-this-world, preservation liquid the eyes inside
+are fully alive and aware of surroundings as if attached still to an active
+mind.  The eyes when in private will fixate on its beholder and study the
+owners habits and emotion.  When in the public eye, these eyes serve as a
+warning system of sorts.  
+~
 A
-19 2
+29 5
 A
-12 16
+29 10
 A
-24 -6
+29 4
 A
-23 -6
+29 3
+A
+29 2
+A
+29 1
 #31302
 ampul wendigo blood~
 a Wendigo blood ampul~
@@ -76,6 +88,24 @@ A horned helmet has been carelessly left here for the taking.~
 5 500 15.00
 A
 19 1
+#31383
+smoking diabolical black-steel horned helm~
+a smoking, diabolical black-steel horned helm~
+A diabolical helm made of black steel is here searing the surface on which it sits.~
+~
+9 850434 0 0 0 17 0 0 0
+10 0 0 0
+6 565 20.00
+A
+17 25
+A
+19 3
+A
+12 -30
+A
+18 1
+A
+3 -3
 #31396
 ancient leather strap~
 an ancient dvergan-leather strap~
@@ -95,4 +125,18 @@ A
 13 5
 A
 17 -5
+#31397
+discolored wide brimmed goatskin hat~
+a discolored wide-brimmed, goatskin hat~
+A wide brimmed leather hat is here collecting dust.~
+~
+9 72926048 0 0 0 17 0 0 0
+3 0 0 0
+3 5000 10.00
+A
+27 10
+A
+12 15
+A
+13 15
 $~

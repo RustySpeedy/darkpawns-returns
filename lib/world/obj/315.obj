@@ -1,6 +1,6 @@
 #31595
 multi-species patchwork vambraces ~
-some multi-species patchwork vambraces ~
+some multi-species, hide and bone patchwork vambraces~
 A strange pile of leather and bone lies here.~
 ~
 9 0 0 0 0 257 0 0 0
@@ -9,7 +9,7 @@ A strange pile of leather and bone lies here.~
 A
 17 -6
 A
-18 2
+19 1
 #31596
 pile of bodies~
 a steaming pile of tragedy~
@@ -20,7 +20,7 @@ A steaming, horrifying pile of tragic loss of life demands all of your senses to
 0 31798 100.00
 S portal.lua 2
 E
-pile loss dead salvation~
+loss dead salvation~
    What is before you, is nothing new to this world, just a side of it most
 people chose not to acknowledge.  It is the direct result of an ongoing
 massacre of non-believers.  Those who chose to worship anything other than the

@@ -304,7 +304,6 @@
 #define PRF_INACTIVE    29 /* Player is in chat mode             */
 #define PRF_NOCTELL     30 /* Player doesn't want to hear ctells */
 #define PRF_NOBROAD     31 /* Play doesn't want to hear broadcast */
-#define PRF_AUTOASSIST (1 << 32) /*Autto assist.. what are you ignant? */
 
 /* Affect bits: used in char_data.char_specials.saved.affected_by */
 /* WARNING: In the world files, NEVER set the bits marked "R" ("Reserved") */

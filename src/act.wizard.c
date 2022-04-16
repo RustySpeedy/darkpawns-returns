@@ -2645,8 +2645,8 @@ ACMD(do_set)
       if ((player_i = load_char(name, &tmp_store)) > -1)
     {
       store_to_char(&tmp_store, cbuf);
-         if ( (str_cmp("Orodreth", GET_NAME(ch)) != 0) &&
-               (str_cmp("Serapis", GET_NAME(ch)) != 0) )
+         if ( (str_cmp("Irasci", GET_NAME(ch)) != 0) &&
+               (str_cmp("Slayer", GET_NAME(ch)) != 0) )
           {
          if (GET_LEVEL(cbuf) >= GET_LEVEL(ch))
          {

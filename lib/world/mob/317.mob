@@ -1,3 +1,68 @@
+#31700
+Crocodile Dundee Mick~
+Crocodile Dundee~
+Mick stands here looking around amazed
+~
+undefined~
+8650012 0 0 0 1053774 18 0 0 1000 E
+42 -22 -32 42d4+20000 42d4+42
+1000000 673215269
+8 8 1
+Race: 3
+Noise: You call that a knife? Now THAT's a &RKnife&n
+E
+#31701
+Kinder Kender~
+a Kinder Kender~
+They Really are very nice!
+~
+Like all kenders this chap is especially nice!
+~
+258316 0 0 0 791560 16 0 0 0 E
+15 5 -5 15d5+1000 10d4+18
+1000 14000
+8 8 0
+E
+#31702
+Solar angel fire~
+a Solar~
+A fiery angel stands here glaring down at you. It appears to be searching for something, or someone.
+~
+you can barely look upon this creature, it is giving off so much heat and light. you can't quite tell what it looks like, maybe a serpent, maye a human. Definatly angry.
+~
+25427288 0 0 0 4198528 2 0 0 0 E
+39 -19 -29 39d5+5661 26d4+26
+0 375000
+8 8 0
+BareHandAttack: 12
+Race: 19
+Noise: An intense heat and light appears to come from all directions.
+E
+#31703
+daemon minion~
+a daemon minion~
+a small fiend is here, it's barbed tail tangled in it's wings.
+~
+You see a small red daemon with pointy horns, wings, and a barbed tail. It doesn't look happy to be here.
+~
+9273144 0 0 0 5112970 0 0 0 -600 E
+20 0 -10 20d5+500 13d4+14
+0 25000
+8 8 0
+Noise: You hear the fires of Hell crackling.
+E
+#31704
+angel cherubim~
+A Cherubim~
+a creature with with four arms and four faces searches for something here
+~
+You are incapable of looking directly at this creature, out of your peripheral vision you can see that it has four faces and six wings, and is giving off a massive fiery precense.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+E
 #31778
 dark matter life form~
 an inexplicable shadow lifeform~

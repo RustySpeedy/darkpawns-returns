@@ -83,7 +83,7 @@ int max_exp_loss = 500000;  /* max losable per death */
 
 /* number of tics (usually 75 seconds) before PC/NPC corpses decompose */
 int max_npc_corpse_time = 5;
-int max_pc_corpse_time = 20;
+int max_pc_corpse_time = 10;
 
 /* should items in death traps automatically be junked? */
 int dts_are_dumps = YES;
@@ -128,7 +128,7 @@ int autosave_time = 10;
 int crash_file_timeout = 10;
 
 /* Lifetime of normal rent files in days */
-int rent_file_timeout = 365;
+int rent_file_timeout = 30;
 
 
 /****************************************************************************/
@@ -173,7 +173,7 @@ int donation_room_3 = NOWHERE;  /* unused - room for expansion */
  * port number there will override this setting.  Change the PORT= line in
  * instead of (or in addition to) changing this.
  */
-int DFLT_PORT = 6966;
+int DFLT_PORT = 6969;
 
 /* default directory to use as data directory */
 char *DFLT_DIR = "lib";
@@ -250,7 +250,6 @@ char *GREETINGS =
 "            DikuMUD Gamma 0.0 created by K. Nyboe, T. Madsen,\r\n"
 "                H. Staerfeldt, M. Seifert, and S. Hammer\r\n"
 "\r\n"
-" Its the build port, don't fuck it up.\r\n"
 "\r\n\r\n";
 
 char *WELC_MESSG =

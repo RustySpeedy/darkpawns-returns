@@ -10,7 +10,7 @@ whistle through the treetops.  He is the Lamplighter that attends the beacon's
 light and ensures it stays lit for travelers to gauge.  He welcomes visitors
 as it breaks the monotony of his life.  
 ~
-8395226 0 0 0 8524968 0 0 0 1000 E
+8395098 0 0 0 8520872 0 0 0 1000 E
 32 -12 -22 32d5+1580 21d4+21
 0 120000
 8 8 1
@@ -53,29 +53,6 @@ journals.
 0 90000
 8 8 1
 Race: 0
-E
-#31616
-Lieutenant Orbeshi guard corpse reanimated~
-the undead corpse of Lietenant Orbeshi~
-A decomposing corpse belonging to the late Lietenant Orbeshi of the Kir Drax'in Guard is shuffling about here.
-~
-undefined~
-8 0 0 0 0 0 0 0 0 E
-7 13 3 7d5+80 4d4+4
-0 2500
-8 8 0
-E
-#31617
-mob unfinished~
-the unfinished mob~
-An unfinished mob stands here.
-~
-It looks, err, unfinished.
-~
-8 0 0 0 0 0 0 0 0 E
-7 13 3 7d5+80 4d4+4
-0 2500
-8 8 0
 E
 #31649
 short faced bear~

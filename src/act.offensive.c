@@ -51,12 +51,10 @@ void raw_kill(struct char_data * ch, int attacktype);
 void improve_skill(struct char_data *ch, int skill_num);
 extern int is_shopkeeper(struct char_data * chChar);
 
-
 ACMD(do_assist)
 {
   struct char_data *helpee, *opponent;
-  
-  
+
   if (FIGHTING(ch)) {
     send_to_char("You're already fighting!  How can you assist "
          "someone else?\r\n", ch);
@@ -103,7 +101,6 @@ ACMD(do_assist)
 ACMD(do_hit)
 {
   struct char_data *vict;
-
   ACMD(do_dismount);
 
   one_argument(argument, arg);
@@ -1299,7 +1296,7 @@ ACMD(do_neckbreak)
 {
   struct char_data *vict;
   int percent, prob, dam;
-  int needed_moves = 51;
+  int needed_moves = 35;
 
   if (!GET_SKILL(ch, SKILL_NECKBREAK))
     {
@@ -1355,7 +1352,7 @@ ACMD(do_neckbreak)
  else
    GET_MOVE(ch) = GET_MOVE(ch) - needed_moves;
 
- percent = ((7 - (GET_AC(vict) / 10)) << 1) + number(1, 101);
+ percent = ((5 - (GET_AC(vict) / 10)) << 1) + number(1, 101);
  /* 101% is a complete failure */
  prob = GET_SKILL(ch, SKILL_NECKBREAK);
 

@@ -5,7 +5,7 @@ belief, and the signs of the altar and holy flame above the door and on the
 gables show it to be a temple. The entire building is made of some slick black
 stone, possibly onyx.
 ~
-117 12 0 0 0 0
+117 32780 0 0 0 0
 D0
 The Door to the Crystal Temple.
 ~
@@ -343,7 +343,7 @@ The passage continues north and south, and on either side of you dark shapes
 are blurred by the crystal walls. Something or someone is definitely moving on
 the other side of the walls to your east and west.
 ~
-117 8 0 0 0 0
+117 32776 0 0 0 0
 D0
 ~
 door~
@@ -402,7 +402,7 @@ Your boots tap eerily on the clear crystal, and looking down, you notice shapes
 moving under the floor... something is alive in the rooms below you. The
 passage continues east and west.
 ~
-117 8 0 0 0 0
+117 32776 0 0 0 0
 D1
 ~
 ~
@@ -419,7 +419,7 @@ clear crystal, it's hard to tell where the hall end and walls begin. The
 hallway leads in all directions here; passage south is blocked by a gigantic
 crystal door leading outside.
 ~
-117 8 0 0 0 0
+117 32776 0 0 0 0
 D0
 ~
 door~
@@ -444,7 +444,7 @@ Your boots tap eerily on the clear crystal. Looking around, you notice shapes
 moving above the ceiling - something is alive in the rooms over you. The
 passage continues east and west.
 ~
-117 8 0 0 0 0
+117 32776 0 0 0 0
 D1
 ~
 ~
@@ -868,15 +868,15 @@ D3
 ~
 0 -1 11750
 E
-plaque~
-Tracer, son of the giver of much joy!
-~
-E
 statue tracer~
 You see a lopsided statue featuring a man with two halves: one side is a
 brazen, imposing figure that fills you with wonder.. while the other half of
 the statue is a twisted, deformed gnome so hideously life-like that you want
 to retch.
+~
+E
+plaque~
+Tracer, son of the giver of much joy!
 ~
 S
 #11752
@@ -898,14 +898,14 @@ D3
 ~
 0 -1 11751
 E
-plaque~
-Arak, Deceptor of the planes
-~
-E
 statue arak~
 Before you stands the statue of a hooded, cloaked figure. No face can be seen,
 and even the statue itself seems to suck in the light from the room. You are
 overcome by the waves of evil that radiate from this horrendous work of art.
+~
+E
+plaque~
+Arak, Deceptor of the planes
 ~
 S
 #11753
@@ -943,14 +943,14 @@ D2
 ~
 0 -1 11756
 E
-plaque~
-Serapis, God of the Underworld
-~
-E
 statue serapis~
 Before you stands the statue of a hawk-headed man. Well over six feet tall,
 you are filled with a sense of dread and awe as you gaze at what can only be
 described as a god.
+~
+E
+plaque~
+Serapis, God of the Underworld
 ~
 S
 #11755
@@ -972,12 +972,12 @@ D3
 ~
 0 -1 11754
 E
-plaque~
-Ayesha, Lollipop of the Gods!
-~
-E
 statue ayesha~
 The statue before you is of a big... lollipop.
+~
+E
+plaque~
+Ayesha, Lollipop of the Gods!
 ~
 S
 #11756
@@ -995,10 +995,6 @@ D1
 ~
 0 -1 11757
 E
-plaque~
-Nevyn, the Eternal Champion
-~
-E
 statue nevyn~
 It is the color of a bleached skull, his flesh; and the long hair which flows
 below his shoulders is milk-white. From the tapering, beautiful head stare
@@ -1006,6 +1002,10 @@ two slanting eyes, crimson and moody, and from the solid sleeves of his yellow
 robe emerge two slender hands, also the color of bone, resting on each arm of
 a seat which has been carved from a single, massive ruby. This is truly a
 beautiful likeness.
+~
+E
+plaque~
+Nevyn, the Eternal Champion
 ~
 S
 #11757
@@ -1027,10 +1027,6 @@ D3
 ~
 0 -1 11756
 E
-plaque~
-Oddity, God of Creation.
-~
-E
 statue oddity~
 This is a statue of a beautiful man. Although men aren't normally described
 as beautiful, there is no other way to describe this statue. Looking in the
@@ -1038,6 +1034,10 @@ statue's golden eyes, however, you see something very strange. A glint of
 insanity perhaps? It's hard to say. Whatever it is, you're amazed that after
 seeing the other statues that this one which actually seems to be the 
 most human also seems to be the most disturbing.
+~
+E
+plaque~
+Oddity, God of Creation.
 ~
 S
 #11758

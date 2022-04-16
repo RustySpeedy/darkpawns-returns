@@ -5,10 +5,11 @@ The Superfreak stands here, licking your groin with glittery hair.
 ~
 His nose is covered in white powder and he intimidates and arouses you with a furious groin pumpin dance in your general direction.
 ~
-8 0 0 0 0 0 0 0 0 E
-0 20 10 1d1+0 1d1+0
-0 0
+11294874 0 0 0 68170888 2 0 0 0 E
+39 -19 -29 50d100+0 13d40+20
+3000000 375000
 8 8 0
+BareHandAttack: 10
 Noise: You hear a man exclaim, "I'm Rick James, Bitch!" and smack a ho.
 E
 #4301
@@ -233,14 +234,13 @@ Bahamut is among the noblest creatures of the realm.  His steady, kind mien
 bespeaks the wisdom of eons.  Summoned from heaven by the God of War to serve
 as his steed, Bahamut is a fierce and loyal companion to mighty Mars.
 ~
-10571786 0 0 0 1142043784 2 0 0 0 E
-60 -40 -50 60d5+17904 40d4+40
+10572058 0 0 0 1140855944 0 0 0 400 E
+60 -40 -50 60d5+30000 40d4+75
 0 135420039
 8 8 1
 BareHandAttack: 12
 Race: 10
 Noise: The ground trembles from the weight of a massive beast nearby.
-Script: healer.lua 8
 E
 #4314
 Paddy O'Hooligan man~
@@ -324,9 +324,9 @@ placing the miseries of life into a context of harmony.  The congregation
 listens in rapt attention, hypnotized by the transcendent wisdom of this true
 holy man.
 ~
-16410 0 0 0 1 0 0 0 400 E
-10 10 0 10d5+110 5d4+5
-0 6000
+8626202 0 0 0 177340 2 0 0 400 E
+30 -10 -20 30d5+6828 20d4+38
+0 60000
 8 8 1
 BareHandAttack: 11
 Race: 0

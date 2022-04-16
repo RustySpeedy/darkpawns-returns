@@ -10,7 +10,7 @@ it grins evilly at you, glad to have achieved its mission.
 ~
 108 0 0 0 1024 0 0 0 -600 E
 14 6 -4 14d5+150 9d4+9
-20 12000
+20 15
 8 8 1
 E
 #2101
@@ -25,7 +25,7 @@ from his mouth, he enjoys a hearty meal.
 ~
 108 0 0 0 1024 0 0 0 -200 E
 15 5 -5 15d5+160 10d4+10
-5 14000
+5 17000
 8 8 1
 E
 #2102
@@ -40,7 +40,7 @@ from her mouth, she enjoys a hearty meal.
 ~
 108 0 0 0 1024 0 0 0 -200 E
 15 5 -5 15d5+160 10d4+10
-5 14000
+5 17000
 8 8 2
 E
 #2103
@@ -54,7 +54,7 @@ Upon seeing you, he screams loudly and runs at you.
 ~
 4204 0 0 0 1024 0 0 0 -800 E
 17 3 -7 17d5+180 11d4+11
-50 18000
+50 22000
 8 8 1
 E
 #2104
@@ -69,7 +69,7 @@ before coming at you.
 ~
 20584 0 0 0 33824 0 0 0 -1000 E
 19 1 -9 19d5+200 12d4+12
-40 22500
+40 30000
 8 8 2
 Noise: You hear a blood-curdling scream followed by a loud chorus of cheers.
 E
@@ -84,7 +84,7 @@ of Noirwood and few have managed to meet him and survive.
 ~
 20600 0 0 0 33832 0 0 0 -1000 E
 21 -1 -11 21d5+220 14d4+14
-100 27500
+1000 37500
 8 8 1
 E
 #2106
@@ -99,7 +99,7 @@ you.
 ~
 61547 0 0 0 1064 0 0 0 -500 E
 17 3 -7 17d5+180 11d4+11
-20 18000
+20 20000
 8 8 1
 E
 #2107
@@ -113,7 +113,7 @@ and has probably aided the orcs in the construction of this place.
 ~
 216 0 0 0 41 0 0 0 200 E
 13 7 -3 13d5+140 8d4+8
-1 10500
+1 15000
 8 8 0
 Race: 15
 E
@@ -127,7 +127,7 @@ certainly mastered the art of spell casting.
 ~
 254057 0 0 0 9384 0 0 0 -600 E
 19 1 -9 19d5+200 12d4+12
-30 22500
+30 30000
 8 8 2
 E
 #2109
@@ -140,7 +140,7 @@ the majority of the time but occassionally staggers around if awakened.
 ~
 108 0 0 0 1024 0 0 0 -200 E
 15 5 -5 15d5+160 10d4+10
-5 14000
+5 20000
 4 4 1
 E
 #2110
@@ -157,7 +157,7 @@ orc.
 ~
 1050856 0 0 0 163880 0 0 0 -500 E
 7 13 3 7d5+80 4d4+3
-1 2500
+1 4000
 8 8 1
 BareHandAttack: 8
 Noise: You can hear a low growl nearby.
@@ -173,7 +173,7 @@ parties, the one before you is still a formidable opponent by himself.
 ~
 6248 0 0 0 132096 0 0 0 -500 E
 16 4 -6 16d5+170 10d4+10
-10 16000
+10 20000
 8 8 1
 E
 $

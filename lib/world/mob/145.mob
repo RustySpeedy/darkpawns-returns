@@ -383,4 +383,39 @@ draws. He can't fathom why his military genius isn't universally hailed.
 BareHandAttack: 13
 Race: 0
 E
+#14533
+zoo intake coordinator~
+the Intake Coordinator~
+The Zoo's Intake Coordinator lies here nearly dead grasping the key to the QT room.
+~
+   She is dressed in a light tan shirt and pants that are soaked in fresh
+blood.  Strange gurgling noises can be heard with every ragged breath she
+takes.  She is dying and looks to be in a lot of pain.  It seems she managed
+to lock the Quarantine door before becoming immobilized by her injuries and
+quickly draining blood.  
+~
+74 0 0 0 0 0 0 0 0 E
+10 10 0 10d5+1 5d4+5
+0 6000
+5 5 2
+Race: 0
+Noise: A groan can be heard coming from the Intake Coordinator. She is begging for someone to put her out of her misery!
+E
+#14534
+tundra wolf glowing eyes~
+the rabid Tundra wolf~
+An enormous wolf with white fur paces here, bloody froth dripping from its jowls.
+~
+   The giant Tundra wolf's musculature can be seen rippling as it moves.  
+It's powerful jaws are dripping with bloody froth and its eyes glow red.  A
+sickly smell of rot seems to be permeating the room as the creature breathes
+rapidly.  
+~
+262200 0 0 0 1160 0 0 0 0 E
+22 -2 -12 22d5+590 14d4+15
+0 30000
+8 7 0
+BareHandAttack: 4
+Noise: A wild snarl pierces the silence.
+E
 $

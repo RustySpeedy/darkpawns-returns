@@ -55,7 +55,7 @@ well respected because pilgrims leave money and other offering here
 without fear that thieves will take them.  Behind the altar there
 is a giant mosaic of a dragon flying through the clouds.
 ~
-182 294924 0 0 0 0
+182 294940 0 0 0 0
 D2
 The Temple Common Area~
 ~
@@ -410,7 +410,7 @@ The Temple Garden~
 The is a T in the garden pathways.  There is a small nook of a garden to the
 south, while the main path continues east and west.
 ~
-182 32768 0 0 0 2
+182 0 0 0 0 2
 D1
 The Temple Garden~
 ~
@@ -429,7 +429,7 @@ The Temple Garden~
 There is a curve in the path here.  The path goes east and south from here. You
 see a small building to the southeast.
 ~
-182 32768 0 0 0 2
+182 0 0 0 0 2
 D2
 The Temple Garden~
 ~
@@ -579,7 +579,7 @@ A Nook Garden~
 This a a very small clearing here.  It is very peaceful.  The main path is to
 the north.  There is a small bench here.
 ~
-182 32768 0 0 0 2
+182 0 0 0 0 2
 D0
 The Temple Garden~
 ~
@@ -767,13 +767,13 @@ Yokki Way~
 ~
 0 -1 18239
 E
+plaque~
+The plaque reads: "To the north lies wisdom".
+~
+E
 statue~
 It is a statue of the Dharma Buddha. His gaze afixed towards the
 mountain to the north of the city.
-~
-E
-plaque~
-The plaque reads: "To the north lies wisdom".
 ~
 S
 #18241
@@ -909,7 +909,7 @@ The Temple Garden~
 Here is a small clearing in the garden.  The path heads north and south from
 here.  There is a small building to the east.
 ~
-182 32768 0 0 0 2
+182 0 0 0 0 2
 D0
 The Temple Garden~
 ~
@@ -930,7 +930,7 @@ a place for quiet reflection and perhaps prayer. In fact, there
 is a wooden kneeler here for that very purpose.
 The garden continues to the west.
 ~
-182 32776 0 0 0 0
+182 8 0 0 0 0
 D3
 The Temple Garden~
 ~
@@ -1028,7 +1028,7 @@ A Nook Garden~
 This a a very small clearing here.  It is very peaceful.  The main path is too
 the south.  There is a small bench here.
 ~
-182 32768 0 0 0 2
+182 0 0 0 0 2
 D2
 The Temple Garden~
 ~
@@ -1147,7 +1147,7 @@ The Temple Garden~
 Here is a T in the pathways.  To the north is a small nook within the garden.
 The path also leads east and west.
 ~
-182 32768 0 0 0 2
+182 0 0 0 0 2
 D0
 A Nook Garden~
 ~
@@ -1166,7 +1166,7 @@ The Temple Garden~
 There is a bend in the garden here.  The path leads both west and north.  There
 is a small building to the northeast.
 ~
-182 32768 0 0 0 2
+182 0 0 0 0 2
 D0
 The Temple Garden~
 ~
@@ -1565,7 +1565,7 @@ The Main Pier~
 The main wooden dock continues east and west here.  There is also a pier to the
 south here.
 ~
-182 32768 0 0 0 1
+182 0 0 0 0 1
 D1
 The Main Pier~
 ~
@@ -1584,7 +1584,7 @@ The Main Pier~
 This is the end of the main dock.  There is a pier to the south here.  The main
 pier heads off to the west.
 ~
-182 32768 0 0 0 1
+182 0 0 0 0 1
 D2
 Fifth Pier~
 ~
@@ -1669,7 +1669,7 @@ Kir-Oshi harbor, which is just to the west.  The pier is
 clogged with sailors and fishermen, among others, making
 transit difficult at best.
 ~
-182 32768 0 0 0 1
+182 0 0 0 0 1
 D0
 The Main Pier~
 ~
@@ -1697,7 +1697,7 @@ waterfront. All the piers seem to be equally busy, and this
 one is certainly no exception, you can hardly see through
 the throngs of people that are transacting business here.
 ~
-182 32768 0 0 0 1
+182 0 0 0 0 1
 D0
 The Main Pier~
 ~
@@ -1724,7 +1724,7 @@ This is the final pier, furthest from the main road.  It looks
 to be the busiest however.  There is a line of carts waiting to
 head northwest to the city gates. The harbor is to your west.
 ~
-182 32768 0 0 0 1
+182 0 0 0 0 1
 D0
 The Main Pier~
 ~

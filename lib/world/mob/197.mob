@@ -209,7 +209,7 @@ than death itself!
 ~
 43018 0 0 0 1032 0 0 0 -300 E
 17 3 -7 17d5+180 11d4+11
-0 18000
+0 23666
 8 8 0
 Race: 9
 E
@@ -224,6 +224,21 @@ after death by some very strong magic indeed!
 2184 0 0 0 1032 0 0 0 0 E
 20 0 -10 20d5+210 13d4+13
 100 25000
+8 8 0
+Race: 9
+E
+#19799
+undead guard~
+the undead guard~
+An undead guard stands at attention at his post.
+~
+   This guard was once a living member of King Seilon's court, but the spell
+cast over him years ago by King Seilon to hold his loyalty was even more
+powerful than death itself!  
+~
+43018 0 0 0 1032 0 0 0 -300 E
+17 3 -7 17d5+180 11d4+12
+0 24777
 8 8 0
 Race: 9
 E

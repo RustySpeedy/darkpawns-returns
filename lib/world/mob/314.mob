@@ -136,17 +136,17 @@ E
 #31408
 Rollo Jarl man~
 Jarl Rollo, the Enraged~
-A muscular man wearing the full hide of a bear glares at you from under the upper jaw of the bear.
+A man so angry that you can see heat radiating off of him is here grinding his teeth, raging out..
 ~
    Rollo is the Jarl of the Stronghold and the leader of the Norseman in this
 area.  He appears to be over 7 foot tall and is proportionally wide.  He is
 wearing leather pants and a cloak embroidered in red Nordic runes.  His
 clothing alone indicates his high stature and the air of authority he projects
 only strengthens that notion.  His movements are practiced and the sheer power
-that he wields is apparent.  He could only become more powerful if he were to
-be wielding a weapon in his giant hands.  
+that he wields is apparent.  This pagan psychopath looks possessed, he seems
+to be consumed by hate.  
 ~
-8408667 0 0 0 1090730 0 0 0 -1000 E
+8408667 0 0 0 1074963626 2 0 0 -1000 E
 39 -19 -29 39d5+5661 26d4+45
 45000 375000
 8 8 1
@@ -298,5 +298,20 @@ gone mad.  It holds the items that the Jarl sends down here.
 15000 60000
 8 8 0
 BareHandAttack: 14
+E
+#31477
+Holiday Package Thief~
+a scumbag package thief~
+A shady looking man in black clothing is sneaking about.
+~
+   Mysterious, black-clad thieving bastard stands before you.  Every time he
+moves you can hear the stolen merchandise jingle and jangle.  
+~
+8667288 0 0 0 1073873024 2 0 0 0 E
+29 -9 -19 29d5+999 19d4+20
+10000 55000
+8 8 1
+BareHandAttack: 14
+Noise: In the distance you can hear someone yelling, 'Stop! THIEF! GET THE BASTARD!'
 E
 $

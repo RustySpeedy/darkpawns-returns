@@ -876,9 +876,8 @@ ACMD(do_dig)
   world[ch->in_room].dir_option[dir]->to_room = rroom;
 
   /* Only works if you have Oasis OLC */
-  olc_add_to_save_list(zone_table[world[ch->in_room].zone].number, OLC_SAVE_ROOM);
-  olc_add_to_save_list(zone_table[world[rroom].zone].number, OLC_SAVE_ROOM);
-  
+  olc_add_to_save_list((iroom/100), OLC_SAVE_ROOM);
+
   sprintf(buf, "You make an exit %s to room %d.\r\n", buf2, iroom);
   send_to_char(buf, ch);
 }

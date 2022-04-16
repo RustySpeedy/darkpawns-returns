@@ -6,7 +6,7 @@ forest to the west and east is mostly cleared around the tall wall of the
 magnificent city.  The road has a wide shoulder covered in pinestraw on either
 side.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -17,8 +17,8 @@ D1
 0 0 31237
 D2
 ~
-~
-0 0 31292
+gate~
+1 0 31292
 D3
 ~
 ~
@@ -31,7 +31,7 @@ see.  To the south, you see the Kir Drax'in City Gates, which are armed to the
 teeth.  To the west, and east you find that the forest is more dense than it
 is closer to the wall.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -56,7 +56,7 @@ see.  To the south the city walls are visible and vague shape of a large gate
 as well.  To the west, and east the forest is very thick and high.  A canopy
 begins to form over the road here.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -82,7 +82,7 @@ Drax'in.  To the west, and east the forest is very thick and high.  There are
 very large firs and pine trees towering over the road.  The trees are trimmed
 often to keep the road clear and a good view of the sky.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -108,7 +108,7 @@ Drax'in.  To the west, and east the forest is very thick and high.  There are
 very large firs and pine trees towering over the road.  The trees are trimmed
 often to keep the road clear and a good view of the sky.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -134,7 +134,7 @@ Drax'in.  To the west, and east the forest is very thick and high.  There are
 very large firs and pine trees towering over the road.  The trees are trimmed
 often to keep the road clear and a good view of the sky.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -160,7 +160,7 @@ Drax'in.  To the west, and east the forest is very thick and high.  There are
 very large firs and pine trees towering over the road.  The trees are trimmed
 often to keep the road clear and a good view of the sky.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -186,7 +186,7 @@ Drax'in.  To the west, and east the forest is very thick and high.  There are
 very large firs and pine trees towering over the road.  The trees are trimmed
 often to keep the road clear and a good view of the sky.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -213,7 +213,7 @@ very large firs and pine trees towering over the road.  The trees are trimmed
 often to keep the road clear and a good view of the sky.  The climate seems to
 be getting a bit cooler, the air more crisp, less humidity as well.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -240,7 +240,7 @@ very large firs and pine trees towering over the road.  The trees are trimmed
 often to keep the road clear and a good view of the sky.  The climate seems to
 be getting a bit cooler, the air more crisp, less humidity as well.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -267,7 +267,7 @@ very large firs and pine trees towering over the road.  The trees are trimmed
 often to keep the road clear and a good view of the sky.  The climate seems to
 be getting a bit cooler, the air more crisp, less humidity as well.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -294,7 +294,7 @@ very large firs and pine trees towering over the road.  The trees are trimmed
 often to keep the road clear and a good view of the sky.  The climate seems to
 be getting a bit cooler, the air more crisp, less humidity as well.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -320,7 +320,7 @@ Drax'in.  The landscape is beginning to change as the climate starts to become
 much colder and less stable.  The trees are becoming more sparse surrounding
 the road north.  Plant and animal life seem to be thinning out as well.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -346,7 +346,7 @@ Drax'in.  The landscape is beginning to change as the climate starts to become
 much colder and less stable.  The trees are becoming more sparse surrounding
 the road north.  Plant and animal life seem to be thinning out as well.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -372,7 +372,7 @@ Drax'in.  The landscape is beginning to change as the climate starts to become
 much colder and less stable.  The trees are becoming more sparse surrounding
 the road north.  Plant and animal life seem to be thinning out as well.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -398,7 +398,7 @@ Drax'in.  The landscape is beginning to change as the climate starts to become
 much colder and less stable.  The trees are becoming more sparse surrounding
 the road north.  Plant and animal life seem to be thinning out as well.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -424,7 +424,7 @@ Drax'in.  The landscape is beginning to change as the climate starts to become
 much colder and less stable.  The trees are becoming more sparse surrounding
 the road north.  Plant and animal life seem to be thinning out as well.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -450,7 +450,7 @@ Drax'in.  The landscape is beginning to change as the climate starts to become
 much colder and less stable.  The trees are becoming more sparse surrounding
 the road north.  Plant and animal life seem to be thinning out as well.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -476,7 +476,7 @@ Drax'in.  The landscape is beginning to change as the climate starts to become
 much colder and less stable.  The trees are becoming more sparse surrounding
 the road north.  Plant and animal life seem to be thinning out as well.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -503,7 +503,7 @@ beckons you as it surely is more comfortable and warm.  To the east, as well
 as the west, the ground is still showing signs of life, but has small patches
 of snow clinging on.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -530,7 +530,7 @@ beckons you as it surely is more comfortable and warm.  To the east, as well
 as the west, the ground is still showing signs of life, but has small patches
 of snow clinging on.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -557,7 +557,7 @@ beckons you as it surely is more comfortable and warm.  To the east, as well
 as the west, the ground is still showing signs of life, but has small patches
 of snow clinging on.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -584,7 +584,7 @@ beckons you as it surely is more comfortable and warm.  To the east, as well
 as the west, the ground is still showing signs of life, but has small patches
 of snow clinging on.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -611,7 +611,7 @@ beckons you as it surely is more comfortable and warm.  To the east, as well
 as the west, the ground is still showing signs of life, but has small patches
 of snow clinging on.  
 ~
-312 0 0 0 0 1
+312 32768 0 0 0 1
 D0
 ~
 ~
@@ -638,7 +638,7 @@ beckons you as it surely is more comfortable and warm.  To the east, as well
 as the west, the ground is still showing signs of life, but has small patches
 of snow clinging on.  
 ~
-312 0 0 0 0 13
+312 32768 0 0 0 13
 D0
 ~
 ~
@@ -666,7 +666,7 @@ beneath it.  There are exits in all four cardinal directions.  West and east,
 the tundra, south will bring you to the open road, and north the bridge to the
 white abyss of the north.  
 ~
-312 0 0 0 0 13
+312 32768 0 0 0 13
 D0
 ~
 ~
@@ -693,7 +693,7 @@ find a frozen torrent of slush, ice and freezing waters.  The water is very
 loud, and violent, water is constantly being turned to ice on this bridge.  
 It must take a great effort to keep it clear.  
 ~
-312 0 0 0 0 13
+312 32768 0 0 0 13
 D0
 ~
 ~
@@ -714,7 +714,7 @@ It must take a great effort to keep it clear.  There is a cracked railing on
 the eastern side of the bridge here.  
 &RThe wind is strong here, you ought to keep moving forward!&n
 ~
-312 8388608 0 0 0 13
+312 8421376 0 0 0 13
 D0
 ~
 ~
@@ -737,7 +737,7 @@ find a frozen torrent of slush, ice and freezing waters.  The water is very
 loud, and violent, water is constantly being turned to ice on this bridge.  
 It must take a great effort to keep it clear.  
 ~
-312 0 0 0 0 13
+312 32768 0 0 0 13
 D0
 ~
 ~
@@ -756,7 +756,7 @@ find a frozen torrent of slush, ice and freezing waters.  The water is very
 loud, and violent, water is constantly being turned to ice on this bridge.  
 It must take a great effort to keep it clear.  
 ~
-312 4 0 0 0 13
+312 32772 0 0 0 13
 D0
 ~
 ~
@@ -773,7 +773,7 @@ Star Artery.  You may go east, or west into the fray.  North will bring you to
 a barely recognizable pathway and south back to the bridge.  The sound of the
 wind and the river is almost deafening.  
 ~
-312 0 0 0 0 13
+312 32768 0 0 0 13
 D0
 ~
 ~
@@ -800,7 +800,7 @@ horse shit, mud and ice.  To the east and west you can not see much except a
 barren icy wasteland.  Its colder than a demons ass out here.  The road south
 seems the way to go, much safer..  
 ~
-312 16777216 0 0 0 13
+312 16809984 0 0 0 13
 D0
 ~
 ~
@@ -827,7 +827,7 @@ horse shit, mud and ice.  To the east and west you can not see much except a
 barren icy wasteland.  Its colder than a demons ass out here.  The road south
 seems the way to go, much safer..  
 ~
-312 0 0 0 0 13
+312 32768 0 0 0 13
 D0
 ~
 ~
@@ -854,7 +854,7 @@ horse shit, mud and ice.  To the east and west you can not see much except a
 barren icy wasteland.  Its colder than a demons ass out here.  The road south
 seems the way to go, much safer..  
 ~
-312 8388608 0 0 0 13
+312 8421376 0 0 0 13
 D0
 ~
 ~
@@ -881,7 +881,7 @@ horse shit, mud and ice.  To the east and west you can not see much except a
 barren icy wasteland.  Its colder than a demons ass out here.  The road south
 seems the way to go, much safer..  
 ~
-312 0 0 0 0 13
+312 32768 0 0 0 13
 D0
 ~
 ~
@@ -909,12 +909,11 @@ barren icy wasteland.  Its colder than a demons ass out here.  The road south
 seems the way to go, much safer..  Looking north you will find a cozy, very
 large dome shaped structure.  Smoke rises from a chimney at the center.  
 ~
-312 0 0 0 0 13
+312 32768 0 0 0 13
 D0
-   A large steel door, covered in ice.  
 ~
-door~
-1 -1 31798
+~
+0 0 31798
 D1
 ~
 ~
@@ -938,7 +937,7 @@ vegitation.  Looking south you find the solid stone and steel reinforced walls
 of the bustling city.  Going back west will bring you back to the beginning of
 the North Star Artery.  East the wall continues on.  
 ~
-312 0 0 0 0 0
+312 32768 0 0 0 0
 D0
 ~
 ~
@@ -962,7 +961,7 @@ vegitation.  Looking south you find the solid stone and steel reinforced walls
 of the bustling city.  Going back west will bring you back to the beginning of
 the North Star Artery.  East the wall continues on.  
 ~
-312 0 0 0 0 0
+312 32768 0 0 0 0
 D0
 ~
 ~
@@ -986,7 +985,7 @@ vegitation.  Looking south you find the solid stone and steel reinforced walls
 of the bustling city.  Going back west will bring you back to the beginning of
 the North Star Artery.  East the wall continues on.  
 ~
-312 0 0 0 0 0
+312 32768 0 0 0 0
 D0
 ~
 ~
@@ -1010,7 +1009,7 @@ vegitation.  Looking south you find the solid stone and steel reinforced walls
 of the bustling city.  Going back west will bring you back to the beginning of
 the North Star Artery.  East the wall continues on.  
 ~
-312 0 0 0 0 0
+312 32768 0 0 0 0
 D0
 ~
 ~
@@ -1033,7 +1032,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1060,7 +1059,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1087,7 +1086,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1114,7 +1113,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1141,7 +1140,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1168,7 +1167,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1195,7 +1194,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1222,7 +1221,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1249,7 +1248,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1276,7 +1275,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1303,7 +1302,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1330,7 +1329,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1357,7 +1356,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1384,7 +1383,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1411,7 +1410,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1438,7 +1437,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1465,7 +1464,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1492,7 +1491,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1519,7 +1518,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1546,7 +1545,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1573,7 +1572,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1600,7 +1599,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1627,7 +1626,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1654,7 +1653,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1681,7 +1680,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1708,7 +1707,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1735,7 +1734,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1762,7 +1761,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1789,7 +1788,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1816,7 +1815,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1843,7 +1842,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1870,7 +1869,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1897,7 +1896,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1924,7 +1923,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1951,7 +1950,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -1978,7 +1977,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -2005,7 +2004,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -2032,7 +2031,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -2059,7 +2058,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -2086,7 +2085,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -2113,7 +2112,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -2140,7 +2139,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -2167,7 +2166,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -2194,7 +2193,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -2221,7 +2220,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -2248,7 +2247,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -2276,7 +2275,7 @@ vegitation.  Looking south you find the solid stone and steel reinforced walls
 of the bustling city.  Going back east will bring you back to the beginning of
 the North Star Artery.  West the wall continues on.  
 ~
-312 0 0 0 0 0
+312 32768 0 0 0 0
 D0
 ~
 ~
@@ -2300,7 +2299,7 @@ vegitation.  Looking south you find the solid stone and steel reinforced walls
 of the bustling city.  Going back east will bring you back to the beginning of
 the North Star Artery.  West the wall continues on.  
 ~
-312 0 0 0 0 0
+312 32768 0 0 0 0
 D0
 ~
 ~
@@ -2324,7 +2323,7 @@ vegitation.  Looking south you find the solid stone and steel reinforced walls
 of the bustling city.  Going back east will bring you back to the beginning of
 the North Star Artery.  West the wall continues on.  
 ~
-312 0 0 0 0 0
+312 32768 0 0 0 0
 D0
 ~
 ~
@@ -2348,7 +2347,7 @@ vegitation.  Looking south you find the solid stone and steel reinforced walls
 of the bustling city.  Going back east will bring you back to the beginning of
 the North Star Artery.  West the wall continues on.  
 ~
-312 0 0 0 0 0
+312 32768 0 0 0 0
 D0
 ~
 ~
@@ -2368,11 +2367,11 @@ At the Northern Gate of Kir Drax'in~
 And north to the North Star Artery that runs very far northward.  The gates
 here are very tall, thick and intended to be heavily guarded.  
 ~
-312 4 0 0 0 1
+312 32772 0 0 0 1
 D0
 ~
-~
-0 0 31200
+gate~
+1 0 31200
 D2
 ~
 ~
@@ -2388,7 +2387,7 @@ vegitation.  Looking south you find the solid stone and steel reinforced walls
 of the bustling city.  Going back west will bring you back to the beginning of
 the North Star Artery.  East the wall continues on.  
 ~
-312 0 0 0 0 0
+312 32768 0 0 0 0
 D0
 ~
 ~
@@ -2412,7 +2411,7 @@ vegitation.  Looking south you find the solid stone and steel reinforced walls
 of the bustling city.  Going back west will bring you back to the beginning of
 the North Star Artery.  East the wall continues on.  
 ~
-312 0 0 0 0 0
+312 32768 0 0 0 0
 D0
 ~
 ~
@@ -2435,7 +2434,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the east you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~
@@ -2462,7 +2461,7 @@ north, as far as you can see, the road shoots straight north and this shoulder
 follows.  To the south the road and shoulder continue towards the city of Kir
 Drax'in.  To the west you can get back on the main road.  
 ~
-312 0 0 0 0 2
+312 32768 0 0 0 2
 D0
 ~
 ~

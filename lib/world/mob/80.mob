@@ -589,7 +589,7 @@ An abosolutely terrifying, decaying, dagger wielding psychopath is coming at you
 ~
    Locusta is about 6 ft tall, however she is hovering so her height is hard
 to judge.  She looks like she was a beautiful woman until the rot and decay
-set in.  She appears to be ressurected or reanimated by some sick fuck.  She
+set in.  She appears to be resurrected or reanimated by some sick fuck.  She
 wears an almost translucent night gown, that shows off her rotting lady bits.
 She is known for her poison expertise and her ability to assassinate high
 ranking royalty without detection.  These days she is just a trapped, albiet
@@ -598,12 +598,12 @@ forced by an unknown implementor to live out eternity on a non-stop bloody
 killing spree.  If you were able to read this and not die, kudos to you my
 friend.  
 ~
-8642589 0 0 0 1141122216 2 0 0 -1000 E
-38 -18 -28 38d5+6660 25d4+55
+254041 0 0 0 1141122216 2 0 0 -1000 E
+38 -18 -28 38d8+10675 25d5+55
 666 372000
 8 8 2
 BareHandAttack: 11
-Race: 25
+Race: 24
 Noise: Your life is in danger, be weary adventurer.
 E
 #8076
@@ -631,7 +631,7 @@ emerald-inlaid hilt hangs from his side.
 ~
 190474 0 0 0 0 0 0 0 0 E
 34 -14 -24 34d5+2746 22d4+22
-100000 270000
+500000 270000
 8 8 1
 Race: 0
 E
@@ -840,9 +840,9 @@ His armor is regal, seasoned, speckled and scratched from the days past when
 he and his brother Finn roamed the lands.  He has a long grey beard resting on
 a non-cha lant and confident face.  
 ~
-114702 0 0 0 12416 0 0 0 0 E
-25 -5 -20 25d5+800 16d4+17
-0 37500
+8767518 0 0 0 12416 0 0 0 0 E
+32 -12 -22 32d5+1580 21d4+22
+0 120000
 8 8 1
 BareHandAttack: 13
 E
@@ -876,9 +876,9 @@ spent in the maids' quarters.  She is dirty and malnurished.  Seems to be
 quite content here, children are very resiliant so that doesn't seem too off
 putting.  
 ~
-51226 0 0 0 918530 0 0 0 100 E
-23 -3 -13 23d5+253 15d4+16
-0 32500
+51226 0 0 0 922754 2 0 0 100 E
+41 -21 -31 41d5+6827 27d4+28
+0 1730178596
 6 6 2
 BareHandAttack: 4
 Race: 0
@@ -899,8 +899,8 @@ sentence He is an absolute psychopath and a javelin juggling jester named
 Juste.  
 ~
 8577050 0 0 0 139392 2 0 0 0 E
-23 -3 -13 23d5+253 15d4+23
-500 32500
+36 -16 -26 36d5+3912 24d4+24
+500 363000
 8 8 1
 BareHandAttack: 14
 Race: 0
@@ -918,21 +918,25 @@ However, he is clean shaven and has a much more serious look on his face.  He
 sits comfortably on a stool made just for him, watching his lodge patrons
 intently.  
 ~
-10 0 0 0 0 0 0 0 0 E
+8392714 0 0 0 131208 2 0 0 0 E
 39 -19 -29 39d5+5661 26d4+26
 0 375000
 6 6 1
+Race: 0
+Noise: From behind the bar, you hear a man mutter something about one of his bastard children, 'Should have smothered it.. should have hid her in the forest..'
 E
 #8174
 receptionist lady Scarlette~
 Scarlette Elkheart~
 The Kir Drax'in Lodge's receptionist and manager is here pulling double duties.
 ~
-A tall woman, in her middle ages. She is cleanly dressed and has a resting bitch face. Her name is Scarlette Elkheart, her husband is Wallace, the hulking man guarding the front door.
+   A tall woman, in her middle ages.  She is cleanly dressed and has a resting
+bitch face.  Her name is Scarlette Elkheart, her husband is Wallace, the
+hulking man guarding the front door.  
 ~
-10 0 0 0 0 0 0 0 0 E
-39 -19 -29 39d5+5661 26d4+26
-0 375000
+8655002 0 0 0 1073746048 2 0 0 0 E
+32 -12 -22 32d5+1580 21d4+22
+0 120000
 8 8 2
 Noise: The sound of papers being shuffled, organized, and wadded up comes from the busy lady at the counter.
 E

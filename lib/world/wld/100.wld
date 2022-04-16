@@ -9,7 +9,7 @@ cheering of the crowd.  The air is humming with the cheering of the crowd.
 At the very top of the stands, the seating levels off and leaves some standing
 room for the poor spectators unable to find seats.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 ~
 ~
@@ -30,7 +30,7 @@ humming with the cheering of the crowd.  The air is humming with the cheering
 of the crowd.  At the very top of the stands, the seating levels off and
 leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 ~
 ~
@@ -55,7 +55,7 @@ humming with the cheering of the crowd.  The air is humming with the cheering
 of the crowd.  At the very top of the stands, the seating levels off and
 leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 ~
 ~
@@ -80,7 +80,7 @@ humming with the cheering of the crowd.  The air is humming with the cheering
 of the crowd.  At the very top of the stands, the seating levels off and
 leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 ~
 ~
@@ -105,7 +105,7 @@ cheering of the crowd.  The air is humming with the cheering of the crowd.
 At the very top of the stands, the seating levels off and leaves some standing
 room for the poor spectators unable to find seats.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D2
 ~
 ~
@@ -124,7 +124,7 @@ stands.  There is garbage strewn about everywhere, and puddles of questionable
 liquids dirty your boots with each step.  Below you, the arena can easily be
 seen.  The sounds of combat and cheering fill the air.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 ~
 ~
@@ -142,7 +142,7 @@ north.  There is garbage strewn about everywhere, and puddles of questionable
 liquids dirty your boots with each step.  Below you, the arena can easily be
 seen.  The sounds of combat and cheering fill the air.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -164,7 +164,7 @@ north.  There is garbage strewn about everywhere, and puddles of questionable
 liquids dirty your boots with each step.  Below you, the arena can easily be
 seen.  The sounds of combat and cheering fill the air.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -186,7 +186,7 @@ north.  There is garbage strewn about everywhere, and puddles of questionable
 liquids dirty your boots with each step.  Below you, the arena can easily be
 seen.  The sounds of combat and cheering fill the air.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -208,7 +208,7 @@ north.  There is garbage strewn about everywhere, and puddles of questionable
 liquids dirty your boots with each step.  Below you, the arena can easily be
 seen.  The sounds of combat and cheering fill the air.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -230,7 +230,7 @@ north.  There is garbage strewn about everywhere, and puddles of questionable
 liquids dirty your boots with each step.  Below you, the arena can easily be
 seen.  The sounds of combat and cheering fill the air.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -253,7 +253,7 @@ stands.  There is garbage strewn about everywhere, and puddles of questionable
 liquids dirty your boots with each step.  Below you, the arena can easily be
 seen.  The sounds of combat and cheering fill the air.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D2
 ~
 ~
@@ -273,7 +273,7 @@ stands, and can offer a bit of respite from inclement weather or the
 suffocating summer heat.  The concourse continues to the south, and exits into
 the stands to the north.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -297,7 +297,7 @@ stands, and can offer a bit of respite from inclement weather or the
 suffocating summer heat.  The concourse continues to the south, and exits into
 the stands to the north.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -316,7 +316,7 @@ view of the arena.  This is also one of the few shaded areas within the
 stands, and can offer a bit of respite from inclement weather or the
 suffocating summer heat.  The concourse continues to the north and south.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -339,7 +339,7 @@ view of the arena.  This is also one of the few shaded areas within the
 stands, and can offer a bit of respite from inclement weather or the
 suffocating summer heat.  The concourse continues to the north and south.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -359,7 +359,7 @@ stands, and can offer a bit of respite from inclement weather or the
 suffocating summer heat.  The concourse continues to the north and exits into
 the stands to your south.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -377,7 +377,7 @@ loitering here is not permitted.  There is a wide set of stairs up from here
 into the senatorial balconies.  The concourse continues to the north and exits
 into the stands to the south.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -400,7 +400,7 @@ stands.  There is garbage strewn about everywhere, and puddles of questionable
 liquids dirty your boots with each step.  Below you, the arena can easily be
 seen.  The sounds of combat and cheering fill the air.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -422,7 +422,7 @@ south.  There is garbage strewn about everywhere, and puddles of questionable
 liquids dirty your boots with each step.  Below you, the arena can easily be
 seen.  The sounds of combat and cheering fill the air.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 ~
 ~
@@ -448,7 +448,7 @@ south.  There is garbage strewn about everywhere, and puddles of questionable
 liquids dirty your boots with each step.  Below you, the arena can easily be
 seen.  The sounds of combat and cheering fill the air.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 ~
 ~
@@ -477,7 +477,7 @@ are two wide staircases leading down into the lobby.  To the south its
 possible to move further up onto the stands.  Even from here you already have
 a good view of the combat already taking place in the arena below.  
 ~
-100 8 0 0 0 0
+100 32776 0 0 0 0
 D1
 ~
 ~
@@ -503,7 +503,7 @@ south.  There is garbage strewn about everywhere, and puddles of questionable
 liquids dirty your boots with each step.  Below you, the arena can easily be
 seen.  The sounds of combat and cheering fill the air.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 ~
 ~
@@ -525,7 +525,7 @@ south.  There is garbage strewn about everywhere, and puddles of questionable
 liquids dirty your boots with each step.  Below you, the arena can easily be
 seen.  The sounds of combat and cheering fill the air.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 ~
 ~
@@ -548,7 +548,7 @@ stands.  There is garbage strewn about everywhere, and puddles of questionable
 liquids dirty your boots with each step.  Below you, the arena can easily be
 seen.  The sounds of combat and cheering fill the air.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -572,7 +572,7 @@ bit distant, but you have still got a great view.  The air is humming with the
 cheering of the crowd.  At the very top of the stands, the seating levels off
 and leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -593,7 +593,7 @@ humming with the cheering of the crowd.  The air is humming with the cheering
 of the crowd.  At the very top of the stands, the seating levels off and
 leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -618,7 +618,7 @@ humming with the cheering of the crowd.  The air is humming with the cheering
 of the crowd.  At the very top of the stands, the seating levels off and
 leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 8 0 0 0 0
+100 32776 0 0 0 0
 D0
 ~
 ~
@@ -643,7 +643,7 @@ humming with the cheering of the crowd.  The air is humming with the cheering
 of the crowd.  At the very top of the stands, the seating levels off and
 leaves some standing room for the poor spectators unable to find seats.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -668,7 +668,7 @@ cheering of the crowd.  The air is humming with the cheering of the crowd.
 At the very top of the stands, the seating levels off and leaves some standing
 room for the poor spectators unable to find seats.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -696,7 +696,7 @@ lead up into the stands, where the deafening sounds of the crowd above make it
 clear there is an exciting spectacle on display.  A smaller staircase in the
 vestibule before the portcullis leads down into the arena's staging area.  
 ~
-100 4 0 0 0 0
+100 32772 0 0 0 0
 D0
 Through the iron bars, you see the arena's fighting grounds.
 ~
@@ -729,7 +729,7 @@ smells of blood, sweat, and beer.  Large marble pillars line the thoroughfare
 to the north leading further into the stadium.  The road south leads back to
 the Avenue of the Gods.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -761,7 +761,7 @@ everywhere you look.  The cheers of the fans echo around the arena from all
 directions.  The arena grounds continue to the north and east.  To the south
 there is a massive portcullis blocking the exit of the stadium
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -787,7 +787,7 @@ arena engulfs you with expansive grounds and towering spectator stands all
 around.  The cheers of the fans echo around you from all directions.  The
 arena grounds continue to the north, east, and west.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -812,7 +812,7 @@ arena engulfs you with expansive grounds and towering spectator stands all
 around.  The cheers of the fans echo around you from all directions.  The
 arena grounds continue to the south and east.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 ~
 ~
@@ -833,7 +833,7 @@ arena engulfs you with expansive grounds and towering spectator stands all
 around.  The cheers of the fans echo around you from all directions.  The
 arena grounds continue in all directions.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -863,7 +863,7 @@ around.  The cheers of the fans echo around you from all directions.  The
 arena grounds continue to the south.  In the distant southwest, you can see
 the large iron portcullis blocking the stadiums exit.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D2
 ~
 ~
@@ -882,7 +882,7 @@ arena grounds continue to the north and west.  To your east the Podium towers
 above you, and during the day even manages to provide a little shade to this
 side of the arena.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -905,7 +905,7 @@ arena grounds continue to the south and west.  To your east the Podium towers
 above you, and during the day even manages to provide a little shade to this
 side of the arena.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D2
 ~
 ~
@@ -924,7 +924,7 @@ the eastern wall.  There is a staircase leading down back to the concourse
 proper.  To the north a pair of large, heavy curtains blocks entry into the
 balconies.  
 ~
-100 4 0 0 0 0
+100 32772 0 0 0 0
 D0
 A pair of heavy purple curtains are hanging here.  
 ~
@@ -948,7 +948,7 @@ is a place of honor and the general public is not permitted entry.  The
 balconies continue to the north.  To the south a pair of large, heavy curtains
 covers the exit to the concourse.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -971,7 +971,7 @@ shade and comfort for the elite society of Kir Draxin.  It is clear that this
 is a place of honor and the general public is not permitted entry.  The
 balconies continue to the north and south.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -997,7 +997,7 @@ shade and comfort for the elite society of Kir Draxin.  It is clear that this
 is a place of honor and the general public is not permitted entry.  The
 balconies continue to the north and south.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -1023,7 +1023,7 @@ shade and comfort for the elite society of Kir Draxin.  It is clear that this
 is a place of honor and the general public is not permitted entry.  The
 balconies continue to the south.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D2
 ~
 ~
@@ -1039,7 +1039,7 @@ brim with beer, with children scurrying back and forth to get drinks to
 customers.  To the east the concourse is visible, and vendor stalls continue
 onward to the north.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -1067,7 +1067,7 @@ brim with beer, with children scurrying back and forth to get drinks to
 customers.  To the east the concourse is visible, and vendor stalls continue
 onward to the south.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 ~
 ~
@@ -1096,7 +1096,7 @@ the lobby above.  Massive stone blocks line the walls of the hallway.  There
 is a stairwell heading up into the lobby, and the corridor continues north
 further into the staging area.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D0
 ~
 ~
@@ -1118,7 +1118,7 @@ frightening the upcoming combatants, the beasts are clearly visible from the
 preparation rooms.  There is a reinforced barred door keeping the beasts in
 the pen.  
 ~
-100 4 0 0 0 0
+100 32772 0 0 0 0
 D0
 ~
 ~
@@ -1147,7 +1147,7 @@ aside from the arena grounds themselves, that many a young man has seen.
 Through the door on the western wall, the beast pens across the hallway are
 clearly visible.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D3
 ~
 ~
@@ -1164,7 +1164,7 @@ However it is the keepers manage to move animals in and out of here with any
 order is a mystery.  There is a large reinforced barred door to the east
 keeping the beasts in their pens.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 a reinforced barred door
 ~
@@ -1181,7 +1181,7 @@ eliminated.  Surrounded by injury, death, and rot, you find it quite difficult
 to breath.  To the south the hallway continues toward the exit of the staging
 area.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 ~
 ~
@@ -1204,7 +1204,7 @@ where injured combatants are lain for operation.  Cabinets filled with
 bandages and other miscellaneous surgical items line the eastern wall.  To the
 west is the main hallway of the staging area.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D3
 ~
 ~
@@ -1220,7 +1220,7 @@ sizes, suggesting that some corpses are...  Reduced...  Prior to being "taken
 care of". A crude hand-written sign hangs on the northern wall.  The eastern
 door heads into the staging area corridor.  
 ~
-100 0 0 0 0 0
+100 32768 0 0 0 0
 D1
 ~
 ~
@@ -1229,7 +1229,7 @@ D5
 A massive metal grate.
 ~
 grate~
-1 0 10064
+1 10014 10064
 E
 sign~
 DO NOT DANGLE MEAT CHUNKS OVER THE WELL. We don't want another incident.
@@ -1247,6 +1247,6 @@ out of reach.  The cobbled brick that was lining the wall gave way to burrowed
 dirt and stone.  The liquid at the bottom of this well is blood, not water.  
 Perhaps curiosity shouldn't have gotten the best of you.  
 ~
-100 257 0 0 0 0
+100 32769 0 0 0 0
 S
 $~

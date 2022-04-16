@@ -19,7 +19,7 @@ An elemental talisman of air has been dropped here.~
 ~
 8 0 0 0 0 1 0 0 0
 0 0 0 0
-2 400 20.00
+2 400 25.00
 E
 talisman air elemental~
 The talisman has been carved into the shape of an elemental god
@@ -33,7 +33,7 @@ An elemental talisman of fire has been dropped here.~
 ~
 8 0 0 0 0 1 0 0 0
 0 0 0 0
-2 400 20.00
+2 400 25.00
 E
 talisman fire elemental~
 The talisman has been carved into the shape of an elemental god
@@ -47,7 +47,7 @@ An elemental talisman of water has been dropped here.~
 ~
 8 0 0 0 0 1 0 0 0
 0 0 0 0
-2 400 20.00
+2 400 25.00
 E
 talisman water elemental~
 The talisman has been carved into the shape of an elemental god
@@ -215,8 +215,8 @@ black rock idol stone blackrock~
 a blackrock idol~
 A small idol, fashioned from an unknown stone, has been left here.~
 ~
-12 68190290 0 0 0 16385 0 0 0
-0 0 0 0
+1 68190290 0 0 0 16385 0 0 0
+0 0 -1 0
 5 4000 20.00
 E
 black rock idol stone~

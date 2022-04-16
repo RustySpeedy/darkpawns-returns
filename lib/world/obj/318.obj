@@ -1,17 +1,17 @@
 #31801
 troll face~
-&ythe carefully &rremoved&y face of a troll&n~
+the carefully removed face of a troll~
 A small pile of skin and hair is covered in flies here.~
 ~
 9 128 0 0 0 131073 0 0 0
 7 0 0 0
 2 233 10.00
 A
-17 -3
+17 22
 A
-18 2
+18 4
 A
-29 20
+19 2
 A
 13 -10
 #31855
@@ -40,7 +40,7 @@ A very large black heart is on the ground, twitching.~
 ~
 3 33554496 0 0 0 1 0 0 0
 30 2 2 82
-0 0 75.00
+3 1000 75.00
 E
 heart dread biter~
    The heart of a most violent beast is still twitching and pulsating.  It is
@@ -112,7 +112,7 @@ a glowing green mushroom~
 A green mushroom is glowing and pulsating here.~
 ~
 10 1 0 0 0 1 0 0 0
-30 4 98 99
+30 99 73 60
 1 50 100.00
 E
 green mushroom~
@@ -125,7 +125,7 @@ a glowing blue sphere~
 The glowing blue sphere is incased in ice on the eastern wall.~
 ~
 15 0 0 0 0 1 0 0 0
-100 13 -1 0
+1000 8 -1 0
 1000 0 100.00
 E
 blue sphere~

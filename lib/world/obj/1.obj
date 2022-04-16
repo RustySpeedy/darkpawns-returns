@@ -6,7 +6,7 @@ A violent, unstable ball of lightning floats above its master. It seems to chang
 ~
 1 3 0 0 0 262145 0 0 0
 0 0 -1 0
-1 0 100.00
+3 500 100.00
 E
 fulgurum~
 A violent, unstable ball of lightning floats above its master. It seems to change and oscillate with
@@ -754,4 +754,36 @@ A beautiful sceptre of intricate design rests here.~
 8 65613 0 0 0 16385 0 0 0
 0 0 0 0
 10 0 100.00
+#193
+Death's tattered saddle bag~
+Death's tattered saddle-bag~
+A tattered, greyish leather saddle-bag lies here collecting dust.~
+~
+15 134750274 0 0 0 1 0 0 0
+110 1 -1 0
+25 1000 100.00
+E
+saddle bag death's~
+A large, beaten saddle-bag. It is grey in color, ancient, and belonged to Death itself.
+~
+#194
+pointy blood dagger~
+The Pointy end goes in, the &RBlood&n comes out.~
+Don't touch it~
+~
+5 0 0 0 0 8193 0 0 0
+0 1000 1 11
+0 1000 0.00
+A
+25 11
+A
+25 0
+A
+25 27
+A
+25 25
+A
+25 10
+A
+18 10
 $~

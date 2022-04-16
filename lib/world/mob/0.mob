@@ -100,7 +100,7 @@ An old man carrying a bundle of staves and wands stands here.
 He looks like a half-elf, and has a very dour expression on his face. Perhaps
 he is tired of selling his goods (or services?)
 ~
-288905 0 0 0 128 0 0 0 0 E
+1337481 0 0 0 128 0 0 0 0 E
 30 -10 -20 30d5+414 20d4+20
 0 60000
 8 8 1
@@ -220,19 +220,17 @@ Race: 13
 E
 #33
 mordraneth stealer souls black cloaked figure~
-Mordraneth, Stealer of Souls~
+Mordraneth, stealer of souls~
 A black-cloaked figure awaits patiently.
 ~
-A skeletal figure peers back at you, a glowing ball of fire in its right
-hand. Its eyes seem to bury deep within your soul and you shiver as you feel
-your life force slip away. Best you leave it alone...
+A skeletal figure peers back at you, a soul-stealing katana in its right hand. its eyes seem to bury deep withing your soul and you shiver as you fell your life force slip away. Best you leave it alone.....
 ~
-8642586 0 0 0 1073874088 2 0 0 0 E
+9168922 0 0 0 1073874088 2 0 0 0 E
 35 -15 -25 35d5+3329 23d4+23
 10000 360000
 8 8 0
 BareHandAttack: 8
-Race: 11
+Race: 27
 Script: 212/mordran.lua 128
 E
 #34
@@ -286,9 +284,9 @@ Satan Klaus looks a little bit like Adolf Hitler
 in a big red suit. He has a VERY evil grin on his
 face.
 ~
-8 0 0 0 0 0 0 0 0 E
-40 -20 -30 40d5+6244 26d4+26
-2000 400000
+8644666 0 0 0 1073886344 2 0 0 0 E
+66 -46 -56 66d5+21402 44d4+44
+1000000 2020173344
 8 8 1
 BareHandAttack: 10
 Race: 0
@@ -298,9 +296,8 @@ death dealer~
 Death Dealer~
 Death Dealer looks you over coldly.
 ~
-A tall, otherworldly man in jet black armor with a sinister lochaber.
-Death Dealer wanders the world in search of souls for his
-demonic masters.
+A tall, otherworldly man in jet black armor with a sinister looking katana.
+Death Dealer wanders the world in search of souls for his amusement.
 ~
 845832 0 0 0 1256 0 0 0 -1000 E
 32 -12 -22 32d5+1580 21d4+21
@@ -402,9 +399,9 @@ Tymora is a beautiful half-demon, with nut-brown skin and amber eyes. Legend
 holds her to be the first of the succubi, it is said that her vagina is a
 many-toothed maw capable of devouring men whole.
 ~
-1040410 0 0 0 46216 0 0 0 -1000 E
-38 -18 -28 38d5+5078 25d4+25
-0 372000
+1040410 0 0 0 1073788040 2 0 0 -1000 E
+39 -19 -29 39d5+5661 26d4+55
+0 375000
 8 8 2
 Race: 11
 E
@@ -432,5 +429,46 @@ It looks, err, unfinished.
 0 20 10 1d1+0 1d1+0
 0 0
 6 6 0
+E
+#90
+Absollon shinobi master ninja~
+Absollon, the Shinobi Master~
+Absollon, the Shinobi Master greets you with a devistating smirk as he lunges at you!
+~
+A cloaked figure peers back at you, a soul-stealing katana in its right hand. its eyes seem to bury deep withing your soul and you shiver as you feel your life becomes endangered. Best you run, and fast!!!
+~
+5105688 0 0 0 1074693344 2 0 0 0 E
+39 -19 -29 39d5+7000 26d4+45
+50000 375000
+8 8 1
+Race: 27
+E
+#91
+Harbinger~
+the Harbinger~
+The Harbinger slinks from the shadows
+~
+A Harbinger of things to come. Bad things, Very bad things, you should hope you never get to hear their message of doom.
+~
+780296 0 0 0 69075134 0 0 0 0 E
+50 -30 -40 50d5+30000 33d6+65
+0 1769497901
+8 8 0
+BareHandAttack: 1
+Race: 19
+Noise: You feel a sense of Dread as your Doom approaches.
+E
+#92
+dummy~
+a target dummy~
+a target dummy stands here.
+~
+It looks, err, unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+30 -10 0 1d1+0 1d1+5
+2000 900000
+8 8 0
+Race: 25
 E
 $

@@ -172,15 +172,15 @@ Looks as though someone smashed an axe into the ground here so hard that the axe
 ~
 12 0 0 0 0 0 0 0 0
 0 0 0 0
-500 1 40.00
+500 1 15.00
 #31411
-Grand Ulfberth~
-&YG&Gr&Ya&Gn&Yd &CU&wl&Cf&wb&Ce&wr&Ct&wh&n~
+grand Ulfberht~
+the grand Ulfberht~
 Someone's masterfully crafted ulfberth lies here forgotten.~
 ~
 9 184315994 0 0 0 16385 0 0 0
 20 0 0 0
-25 7750 100.00
+25 7750 50.00
 A
 17 -5
 A
@@ -202,13 +202,13 @@ A
 A
 29 12
 #31413
-celestial integrity armor~
+breast plate celestial armor~
 a pristine breastplate of celestial integrity~
 A pristine breastplate of celestial integrity lies on the ground collecting dust.~
 ~
-9 140793153 0 0 0 9 0 0 0
+9 140792129 0 0 0 9 0 0 0
 20 0 0 0
-0 0 15.00
+0 1000 15.00
 A
 24 -15
 A

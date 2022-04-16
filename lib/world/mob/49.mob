@@ -212,7 +212,7 @@ He's a lich of the lowest form, barely animated enough to have sentience.
 ~
 10 0 0 0 32936 0 0 0 -300 E
 32 -12 -22 32d5+1580 21d4+21
-0 1000
+0 40000
 8 8 0
 BareHandAttack: 12
 Race: 9
@@ -227,7 +227,7 @@ concealed under his metallic plate armor and visor.  A longsword
 whose blade is nearly as long as your leg rests casually in his 
 six-fingered hand.
 ~
-784443 0 0 0 132264 0 0 0 -1000 E
+780347 0 0 0 132264 0 0 0 -1000 E
 33 -13 -23 33d5+2163 22d4+22
 0 180000
 8 8 1
@@ -304,11 +304,10 @@ A daemon, cloaked in thick robes, chants quietly here.
 ~
 You can make out no details of the daemon through his heavy clothing.
 ~
-239643 0 0 0 2261160 0 0 0 -500 E
+206859 0 0 0 2261160 0 0 0 -500 E
 30 -10 -20 30d5+414 20d4+20
-100 145000
+1000000 145000
 8 8 0
-Race: 11
 Noise: You can hear quiet chanting.
 E
 #4920

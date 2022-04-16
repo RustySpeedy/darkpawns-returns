@@ -41,7 +41,7 @@ and fall and fall and fall and fall and fall and fall
 and fall and fall and fall and fall and fall....
 and then you die.
 ~
-0 2 0 0 0 0
+0 2 0 0 0 13
 S
 #7
 The Tower of Aralius~
@@ -92,6 +92,12 @@ D1
 ~
 ~
 0 0 8152
+S
+#40
+The Void~
+Surrounded by silence and darkness you feel yourself question existance itself.
+~
+0 524368 0 0 0 9
 S
 #41
 The Immortal Conference Room~
@@ -209,6 +215,16 @@ cauldron inscription~
 Ozymandias sucks monkey balls!
 ~
 S
+#75
+Sigfried's Room~
+Finish the Room you filthy heathen!
+~
+0 786448 0 0 0 0
+D5
+~
+door~
+1 0 0
+S
 #90
 Walking the Etherial Plane~
    You are here..yet you are not. This place exists in a single time frame
@@ -216,6 +232,6 @@ and nothing else has meaning here. For an instant, you are walking the
 hills near the Pagoda, the next you're rowing across a vast ocean. Your
 mind is generating many images all of which appear before you.
 ~
-0 655432 0 0 0 0
+0 917576 0 0 0 0
 S
 $~

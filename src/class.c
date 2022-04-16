@@ -898,13 +898,13 @@ init_spell_levels(void)
   spell_level(SKILL_KK_RETSU, CLASS_NINJA, 12);
   spell_level(SKILL_SUBDUE, CLASS_NINJA, 13);
   spell_level(SKILL_KK_TOH, CLASS_NINJA, 15);
+  spell_level(SKILL_DRAGON_KICK, CLASS_NINJA, 16);
   spell_level(SKILL_EVASION, CLASS_NINJA, 17);
   spell_level(SKILL_KK_RIN, CLASS_NINJA, 18);
-  spell_level(SKILL_DRAGON_KICK, CLASS_NINJA, 20);
   spell_level(SKILL_KK_JIN, CLASS_NINJA, 22);
+  spell_level(SKILL_NECKBREAK, CLASS_NINJA, 23);
   spell_level(SKILL_KK_ZHEN, CLASS_NINJA, 25);
   spell_level(SKILL_CUTTHROAT, CLASS_NINJA, 26);
-  spell_level(SKILL_NECKBREAK, CLASS_NINJA, 28);
   spell_level(SPELL_SMOKESCREEN, CLASS_NINJA, 29);
   spell_level(SPELL_SOUL_LEECH, CLASS_NINJA, 30);
 

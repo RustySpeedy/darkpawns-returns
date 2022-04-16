@@ -1,21 +1,14 @@
 #101
 Slayer's Workshop~
-A completely disorganized workshop built by a madman.
+   The room your in is enormous and is about 3000 square feet.  The ceilings
+are as high as the room is wide.  Massive work benches are at the north and
+south ends of the workshop.  There are elaborate machines and enormous
+"printers" used to create objects, creatures, and uh people?  The room is dim
+in the center as the only lights are that of the directional lamps on the
+workbenches.  The floor is concrete but polished to a semi-gloss.  Has a
+slight grade towards the center to a drain in the floor.  If your in this
+room, you should be honored Slayer is giving you a peek behind the curtain.  
 ~
-1 0 0 0 0 2
-D5
-~
-~
-0 0 102
-S
-#102
-The chamber~
-You are in an unfinished room.
-~
-1 0 0 0 0 0
-D4
-~
-~
-0 0 101
+1 791112 0 0 0 0
 S
 $~

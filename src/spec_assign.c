@@ -270,7 +270,6 @@ void assign_mobiles(void)
   ASSIGNMOB(7969, magic_user);
   ASSIGNMOB(7970, cleric);  /* unicorn */
   ASSIGNMOB(7947, magic_user);
-  ASSIGNMOB(7984, backstabber);
   
   /* Kir Drax'in */
   ASSIGNMOB(8014, guild_guard);
@@ -309,7 +308,8 @@ void assign_mobiles(void)
   ASSIGNMOB(8024, guild);  /* muntara */
   ASSIGNMOB(8026, guild);  /* ninja guildmaster */
   ASSIGNMOB(8083, guild_guard); /* psionic guild guard */
-
+  ASSIGNMOB(8075, backstabber);
+  
   /* road/forest*/
   ASSIGNMOB(9151, backstabber);
 
@@ -556,6 +556,7 @@ void assign_mobiles(void)
   ASSIGNMOB(31457, backstabber);
   ASSIGNMOB(31203, fido);
   ASSIGNMOB(31856, beholder);
+  ASSIGNMOB(31003, magic_user);
 
   /*Blight of Passage*/
   

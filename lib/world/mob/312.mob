@@ -7,9 +7,9 @@ A man in tattered work clothes is here scanning the roads surface to make repair
 hours he has spent in the sun.  He is wearing a wide-brimmed hat that has seen
 better days.  His clothes seem well-made, but are dirty as hell.  
 ~
-205 0 0 0 0 0 0 0 0 E
-15 5 -5 15d5+160 10d4+10
-100 14000
+205 0 0 0 0 0 0 0 1000 E
+20 0 -10 20d5+210 13d4+14
+20 6
 8 8 1
 BareHandAttack: 13
 Race: 0
@@ -25,7 +25,7 @@ except her head and quite a bit of clevage.  The lady-of-the-night seems like
 a good soul who found her niche in this harsh world.  She is looking in your
 direction, sizing you up.  
 ~
-8667213 0 0 0 0 0 0 0 500 E
+8667213 0 0 0 0 0 0 0 1000 E
 15 5 -5 15d5+160 10d4+10
 500 14000
 8 8 2
@@ -42,9 +42,9 @@ unhappy with his life and what he has done with it.  He's draped in all black
 and has a long dirty white beard.  His nose is long, crooked, red and speckled
 with scars.  Put him out of his misery already.  
 ~
-72 0 0 0 2048 0 0 0 -500 E
+72 0 0 0 524289 0 0 0 -1000 E
 15 5 -5 15d5+160 10d4+10
-100 14000
+100 5
 8 8 1
 BareHandAttack: 12
 Race: 5

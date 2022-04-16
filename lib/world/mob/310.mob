@@ -57,7 +57,7 @@ sparkle.  Its hooves are black and polished, as well as its imperfection free
 black horns that curve down and back upward towards the heavens.  This is a
 rare sight to behold and you should leave this creature where it stands.  
 ~
-8565081 0 0 0 4236 2 0 0 500 E
+8560729 0 0 0 4236 2 0 0 500 E
 34 -14 -24 34d5+2746 22d4+22
 0 270000
 8 8 0
@@ -74,8 +74,8 @@ An old man dressed in many layers of fur and hides is here protecting his herd.
 covered and iced.  Undoubtedly a hardened soul, whom is no stranger to hard
 times.  
 ~
-266313 0 0 0 1152 0 0 0 1000 E
-39 -19 -29 39d5+5661 26d4+26
+266313 0 0 0 1073747072 4 0 0 1000 E
+39 -19 -29 39d5+4200 26d4+26
 0 375000
 8 8 1
 BareHandAttack: 5

@@ -93,7 +93,7 @@ paper cut
 ~
 2 33554498 0 0 0 1 0 0 0
 26 47 48 48
-1 1800 10.00
+1 1800 20.00
 E
 scroll~
 The words and symbols seem to shift under your gaze, but it is quite clear it
@@ -236,7 +236,7 @@ blessed greatsword~
 a blessed greatsword~
 A greatsword blessed by the priests of valor is laying here.~
 ~
-5 409228609 0 0 0 1 0 0 0
+5 409228609 0 0 0 8193 0 0 0
 0 7 4 3
 15 850 75.00
 A
@@ -248,11 +248,11 @@ A
 A
 19 1
 #9917
-holy robes of valor~
+holy robes valor meq~
 holy robes of valor~
 A set of robes insribed with divine runes is lying here.~
 ~
-9 207275331 0 0 0 9 0 0 0
+9 207144259 0 0 0 9 0 0 0
 10 0 0 0
 12 3500 10.00
 A
@@ -270,7 +270,9 @@ A set of armguards radiating a ferocious holy light are laying here.~
 12 0 0 0
 10 3750 15.00
 A
-18 2
+26 10
+A
+27 10
 A
 19 1
 #9919
@@ -278,9 +280,9 @@ holy helmet valor~
 holy platemail helmet of valor~
 A powerfully inscribed helmet of valor lies here.~
 ~
-9 149746753 0 0 0 1 0 0 0
+9 149746753 0 0 0 17 0 0 0
 12 0 0 0
-12 3850 15.00
+12 3850 20.00
 A
 6 2
 A
@@ -308,24 +310,24 @@ A
 A
 9 25
 #9921
-radiant cloak moonshear~
-a radiant paladin's cloak of Moonshear~
-A holy radiant, formal cloak lies here forgotten.~
+belt mighty slayer~
+a belt of the Mighty Slayer~
+An ornate belt belonging to the greatest of slayers lies here.~
 ~
-9 144981059 0 0 0 1025 0 0 0
-10 0 0 0
-8 6750 10.00
+9 213168195 0 0 0 2049 0 0 0
+5 0 0 0
+8 1000 10.00
 A
-17 -6
+19 3
 A
-18 2
+1 2
 A
-13 15
+13 -15
 A
-19 -2
+14 -15
 #9922
 heraldic tabard divine protection ~
-&yH&me&yr&ma&yl&md&yi&mc &nTabard of &WDivine &wP&Yr&wo&Yt&we&Yc&wt&Yi&wo&Yn&n~
+Heraldic Tabard of Divine Protection~
 A tabard with an ethereal divine glow lies here.~
 ~
 9 216822851 0 0 0 16385 0 0 0
@@ -349,7 +351,7 @@ A
 23 -15
 #9923
 Bastard Sword Divine Moonshear~
-&wBastard&n sword of the&W Divine &BMoon&cshear&n~
+Bastard sword of the Divine Moonshear~
 An instrument of Divine Justice is lying here!~
 ~
 5 216855635 0 0 0 8193 0 0 0
@@ -367,12 +369,12 @@ A
 29 12
 #9924
 paladin corpses moonshear pile~
-A pile of disembodied corpses bearing the symbol of Moonshear~
+a pile of disembodied corpses bearing the symbol of Moonshear~
 A pile of disembodied paladin corpses is here.~
 ~
 13 0 0 0 0 0 0 0 0
 0 0 0 0
-500 0 40.00
+500 0 15.00
 #9930
 Change this to something else~
 a golden, bejewelled ornate statue~

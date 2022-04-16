@@ -67,7 +67,7 @@ A god's item lies here, touch it and die.~
 ~
 12 67 0 0 0 16385 0 0 0
 0 0 0 0
-1 10000 0.00
+1 7000 0.00
 A
 19 50
 A
@@ -85,8 +85,8 @@ staff omniscience~
 the staff of Omniscience~
 A golden staff has been dropped here.~
 ~
-1 67 0 0 0 16385 0 0 0
-0 0 -1 0
+5 67 0 0 0 8193 0 0 0
+0 6 4 5
 5 9750 5.00
 A
 24 -5
@@ -285,7 +285,7 @@ a beheading axe~
 A large double bladed axe lies in the dirt.~
 ~
 5 268435520 0 0 0 8193 0 0 0
-0 8 4 3
+0 10 4 3
 26 7000 1.00
 A
 19 4
@@ -346,7 +346,7 @@ cloak iron heavy~
 an iron cloak~
 A heavy iron cloak lies on the ground.~
 ~
-9 139214912 0 0 0 1025 0 0 0
+9 138690624 0 0 0 1025 0 0 0
 13 0 0 0
 30 1010 5.00
 A
@@ -657,7 +657,7 @@ a dragon tanto~
 An ornate tanto with a black blade glistens in the light.~
 ~
 5 213187137 0 0 0 8193 0 0 0
-0 4 6 11
+0 6 5 11
 10 8900 8.00
 A
 18 4

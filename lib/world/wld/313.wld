@@ -999,7 +999,11 @@ D3
 S
 #31337
 the Pine Forest~
-Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+   Deep in the forest you have exits in all four cardinal directions.  East
+will take you further from the road.  West will do the opposite.  North,
+forest, and southmore forest.  Looking up your view of the sky is limited by
+the tree limbs and vegetation.  The ground is moist, thick with pine straw and
+moss.  
 ~
 313 0 0 0 0 3
 D0
@@ -1021,7 +1025,11 @@ D3
 S
 #31338
 the Pine Forest~
-Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+   Deep in the forest you have exits in all four cardinal directions.  East
+will take you further from the road.  West will do the opposite.  North,
+forest, and southmore forest.  Looking up your view of the sky is limited by
+the tree limbs and vegetation.  The ground is moist, thick with pine straw and
+moss.  
 ~
 313 0 0 0 0 3
 D0
@@ -1154,10 +1162,6 @@ the tree limbs and vegetation.  The ground is moist, thick with pine straw and
 moss.  
 ~
 313 0 0 0 0 3
-D0
-~
-~
-0 0 31345
 D1
 ~
 ~
@@ -1188,7 +1192,7 @@ D3
 An abnormally regular wooden door.
 ~
 abnormal~
-2 31327 31327
+2 31344 31327
 S
 #31345
 the Pine Forest~
@@ -1206,11 +1210,7 @@ D0
 D1
 ~
 ~
-0 0 31362
-D2
-~
-~
-0 0 31343
+0 0 31361
 D3
 ~
 ~
@@ -1630,7 +1630,7 @@ D2
 D3
 ~
 ~
-0 0 31346
+0 0 31345
 S
 #31362
 the Pine Forest~
@@ -1645,14 +1645,6 @@ D0
 ~
 ~
 0 0 31361
-D1
-~
-~
-0 0 31362
-D2
-~
-~
-0 0 31364
 D3
 ~
 ~
@@ -1684,10 +1676,6 @@ the tree limbs and vegetation.  The ground is moist, thick with pine straw and
 moss.  
 ~
 313 0 0 0 0 3
-D0
-~
-~
-0 0 31362
 D1
 ~
 ~
@@ -2109,7 +2097,7 @@ D1
 A solid oak door, reinforced by with steel.
 ~
 oak~
-2 31419 31419
+2 31381 31419
 D2
 ~
 ~
@@ -2127,15 +2115,7 @@ moss.
 D0
 ~
 ~
-0 0 31381
-D1
-~
-~
-0 0 31382
-D2
-~
-~
-0 0 31382
+0 0 31383
 D3
 ~
 ~
@@ -2297,7 +2277,11 @@ D3
 S
 #31390
 the Pine Forest~
-Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+   Deep in the forest you have exits in all four cardinal directions.  East
+will take you further from the road.  West will do the opposite.  North,
+forest, and southmore forest.  Looking up your view of the sky is limited by
+the tree limbs and vegetation.  The ground is moist, thick with pine straw and
+moss.  
 ~
 313 0 0 0 0 3
 D0
@@ -2311,7 +2295,11 @@ D3
 S
 #31391
 the Pine Forest~
-Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+   Deep in the forest you have exits in all four cardinal directions.  East
+will take you further from the road.  West will do the opposite.  North,
+forest, and southmore forest.  Looking up your view of the sky is limited by
+the tree limbs and vegetation.  The ground is moist, thick with pine straw and
+moss.  
 ~
 313 0 0 0 0 3
 D0
@@ -2333,7 +2321,11 @@ D3
 S
 #31392
 the Pine Forest~
-Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+   Deep in the forest you have exits in all four cardinal directions.  East
+will take you further from the road.  West will do the opposite.  North,
+forest, and southmore forest.  Looking up your view of the sky is limited by
+the tree limbs and vegetation.  The ground is moist, thick with pine straw and
+moss.  
 ~
 313 0 0 0 0 3
 D0
@@ -2355,7 +2347,11 @@ D3
 S
 #31393
 the Pine Forest~
-Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+   Deep in the forest you have exits in all four cardinal directions.  East
+will take you further from the road.  West will do the opposite.  North,
+forest, and southmore forest.  Looking up your view of the sky is limited by
+the tree limbs and vegetation.  The ground is moist, thick with pine straw and
+moss.  
 ~
 313 0 0 0 0 3
 D2
@@ -2369,7 +2365,11 @@ D3
 S
 #31394
 the Pine Forest~
-Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+   Deep in the forest you have exits in all four cardinal directions.  East
+will take you further from the road.  West will do the opposite.  North,
+forest, and southmore forest.  Looking up your view of the sky is limited by
+the tree limbs and vegetation.  The ground is moist, thick with pine straw and
+moss.  
 ~
 313 0 0 0 0 3
 D2
@@ -2383,7 +2383,11 @@ D3
 S
 #31395
 the Pine Forest~
-Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+   Deep in the forest you have exits in all four cardinal directions.  East
+will take you further from the road.  West will do the opposite.  North,
+forest, and southmore forest.  Looking up your view of the sky is limited by
+the tree limbs and vegetation.  The ground is moist, thick with pine straw and
+moss.  
 ~
 313 0 0 0 0 3
 D0

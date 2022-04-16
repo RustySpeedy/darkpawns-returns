@@ -506,32 +506,7 @@ void assign_mobiles(void)
   ASSIGNMOB(21242, thief);
   ASSIGNMOB(21244, tattoo3);
   ASSIGNMOB(21246, con_seller);
-  
-  /*THE NORTHERN EXPANSE */
-  ASSIGNMOB(31440, fighter);
-  ASSIGNMOB(31439, fighter);
-  ASSIGNMOB(31403, fighter);
-  ASSIGNMOB(31407, fighter);
-  ASSIGNMOB(31406, fighter);
-  ASSIGNMOB(31405, fighter);
-  ASSIGNMOB(31444, paladin);
-  ASSIGNMOB(31441, paladin);
-  ASSIGNMOB(31446, paladin);
-  ASSIGNMOB(31447, no_move_east);
-  ASSIGNMOB(31381, no_move_east);
-  ASSIGNMOB(31200, janitor);
-  ASSIGNMOB(31402, magic_user);
-  ASSIGNMOB(31403, magic_user);
-  ASSIGNMOB(31401, cleric);
-  ASSIGNMOB(31443, cleric);
-  ASSIGNMOB(31301, cleric);
-  ASSIGNMOB(31855, dragon_breath);
-  ASSIGNMOB(31004, rescuer);
-  ASSIGNMOB(31201, prostitute);
-  ASSIGNMOB(31457, backstabber);
-  ASSIGNMOB(31203, fido);
-  ASSIGNMOB(31856, beholder);
-  ASSIGNMOB(14441, cleric);
+
 
 }
 

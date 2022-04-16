@@ -118,17 +118,17 @@ D5
 ~
 0 0 2708
 E
+log~
+Falling off a log isn't as easy as it's cracked up to be.
+~
+E
+log~
+Falling off a log isn't as easy as it's cracked up to be.
+~
+E
 tree~
 It's an old log, fallen across the stream and making a perfectly servicable
 bridge. It looks like you could climb down its sides into the stream.
-~
-E
-log~
-Falling off a log isn't as easy as it's cracked up to be.
-~
-E
-log~
-Falling off a log isn't as easy as it's cracked up to be.
 ~
 S
 #2705
@@ -173,12 +173,12 @@ D3
 ~
 0 0 2705
 E
-hide hides animal~
-There is a wide variety of pelts, hides, and skins, all stretched to dry.
+south~
+You see impassable brush.
 ~
 E
-coffee pot~
-Yum, smell that coffee! Smells like the Cafe du Monde here.
+east~
+You see impassable boulders.
 ~
 E
 fire campfire~
@@ -186,12 +186,12 @@ It's a campfire. It's lighting things up around here and it's keeping the
 coffee hot.
 ~
 E
-east~
-You see impassable boulders.
+coffee pot~
+Yum, smell that coffee! Smells like the Cafe du Monde here.
 ~
 E
-south~
-You see impassable brush.
+hide hides animal~
+There is a wide variety of pelts, hides, and skins, all stretched to dry.
 ~
 S
 #2707
@@ -210,12 +210,12 @@ D2
 ~
 0 0 2705
 E
-west~
-You see an impassable cliff.
-~
-E
 north~
 You see the sheer face of Mt. Kolvir.
+~
+E
+west~
+You see an impassable cliff.
 ~
 S
 #2708
@@ -239,11 +239,11 @@ D4
 ~
 0 0 2704
 E
-banks~
+bank~
 The bank of the stream can't be climbed there.
 ~
 E
-bank~
+banks~
 The bank of the stream can't be climbed there.
 ~
 S
@@ -260,7 +260,7 @@ D3
 0 0 2708
 E
 banks~
-The bank is too brushy to climb there.
+The bank is too steep to climb there.
 ~
 E
 banks~
@@ -268,7 +268,7 @@ The stream is too rocky to wade there.
 ~
 E
 banks~
-The bank is too steep to climb there.
+The bank is too brushy to climb there.
 ~
 S
 #2710
@@ -315,12 +315,12 @@ D3
 ~
 0 0 2707
 E
-kolvir~
-Mt. Kolvir looks like a mountain climber's worst nightmare.
-~
-E
 east~
 You see impassable boulders there.
+~
+E
+kolvir~
+Mt. Kolvir looks like a mountain climber's worst nightmare.
 ~
 S
 #2712
@@ -416,6 +416,10 @@ D3
 ~
 0 0 2703
 E
+log~
+You see a brushy dropoff to a stream, too steep to climb down.
+~
+E
 shrine~
 This is a small shrine honoring Random, the King of Amber. Random was
 once known for his irresponsibility and lack of interest in family
@@ -424,10 +428,6 @@ and wenching throughout shadow, however, he married and settled down.
 He was selected to rule Amber by the unicorn itself. He possesses the
 powerful and mysterious Jewel of Judgement, which is rumoured to impart
 great powers upon its wearer at a great price~
-E
-log~
-You see a brushy dropoff to a stream, too steep to climb down.
-~
 S
 #2716
 The Forest Arden~
@@ -473,10 +473,6 @@ D2
 ~
 ~
 0 0 2716
-D3
-~
-~
-0 0 22760
 S
 #2718
 A Fork In The Stream~
@@ -560,12 +556,12 @@ There's nothing there but thin air!
 ~
 0 0 2720
 E
-waterfall~
-It's a pretty waterfall... pretty big and pretty loud.
-~
-E
 north~
 You see water falling.
+~
+E
+waterfall~
+It's a pretty waterfall... pretty big and pretty loud.
 ~
 S
 #2722
@@ -600,11 +596,11 @@ D3
 ~
 0 0 2722
 E
-north~
+east~
 You see a wall of rock.
 ~
 E
-east~
+north~
 You see a wall of rock.
 ~
 S
@@ -684,12 +680,12 @@ D2
 ~
 0 0 2726
 E
-Kolvir~
-Mt Kolvir looks to be a sheer, unrelenting mountain.
-~
-E
 kolvir~
 You see a mountainside that you wouldn't want to try to climb.
+~
+E
+Kolvir~
+Mt Kolvir looks to be a sheer, unrelenting mountain.
 ~
 S
 #2728
@@ -708,16 +704,16 @@ D3
 ~
 0 0 2727
 E
-dropoff~
-You see the ground fall away abruptly.
+Kolvir~
+You see Mt. Kolvir.
 ~
 E
 Kolvir~
 Mt. Kolvir is very steep here.
 ~
 E
-Kolvir~
-You see Mt. Kolvir.
+dropoff~
+You see the ground fall away abruptly.
 ~
 S
 #2729
@@ -733,12 +729,16 @@ D3
 ~
 0 0 2728
 E
-altar~
-If Amber has such a thing as a patron saint, the unicorn is it. In fact,
-rumor has it that the founder of all order in the universe and creator
-of Amber, Dworkin of Chaos, mated with the unicorn. The fruit of that
-union was Oberon, late King of Amber and father of Julian, Corwin,
-Random, and the other princes of Amber.
+south~
+The ground falls away sharply there.
+~
+E
+east~
+You see an impassable wall of boulders there.
+~
+E
+north~
+You see Mt. Kolvir rising sharply there.
 ~
 E
 shrine~
@@ -751,16 +751,12 @@ Oberon. Oberon ruled Amber for eons and sired many sons. Julian was one.
 Random was another and now rules by the choice of the unicorn itself.
 ~
 E
-north~
-You see Mt. Kolvir rising sharply there.
-~
-E
-east~
-You see an impassable wall of boulders there.
-~
-E
-south~
-The ground falls away sharply there.
+altar~
+If Amber has such a thing as a patron saint, the unicorn is it. In fact,
+rumor has it that the founder of all order in the universe and creator
+of Amber, Dworkin of Chaos, mated with the unicorn. The fruit of that
+union was Oberon, late King of Amber and father of Julian, Corwin,
+Random, and the other princes of Amber.
 ~
 S
 #2730
@@ -983,7 +979,11 @@ The top of the mountain.
 ~
 0 0 2739
 E
-deck~
+arden forest~
+Damn, that's one big forest.
+~
+E
+unset~
 It looks like redwood but, then, maybe it's not.
 ~
 E
@@ -991,12 +991,8 @@ path~
 It's a very narrow path in some spots.
 ~
 E
-unset~
+deck~
 It looks like redwood but, then, maybe it's not.
-~
-E
-arden forest~
-Damn, that's one big forest.
 ~
 S
 #2741
@@ -1158,16 +1154,16 @@ D3
 door~
 1 0 2747
 E
-table tables chair chairs~
-They're just ordinary wooden tables and chairs.
+pinups~
+Hard to tell from this distance but they might be pictures of women.
 ~
 E
 pinups pinup~
 It's hard to tell from this distance but they might be pictures of women.
 ~
 E
-pinups~
-Hard to tell from this distance but they might be pictures of women.
+table tables chair chairs~
+They're just ordinary wooden tables and chairs.
 ~
 S
 #2750
@@ -1240,13 +1236,13 @@ D3
 door jail~
 1 0 2748
 E
-cage cages~
-Stone walls and iron bars do not a prison make...
-~
-E
 desk~
 Actually, it's a high desk where a desk sergeant should be sitting to
 take complaints. He must be out for donuts.
+~
+E
+cage cages~
+Stone walls and iron bars do not a prison make...
 ~
 S
 #2754
@@ -1293,14 +1289,14 @@ D3
 ~
 0 0 2758
 E
-statue~
-The statue depicts a lovely young woman with a courageous and determined
-expression. There is a plaque below the statue.
-~
-E
 plaque sign~
 The plaque reads, "Deirdre, Princess of Amber, fell in battle in the
 Courts of Chaos while fighting to defend Amber and Order in the universe."
+~
+E
+statue~
+The statue depicts a lovely young woman with a courageous and determined
+expression. There is a plaque below the statue.
 ~
 S
 #2756
@@ -1466,40 +1462,20 @@ D3
 ~
 0 0 2811
 E
-deirdre~
- A black-haired girl with blue eyes, Deirdre's hair hangs long and
-she is dressed all in black, a silver girdle about her waist. She is
-lovely.
+pews~
+As pews go, these look pretty comfortable.
 ~
 E
-caine~
- Caine is swarthy and dark-eyed, dressed all in satin that is green and
-black, wearing a dark three-cornered hat set at a rakish angle, a
-green plume of feathers trailing down the back. He wears an emerald-
-studded dagger at this belt.
+tap tapestry tapestries~
+There are tapestries of Merlin, Brand, Fiona, Corwin, Deirdre, Martin,
+Llewella, and Caine here.
 ~
 E
-llewella~
- Llewella's hair matches her jade-colored eyes and she is dressed in
-shimmering gray and green with a lavender belt.
-~
-E
-martin~
- Martin looks a lot like his father, Random, but a little less sneaky
-and more tall.
-~
-E
-corwin~
- You see a picture of Corwin. He has green eyes, black hair, and is
-dressed in black and silver. His black cloak is slightly furled as
-though blown by a wind, his boots are black, his blade is gray and
-silver. His gloves are silver and scaled, and the clasp at his neck
-is cast in the form of silver rose.
-~
-E
-fiona~
- The tapestry shows Fiona, hair like Bleys or Brand, eyes like Corwin,
-and a complexion like mother of pearl.
+Merlin~
+Merlin is a sorcerer from the Courts of Chaos and a computer science
+graduate from Berkeley... The son of Corwin of Amber and Dara of Chaos,
+he looks a great deal like his father. He recently was crowned King of
+The Courts of Chaos.
 ~
 E
 brand~
@@ -1511,20 +1487,40 @@ attempt to gain more power unbalanced him and he died fighting his
 brothers and sisters while trying to destroy Amber.
 ~
 E
-Merlin~
-Merlin is a sorcerer from the Courts of Chaos and a computer science
-graduate from Berkeley... The son of Corwin of Amber and Dara of Chaos,
-he looks a great deal like his father. He recently was crowned King of
-The Courts of Chaos.
+fiona~
+ The tapestry shows Fiona, hair like Bleys or Brand, eyes like Corwin,
+and a complexion like mother of pearl.
 ~
 E
-tap tapestry tapestries~
-There are tapestries of Merlin, Brand, Fiona, Corwin, Deirdre, Martin,
-Llewella, and Caine here.
+corwin~
+ You see a picture of Corwin. He has green eyes, black hair, and is
+dressed in black and silver. His black cloak is slightly furled as
+though blown by a wind, his boots are black, his blade is gray and
+silver. His gloves are silver and scaled, and the clasp at his neck
+is cast in the form of silver rose.
 ~
 E
-pews~
-As pews go, these look pretty comfortable.
+martin~
+ Martin looks a lot like his father, Random, but a little less sneaky
+and more tall.
+~
+E
+llewella~
+ Llewella's hair matches her jade-colored eyes and she is dressed in
+shimmering gray and green with a lavender belt.
+~
+E
+caine~
+ Caine is swarthy and dark-eyed, dressed all in satin that is green and
+black, wearing a dark three-cornered hat set at a rakish angle, a
+green plume of feathers trailing down the back. He wears an emerald-
+studded dagger at this belt.
+~
+E
+deirdre~
+ A black-haired girl with blue eyes, Deirdre's hair hangs long and
+she is dressed all in black, a silver girdle about her waist. She is
+lovely.
 ~
 S
 #2765
@@ -1554,17 +1550,17 @@ The way continues west.
 ~
 0 0 2766
 E
-statue~
-The statue is of a massive man with a flowing beard, long hair, and a
-stern expression. There is a plaque here.
-~
-E
 plaque~
 Oberon, first king of Amber, mysteriously disappeared and his son Eric
 assumed control of Amber, first as regent and later as king. Oberon
 returned to Amber shortly before his death during the last war against
 the Courts of Chaos. Rumor has it that Oberon perished while using the
 Jewel of Judgment to repair the Pattern.
+~
+E
+statue~
+The statue is of a massive man with a flowing beard, long hair, and a
+stern expression. There is a plaque here.
 ~
 S
 #2766
@@ -1676,13 +1672,13 @@ D2
 ~
 0 0 2770
 E
-plaque~
-Dworkin, creator of the Pattern and of Amber.
-~
-E
 statue~
 You see a statue of an old, hunchbacked dwarf.
   There is a plaque below the statue.
+~
+E
+plaque~
+Dworkin, creator of the Pattern and of Amber.
 ~
 S
 #2772
@@ -1748,14 +1744,14 @@ The way continues west.
 ~
 0 0 2773
 E
-plaque~
-Hardcase was a traveler from shadow who visited our city and defended
-it against a horde of attackers while the Royal family was away.
-~
-E
 statue~
 This is a statue of a powerful human with a long ponytail. There is a plaque
 beneath the statue.
+~
+E
+plaque~
+Hardcase was a traveler from shadow who visited our city and defended
+it against a horde of attackers while the Royal family was away.
 ~
 S
 #2775
@@ -1794,12 +1790,12 @@ D3
 ~
 0 0 2775
 E
-seawall wall~
-It's a plain wall to keep the sea out of the city during storms.
-~
-E
 north window~
 You peer thru a window into a seafood restaurant.
+~
+E
+seawall wall~
+It's a plain wall to keep the sea out of the city during storms.
 ~
 S
 #2777
@@ -1821,12 +1817,12 @@ D2
 ~
 0 0 2756
 E
-warehouse~
-A large sign on the warehouse reads, "Bayle's."
-~
-E
 window west~
 You peer thru a window into a seafood restaurant. This looks like the bar.
+~
+E
+warehouse~
+A large sign on the warehouse reads, "Bayle's."
 ~
 S
 #2778
@@ -1848,16 +1844,16 @@ D3
 ~
 0 0 2776
 E
+statue~
+A statue of a dark and brooding man wearing a large jewel around his neck
+and holding a crown in his hand. There is a plaque beneath the statue.
+~
+E
 plaque~
 Following the disappearence of Oberon, Eric assumed the throne and ruled
 Amber until he fell in the Battle of Shadowfall at the base of Mt. Kolvir.
 It is said that the powerful talisman, the Jewel of Judgement, was as
 responsible for his death as the hordes of shadow demons.
-~
-E
-statue~
-A statue of a dark and brooding man wearing a large jewel around his neck
-and holding a crown in his hand. There is a plaque beneath the statue.
 ~
 S
 #2779
@@ -1876,14 +1872,14 @@ D3
 door~
 1 0 2777
 E
-sawdust floor~
-It's a very clean floor.
-~
-E
 bottle wine~
 You examine a bottle of wine that is firmly locked into a wall case. The label
 says, "Bayle's Red" and "Bayle's Best" and, even more, says "Served to the
 Royal Family!"
+~
+E
+sawdust floor~
+It's a very clean floor.
 ~
 S
 #2780
@@ -2112,14 +2108,13 @@ D1
 ~
 0 0 2793
 E
-blackboard black board~
-The blackboard says:
-                     CATCH  OF  THE  DAY
-                         red snapper
-
-                      TODAY'S HOUSE WINE
-                        Bayle's Piss
-
+sawdust floor~
+There are some very suspicious looking stains on the floor.
+~
+E
+table cloth tablecloth~
+The usual red-and-white checkered kind you've seen hundreds of times before.
+These look like they've had better days, though.
 ~
 E
 cash~
@@ -2128,13 +2123,14 @@ cash drawers. But if you stare at it too long, he might show you how
 he came to 'inherit' this joint from Eddie.
 ~
 E
-table cloth tablecloth~
-The usual red-and-white checkered kind you've seen hundreds of times before.
-These look like they've had better days, though.
-~
-E
-sawdust floor~
-There are some very suspicious looking stains on the floor.
+blackboard black board~
+The blackboard says:
+                     CATCH  OF  THE  DAY
+                         red snapper
+
+                      TODAY'S HOUSE WINE
+                        Bayle's Piss
+
 ~
 S
 #2793
@@ -2148,11 +2144,11 @@ D3
 ~
 0 0 2792
 E
-chair chairs~
-It's a plain wooden chair.
+bar~
+This was once a magnificent mahagony bar with brass trim.
 ~
 E
-stool stools~
+stools~
 The stools seem to be bolted to the floor.
 ~
 E
@@ -2160,12 +2156,12 @@ tables table cloth tablecloth~
 These tables don't have tablecloths.
 ~
 E
-stools~
+stool stools~
 The stools seem to be bolted to the floor.
 ~
 E
-bar~
-This was once a magnificent mahagony bar with brass trim.
+chair chairs~
+It's a plain wooden chair.
 ~
 S
 #2794
@@ -2268,20 +2264,20 @@ D4
 ~
 0 0 2803
 E
-placard~
-The placard says:
-                          Appearing next weekend
-
-                             SMASHING PUMPKINS!
+babe dancer~
+The archetypal showgirl: blonde, busty, and wearing 1 percent of
+a costume.
 ~
 E
 stage~
 It's not too high. You could probably get up on the stage.
 ~
 E
-babe dancer~
-The archetypal showgirl: blonde, busty, and wearing 1 percent of
-a costume.
+placard~
+The placard says:
+                          Appearing next weekend
+
+                             SMASHING PUMPKINS!
 ~
 S
 #2799
@@ -2322,23 +2318,49 @@ D5
 ~
 0 0 8004
 E
-bear skin rugs~
-Thick, fluffy bear skins. One of them is even blue! Poor Baloo.
+pussy twat cunt~
+Choice's pussy hair is just a shade darker than that on her head. It's
+very thick but she has shaved it into a narrow triangle... at least,
+you've never seen pubic hair grow like that. Her pussy is small and is slightly parted by her position. It looks warm, wet, snug and inviting.
 ~
 E
-sheet sheets quilt comforter~
-The sheets are soft and sleek statin in royal blue and gold. They match
-the quilts and comforters.
+brunette hair~
+Choice has beautiful brunette hair, in a couple of places.
 ~
 E
-pillow pillows~
-These are extra big, extra fluffy pillows.
+thigh ass~
+Choice's thighs are muscular and delightful. She can really wrap them around
+you and squeeze! Her ass is round, firm, and perky!
 ~
 E
-book books bookshelf bookshelves~
-You see a bunch of comic books, most of them from Marvel/Malibu and
-featuring your favorite characters from the Ultraverse. There are a lot
-of books written by Roger Zelazny here as well.
+figure build~
+Choice's figure is extraordinary! Her breasts are large and firm.
+Her ass is round and muscular.
+~
+E
+tit tits breast breasts knockers~
+Choice's breasts are large and firm. Her nipples are erect. She must
+be having nice dreams.
+~
+E
+mac macintosh computer~
+The Macintosh computer is, of course, the very BEST computer there is. A
+cheerful screen saver on this one spells out "Balou and Reaper suck!"
+in several festive colors and fonts.
+~
+E
+fireplace~
+This appears to be a very efficient fireplace.
+~
+E
+bed~
+It's one helluva bed. Huge down pillows with satin cases, satin sheets,
+fluffy comforters, colorful quilts, and Choice, soundly asleep.
+~
+E
+window~
+The window looks out and down upon the vast forest of Arden. A waterfall
+is just to the right and a really inviting pool is directly below.
 ~
 E
 choice~
@@ -2350,49 +2372,23 @@ seen. A magnificent brunette with an awesome figure. Her usual costume
 is no where in sight. She looks delicious. You wonder where Hardcase is...
 ~
 E
-window~
-The window looks out and down upon the vast forest of Arden. A waterfall
-is just to the right and a really inviting pool is directly below.
+book books bookshelf bookshelves~
+You see a bunch of comic books, most of them from Marvel/Malibu and
+featuring your favorite characters from the Ultraverse. There are a lot
+of books written by Roger Zelazny here as well.
 ~
 E
-bed~
-It's one helluva bed. Huge down pillows with satin cases, satin sheets,
-fluffy comforters, colorful quilts, and Choice, soundly asleep.
+pillow pillows~
+These are extra big, extra fluffy pillows.
 ~
 E
-fireplace~
-This appears to be a very efficient fireplace.
+sheet sheets quilt comforter~
+The sheets are soft and sleek statin in royal blue and gold. They match
+the quilts and comforters.
 ~
 E
-mac macintosh computer~
-The Macintosh computer is, of course, the very BEST computer there is. A
-cheerful screen saver on this one spells out "Balou and Reaper suck!"
-in several festive colors and fonts.
-~
-E
-tit tits breast breasts knockers~
-Choice's breasts are large and firm. Her nipples are erect. She must
-be having nice dreams.
-~
-E
-figure build~
-Choice's figure is extraordinary! Her breasts are large and firm.
-Her ass is round and muscular.
-~
-E
-thigh ass~
-Choice's thighs are muscular and delightful. She can really wrap them around
-you and squeeze! Her ass is round, firm, and perky!
-~
-E
-brunette hair~
-Choice has beautiful brunette hair, in a couple of places.
-~
-E
-pussy twat cunt~
-Choice's pussy hair is just a shade darker than that on her head. It's
-very thick but she has shaved it into a narrow triangle... at least,
-you've never seen pubic hair grow like that. Her pussy is small and is slightly parted by her position. It looks warm, wet, snug and inviting.
+bear skin rugs~
+Thick, fluffy bear skins. One of them is even blue! Poor Baloo.
 ~
 S
 #2801
@@ -2547,13 +2543,13 @@ D5
 secret counter~
 1 2810 2810
 E
-art artwork~
-These are examples of the sleazy kind of tattoos you could get here.
-~
-E
 counter~
 There seems to be a small door in the counter. How odd. Maybe you could
 open up the counter?
+~
+E
+art artwork~
+These are examples of the sleazy kind of tattoos you could get here.
 ~
 S
 #2810
@@ -2569,16 +2565,16 @@ The sleazy tattoo parlor looks a lot better from down here.
 secret counter~
 1 2810 2809
 E
-altar~
-It looks like something (or someone) has been sacrificed on this altar.
+dragon mosaic~
+It looks like a very powerful creature but it seems to be missing an eye...
 ~
 E
 altar stains~
 It looks like something (or someone) has been sacrificed on this altar.
 ~
 E
-dragon mosaic~
-It looks like a very powerful creature but it seems to be missing an eye...
+altar~
+It looks like something (or someone) has been sacrificed on this altar.
 ~
 S
 #2811
@@ -2597,38 +2593,19 @@ Hill Street
 ~
 0 0 2783
 E
-flora~
-Flora is shown with flame-colored hair, worn long with low bangs, and
-deep blue eyes.
+altar~
+The altar depicts a magnificent unicorn.
 ~
 E
-random~
-Random is a wily-looking man, with a sharp nose and a laughing mouth
-and a shock of straw-colored hair. He is dressed in something like
-a Renaissance costume of orange, red, and brown. A section of the
-tapestry appears to have been knitted in later. It shows Random's hand
-holding a crown and a huge ruby on a chain.
+tap tapestry tapestries~
+There are tapestries here depicting Julian, Gerard, Bleys, Benedict,
+Eric, Random, and Flora.
 ~
 E
-eric~
-A tapestry of Eric, handsome by anyone's standards, his hair so dark
-as to be nearly blue. His beard curls around a mouth that always
-smiles and he is dressed simply in a leather jacket and leggings; a
-plain cloak and high black boots.
-~
-E
-benedict~
-Here is Benedict, tall and dour, thin; thin of body, thin of face,
-wide of mind. He wears orange and yellow and brown, and reminds you
-of haystacks and pumpkins and scarecrows and the Legend of Sleepy
-Hollow. He has a strong jaw and hazel eyes and brown hair that never
-curls.
-~
-E
-bleys~
-Fiery bearded, flame-crowned Bleys, dessed all in red and orange,
-eyes as blue as Flora's or Eric's. He word two huge rings on his
-right hand and one on his left: an emerald, a ruby, and a sapphire.
+Julian~
+Here is the passive contenance of Julian, dark hair hanging long,
+blue eyes containing neither passion nor compassion. He is dressed
+in scaled white armor.
 ~
 E
 gerard~
@@ -2640,19 +2617,38 @@ silver hunting horn. He wears a fringe beard and a light mustache and
 a laugh upon his lips. He is Gerard.
 ~
 E
-Julian~
-Here is the passive contenance of Julian, dark hair hanging long,
-blue eyes containing neither passion nor compassion. He is dressed
-in scaled white armor.
+bleys~
+Fiery bearded, flame-crowned Bleys, dessed all in red and orange,
+eyes as blue as Flora's or Eric's. He word two huge rings on his
+right hand and one on his left: an emerald, a ruby, and a sapphire.
 ~
 E
-tap tapestry tapestries~
-There are tapestries here depicting Julian, Gerard, Bleys, Benedict,
-Eric, Random, and Flora.
+benedict~
+Here is Benedict, tall and dour, thin; thin of body, thin of face,
+wide of mind. He wears orange and yellow and brown, and reminds you
+of haystacks and pumpkins and scarecrows and the Legend of Sleepy
+Hollow. He has a strong jaw and hazel eyes and brown hair that never
+curls.
 ~
 E
-altar~
-The altar depicts a magnificent unicorn.
+eric~
+A tapestry of Eric, handsome by anyone's standards, his hair so dark
+as to be nearly blue. His beard curls around a mouth that always
+smiles and he is dressed simply in a leather jacket and leggings; a
+plain cloak and high black boots.
+~
+E
+random~
+Random is a wily-looking man, with a sharp nose and a laughing mouth
+and a shock of straw-colored hair. He is dressed in something like
+a Renaissance costume of orange, red, and brown. A section of the
+tapestry appears to have been knitted in later. It shows Random's hand
+holding a crown and a huge ruby on a chain.
+~
+E
+flora~
+Flora is shown with flame-colored hair, worn long with low bangs, and
+deep blue eyes.
 ~
 S
 #2812
@@ -2763,39 +2759,9 @@ D2
 door~
 1 0 2762
 E
-sign signs~
-Four signs are in the room.
-LOOK AT SIGN1
-LOOK AT SIGN2
-LOOK AT SIGN3
-LOOK AT SIGN4
-~
-E
-sign1~
-                                    AMBER
-
- Amber is the primal city of the universe. All other worlds you've seen or
-will ever see are merely shadows of Amber. Therefore, everything, and more,
-is here that is anywhere else. The one other place that is 'original' in
-the universe is the Courts of Chaos. Lying on the extreme other edge of
-Shadow from Amber, little is known of it.
-~
-E
-sign2~
-                             THE PATTERN
-
- The Pattern was forged by the ancient mage Dworkin, who fled from the
-Courts of Chaos with the Jewel of Judgment. Using the jewel, Dworkin
-created the Pattern and order was formed out of the chaotic state of the
-universe. Two major religious factions argue over the primacy of the
-Pattern that lies beneath the Castle Amber. One says that it is the very
-Pattern that Dworkin forged and, thus, is the primal Pattern. The other
-says that the Pattern below the castle is the first shadow of the primal
-Pattern, which is elsewhere.
- Descendants of Dworkin can walk the Pattern and survive (although it is
-difficult and dangerous for them) and gain the power to walk through
-Shadow. The Pattern is almost always lethal to any who attempt to walk
-it who are not of the royal blood.
+sign4~
+ There are lovely tapestries of the Royals on display in the The Church
+of the Unicorn across the street.
 ~
 E
 sign3~
@@ -2817,9 +2783,39 @@ Jasra wed to Brand: Rinaldo (also called Luke)
 Merlin: created sentient computer, Ghostwheel
 ~
 E
-sign4~
- There are lovely tapestries of the Royals on display in the The Church
-of the Unicorn across the street.
+sign2~
+                             THE PATTERN
+
+ The Pattern was forged by the ancient mage Dworkin, who fled from the
+Courts of Chaos with the Jewel of Judgment. Using the jewel, Dworkin
+created the Pattern and order was formed out of the chaotic state of the
+universe. Two major religious factions argue over the primacy of the
+Pattern that lies beneath the Castle Amber. One says that it is the very
+Pattern that Dworkin forged and, thus, is the primal Pattern. The other
+says that the Pattern below the castle is the first shadow of the primal
+Pattern, which is elsewhere.
+ Descendants of Dworkin can walk the Pattern and survive (although it is
+difficult and dangerous for them) and gain the power to walk through
+Shadow. The Pattern is almost always lethal to any who attempt to walk
+it who are not of the royal blood.
+~
+E
+sign1~
+                                    AMBER
+
+ Amber is the primal city of the universe. All other worlds you've seen or
+will ever see are merely shadows of Amber. Therefore, everything, and more,
+is here that is anywhere else. The one other place that is 'original' in
+the universe is the Courts of Chaos. Lying on the extreme other edge of
+Shadow from Amber, little is known of it.
+~
+E
+sign signs~
+Four signs are in the room.
+LOOK AT SIGN1
+LOOK AT SIGN2
+LOOK AT SIGN3
+LOOK AT SIGN4
 ~
 S
 #2819
@@ -3441,15 +3437,15 @@ Ah! There's the bar!
 ~
 0 0 2845
 E
-north~
-Against the wall is a statue of the Unicorn.
-~
-E
 statue unicorn~
 Carved from black and white marble, the statue of the Unicorn is the
 mirror image of the design on the front doors. Its horn points towards
 the windows on the western wall and it seems to beckon the sunlight. On
 nonfestive occasions, the Unicorn is behind a set of deep green curtains.
+~
+E
+north~
+Against the wall is a statue of the Unicorn.
 ~
 S
 #2850
@@ -3502,14 +3498,14 @@ D5
 ~
 0 0 2979
 E
-edge perimeter~
-Looking up or down, the stair vanishes into darkness.
-~
-E
 stair spiral stone rock staircase~
 The steps radiate from a thick column of solid stone. There are no
 discernable joints or cracks anywhere. There is no railing around the
 perimeter.
+~
+E
+edge perimeter~
+Looking up or down, the stair vanishes into darkness.
 ~
 S
 #2853
@@ -3986,14 +3982,14 @@ D3
 ~
 0 0 2882
 E
+note~
+The note says: NOT FUNNY, CORWIN. (signed) Gerard.
+~
+E
 sign~
 The sign says "Fam'bly Waterin' Hole" and it features a drawing of a
 large man who is obviously in his cups. There is a note stuck to the sign
 with a dagger.
-~
-E
-note~
-The note says: NOT FUNNY, CORWIN. (signed) Gerard.
 ~
 S
 #2884
@@ -4124,16 +4120,9 @@ D3
 door bath~
 1 2828 2889
 E
-push button pedal~
-Next to the thing, whatever it is, there appears to be a keyhole.
-~
-E
-tub bathtub~
-The bathtub is a four-legged work of sheer artistry.
-~
-E
-brass knob~
-Up close, it looks more like a push button or a pedal.
+toilet~
+The toilet is a magnificent piece of functional artistry marred only by
+a small, dirty smudge on its base.
 ~
 E
 dirt smudge base~
@@ -4141,9 +4130,16 @@ The smudge is around a brass knob protruding from the lower base. From a
 distance, it looked like a bolt.
 ~
 E
-toilet~
-The toilet is a magnificent piece of functional artistry marred only by
-a small, dirty smudge on its base.
+brass knob~
+Up close, it looks more like a push button or a pedal.
+~
+E
+tub bathtub~
+The bathtub is a four-legged work of sheer artistry.
+~
+E
+push button pedal~
+Next to the thing, whatever it is, there appears to be a keyhole.
 ~
 S
 #2891
@@ -4375,12 +4371,12 @@ D3
 screen~
 0 0 2905
 E
-quilt~
-The quilt has a crescent moon theme.
-~
-E
 bed~
 It's a large, comfortable bed covered by a warm quilt.
+~
+E
+quilt~
+The quilt has a crescent moon theme.
 ~
 S
 #2905
@@ -4809,13 +4805,13 @@ You look towards Merlin's bedroom.
 door~
 1 0 2931
 E
-furniture~
- There is only a simple sofa, an end table, and two chairs.
-~
-E
 scene~
  The rug powerfully depicts two horsemen with spears riding hellbent
 after their dogs, all in front of a line of trees.
+~
+E
+furniture~
+ There is only a simple sofa, an end table, and two chairs.
 ~
 S
 #2931
@@ -4863,12 +4859,12 @@ D5
 ~
 0 0 2914
 E
-south~
-You can look down into the library from here.
-~
-E
 library~
 It looks like a lot of books from this angle, too.
+~
+E
+south~
+You can look down into the library from here.
 ~
 S
 #2933
@@ -5099,16 +5095,16 @@ D3
 ~
 0 0 2932
 E
-railing~
-It's a very sturdy railing.
+library~
+There seems to be a whole of books there from this angle, too.
 ~
 E
 south~
 You see down into the library on the second floor.
 ~
 E
-library~
-There seems to be a whole of books there from this angle, too.
+railing~
+It's a very sturdy railing.
 ~
 S
 #2946
@@ -5602,13 +5598,13 @@ D5
 ~
 0 0 2980
 E
+note~
+The note says, "THIS ONE DAMMIT! (signed) Gerard"
+~
+E
 dagger~
 The dagger was impossibly imbedded in the solid rock by some mighty hand.
 You can't pull it loose.
-~
-E
-note~
-The note says, "THIS ONE DAMMIT! (signed) Gerard"
 ~
 S
 #2980
@@ -7211,12 +7207,16 @@ D4
 S
 #3065
 The Center Of The Pattern~
-The center of the great Pattern of Amber is the center of the known universe.
-From here you may seek instantaneous travel to certain different destinations
-throughout the lands.  You may also seek greater attunement to the great Eye.
+  The center of the Pattern is the center of the universe. From here you
+may seek the powerful artifact known as the Eye of the Logrus (as well
+as other names).
 ~
-27 536 0 0 0 0
+27 520 0 0 0 0
 R 30/pattern_3065.lua 32
+D5
+~
+~
+0 0 2960
 S
 #3066
 Fishmonger's Road~

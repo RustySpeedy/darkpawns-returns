@@ -1156,7 +1156,7 @@ S
 Whispers of the grave...~
 A place devoid of happiness.
 ~
-318 0 0 0 0 0
+318 4 0 0 0 0
 D5
 ~
 ~
@@ -1200,6 +1200,7 @@ randomly.  You should eat one..  Or two..  Your probably going to die anyways.
 
 ~
 318 67109285 0 0 0 9
+R archive/elemental_room.lua 4
 D5
 I'd rather you didn't.
 ~
@@ -1212,7 +1213,8 @@ AHHHH! SPLAAAAAT! YOU ARE DEAD...~
 right now.  You are in the hand's of Slayer, your fate has been decided
 prevously.  
 ~
-318 67109025 0 0 0 0
+318 67109025 0 0 0 6
+R archive/elemental_room.lua 4
 D5
    You notice a slight glimmer of light below.  
 ~
@@ -1226,6 +1228,7 @@ southwards in a freezing underground river.  The river is freezing, abusive,
 and is sending you to your death.
 ~
 318 4194528 0 0 0 6
+R archive/elemental_room.lua 4
 D2
 ~
 ~
@@ -1239,6 +1242,7 @@ nothingness.  Its almost as if the world ends here, the skyline is strange and
 has no horizon.  To the &W&Ceas&Wt&n you see something &Wglowing&n blue.
 ~
 318 4194465 0 0 0 6
+R archive/elemental_room.lua 4
 D0
 ~
 ~

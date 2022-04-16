@@ -126,11 +126,11 @@ A
 #9116
 lucky rabbit foot necklace caerbannog~
 a necklace made from the foot of the Dread Rabbit of Caerbannog~
-a necklace with a terrifying rabbit's foot lies here.~
+A necklace with a terrifying rabbit's foot lies here.~
 ~
 11 68235 0 0 0 5 0 0 0
 0 0 0 0
-5 9500 5.00
+5 9500 15.00
 A
 17 -5
 A
@@ -141,6 +141,22 @@ A
 2 3
 A
 26 10
+#9117
+dragonscale cloak~
+a cloak of iridescent dragon scales~
+A beautiful, shimmering cloak of dragon scales is lying here.~
+~
+11 50655315 0 0 0 1025 0 0 0
+0 0 0 0
+10 9500 7.50
+A
+17 -12
+A
+18 1
+A
+19 2
+A
+29 19
 #9401
 rugged leather backpack~
 a rugged leather backpack~

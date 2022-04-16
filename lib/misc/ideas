@@ -1,35 +1,69 @@
 Splender (Oct 19) [ 8116] blade
 Berith   (Oct 23) [ 8008] mourn emote
 Berith   (Oct 25) [18727] sleeping mobs/chars can't avoid subdue
-Slayer   (Jan  5) [ 9101] do not forget to link pine forest to forest north east of town and north west of town
-Slayer   (Jan  6) [31798] do not forget to do the short-faced bear cave
-Slayer   (Jan 13) [30000] AFK triggers nosum
-Slayer   (Apr 23) [ 3675] educate on looking before you walk
-Slayer   (Apr 23) [ 3675] educate on wandering aggros like behemoth and locusta
-Slayer   (Apr 23) [ 3675] noexit dt with corpse with recalls
-Slayer   (Apr 24) [ 3601] add 196 and 36 to nix list for redferne 79
-Darius   (Apr 24) [ 8086] Nix list is located in DB.c line 2126
-Darius   (Apr 27) [31434] Made it Random die of chance on reset if an enraged rollo will load or not :)
-Slayer   (May  9) [31767] push 317.obj 317.mob 317.zon
-Slayer   (May  9) [31767] push 36.all files
-Slayer   (May  9) [31767] push help file
-Slayer   (May  9) [31767] push 314.obj 314.mob 314.zon 314.wld
-Slayer   (May  9) [31767] push 317.shp
-Slayer   (May  9) [31767] push 99.all files
-Slayer   (May  9) [31767] push 46.obj
-Slayer   (May  9) [31767] push 80.all
-Darius   (May  9) [    3] the stork plows noogie's mom for baby making 
-Slayer   (May 11) [31851] push 318.obj 318.mob 318.zon
-Slayer   (May 11) [31851] push 79.zon 79.obj 79.mob
-Slayer   (May 13) [ 3641] hungry thirsty remort to !H !T
-Slayer   (May 13) [ 3641] amend pk help file, to mention that a NPK Peaceful player attacks someone or an outlaw they're on their own
-Darius   (May 13) [    3] Make a reaper broadcast for information about "look/exam certificate"
-Darius   (May 13) [31434] slayer we gotta fix the rollo zone commands it's broken to shit and beyond came to look and saw the mess
-Darius   (May 15) [ 3694] push 99.room 99.obj 99.mob 99.zon
-Noogie   (May 15) [    3] grand
-Slayer   (May 18) [ 8162] specassign.c specproc1-3.c
-Slayer   (May 18) [ 3613] copy mordran.lua over
-Slayer   (May 18) [ 3613] spec_proc3.c and specassign.c
-Slayer   (May 19) [ 3601] FIX on north and east to block, only allows one to work at a time, combine them both in a custom code
-Slayer   (May 21) [ 3607] import 235.all except shop
-Slayer   (May 21) [ 3607] import 235.all*
+Berith   (Oct 30) [ 8008] wiz chat a different color than clan tells
+Jesyca   (Nov 22) [ 8055] staff
+Jesyca   (Nov 22) [ 8055] sword
+Jesyca   (Nov 22) [ 8047] sword
+Jesyca   (Nov 22) [ 8047] mush
+Jesyca   (Nov 22) [ 8035] 1
+Gnoneck  (Nov 24) [16315] the retreat skill for warriors would be more useful if it was a group related skill. Meaning, when utilized the warrior announces the group is to retreat and therefore not only saves his experience but also the experience of his/her group.
+Ran      (Dec 18) [19676] Ultimate shouldn't cast spells.
+Aiko     (Dec 27) [21217] we need an NPC you can pay for mindsight services and another one you can pay for
+Aiko     (Dec 27) [ 8008] more evil crap in KD to align pls
+Angrboda (Jan  2) [ 3071] make amber citizen scavenger to clean up the junk these fools leave all over the place
+Slayer   (Jan  2) [19676] put gate on the dump
+Peyton   (Jan  3) [ 8113] runed
+Slayer   (Jan  5) [21219] an invig pot
+Raclef   (Jan  5) [21219] teleport skill for psionicists - opposite of summon, and NOT RANDOM :)
+Ran      (Jan  7) [ 8004] more dr avatar gloves
+Rock     (Jan 10) [19759] Eqsets so people aren't spamming gear changes.
+Peyton   (Jan 11) [ 8116] vest
+Slayer   (Jan 24) [19676] Corpse Slug key load..
+RavinLark (Mar  7) [ 8008] add a way to know how long untill buffs run out
+Drim     (Mar  7) [ 8004] ability to see spell duration on score screen :)
+Drim     (Mar 12) [ 8004] identify scrolls show spell durations if can't be shown in score :)
+Drim     (Mar 19) [ 8008] spell times needed! :P
+Pinot    (Mar 27) [ 8163] serpent
+Biscuit  (Mar 27) [ 8008] guard barracks need to load con, int and wis gear
+Biscuit  (Mar 27) [ 8008] also sanc and heal potions 
+Biscuit  (Mar 27) [ 8008] since guard barracks are level restricted you can put strong consumables there it will be hard to abuse
+Ligo     (Mar 28) [ 8008] bhyroga vendors give same amount of money as amber shops
+Ran      (Mar 29) [ 8004] upgrade ender: make female/males closer to guard status, boys/girls to fem male status, add a smithy's assistant, tailors assistant, and a cooks assistant
+Ged      (Mar 31) [ 8116] eat a dick
+Ran      (Apr  1) [19667] Disclaimer Paladin/Ranger Race distinctions
+Ravinlark (Apr  6) [31210] add a feature to drag corpses/sleeping enimies
+Drim     (Apr 11) [ 8004] guard barracks having signs along the way pointing to various important help files
+Drim     (Apr 11) [ 8004] guard barracks showing importance of drinking before eating, regen outside vs regen rooms, other newbie-centric tips
+Ravinlark (Apr 11) [11162] add a spell for clerics that replentish's food/water for entire party 25 mana per person :P
+Drim     (Apr 14) [ 3178] more areas for protection from good and evil potions to load
+Ravinlark (Apr 22) [ 8008] maby add a alchemist vendor that sells potions such as healing potions remove curse potions ect
+Ting     (Apr 22) [ 8008] dagger
+Wing     (Apr 26) [ 8116] mace
+Ravinlark (Apr 26) [14427] add stash's so that you can stash gear for future use or incase you get looted when u die
+Ligo     (Jun  3) [ 8004] no dolphin mobs!
+Ligo     (Jun  4) [ 8008] psionic trainer able to sell mindsights
+Ran      (Jun  7) [19676] oo, i'm nice and fucked up, just had a idea what if we had a marker on the who list that labeled your primary character, just like a different color who string
+Rudra    (Jun 13) [ 3675] This room, flag so mobs can't flee into it.
+Rudra    (Jun 13) [ 3668] drag command, to drag the corpse of an ally to them, or to a safe spot for them to retrieve
+Ligo     (Jul  1) [ 8008] black-cloaked wanderer loading an upgraded golden cloak for casters ...
+Hatsumi  (Jul  4) [ 8004] armor
+Hatsumi  (Jul  5) [ 8004] ring
+Hatsumi  (Jul  5) [ 8116] bracer
+Malasand (Jul  6) [ 8004] spellbook
+Ligo     (Jul 23) [ 8004] new guy says "Maybe a couple of closer to town zones for levels 10-15, that took a while running back and forth from enders to cold village to stadium"
+Ligo     (Aug  2) [ 1325] dragon eq more max per logged in due to the influx of new players :)
+Burton   (Aug 22) [14529] ninjas and mages get lockpick and 'break door'
+Malasand (Aug 25) [19651] self
+Darius   (Sep  8) [   90] mages could get a "knock" spell that unlocks locked
+Vintage  (Sep  8) [ 8163] crown
+Udz      (Feb 23) [18633] stone
+Udz      (Feb 23) [18729] needle
+Grovel   (Feb 23) [ 4907] cloak
+Ligo     (Jul  7) [ 8004] spara
+Bannor   (Sep  2) [ 8116] obsi
+Wellon   (Sep 12) [ 8053] greaves
+Wellon   (Sep 17) [ 8008] bone
+Wellon   (Sep 17) [ 8008] room
+Morgan   (Oct 13) [14108] obj 66
+Dolores  (Jan 27) [ 8008] mat

@@ -282,11 +282,13 @@ void store_mail(long to, long from, char *message_pointer)
   char *msg_txt = message_pointer;
   int bytes_written, total_length = strlen(message_pointer);
 
+  /*
   if ((sizeof(header_block_type) != sizeof(data_block_type)) ||
       (sizeof(header_block_type) != BLOCK_SIZE)) {
     core_dump();
     return;
   }
+  */
 
   if (from < 0 || to < 0 || !*message_pointer) {
     log("SYSERR: Mail system -- non-fatal error #5. (from == %ld, to == %ld)", from, to);

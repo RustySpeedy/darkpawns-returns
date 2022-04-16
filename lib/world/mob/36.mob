@@ -237,7 +237,12 @@ reanimated corpse armored church guard~
 the reanimated corpse of an armored church guard~
 An undead armored church guard, twitches and thrashes about the grave site in a unintelligent manner.
 ~
-It looks, err, unfinished.
+   The gray waxen complexion of this once-honored church guard is not the only
+indication that death once had this man in his cold grasp.  His left eye
+socket that once held the other eye now oozes with a green and gray liquid.  
+He may not be as graceful in death as he was in life, but as sure as the North
+Star Artery leads north, the magick that brought his corpse back to life also
+gave him the strength to use it.  
 ~
 81930 0 0 0 131080 2 0 0 0 E
 6 14 4 6d5+70 3d4+3
@@ -731,7 +736,7 @@ An amatuer assassin attempts to avoid your attention here.
    A clumsy young man, quite fit and light on his feet.  He looks like he is
 trying to take advantage of those who are lost here.  
 ~
-247900 0 0 0 1074528264 2 0 0 0 E
+247900 0 0 0 1074003976 2 0 0 0 E
 7 13 3 7d5+80 4d4+4
 50 3500
 8 8 1
@@ -745,7 +750,7 @@ Pan Elkheart the drunken assassin, Son Finn Elkheart is here contemplating your 
 ~
 A large slender man, dressed in stealthy clothing.
 ~
-8650844 0 0 0 262312 0 0 0 -400 E
+262236 0 0 0 262312 0 0 0 -400 E
 20 0 -10 20d5+210 13d4+14
 1500 30000
 8 8 0

@@ -148,13 +148,13 @@ The passage continues to the west and appears to get wider still.
 ~
 0 -1 12839
 E
-hole holes~
-The holes in this cavern appear to be more recent and a bit larger.
-~
-E
 instruments~
 There are several mining instruments lying about, many of them broken and
 beyond repair.
+~
+E
+hole holes~
+The holes in this cavern appear to be more recent and a bit larger.
 ~
 S
 #12839
@@ -214,15 +214,15 @@ A passage leads east away from the small cavern.
 ~
 0 -1 12840
 E
-bed straw~
-These beds appear to have been slept in recently.  They do not look very
-comfortable.
-~
-E
 campfire fire~
 This smoldering campfire was just put out not too long ago.  Lighting a
 campfire inside of a mine with no ventilation is definitely not the sign
 of an intelligent being.  Nevertheless, they were here recently.
+~
+E
+bed straw~
+These beds appear to have been slept in recently.  They do not look very
+comfortable.
 ~
 S
 #12842
@@ -961,7 +961,7 @@ directly behind it.  You wonder if it is just a decoration or if it is
 actually guarding the room.  The only way you could find out would be to try
 to walk past it.  The exits are to the west and the east.
 ~
-128 9 0 0 0 0
+128 8 0 0 0 0
 D1
 To the east lies a small opening in to a room that appears to contain some
 type of sarcophagus or casket.

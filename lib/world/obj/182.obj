@@ -455,8 +455,16 @@ an ancient dwarven helm~
 An ancient helm of dwarven design rests here.~
 ~
 9 149713985 0 0 0 17 0 0 0
-15 0 0 0
+20 0 0 0
 15 8200 10.00
+A
+1 2
+A
+26 10
+A
+23 -10
+A
+24 -10
 #18269
 esoteric uwagi~
 an esoteric Uwagi~
@@ -473,6 +481,8 @@ A
 14 15
 A
 28 15
+A
+17 -5
 #18270
 esoteric zukin~
 an esoteric Zukin~
@@ -488,19 +498,19 @@ A
 A
 19 1
 A
-17 -3
+17 -5
 #18271
 esoteric Fukumen~
 an esoteric Fukumen~
 A small piece of black fabric is collecting dust here.~
 ~
 9 217378816 0 0 0 131073 0 0 0
-3 0 0 0
+8 0 0 0
 1 999 10.00
 A
 18 2
 A
-19 1
+19 2
 A
 13 10
 A
@@ -514,7 +524,7 @@ A set of pitch black leg wraps lies on the ground here seeming to blend in with 
 10 0 0 0
 1 999 6.00
 A
-18 1
+18 3
 A
 19 1
 A
@@ -526,13 +536,11 @@ esoteric shinobi belt~
 an esoteric shinobi belt~
 A dark fabric belt is lying on the ground here, seeming absorb all light near it.~
 ~
-9 242512192 0 0 0 2049 0 0 0
+9 250900800 0 0 0 2049 0 0 0
 6 0 0 0
-0 0 10.00
+0 999 10.00
 A
 19 3
-A
-5 -3
 A
 13 10
 A

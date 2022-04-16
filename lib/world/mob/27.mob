@@ -722,7 +722,7 @@ Megan is an athletic woman with beautiful brown hair and a
 winning smile.
 ~
 188426 0 0 0 8 0 0 0 0 E
-34 -14 -24 34d5+2746 22d4+22
+34 -14 -24 34d5+3546 22d4+22
 10000 270000
 8 8 2
 Race: 0
@@ -736,7 +736,7 @@ Stven is a brown-eyed redhead, a giant of a man with a very
 expressive face.
 ~
 188426 0 0 0 8 0 0 0 0 E
-34 -14 -24 34d5+2746 22d4+22
+34 -14 -24 34d5+3546 22d4+22
 10000 270000
 8 8 1
 Race: 0
@@ -751,7 +751,7 @@ cheerful twinkle in his eyes. There's a pair of drum sticks sticking
 out of his pocket. He looks like he could ROCK THE HOUSE!!!
 ~
 188426 0 0 0 8 0 0 0 0 E
-34 -14 -24 34d5+2746 22d4+22
+34 -14 -24 34d5+3546 22d4+22
 10000 270000
 8 8 1
 Race: 0
@@ -807,20 +807,6 @@ even more sparks!!!
 0 4500
 8 8 0
 Race: 25
-E
-#2775
-Spirit~
-the Spiritual Realization of the Great Pattern of Amber~
-Something is here which can barely be seen.
-~
-   A seamless, formless, phaseless entity made up of the grand, unyielding
-eternal powers of the Great Pattern of Amber to make contact with the current
-bearer of the mighty conduit known only as the Jewel of Judgement.  
-~
-16777227 0 0 0 557098 0 0 0 0 E
-1 19 9 1d5+20 1d4+1
-0 100
-8 8 0
 E
 #3005
 receptionist~

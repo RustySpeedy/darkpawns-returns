@@ -119,15 +119,21 @@ side of venison or rabbit meat... what in the world could this meat have
 come from, you wonder...
 ~
 #8019
-tunic~
-a frayed tunic~
-A frayed tunic is lying on the ground.~
+ancestral, padded-leather armor~
+ancestral, padded-leather armor~
+A pile of leather and cloth lay here.~
 ~
-11 131072 0 0 0 9 0 0 0
-0 0 0 0
-10 0 100.00
+9 131073 0 0 0 9 0 0 0
+8 0 0 0
+5 50 100.00
 A
-17 -1
+5 2
+A
+26 5
+A
+27 5
+A
+28 5
 #8020
 dagger~
 a dagger~
@@ -145,12 +151,12 @@ slash~
 0 1 6 11
 3 30 100.00
 E
+sword small~
+The small sword seems to have an inscription of some sort inscription...~
+E
 inscription~
 It says: "May this sword be a good companion."
 ~
-E
-sword small~
-The small sword seems to have an inscription of some sort inscription...~
 #8022
 sword long~
 a long sword~
@@ -280,13 +286,17 @@ It is very beautiful white marble, shot through with electric blue streaks
 that look almost like lightning dancing along the sides of the fountain.
 ~
 #8036
-dagger~
-a dagger~
+ancestral blade~
+ancestral blade~
 A small, sharp dagger is on the ground here.~
 ~
-5 0 0 0 0 8193 0 0 0
-0 1 6 11
+5 131074 0 0 0 8193 0 0 0
+0 3 3 11
 1 20 100.00
+A
+19 3
+A
+18 3
 #8037
 short sword~
 a short sword~
@@ -296,18 +306,30 @@ A shiny short sword is here.~
 0 1 6 3
 5 30 100.00
 #8038
-backpack pack~
-a backpack~
+leather back pack backpack~
+a well-made, tooled leather backpack~
 A well-used backpack lies in the dirt here.~
 ~
 15 65544 0 0 0 17417 0 0 0
-20 5 -1 0
-1 0 100.00
+50 1 -1 0
+10 300 100.00
 E
 backpack pack~
 It's a leather pack, well-used yet still operational; the flap on top
 opens and closes securely.
 ~
+A
+1 1
+A
+24 -5
+A
+22 -5
+A
+20 -5
+A
+21 -5
+A
+23 -5
 #8040
 breast plate~
 a breast plate~
@@ -455,6 +477,14 @@ E
 staff~
 The staff is made of metals unknown to you.
 ~
+#8056
+vial purified hate~
+a vial of purified hate~
+A important looking glass vile has been carelessly left here.~
+~
+10 0 0 0 0 1 0 0 0
+30 33 4 103
+1 1000 0.00
 #8060
 raft~
 a raft~
@@ -488,13 +518,13 @@ A beautiful multicolored mushroom has been left on the ground.~
 12 0 0 0
 1 0 100.00
 #8063
-water skin~
-a water skin~
+ancestral water skin~
+an ancestral, leather water-skin~
 A leather water skin has been left here.~
 ~
 17 0 0 0 0 1 0 0 0
-5 5 0 0
-10 0 100.00
+10 10 0 0
+10 100 100.00
 #8064
 board bulletin customs~
 a bulletin board~
@@ -564,12 +594,6 @@ An ancient double-edged dagger pitted, cracked and rusty lies here in a pool of 
 5 68201026 0 0 0 8193 0 0 0
 0 20 1 11
 3 666 100.00
-E
-oozing parazonium~
-   A long triangular dagger, it is very old and disgusting.  It is pitted,
-rusty, and is constantly oozing some sort of poison.  The poison is the
-consistency of clotted blood and the color of dried blood.  
-~
 A
 19 3
 A
@@ -580,6 +604,8 @@ A
 29 13
 A
 28 -15
+A
+29 9
 #8070
 gauntlets bronze~
 a pair of bronze gauntlets~
@@ -639,21 +665,16 @@ A
 A
 5 -1
 #8079
-ooze brown poison~
+ooze brown poison fissure~
 a small fissure oozing a brown pasty substance~
 A small fissure has formed in the ground here, it is oozing some strange putrid brown substance!~
 ~
 12 0 0 0 0 0 0 0 0
 0 0 0 0
-555 666 4.00
+555 666 0.50
 E
 ooze brown poison fissure~
-   Looking closer at the fissure you see that the liquid is hot and steaming,
-almost boiling.  It is a brown dried blood looking color and looks like it has
-a grainy texture.  Surely it is poisonious.  Why is the fissure here?  Is it
-because the horrifying bitch Locusta has emerged from the depths?  It is said
-that if the ground bleeds her poison, she will be fully ressurected with her
-parazonium.  Be weary adventurer, the Behemoth trembles in her presence.  
+You should assume something very bad took place here. It appears something came from this fissure and has left to the west...
 ~
 #8080
 leggings bronze~
@@ -713,7 +734,7 @@ Some golden bracers lie here in the dust.~
 A
 1 1
 A
-13 2
+13 12
 #8095
 changes made bulletin board~
 a mystical, floating, neon-lit bulletin board is here.~
@@ -790,18 +811,130 @@ A yellowish potion is here.~
 10 0 0 0 0 1 0 0 0
 10 19 0 0
 1 110 100.00
-#8165
-jester's armor ~
-an armored jester's jacket~
-Jester's armor~
+#8102
+boots with the spurs~
+boots with the spurs~
+A set of large leather boots with spurs are here stinking up the place.~
 ~
-9 324160 0 0 0 9 0 0 0
+9 141447170 0 0 0 65 0 0 0
+10 0 0 0
+3 8999 6.00
+A
+19 1
+A
+6 2
+A
+23 -15
+A
+26 1
+#8103
+spotless white gloves~
+a pair of spotless white gloves~
+A set of nice looking gloves are on the ground here.~
+~
+9 65 0 0 0 129 0 0 0
+3 0 0 0
+1 4500 7.00
+A
+27 1
+A
+5 1
+A
+3 1
+A
+12 3
+#8104
+slab tablet board bizarre~
+the Daemon's Premium Bizarre~
+A looming white granite slab stands alone here over everything in the room.~
+A bulletin board with prices and services listed. It is made from white granite, engraved with what was probably Slayer's fingernail. The engravings are filled with a blood tinted filler to give it some flair.
+~
+16 3 0 0 0 1 0 0 0
+0 0 0 0
+999 0 100.00
+E
+board~
+&r....................&RThe Daemon's Premium Bizarre&r...................&n
+...................................................................
+...................................................................
+. Item Name       &R|&nDescription                       &R|&n Price Each .
+...................................................................
+. Thirst Immunity &R|&nYou will have a permanent immunity&R|&n            .
+..................&R|&nto Thirst on a specific character.&R|&n 10.00 ea   .
+..................&R|&n..................................&R|&n.............
+. Hunger Immunity &R|&nYou will have a permanent immunity&R|&n            .
+..................&R|&nto Hunger on a specific character.&R|&n 10.00 ea   .
+..................&R|&n..................................&R|&n.............
+. Consitution Pt. &R|&nOne point of constitution on spec-&R|&n            .
+..................&R|&nific character.                   &R|&n  1.00 ea   .
+..................&R|&n..................................&R|&n.............
+. Slayer's Delight&R|&nGrants following:                 &R|&n            .
+..................&R|&n*Thirst Immunity                  &R|&n            .
+..................&R|&n*Hunger Immunity                  &R|&n            .
+..................&R|&n*An item [UPGRADE] to an item you &R|&n            .
+..................&R|&ncurrently own. It will be restrung&R|&n 34.99 ea   .
+..................&R|&npersonally by Slayer with color.  &R|&n            .
+..................&R|&nIt will be given [DET INIVS] and  &R|&n            .
+..................&R|&n[Infravision] as well as a mystery&R|&n            .
+..................&R|&nstat.                             &R|&n            .
+..................&R|&n*A superbly crafted bag.          &R|&n            .
+..................&R|&n..................................&R|&n.............
+. Item Restring   &R|&nAny item restrung(Renamed) to your&R|&n            .
+..................&R|&nliking.                           &R|&n  5.00 ea   .
+..................&R|&n..................................&R|&n.............
+. Char. Rename    &R|&nRename your character.            &R|&n  5.00 ea   .
+..................&R|&n..................................&R|&n.............
+. Place Holder    &R|&n                                  &R|&n            .
+..................&R|&n..................................&R|&n.............
+. Place Holder    &R|&n                                  &R|&n            .
+..................&R|&n..................................&R|&n.............
+. Place Holder    &R|&n                                  &R|&n            .
+..................&R|&n..................................&R|&n.............
+&G*******************************************************************&n
+&G*&g DM Slayer on Discord, catch him online non-afk, or email your   &G*&n
+&G*&g request to slayer@dpreturns.com. Payments will be to paypal via &G*&n
+&G*&g the donate button on the website.                               &G*&n 
+&G*&g.................................................................&G*&n
+&G*&g Please allow for 1-2 business days for your order to be         &G*&n
+&G*&g addressed.                                                      &G*&n
+&G*******************************************************************&n
+~
+#8109
+tattered rag~
+a tattered rag with writing on it~
+A tattered rag with writing on it lay on the ground.~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+1 1 5.00
+E
+rag tattered~
+Finn,
+
+Wallace failed to follow his orders. The child lives.
+She's been seen near that lunatic near stables..
+
+Pan
+~
+#8165
+jester armor jacket~
+an armored jester's jacket~
+An armored jacket with red and black checkers adorning the trim and collar has been left here.~
+~
+9 323648 0 0 0 9 0 0 0
 21 0 0 0
-5 10000 0.50
+5 10000 2.00
+E
+jacket armored jester~
+   An equisite piece of protective clothing made from almost other worldly
+textiles.  It it is mostly black, the "fabric" is hard and also somewhat
+flexible.  The accents like the cuff links and collar are black and red
+checkers.  
+~
 A
 19 2
 A
-29 20
+6 1
 #8166
 farrier's knife~
 a Farrier's knife~
@@ -833,15 +966,14 @@ A small possi of fireflies hovering here providing a calming yellow-green illumi
 ~
 1 33554515 0 0 0 262145 0 0 0
 0 0 -1 0
-1 5000 8.00
+1 5000 4.00
+E
+fire flies fireflies possi~
+   About a hundred immortal fireflies are swarming in a unnatural manner.  
+The light they emit is mutli-colored and the buzzing is intense.  
+~
 A
 19 2
-A
-29 33
-A
-29 26
-A
-29 7
 A
 29 1
 A
@@ -857,7 +989,7 @@ old barn repairs.
 ~
 15 64 0 0 0 16385 0 0 0
 15 1 -1 0
-4 0 51.00
+4 0 100.00
 E
 trap bug hand-crafted~
    A small box made by Gag herself.  It is suprisingly well built, and has
@@ -877,14 +1009,20 @@ A well-stoked fire is raging inside this fireplace.
 100 0 -1 0
 1000 0 100.00
 #8171
-wolverine tooth~
+tooth gold cord~
 a gold-dipped tooth on a leather cord~
 A small tooth dipped in gold, lies here attached to a leather cord.~
 Could this be for the secret door in the bar?
 ~
-18 0 0 0 0 1 0 0 0
+11 2 0 0 0 16385 0 0 0
 0 0 0 0
-1 0 0.50
+1 2000 9.00
+A
+19 2
+A
+18 2
+A
+13 15
 #8172
 anvil~
 Magda's anvil~
@@ -892,7 +1030,7 @@ A worn old anvil that has seen a lifetime of beatings is here waiting for more.~
 ~
 12 2 0 0 0 1 0 0 0
 0 0 0 0
-300 10000 100.00
+500 10000 100.00
 E
 anvil~
    You are feasting your eyes on a large heavily used anvil.  Magda loves this
@@ -901,15 +1039,16 @@ some sort of romantic relationship with this block of hardened steel.  She
 likes to oil it and pound it hard.  Really?  
 ~
 #8173
-floor safe~
+safe floor floor-safe~
 a floor safe~
 A hardened-steel forged plate is bolted to the ground with a theft-proof slot cut into the top.~
+A heavy-duty floor safe.
 ~
 15 0 0 0 0 1 0 0 0
-1000 15 8174 0
-1000 0 100.00
+300 15 8174 0
+500 1 100.00
 #8174
-floor safe key~
+small key~
 the key to Finn's floor safe~
 A small key on a leather cord is lying here.~
 ~
@@ -923,13 +1062,37 @@ A massive pile gold coins is here!~
 ~
 20 0 0 0 0 1 0 0 0
 11111 0 0 0
-0 0 0.00
+0 0 100.00
+#8177
+smouldering cigar~
+a large smouldering cigar~
+A lit cigar is burning on the floor.~
+~
+3 33554497 0 0 0 131073 0 0 0
+0 0 0 0
+0 5250 5.00
+A
+18 2
+A
+19 2
+A
+6 2
+#8178
+ashtray~
+a large brass ashtray~
+An ornate bronze ashtray is sitting on a shelf here.~
+~
+15 0 0 0 0 0 0 0 0
+50 0 -1 0
+300 300 100.00
 #8188
 javelin~
 a short javelin~
 A small spear has been left here.~
 ~
-5 0 0 0 0 319489 0 0 0
+5 64 0 0 0 319489 0 0 0
 0 3 1 14
 0 0 100.00
+A
+6 1
 $~

@@ -55,9 +55,9 @@ a simple iron key~
 a simple iron key~
 A plain iron key is lying here.~
 ~
-18 0 0 0 0 1 0 0 0
+18 4 0 0 0 1 0 0 0
 0 0 0 0
-3 10 100.00
+3 10 33.00
 #14506
 a small bone saw~
 a small bone saw~
@@ -75,14 +75,14 @@ A black steel safe sits here in a corner.~
 A safe made of thick, black steel with a single keyhole in the front.
 ~
 15 0 0 0 0 1 0 0 0
-100 6 14508 0
+100 15 14508 0
 1000 100 100.00
 #14508
 black steel key~
 a black steel key~
 A small black key made of steel glints in the light.~
 ~
-18 0 0 0 0 1 0 0 0
+18 4 0 0 0 1 0 0 0
 0 0 0 0
 2 0 75.00
 #14509
@@ -90,7 +90,7 @@ keyring ring ~
 an iron keyring~
 An iron keyring lies here.~
 ~
-15 0 0 0 0 1 0 0 0
+15 4 0 0 0 1 0 0 0
 10 0 -1 0
 1 0 85.00
 #14511
@@ -98,9 +98,9 @@ thick iron key~
 a thick iron key~
 A large, thick key made of sits here.~
 ~
-18 0 0 0 0 1 0 0 0
+18 4 0 0 0 1 0 0 0
 0 0 0 0
-1 0 50.00
+1 0 33.00
 #14512
 large sign~
 a large sign~
@@ -186,4 +186,18 @@ The creature in this exhibit is extremely DANGEROUS.
 16 0 0 0 0 1 0 0 0
 0 0 0 0
 100000000 0 100.00
+#14537
+incisor tundra wolf~
+a sharp incisor of a Tundra wolf~
+A viscious looking incisor of a large animal gleams in the light.~
+~
+11 0 0 0 0 16385 0 0 0
+0 0 0 0
+1 0 7.00
+A
+5 2
+A
+19 1
+A
+13 5
 $~

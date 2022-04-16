@@ -1,13 +1,15 @@
 #31601
-1~
-a tarnished oil lamp~
+enchanted oil lamp~
+an enchanted oil lamp~
 A tarnished brass oil lamp lays here half empty, burning softly.~
 ~
-1 1 0 0 0 16385 0 0 0
+1 1 0 0 0 278529 0 0 0
 0 0 -1 0
-3 10 15.00
+3 1000 9.00
 A
-26 10
+19 1
+A
+29 3
 #31602
 brown leather bound journal~
 a brown leather-bound journal~
@@ -15,7 +17,7 @@ A deep brown leather-bound journal lies here gathering dust.~
 ~
 12 0 0 0 0 16385 0 0 0
 0 0 0 0
-2 1000 9.00
+2 1000 30.00
 A
 4 2
 A

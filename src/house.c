@@ -708,7 +708,6 @@ ACMD(do_house)
 /* crash-save all the houses */
 void House_save_all(void)
 {
-
   int i;
   int real_house;
 

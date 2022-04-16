@@ -126,15 +126,15 @@ D1
 ~
 0 0 3606
 E
+crypt~
+   An antiquated and heavily weathered coat of arms can be seen but not
+identified due to the extreme damage.  
+~
+E
 holes~
    As you peer inside you can see that the interior was more than likely quite
 opulent at one time, now it had been destroyed by tomb raiders and then left
 to be forgotten and covered in dust.  
-~
-E
-crypt~
-   An antiquated and heavily weathered coat of arms can be seen but not
-identified due to the extreme damage.  
 ~
 S
 #3606
@@ -747,7 +747,7 @@ S
 Newbie Broadcast Room 3 ~
 This is a room, that houses a place holder mob that has a noise function which broadcasts down to the player a useful newbie tip.
 ~
-36 0 0 0 0 0
+36 1040 0 0 0 0
 D5
 ~
 ~

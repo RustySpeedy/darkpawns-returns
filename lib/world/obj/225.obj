@@ -26,9 +26,9 @@ eye jewel sapphire chaos logrus~
 the Eye of the Logrus~
 A huge star sapphire on a glistening platinum chain lies here.~
 ~
-8 68443 0 0 0 16389 0 0 0
+8 16843611 0 0 0 16389 0 0 0
 0 0 0 0
-2 50000 100.00
+2 10000 100.00
 E
 eye jewel sapphire chaos chain logrus~
 It's the biggest damn star sapphire you've ever seen, and it's
@@ -37,17 +37,21 @@ and shifting within. As you gaze into it longer you start to feel
 drawn within the jewel.
 ~
 A
-29 13
+18 -2
+A
+19 -2
 A
 29 7
+A
+29 13
 #22502
 eye jewel sapphire chaos logrus~
 the Eye of the Logrus~
 A huge star sapphire on a glistening platinum chain lies here.~
 ~
-8 197467 0 0 0 16389 0 0 0
+8 16974155 0 0 0 16389 0 0 0
 0 0 0 0
-2 100000 100.00
+2 10000 100.00
 E
 eye jewel sapphire chaos chain logrus~
 It's the biggest damn star sapphire you've ever seen, and it's
@@ -57,15 +61,13 @@ jewel and assert your mental dominance over it, commanding it to
 your every whim.
 ~
 A
-18 2
-A
-19 2
-A
-17 -10
+29 7
 A
 29 13
 A
-29 7
+18 -1
+A
+19 -1
 #22503
 the Talisman of the Serpent~
 an unfinished object~
@@ -74,86 +76,4 @@ An unfinished object is lying here.~
 0 0 0 0 0 1 0 0 0
 0 0 0 0
 0 0 0.00
-#22520
-cloak shadows chaos~
-a wispy, ethereal cloak of shadows~
-A strange pile of fabric flits in and out of reality here.~
-~
-9 102036034 0 0 0 1025 0 0 0
-10 0 0 0
-6 4250 8.00
-A
-18 2
-A
-19 3
-A
-24 -10
-A
-29 19
-#22521
-blade shadows~
-a twisted, sinister blade forged from shadows~
-A twisted, sinister blade magically created from shadows lies here.~
-~
-5 33554627 0 0 0 0 0 0 0
-0 16 1 11
-0 0 100.00
-A
-19 5
-A
-18 5
-A
-24 -25
-A
-25 0
-A
-25 1
-#22522
-medallion chaos~
-an octogonal medallion of chaos~
-A gold and platinum ruby inlaid medallion is lying here.~
-~
-18 33554497 0 0 0 1 0 0 0
-0 0 0 0
-4 0 25.00
-#22523
-corrosive shadow draught~
-corrosive shadow draught~
-A rusted, pitted iron flask is lying here wrapped in shadows.~
-~
-10 33619970 0 0 0 1 0 0 0
-30 52 33 28
-4 1500 15.00
-#22524
-rimfire whiskey dragon glass~
-A glass of Dragon-Blood Whiskey~
-A glass filled with a blood-like alcohol lies here.~
-~
-17 33619993 0 0 0 1 0 0 0
-6 6 7 0
-5 42500 100.00
-#22525
-dragon steak~
-A hearty steak carved from the tail of a Shadow Dragon~
-A hearty steak dinner on a gilded platter lies here.~
-~
-19 65545 0 0 0 1 0 0 0
-40 0 0 0
-5 22500 100.00
-#22526
-vial seraphim blood~
-A vial of blood from a Divine Seraphim~
-A holy vial of angellic blood lies here carelessly forgotten.~
-~
-10 33620059 0 0 0 1 0 0 0
-30 52 67 67
-1 92500 100.00
-#22527
-vial silver dragon blood~
-A Vial of Silver Dragons Blood~
-A vial with a fierce bloody aura lies here.~
-~
-10 33554521 0 0 0 1 0 0 0
-30 66 36 52
-2 92500 100.00
 $~

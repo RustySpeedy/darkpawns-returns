@@ -1,11 +1,11 @@
 &R|&WBUILDER NAME&R|&WZone Name     &R|&WRoom Qty&R|&W Recom. LVL &R|&W ETA  &R|&n
-&R|&nArshane     &r|&nElven Castle  &r|&n 100    &r|&n 20-30      &r|&n Feb1 &R|&n
-&R|&nArshane     &r|&nArvandor      &r|&n 100    &r|&n Multi30+Rem&r|&n Mar1 &R|&n    
-&R|&nSlayer/Hodor&r|&nFrjosa Tundra &r|&n 300    &r|&n Multi30+Rem&r|&n Feb1 &R|&n
-&R|&nSlayer/Hodor&r|&nPine Forest   &r|&n 300    &r|&n 25+        &r|&n Feb1 &R|&n
-&R|&nSlayer/Hodor&r|&nFrjosa River  &r|&n 70+    &r|&n Multi30+Rem&r|&n Feb1 &R|&n
-&R|&nSlayer/Hodor&r|&nNorstar Taiga &r|&n 100    &r|&n 30+        &r|&n Feb1 &R|&n
-&R|&nSlayer/Hodor&r|&nNorstar Artery&r|&n 100    &r|&n 15+        &r|&n Feb1 &R|&n
-&R|&nNoogie      &r|&nNoogie Land   &r|&n 100    &r|&n 25+        &r|&n ???? &R|&n
-&R|&nVangaard    &r|&nCelestial Twr &r|&n 200    &r|&n Multi30+Rem&r|&n ???? &R|&n
-&R|&nAbraxas     &r|&nThe Mystery   &r|&n 100    &r|&n ???        &r|&n ???? &R|&n
+&R|&nArshane     &r|&nElven Castle  &r|&n 100    &r|&n 20-30      &r|&R Apr1 &R|&n
+&R|&nArshane     &r|&nArvandor      &r|&n 100    &r|&n Multi30+Rem&r|&R Apr1 &R|&n    
+&R|&nSlayer/Hodor&r|&nFrjosa Tundra &r|&n 300    &r|&n Multi30+Rem&r|&G OPEN &R|&n
+&R|&nSlayer/Hodor&r|&nPine Forest   &r|&n 300    &r|&n 25+        &r|&G OPEN &R|&n
+&R|&nSlayer/Hodor&r|&nFrjosa River  &r|&n 70+    &r|&n Multi30+Rem&r|&G OPEN &R|&n
+&R|&nSlayer/Hodor&r|&nNorstar Taiga &r|&n 100    &r|&n 30+        &r|&G OPEN &R|&n
+&R|&nSlayer/Hodor&r|&nNorstar Artery&r|&n 100    &r|&n 15+        &r|&G OPEN &R|&n
+&R|&nNoogie      &r|&nNoogie Land   &r|&n 100    &r|&n 25+        &r|&G OPEN &R|&n
+&R|&nVangaard    &r|&nCelestial Twr &r|&n 200    &r|&n Multi30+Rem&r|&R Apr1 &R|&n
+&R|&nAbraxas     &r|&nThe Mystery   &r|&n 100    &r|&n ???        &r|&R Apr1 &R|&n

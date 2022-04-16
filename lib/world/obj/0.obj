@@ -201,7 +201,7 @@ Some berries lie here, juicy and ripe.~
 ~
 19 65548 0 0 0 1 0 0 0
 12 0 0 0
-10 0 100.00
+0 0 100.00
 #33
 fun quest token~
 quest token~
@@ -210,7 +210,7 @@ Redeemable for 10 gold coins by Kja.
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 0 100.00
+1 1000 100.00
 #40
 hatred~
 Complete and Utter Hatred~
@@ -219,6 +219,66 @@ A huge sword has been abandoned here~
 6 4 0 0 0 8193 0 0 0
 10 1 100 0
 1 0 100.00
+#41
+holy avenger mask~
+a holy avengers battle mask~
+A mask made from the old gods glows brightly hovering above the ground.~
+~
+9 125620291 0 0 0 131073 0 0 0
+20 0 0 0
+3 0 5.00
+A
+19 20
+A
+18 20
+A
+13 110
+A
+12 110
+A
+20 -100
+A
+27 20
+#42
+white dragonscale legguards~
+a pair of white-dragonscale legguards~
+A pair of beautifly crafted legguards made from dragonscales lye here.~
+~
+9 226283843 0 0 0 65537 0 0 0
+20 0 0 0
+0 0 0.00
+A
+18 5
+A
+18 5
+A
+13 100
+A
+12 100
+A
+22 -50
+A
+2 2
+#43
+angelic wings~
+some beautiful, angelic wings~
+Some wings cut from an angel lye here.~
+~
+9 226283587 0 0 0 1025 0 0 0
+24 0 0 0
+0 0 0.00
+A
+29 7
+A
+13 94
+A
+12 92
+A
+24 -50
+A
+21 -50
+A
+23 -50
 #50
 fire wall~
 a wall of fire~
@@ -243,6 +303,18 @@ A noxious cloud of poison gas fills the air.~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
 1 5500 5500.00
+#59
+vicious-looking, serrated katana~
+vicious-looking, serrated katana~
+Vicious-looking, serrated katana~
+~
+5 17100864 0 0 0 8193 0 0 0
+0 9 3 3
+5 0 1.00
+A
+19 5
+A
+18 5
 #64
 circle summoning~
 a circle of summoning~
@@ -256,7 +328,7 @@ Nyte Shade~
 Nyte Shade~
 An ancient wicked dagger lies here.~
 ~
-5 65546 0 0 0 8192 0 0 0
+5 65674 0 0 0 8192 0 0 0
 0 1000 1 11
 1 0 100.00
 A
@@ -285,8 +357,8 @@ a really bad thing~
 A really bad thing is lying here.~
 ~
 5 0 0 0 0 24577 0 0 0
-0 100 20 0
-1 0 100.00
+0 100 20 11
+1 0 1.00
 A
 19 30
 A
@@ -294,9 +366,11 @@ A
 A
 2 5
 A
-1 5
+29 30
 A
-23 -50
+29 7
+A
+29 33
 #70
 potion lycanthropy~
 a potion of lycanthropy~
@@ -466,10 +540,7 @@ A dusty red-covered book sits on the ground.~
 16 1 0 0 0 16385 0 0 0
 0 0 0 0
 4 20 100.00
-E
-blah~
-Eh?
-~
+S 0 0
 E
 dusty red covered book time~
 The book looks as old as creation itself and its pages are completely blank
@@ -481,6 +552,10 @@ name is the secret to his control. When the moon is full, Senyakhaz will
 come if summoned...
 
 The remainder of the page crumbles before you can read further.
+~
+E
+blah~
+Eh?
 ~
 #91
 black rock meteorite~
@@ -614,7 +689,7 @@ An inkwell made from obsidian, illed with the ancient blood o Slayer himself. Th
 This belongs to Biscuit.
 ~
 1 16842763 0 0 0 262145 0 0 0
-0 0 0 0
+0 0 -1 0
 0 10000 0.00
 E
 ink~
@@ -626,4 +701,6 @@ A
 19 1
 A
 3 1
+A
+29 5
 $~

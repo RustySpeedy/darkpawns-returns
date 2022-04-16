@@ -22,14 +22,806 @@ A large book bound in muskoxen leather is here collecting dust.~
 3 2 0 0 0 16385 0 0 0
 30 3 3 82
 2 49999 100.00
+#31703
+ceremonial wendigo mask~
+a ceremonial &mWendigo&n mask~
+A peculiar looking mask has been discarded on the ground.~
+Twin bolts of red light shoot out from the eyes of $p, and into $N.
+~
+3 68190546 0 0 0 147457 0 0 0
+30 9 7 33
+1 999 0.00
+E
+mask ceremonial wendigo~
+   Black as sin, the mask is large and horrifying.  It has a large gaping
+mouth full of jagged teeth.  The eye holes are small and deep set.  
+~
+A
+19 1
+A
+6 -1
+A
+12 7
+A
+29 10
+A
+29 3
+A
+29 26
+#31704
+ancient draconian armguards~
+some &Cancient-draconian&n armguards~
+A set of very old, yet sturdy armguards are here.~
+~
+9 16777218 0 0 0 257 0 0 0
+7 0 0 0
+4 1000 0.00
+A
+19 1
+A
+17 -7
+A
+29 3
+A
+29 10
+A
+26 10
+A
+29 5
+#31705
+corrupted ethereal trinity power dagger~
+&yCorrupted &MEthereal &RTrinity&n, Power of the &WChosen One&n~
+There is something quite powerful floating above the ground here, best to just leave it be. The Chosen One will probably want this back.~
+~
+5 68198978 0 0 0 8193 0 0 0
+0 20 1 11
+3 666 0.00
+A
+19 3
+A
+18 -1
+A
+5 -3
+A
+29 13
+A
+28 -15
+#31706
+Ethereal Britches Shattered Illusions~
+&WEthereal&n britches of &GShattered &bI&Bl&bl&Bu&bs&Bi&bo&Bn&bs&n~
+A pair of mind shattering britches are here... kind of?~
+~
+9 323651 0 0 0 65537 0 0 0
+12 0 0 0
+18 8500 0.00
+A
+19 2
+A
+29 3
+A
+29 10
+A
+13 20
+#31707
+Traditional Pastafarian Colander ~
+Traditional Pastafarian Colander of the Church of the &MFl&Byi&Yng &ySpaghetti &RMonster&n~
+Not sure what the fuck your looking at right now, but it is horrifying and covered in spaghetti sauce, and its right here on the floor.~
+~
+9 65 0 0 0 17 0 0 0
+10 0 0 0
+5 7000 0.00
+A
+19 2
+A
+18 2
+A
+17 -10
+A
+24 -10
+A
+23 -10
+A
+29 33
+#31708
+mask faces~
+a mask of many faces~
+A mask of many faces has been carelessly left here.~
+~
+9 2 0 0 0 131073 0 0 0
+7 0 0 0
+2 233 0.00
+A
+17 22
+A
+18 4
+A
+19 2
+A
+29 10
+A
+29 3
+A
+29 7
+#31709
+chosen~
+the &Yb&Wli&wnd&Win&Yg&n aura of the &yChosen&n~
+&RIF FOUND return back to the first Wizard or Chosen you see. &W"GET CHOSEN"&n~
+~
+1 16777563 0 0 0 262145 0 0 0
+0 0 -1 0
+1 9999 0.00
+A
+19 2
+A
+29 3
+A
+29 1
+A
+29 26
+#31710
+ancient-draconian kataars~
+a pair of &Cancient-draconian&n kataars~
+A pair of kataars set here, abandoned and unwanted.~
+~
+9 0 0 0 0 129 0 0 0
+3 0 0 0
+2 999 0.00
+A
+19 3
+A
+29 7
+A
+17 -10
+#31711
+esoteric combat black gloves~
+some &mesoteric&n black-combat gloves~
+Some kind of black material is hardly visible on the ground, could be gloves maybe?~
+~
+9 110109186 0 0 0 129 0 0 0
+4 0 0 0
+2 9999 0.00
+A
+19 4
+A
+28 10
+A
+14 50
+#31712
+naginata plague bringer~
+the &cNaginata&n known as, "&GP&glague &GB&gringer&n"~
+A mysterious naginata lay in the dust carelessly.~
+~
+5 268435520 0 0 0 8193 0 0 0
+0 10 4 3
+0 9999 0.00
+A
+19 4
+A
+18 3
+A
+23 -15
+A
+24 -15
+A
+17 -4
+#31713
+dragon familiar~
+a small, &Cd&cra&Bg&co&Cn&n familiar~
+A very rare, very old dragon familiar is here, if found return to Fei.~
+~
+3 206889058 0 0 0 278529 0 0 0
+35 10 10 93
+0 5000 0.00
+A
+19 2
+A
+21 -15
+A
+24 -15
+A
+18 2
+A
+14 20
+#31714
+clue~
+a Clue!~
+A clue is lying here.~
+Valor will lead to Salvation
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+1 0 0.00
+#31715
+note reconstructed~
+a reconstructed note~
+A note is lying here.~
+The fallen knight in shining armor makes plans within plans to safeguard the world from evil.
+he knows the enemy!
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0.00
+#31716
+book old grubby journal~
+a Grubby old journal~
+A pile of moulding papers lies here.~
+~
+16 65544 0 0 0 1 0 0 0
+0 0 0 0
+1 5 0.00
+E
+Journal book grubby old~
+Skimming through the pages this appears to be the journal of an adventurer or perhaps a spy. The writer appears to have been falling into madness as it progresses
+it appears as though someone has been trying to decipher it and has put notes in the margins. The Later sections all focus on an impending doom, one phrase has been circled repeatedly. Ask Amantis, Amantis knows!
+~
+#31717
+hint~
+it's a hint!~
+Pick it up you animal~
+She may be one of the greatest in the land with a sword but she has chosen the wrong side and we will crush her armies!
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0.00
+E
+hint~
+She may be one of the greatest in the ladn with a sword but she has chosen the wrong side in this conflict and we will crush her armies!
+~
+#31718
+Hat Crocodile tooth~
+a &GCrocodile&n tooth hat~
+A black hat with crocodile teeth along the brim lies here forgotten.~
+~
+9 0 0 0 0 17 0 0 0
+16 0 0 0
+5 4000 0.00
+A
+19 3
+A
+18 2
+A
+13 20
+A
+17 -5
+A
+25 13
+A
+6 3
+#31719
+Crocodile skin jacket~
+a &GCrocodile Skin&n Jacket~
+An unfinished object is lying here.~
+~
+9 0 0 0 0 1025 0 0 0
+15 0 0 0
+10 4000 0.00
+A
+19 2
+A
+29 36
+A
+13 20
+A
+17 -5
+A
+12 20
+A
+28 10
+#31720
+rune fork~
+a &RRuned&n fork~
+It's a fork~
+~
+5 0 0 0 0 8193 0 0 0
+0 7 6 11
+2 1000 0.00
+E
+hotep~
+upon closer inspection the runes apear to be a story, a story of a great battle between good and evil, Black and white, Light and Shadows, the world hangs in the balance which path will you choose? the shorter easier path, or the longer more perilious but
+more rewarding
+~
+E
+fork~
+The runes glow faintly, you can barely make something out about.....Bubba &RHotep&n
+~
+A
+25 3
+A
+1 -10
+A
+19 -4
+A
+18 -4
+A
+29 31
+A
+29 9
+#31721
+runed spoon~
+a &RRuned&n Spoon~
+There is nothing here.~
+~
+3 81589792 0 0 0 16385 0 0 0
+100 0 1 35
+0 2000 0.00
+E
+Yourself~
+Look at yourself! listening to a spoon! you need a vacation, you should go camping. I hear you can see the Oddest things when you go camping!
+~
+E
+truth~
+There is no spoon. Then youll see that it is not the spoon that bends, it is only &RYourself&n
+~
+E
+spoon~
+There Is No Spoon Do not try and bend the spoon, thats impossible. Instead, only try to realize the &Rtruth&n
+~
+A
+29 31
+A
+5 -18
+A
+27 50
+A
+12 -126
+A
+12 -126
+A
+4 18
+#31722
+Runed Knife Machete~
+a huge &RRuned&n Machete~
+Now THAT's a Knife!~
+~
+5 405017939 0 0 0 8193 0 0 0
+0 42 1 3
+10 4000 0.00
+E
+runes~
+These runes apear to be less like writing and more like pictographs. A great sage and a Master smith. A choice.
+~
+E
+knife~
+This appears to be a huge knife, or perhaps a blade remounted. The &Rrunes&n along it's tang glow brightly
+~
+A
+29 31
+A
+25 25
+A
+26 127
+A
+13 20
+A
+29 12
+A
+2 -10
+#31723
+scroll defenses~
+a scroll of Defenses~
+A piece of paper lies here~
+~
+2 0 0 0 0 1 0 0 0
+100 73 65 66
+0 1000 0.00
+#31724
+immovable object staff~
+the Immovable object~
+A stick stands here unmoving.~
+~
+4 0 0 0 0 8193 0 0 0
+40 1000 10 73
+20 4000 0.00
+A
+17 -30
+A
+13 30
+A
+26 10
+A
+18 4
+#31725
+unstoppable force staff~
+the unstoppable force~
+What appears to be a large Pin streaks through the room, passing through everything in it's path.~
+~
+4 0 0 0 0 8193 0 0 0
+100 1000 20 94
+20 4000 0.00
+#31726
+staff of hellfire~
+staff of hellfire~
+An unfinished object is lying here.~
+~
+4 0 0 0 0 24577 0 0 0
+100 1000 20 92
+0 0 0.00
+#31727
+dragon tea cup urine~
+a small cup of distilled dragon tea~
+Something smells like a dragon just couldn't make it to the corner of the cave.~
+it smells like...urine
+~
+10 67 0 0 0 1 0 0 0
+100 52 52 66
+1 2000 0.00
+E
+tea~
+it smells like....urine
+it probably is
+~
+#31728
+note scrap paper~
+a Scrap of paper~
+It's sticky on one side and you can write on the other!~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+0 0 0.00
+E
+note~
+Seek out the old man in priestly robes standing ever watchful in the garden.
+~
+#31729
+tome spells~
+a tome of spells~
+An unfinished object is lying here.~
+~
+2 0 0 0 0 1 0 0 0
+100 23 91 2
+0 1000 0.00
+#31730
+beaten journal~
+a beaten up old journal~
+A dirty black book~
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+5 1000 0.00
+E
+journal~
+I've chased the foul demon here, to this cursed place, and still she runs! to the deepest depths! there is no turning back a choice has to be made.
+~
+#31731
+ring cold fire~
+a ring of &Bcold&n &RFire&n~
+It's a burning ring of fire~
+~
+9 16777216 0 0 0 3 0 0 0
+8 0 0 0
+0 5000 0.00
+A
+12 15
+A
+19 3
+A
+18 3
+A
+13 15
+A
+29 3
+A
+29 1
+#31732
+Great camping Implement~
+the Great &bBlessed&n Camping Implement~
+It's a knife. No! a spoon, No! a fork! it could be anything!~
+~
+5 323 0 0 0 8193 0 0 0
+0 13 3 3
+10 3000 0.00
+A
+19 5
+A
+17 -15
+A
+24 -20
+A
+25 25
+A
+29 12
+A
+25 19
+#31733
+flaming shadows leggings~
+Leggings of &RFlaming&n &bShadows&n~
+Shadow flames leap up your legs here.~
+~
+9 0 0 0 0 33 0 0 0
+13 0 0 0
+6 3000 0.00
+A
+19 2
+A
+13 15
+#31734
+circle flaming shadows~
+a circle of &RFlaming&n &bShadows&n~
+Shadows surrounded by fire.~
+~
+9 208465987 0 0 0 2049 0 0 0
+7 0 0 0
+5 3000 0.00
+A
+13 15
+A
+12 15
+A
+18 2
+A
+26 15
+A
+28 15
+A
+19 3
+#31735
+burning wall fire~
+a Burning wall of &RFire&n~
+It's a &RFirewall&n~
+~
+9 0 0 0 0 513 0 0 0
+15 0 0 0
+10 3000 0.00
+A
+13 15
+A
+12 15
+A
+14 15
+A
+26 10
+A
+28 10
+#31736
+Horn ages~
+the Horn of ages~
+A Horn made of porcelain.~
+~
+4 33554499 0 0 0 16385 0 0 0
+120 100 10 52
+5 5000 0.00
+A
+19 2
+A
+12 15
+A
+27 10
+A
+29 26
+#31737
+shadowy boots~
+some &bShadowy&n boots with &Rflames&n licking at the heels.~
+Some very stylish boots float here.~
+~
+9 0 0 0 0 65 0 0 0
+10 0 0 0
+10 5000 0.00
+A
+27 3
+A
+12 10
+A
+5 2
+A
+13 10
+A
+29 6
+#31740
+Fancy gold chain used to belong to Rick James~
+Fancy gold chain used to belong to Rick James~
+It's a chain made of gold. so fancy~
+~
+5 358334595 0 0 0 8193 0 0 0
+0 14 3 10
+5 5000 0.00
+A
+5 -3
+A
+17 -20
+A
+19 5
+A
+18 10
+A
+27 20
+A
+29 5
+#31741
+lone ranger start belt buckle~
+a belt buckle in the shape of a &WStar&n~
+It's a star, it doesn't seem to serve any purpose.~
+The Lone Ranger's pants must be around his ankles about now!
+~
+9 75288899 0 0 0 2049 0 0 0
+7 0 0 0
+3 5000 0.00
+A
+19 3
+A
+5 1
+A
+27 2
+A
+12 10
+A
+13 10
+A
+24 -5
+#31742
+dragon eye divine allseeing~
+the all-seeing eye of the d&Wi&nv&Wi&nn&We&n dragon~
+A great eye floats here wreathed in flames, watching your every move. Its' gaze bores into your mind and you feel your sanity slipping away.~
+~
+9 77358419 0 0 0 131073 0 0 0
+8 0 0 0
+1 6666 0.00
+A
+19 3
+A
+18 2
+A
+2 2
+#31743
+divine dragon epidermus claw keratinized~
+a keratinized modification of the d&Wi&nv&Wi&nn&We&n dragon epidermus~
+A translucent claw floats here, fading in and out of reality.~
+~
+5 76608579 0 0 0 8193 0 0 0
+0 21 1 11
+5 6666 0.00
+A
+19 4
+A
+18 4
+A
+29 12
+A
+29 1
+A
+29 3
+#31744
+dragon soul divine crystal orb~
+the physical manifestation of the soul of the d&Wi&nv&Wi&nn&We&n dragon~
+You feel drawn to this crystal, you can't look away...you feel your soul drifting out of your body and into the glowing sphere.~
+~
+9 355 0 0 0 262145 0 0 0
+5 0 0 0
+0 5000 0.00
+A
+19 2
+A
+18 2
+A
+29 1
+A
+29 26
+A
+24 -10
+A
+9 -20
+#31745
+orb souls~
+the &WOrb&n of &RSouls&n~
+A Swirling maelstrom of light hovers just above the gound.~
+~
+9 16777283 0 0 0 16385 0 0 0
+10 0 0 0
+1 6666 25.00
+A
+19 3
+A
+24 -5
+A
+29 7
+A
+17 -5
+A
+9 -10
+#31746
+souls vortex~
+a small vortex of tortured &RSouls&n~
+A small vortex of tortured souls pulls you in.~
+~
+9 67 0 0 0 4097 0 0 0
+4 0 0 0
+1 5000 25.00
+A
+19 2
+A
+18 2
+A
+13 10
+A
+27 2
+A
+24 -2
+#31747
+wings cherubum~
+Smouldering Cherubim wings~
+Somehow these Fiery wings are smouldering~
+~
+9 73196882 0 0 0 1025 0 0 0
+15 0 0 0
+0 0 0.00
+A
+19 3
+A
+27 5
+A
+29 26
+A
+12 15
+A
+5 1
+A
+9 -50
+#31748
+noodley appendage~
+noodley appendage~
+An unfinished object is lying here.~
+~
+19 16908610 0 0 0 257 0 0 0
+10000 0 0 100
+1 3333 0.00
+A
+19 2
+A
+17 -15
+A
+18 2
+A
+13 10
+A
+24 -5
+A
+9 -10
+#31749
+test portal~
+test portal~
+A large burning Gate opens before you. all that awaits you is death.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+400 7000 0.00
+S portal.lua 2
+#31750
+moustache beard pussy prison~
+a Prison pussy with a stripe~
+Ziz lost his moneymaker~
+~
+9 0 0 0 0 131073 0 0 0
+0 0 0 0
+1 100 0.00
+A
+13 2
+A
+6 -6
+A
+9 20
+#31751
+holy avenger~
+a holy avenger~
+A holy-looking longsword loes here glowing radiantly.~
+~
+5 258798915 0 0 0 8193 0 0 0
+0 8 3 3
+12 7000 0.00
+A
+19 4
+A
+18 4
+A
+25 9
+A
+25 11
 #31778
 dark matter containment sphere~
 an indestructable sphere imprisoning dark-matter~
 A sphere containing some sort of violent energy is here causing a disruption in the world around it.~
 ~
-12 323 0 0 0 262145 0 0 0
-0 0 0 0
-1 9999 1.00
+9 323 0 0 0 262145 0 0 0
+100 0 0 0
+1 9999 0.25
 A
 9 -30
 A
@@ -37,11 +829,11 @@ A
 A
 19 3
 A
-29 30
-A
 29 3
 A
 29 1
+A
+29 17
 #31798
 open furnace~
 a large open furnace~

@@ -6,7 +6,6 @@ Cool water spurts from the granite head of a revered saint, once attached to its
 23 0 0 0 0 0 0 0 0
 999999 999999 15 0
 1000004 4219 100.00
-S portal.lua 2
 E
 dragon fountain~
 The water looks clear and cold, and stems froma source that can only be
@@ -138,13 +137,13 @@ A shimmering portal of black light hovers in the middle of the room.~
 0 0 -1 0
 1 14405 100.00
 #19612
-arithrix bulletin board~
-spare~
-The clan bulletin board has been affixed to a nearby wall.~
+an otherworldy pebble~
+an otherworldy pebble~
+An innocuous pebble lies here on the ground~
 ~
-12 0 0 0 0 0 0 0 0
+12 2 0 0 0 1 0 0 0
 0 0 0 0
-10 1000 100.00
+2 0 0.00
 #19613
 fountain~
 spare~
@@ -153,6 +152,44 @@ A dragon-shaped fountain spurts cool water into the air.~
 23 0 0 0 0 0 0 0 0
 999999 999999 15 0
 1000004 1000 100.00
+#19614
+Leon Carton Milk~
+Leon's Carton of Milk~
+A discarded carton of "Leon's Milk" lies here forgotten.~
+~
+17 65601 0 0 0 16385 0 0 0
+25 25 10 0
+30 1000 100.00
+A
+12 15
+A
+27 10
+A
+13 15
+#19615
+Leon's Supply Crate~
+Leon's Supply Crate~
+A crate left behind by "Leon's Deliveries Inc."~
+~
+15 33554498 0 0 0 0 0 0 0
+1000 1 -1 0
+0 2000 100.00
+#19616
+talisman holy trinity~
+a talisman of the holy trinity~
+A talisman depicting the holy trinity lies here in the dust.~
+~
+12 65 0 0 0 1 0 0 0
+0 0 0 0
+2 0 0.00
+#19617
+Trinity's Treasure Trunk~
+Trinity's Treasure Trunk~
+A chest with multiple drawers, shelves and openings sits here.~
+~
+15 33554497 0 0 0 0 0 0 0
+1000 3 19616 0
+0 2500 100.00
 #19626
 sacred chao~
 the Sacred Chao~
@@ -189,6 +226,20 @@ A small, metallic black key with the ensignia of Vargus on it sits here.~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
 2 100 100.00
+#19630
+mat mathilda backpack pack~
+Mathilda's Backpack~
+A worn and discarded leather backpack lies on the floor.~
+~
+15 65 0 0 0 9 0 0 0
+120 1 -1 0
+30 9999 100.00
+E
+mat mathilda backpack pack~
+   This leather backpack looks a bit small like it was for a child.  It
+certainly has seen better days.  Covering up a small hole is a patch that says
+"Cleaner".  
+~
 #19640
 board clan bulletin~
 the Caelitis bulletin board~
@@ -212,7 +263,7 @@ Someone left a beautiful white gold talisman which is lying here in the dirt.~
 ~
 12 1 0 0 0 1 0 0 0
 0 0 0 0
-1 0 100.00
+1 100 100.00
 E
 white gold talisman~
 Embedded with diamonds and stones from across the land, this talisman gleams
@@ -272,6 +323,22 @@ memorializes the great adventurers who have fallen to the depths of the gorge.
 The purest mineral water is pumped into this sculpture through an underground
 well, providing quality refreshment to the birds and the friars.
 ~
+#19648
+humanoid finger bone~
+a dessicated human-like finger bone~
+A dessicated meta-carpal lies here in the dust forgotten.~
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+0 100 0.00
+#19649
+loot container chest victim~
+a Chest of Loot labeled "Innocent Victim's Stuff"~
+A chest of loot labeled "Innocent Victim's Stuff" lies here.~
+~
+15 1 0 0 0 0 0 0 0
+750 3 19648 0
+10 7500 100.00
 #19650
 titanium key~
 a titanium key~
@@ -292,7 +359,7 @@ A glass key lies here.~
 ~
 12 0 0 0 0 16385 0 0 0
 0 0 0 0
-1 0 100.00
+1 1000 100.00
 E
 key glass~
 Etched into the glass are the letters "MP".
@@ -421,7 +488,26 @@ An ancient statue, chiseled from granite, of an unknown saint stands here missin
 ~
 12 1 0 0 0 0 0 0 0
 0 0 0 0
-10 31798 100.00
+10 4219 100.00
+S portal.lua 2
+E
+statue saint~
+   A statue of an unkown saint which was once beautiful piece of
+crafstmanship, made from fine marble and gold leaf.  There is a message carved
+into the back of the base.  
+~
+E
+message portal~
+This portal will take you to the Cozy Inn in Bhyroga Village.
+~
+#19681
+gate gateway kir oshi~
+a gateway to Kir Oshi~
+A large intricately designed gateway is here, looking through it you can see the bustling city of Kir Oshi.~
+~
+12 1 0 0 0 0 0 0 0
+0 0 0 0
+999 18236 100.00
 S portal.lua 2
 #19686
 key iron~
@@ -466,6 +552,93 @@ A
 18 25
 A
 29 31
+#19691
+anus~
+a Nun's anus~
+A ragged brown toothed woman, in a nuns garb, with a fat ass lies on her belly over a bench, smacking her bare buttcheeks loudly. She is down right foul smelling, beckoning you and all your heathen brethren into her darkness.~
+The anus of Agnes absorbs you..
+~
+12 0 0 0 0 1 0 0 0
+0 0 0 0
+1000 8004 100.00
+S portal.lua 2
+E
+nun anus ass butthole~
+   The entryway is dark, veiny, and smells of dead sea creatures.  This gaping
+poop shoot has seen better days.  It may be best if you just take a running
+start at it.  
+You notice something strange about her left buttcheek...
+~
+E
+cheek~
+   There is a tattoo under the left ass cheek.  
+~
+E
+tattoo~
+This asshole leads to the Altar in Kir Drax'in.
+~
+#19692
+statue fountain evil~
+an fountain of whiskey~
+A large bowl sits bubbling at the base of a large obsidian statue depicting what can only be described as sinister.~
+~
+23 0 0 0 0 0 0 0 0
+9999 9999 5 0
+10004 21279 100.00
+S portal.lua 2
+E
+statue fountain evil~
+   At the base of this freaky ass statue lies a obsidian bowl large enough to
+bath in filled with whiskey.  A dark, obsidian based statue with various acts
+of torture, sexual perversions, and other heathenistic behaviors.  There are
+naked men, women, demons, and a sly looking trickster they call Loki all
+involved in these acts in some way shape or form.  There is a message carved
+in the back of the statue in common tongue.  
+~
+E
+portal message~
+This portal will take you to the southern gates of Aloazar.
+~
+#19693
+Jormungand serpent portal~
+a obsidian statue of Jormungand~
+A terrifying obsidian statue of a large sea serpent known as Jormungand is sitting here, out of place.~
+~
+12 0 0 0 0 0 0 0 0
+0 0 0 0
+500 11087 100.00
+S portal.lua 2
+E
+statue serpent jormungand~
+   A large statue made entirely from obsidian.  Absolutely flawless
+chisel-work it is awe inspiring and terrifying and the same time.  Long fangs
+threaten you from this enormous snakes wide open mouth.  There is a message
+carved into the back in common tongue.  
+~
+E
+message portal~
+This will take you to the Desert Tunnels near the Sphinx's.
+~
+#19694
+allfather fountain~
+a shrine to the Allfather~
+An extraordinary granite statue of the Allfather towers over you and the sparkling drinking fountain at its feet.~
+~
+23 2 0 0 0 0 0 0 0
+9999999 9999999 0 0
+10000004 31798 100.00
+S portal.lua 2
+E
+allfather fountain~
+   The statue is solid granite and perfectly resembles Odin standing tall and
+powerful.  There are runes etched into the base of the statue which doubles as
+a drinking fountain.  There is a message carved in common tongue around the
+backside.  
+~
+E
+message portal~
+This will take you to Skathe's Retreat in the north, brother.
+~
 #19695
 rocky key~
 a rocky key~

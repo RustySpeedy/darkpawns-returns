@@ -2080,58 +2080,6 @@ SPECIAL(pray_for_items)
 
    argument = one_argument(argument, buf);
 
-  if (!strcmp(buf,"immortality"))
-     {
-        if (    (!strcmp(GET_NAME(ch),"Serapis")) ||
-        (!strcmp(GET_NAME(ch),"Orodreth")) )
-    {
-                GET_LEVEL(ch) = 40;
-                send_to_char("Welcome back ",ch);
-                send_to_char(GET_NAME(ch),ch);
-                send_to_char(".\n\r",ch);
-                send_to_char("You feel the power pulse through your veins again!\n\r",ch);
-        }
-        if ((!strcmp(GET_NAME(ch),"Frontline")))
-        {
-                GET_LEVEL(ch) = 39;
-                send_to_char("Welcome back ",ch);
-                send_to_char(GET_NAME(ch),ch);
-                send_to_char(".\n\r",ch);
-                send_to_char("You feel the power pulse through your veins again!\n\r",ch);
-        }
-        if ( (!strcmp(GET_NAME(ch), "this is not here")) ||
-             (!strcmp(GET_NAME(ch), "neither is this")) )
-        {
-                GET_LEVEL(ch) = 36;
-                send_to_char("Welcome back ",ch);
-                send_to_char(GET_NAME(ch),ch);
-                send_to_char(".\n\r",ch);
-                send_to_char("You feel the power pulse through your veins again!\n\r",ch);
-        }
-        if ( (!strcmp(GET_NAME(ch),"this is not here")) )
-        {
-                GET_LEVEL(ch) = 35;
-                send_to_char("Welcome back ",ch);
-                send_to_char(GET_NAME(ch),ch);
-                send_to_char(".\n\r",ch);
-                send_to_char("You feel the power pulse through your veins again!\n\r",ch);
-        }
-        if ((!strcmp(GET_NAME(ch),"this is not here")) ||
-        (!strcmp(GET_NAME(ch), "no entry here")) ||
-        (!strcmp(GET_NAME(ch), "neither here")) ||
-        (!strcmp(GET_NAME(ch), "this is not here")))
-        {
-                GET_LEVEL(ch) = 31;
-                send_to_char("Welcome back ",ch);
-                send_to_char(GET_NAME(ch),ch);
-                send_to_char(".\n\r",ch);
-                send_to_char("You feel the power pulse through your veins again!\n\r",ch);
-        }
-    return(TRUE);
-
-  } else
-     {
-
    strcpy(buf, "item_for_");
    strcat(buf, GET_NAME(ch));
 
@@ -2162,11 +2110,9 @@ SPECIAL(pray_for_items)
       GET_GOLD(ch) = MAX(0, GET_GOLD(ch));
       return TRUE;
    }
-  }
 
   return FALSE;
 }
-
 
 SPECIAL(fearface)
 {

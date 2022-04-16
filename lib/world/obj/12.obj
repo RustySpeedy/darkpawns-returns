@@ -45,7 +45,7 @@ A small pile of ash lies here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-0 1000 15.00
+1 15000 100.00
 #1226
 sand reagent~
 a pinch of sand~
@@ -53,7 +53,7 @@ A small pile of sand lies here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 25 1.00
+1 25 100.00
 #1227
 eye beholder reagent~
 the eye of a beholder~
@@ -69,7 +69,7 @@ A small, stringy green leg is trying to move here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 400 1.00
+1 400 100.00
 #1229
 chunk iron reagent~
 a small chunk of iron~
@@ -93,7 +93,7 @@ A small crystal glitters brilliantly here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 50 1.00
+1 50 100.00
 #1232
 hop reagent~
 a hop~
@@ -121,7 +121,7 @@ A small, dirty lens is sitting here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 90 1.00
+1 90 100.00
 E
 lens~
 It's a round, dirty piece of glass.
@@ -141,7 +141,7 @@ A small, crystal prism sits here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 85 1.00
+1 85 100.00
 #1237
 hellstone reagent~
 a hellstone~
@@ -165,7 +165,7 @@ A shard of obsidian is here.~
 ~
 12 65536 0 0 0 1 0 0 0
 0 0 0 0
-1 10 10.00
+1 10 100.00
 E
 shard obsidian~
 It's a small black piece of rock.
