@@ -289,7 +289,7 @@ demoted from a man of arms in Cedric's service to a commoner
 on account of stealing and spreading lies.  He resents his new
 status and wouldn't mind taking it out of your hide.
 ~
-2183210 0 0 0 66568 0 0 0 0 E
+2166826 0 0 0 66568 0 0 0 0 E
 15 5 -5 15d5+160 10d4+10
 30 14000
 8 8 1
@@ -324,11 +324,11 @@ placing the miseries of life into a context of harmony.  The congregation
 listens in rapt attention, hypnotized by the transcendent wisdom of this true
 holy man.
 ~
-8626202 0 0 0 177340 2 0 0 400 E
-30 -10 -20 30d5+6828 20d4+38
-0 60000
+8587294 0 0 0 1193148 2 0 0 400 E
+27 -15 -20 38d6+6000 40d8+52
+0 45000
 8 8 1
-BareHandAttack: 11
+BareHandAttack: 13
 Race: 0
 E
 #4321

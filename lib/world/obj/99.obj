@@ -248,7 +248,7 @@ A
 A
 19 1
 #9917
-holy robes valor meq~
+holy robes valor~
 holy robes of valor~
 A set of robes insribed with divine runes is lying here.~
 ~
@@ -375,6 +375,26 @@ A pile of disembodied paladin corpses is here.~
 13 0 0 0 0 0 0 0 0
 0 0 0 0
 500 0 15.00
+#9925
+Dispater Unholy Executioner Hood~
+Dispater's Unholy Executioners Hood~
+A scrap of cloth, dyed nearly black by the amount of blood its saturated with lies here in a puddle.~
+~
+9 217971651 0 0 0 17 0 0 0
+100 0 0 0
+125 1000 0.00
+A
+25 1
+A
+25 2
+A
+25 3
+A
+25 5
+A
+25 30
+A
+25 27
 #9930
 Change this to something else~
 a golden, bejewelled ornate statue~

@@ -153,15 +153,15 @@ You look west toward a dirty chicken coop.
 ~
 0 0 4307
 E
+trees~
+What, you never seen apple trees before?  It's got a trunk, branches, leaves,
+and apples.  Go figure!
+~
+E
 basket~
 This is a sturdy wicker basket filled with shiny red apples.  The fruit
 is top quality, as any rotten apples have been separated out to be used as
 feed.
-~
-E
-trees~
-What, you never seen apple trees before?  It's got a trunk, branches, leaves,
-and apples.  Go figure!
 ~
 S
 #4307
@@ -262,6 +262,11 @@ Within the wrought iron gate lies the courtyard of Cedric's manor.
 portcullis gate~
 1 4316 4312
 E
+portcullis~
+The keyhole to the iron portcullis looks as if a smoking
+pipe would unlock it.  Curious...
+~
+E
 coat~
 Rotherwood's family coat of arms is of old heraldric origin,
 and depicts a pair of lions rearing toward a silver-blue
@@ -271,11 +276,6 @@ matters, hard work, and drunkenness throughout the family's
 history.  Atop a black helm over the escutcheon is a yellow
 plumed crest.
 The motto at the bottom reads: "Dominus, Leo, Vino."
-~
-E
-portcullis~
-The keyhole to the iron portcullis looks as if a smoking
-pipe would unlock it.  Curious...
 ~
 S
 #4312
@@ -335,13 +335,13 @@ D5
 ~
 0 0 4312
 E
+furnishings~
+It's just a table, some chairs, and a couple of packages of dried meat.
+~
+E
 murder~
 Outside the thin murder holes carved out of the walls, peasants
 working Cedric's fields are visible to the east.
-~
-E
-furnishings~
-It's just a table, some chairs, and a couple of packages of dried meat.
 ~
 S
 #4314
@@ -456,16 +456,16 @@ D3
 ~
 0 0 4329
 E
-pulpit~
-It's a simple rectangular pillar of wood, carved and sanded, with
-a square slanted top to place holy books upon.  
-~
-E
 pictures~
 Eight pictures of saints are hung from the walls of the chapel, most
 prominent among them Saint Torres, the Lady of Retribution.  Characteristic
 among the portraits are robed, peaceful figures leading processions of
 followers before fading sunsets.
+~
+E
+pulpit~
+It's a simple rectangular pillar of wood, carved and sanded, with
+a square slanted top to place holy books upon.  
 ~
 S
 #4319
@@ -634,15 +634,15 @@ D2
 ~
 0 0 4328
 E
-baskets~
-Made straight from the hands of unpaid slave boys at the edge
-of a lash.  This is some quality stuff, you're envious.
-~
-E
 spices~
 Among the rare and treasured spices in Cedric's spicery are saffron,
 cumin, nutmeg, ginger, cloves, cinnamon, celery, onion, garlic, apple
 mint, almond, oilseed, olive leaf, parsley, rosemary, and dragon's wort.
+~
+E
+baskets~
+Made straight from the hands of unpaid slave boys at the edge
+of a lash.  This is some quality stuff, you're envious.
 ~
 S
 #4328

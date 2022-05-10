@@ -1529,7 +1529,7 @@ pool itself and you assume that this pool is used as a divining aide by
 the Dark Mage on occasion.  By going west you can wade out into the pool,
 there is another exit to the east.
 ~
-200 13 0 0 0 0
+200 29 0 0 0 0
 D1
 There appears to be a hallway to the east.
 ~
@@ -2063,7 +2063,7 @@ seldom used and maybe forgotten.  Interesting, you notice that someone has
 written something in the dust on the floor.
 The only exit is to the east.
 ~
-200 9 0 0 0 0
+200 262153 0 0 0 0
 D1
 A sturdy wooden door
 ~

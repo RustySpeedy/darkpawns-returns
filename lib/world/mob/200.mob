@@ -273,12 +273,11 @@ to churn and roll.  Torrents of misty air encircle the creature and a mouth
 of cruel fangs hisses at you from a snake-like head.  I think you'd have
 been better off not disturbing the pool.
 ~
-8478840 0 0 0 787656 0 0 0 -700 E
-29 -9 -19 29d5+391 19d4+19
+8478840 0 0 0 795848 0 0 0 -700 E
+29 -9 -19 29d6+5000 30d6+45
 500 55000
 8 8 0
 BareHandAttack: 10
-Race: 25
 E
 #20017
 tentacle water~
@@ -290,8 +289,8 @@ and stings your leg as it touches you.  Little suckers, with small, razor
 sharp teeth line one side of the massive arm and on the other a set of
 large spikes protrude every which way.
 ~
-86120 0 0 0 787528 0 0 0 -700 E
-22 -2 -12 22d5+230 14d4+14
+8515704 0 0 0 795720 0 0 0 -700 E
+22 -2 -12 22d5+1230 19d5+24
 0 30000
 8 8 0
 BareHandAttack: 10
@@ -449,7 +448,7 @@ long, sharp teeth.  His forked tongue flicks out as he sniffs the air,
 dripping a large spool of saliva from his mouth.
 ~
 8511518 0 0 0 132264 0 0 0 -1000 E
-36 -16 -26 36d5+3912 24d4+24
+36 -16 -26 36d5+6912 29d5+30
 6666 363000
 8 8 1
 BareHandAttack: 8

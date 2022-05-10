@@ -33,9 +33,27 @@ A small clear vial of tarry, black viscous fluid lies here.~
 ~
 10 0 0 0 0 1 0 0 0
 30 65 66 17
-2 0 100.00
+2 1000 100.00
 A
 29 0
+#31303
+wendigo bloody claws~
+the &rblood&y - &rsoaked &Df&We&Dr&Wo&Dc&Wi&Do&Wu&Ds &wclaws&n of the Wendigo~
+The ferocious claws of the legendary wendigo lay here in the dust.~
+~
+9 323665 0 0 0 129 0 0 0
+13 0 0 0
+10 12500 2.00
+A
+18 2
+A
+19 4
+A
+26 10
+A
+28 10
+A
+29 5
 #31309
 test weight~
 test weight~

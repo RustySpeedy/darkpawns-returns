@@ -102,6 +102,10 @@ A
 29 10
 A
 13 20
+A
+29 12
+A
+29 13
 #31707
 Traditional Pastafarian Colander ~
 Traditional Pastafarian Colander of the Church of the &MFl&Byi&Yng &ySpaghetti &RMonster&n~
@@ -290,9 +294,9 @@ A
 #31719
 Crocodile skin jacket~
 a &GCrocodile Skin&n Jacket~
-An unfinished object is lying here.~
+A jacket made from the skin of a large reptile languishes in the dirt~
 ~
-9 0 0 0 0 1025 0 0 0
+9 16777216 0 0 0 1025 0 0 0
 15 0 0 0
 10 4000 0.00
 A
@@ -455,9 +459,9 @@ note scrap paper~
 a Scrap of paper~
 It's sticky on one side and you can write on the other!~
 ~
-16 0 0 0 0 1 0 0 0
-0 0 0 0
-0 0 0.00
+15 0 0 0 0 16385 0 0 0
+1500 0 -1 0
+1 0 0.00
 E
 note~
 Seek out the old man in priestly robes standing ever watchful in the garden.
@@ -539,7 +543,7 @@ circle flaming shadows~
 a circle of &RFlaming&n &bShadows&n~
 Shadows surrounded by fire.~
 ~
-9 208465987 0 0 0 2049 0 0 0
+9 158134339 0 0 0 2049 0 0 0
 7 0 0 0
 5 3000 0.00
 A
@@ -574,18 +578,19 @@ A
 28 10
 #31736
 Horn ages~
-the Horn of ages~
+the true Horn of the Ages~
 A Horn made of porcelain.~
+upon closer inspection you notice an inscription around the mouthpiece of the horn. "May this Horn be your Salvation." with a stamp resmbling a pasta strainer.
 ~
 4 33554499 0 0 0 16385 0 0 0
 120 100 10 52
 5 5000 0.00
 A
-19 2
+19 3
 A
 12 15
 A
-27 10
+27 15
 A
 29 26
 #31737
@@ -712,8 +717,6 @@ A
 A
 24 -5
 A
-29 7
-A
 17 -5
 A
 9 -10
@@ -740,9 +743,9 @@ wings cherubum~
 Smouldering Cherubim wings~
 Somehow these Fiery wings are smouldering~
 ~
-9 73196882 0 0 0 1025 0 0 0
+9 73195858 0 0 0 1025 0 0 0
 15 0 0 0
-0 0 0.00
+0 6666 0.00
 A
 19 3
 A
@@ -776,14 +779,28 @@ A
 A
 9 -10
 #31749
-test portal~
-test portal~
+gate portal will pattern secret passageway~
+Only those pure of heart may enter here~
 A large burning Gate opens before you. all that awaits you is death.~
+If your Soul be black and twisted, enter here and meet your fate.
 ~
 1 0 0 0 0 0 0 0 0
 0 0 -1 0
-400 7000 0.00
+400 1212 0.00
 S portal.lua 2
+E
+gate portal~
+An inscription written in flames circles the gate, If your Soul be black and twisted, enter here and meet your fate. if not only your doom awaits.
+~
+E
+secret passage~
+In the dim light you make out ancient runes that read.
+Only those pure of heart may enter here, woe to all others who come near.
+~
+E
+will pattern~
+you feel a pull to another realm. Simply wish it, and step through the portal.
+~
 #31750
 moustache beard pussy prison~
 a Prison pussy with a stripe~
@@ -814,6 +831,161 @@ A
 25 9
 A
 25 11
+#31752
+tooth chain poison platimum dragon~
+a tooth dripping poison hanging from a platinum chain.~
+A small tooth disappears into the hole created by it's acidic coating.~
+There is something odd about this item. it...pulls you. You want to follow but know you shouldn't.
+~
+18 323650 0 0 0 5 0 0 0
+0 1 1 11
+1 7777 0.00
+A
+19 3
+A
+18 2
+A
+12 15
+A
+27 10
+A
+17 -10
+#31753
+weaponized souls lance~
+a Lance of weaponized &RSouls&n~
+You aren't sure what is keeping the souls trapped in there but they really don't look happy about it.~
+~
+5 157611523 0 0 0 8193 0 0 0
+0 23 1 14
+10 6666 0.00
+A
+19 5
+A
+18 5
+A
+29 12
+A
+29 13
+A
+17 -25
+A
+13 15
+#31754
+rift space time~
+a rift in space and time~
+You think you used to see sometihng here, but maybe not~
+~
+9 99414019 0 0 0 513 0 0 0
+25 0 0 0
+1 6666 0.00
+A
+19 3
+A
+23 -20
+A
+24 -20
+A
+13 20
+A
+29 5
+A
+26 10
+#31755
+soul patch~
+a &RSoul&n patch~
+Someone lost their head and left their face here.~
+~
+9 50331923 0 0 0 131073 0 0 0
+12 0 0 0
+0 666 0.00
+A
+19 3
+A
+18 2
+A
+13 10
+A
+24 -5
+A
+6 6
+#31756
+portable black hole~
+a portable black hole~
+All the light in the room appears to be sucked into a small point floating about 6 inches above the ground here.~
+~
+15 16777218 0 0 0 16385 0 0 0
+250 1 -1 0
+1 10000 0.00
+A
+19 2
+A
+27 10
+A
+12 25
+A
+17 -5
+#31757
+cursed wish~
+Egon's wish come true~
+That'll learn ya~
+poor egon
+~
+14 65672 0 0 0 491423 0 0 0
+0 0 0 0
+76 50 95.00
+A
+29 35
+A
+29 25
+A
+29 11
+A
+14 -125
+A
+14 -125
+A
+14 -125
+#31758
+death visage bone~
+&WDeath's&n Visage~
+A bleached skull lies here.~
+you stare into the face of Death, lets hope he doesnt come to claim it.
+~
+3 0 0 0 0 131073 0 0 0
+30 20 20 27
+5 999 5.00
+A
+27 3
+A
+12 10
+A
+9 50
+A
+5 1
+A
+29 3
+A
+29 1
+#31759
+war sword red~
+&rWar's&n Sword~
+a blade so sharp it seems to cut the light lies here~
+~
+5 434387283 0 0 0 8193 0 0 0
+0 14 3 3
+35 9001 5.00
+A
+19 3
+A
+17 -15
+A
+18 5
+A
+24 -10
+A
+29 10
+A
+26 10
 #31778
 dark matter containment sphere~
 an indestructable sphere imprisoning dark-matter~
@@ -821,7 +993,7 @@ A sphere containing some sort of violent energy is here causing a disruption in 
 ~
 9 323 0 0 0 262145 0 0 0
 100 0 0 0
-1 9999 0.25
+1 9999 0.75
 A
 9 -30
 A
