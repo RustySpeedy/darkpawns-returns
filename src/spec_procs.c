@@ -937,6 +937,7 @@ SPECIAL(dragon_breath)
     spell = SPELL_FROST_BREATH;
     break;
    case 11000:
+   case 31705:
     spell = SPELL_ACID_BREATH;
     break;
    case 11001:

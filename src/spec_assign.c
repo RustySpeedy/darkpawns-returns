@@ -217,7 +217,6 @@ void assign_mobiles(void)
   ASSIGNMOB(3010, postmaster);
 
   /* Ironwood Forest  */
-
   ASSIGNMOB(3119, thief); /* cutthroat */
   ASSIGNMOB(3103, magic_user);
   ASSIGNMOB(3113, magic_user);
@@ -230,6 +229,12 @@ void assign_mobiles(void)
   /* Bhyroga Valley */
   ASSIGNMOB(4202, magic_user);
   ASSIGNMOB(4209, dragon_breath);
+
+  /* Hatsumi/Sigfried's Random Shit */
+  ASSIGNMOB(31705, dragon_breath); /* fafnir */
+  ASSIGNMOB(31706, beholder); /* spaghetti monster */
+  ASSIGNMOB(31707, paladin); /* Senyakhaz */
+  ASSIGNMOB(14198, cleric); /* the One */
 
   /* Sulfur Fur Mountains */
   ASSIGNMOB(4704, magic_user); /* ice mage */
@@ -245,7 +250,6 @@ void assign_mobiles(void)
   ASSIGNMOB(4919, magic_user);
 
   /* Xixieqi highlands */
-
   ASSIGNMOB(5200, fighter);
 
    /* Taltos forest */
@@ -314,7 +318,6 @@ void assign_mobiles(void)
   ASSIGNMOB(9151, backstabber);
 
   /* HELL */
-  
   ASSIGNMOB(9901, demon);
   ASSIGNMOB(9905, backstabber); /* crowley */
   ASSIGNMOB(9907, demon);
@@ -396,7 +399,7 @@ void assign_mobiles(void)
   ASSIGNMOB(14407, fighter);
   ASSIGNMOB(14410, no_move_east); /* silk */
   ASSIGNMOB(14411, teleporter); /* master */
-/*   ASSIGNMOB(14412, hisc); */
+//   ASSIGNMOB(14412, hisc);
   ASSIGNMOB(14414, mindflayer);
   ASSIGNMOB(14415, snake);
   ASSIGNMOB(14416, no_get);
@@ -409,7 +412,6 @@ void assign_mobiles(void)
 
   /* the plains */
   ASSIGNMOB(15108, fido);
-
 
   /* Kir Drax'in Guard Training Centre */
   ASSIGNMOB(16300, recruiter);
@@ -431,13 +433,11 @@ void assign_mobiles(void)
   ASSIGNMOB(18304, normal_checker);
   ASSIGNMOB(18306, cuchi);
 
-
   /* Lighthouse */
   ASSIGNMOB(15804, magic_user);
   ASSIGNMOB(15807, magic_user);
   ASSIGNMOB(15808, rescuer);
   ASSIGNMOB(15814, pissedalchemist);
-
 
   /*Mines*/
   ASSIGNMOB(12848, magic_user);/*demon knight*/
@@ -529,7 +529,7 @@ void assign_mobiles(void)
   ASSIGNMOB(21244, tattoo3);
   ASSIGNMOB(21246, con_seller);
   
-/*THE NORTHERN EXPANSE */
+  /*THE NORTHERN EXPANSE */
   ASSIGNMOB(31440, fighter);
   ASSIGNMOB(31439, fighter);
   ASSIGNMOB(31403, fighter);
@@ -550,7 +550,6 @@ void assign_mobiles(void)
   ASSIGNMOB(31401, cleric);
   ASSIGNMOB(31443, cleric);
   ASSIGNMOB(31301, cleric);
-  ASSIGNMOB(31855, dragon_breath);
   ASSIGNMOB(31004, rescuer);
   ASSIGNMOB(31201, prostitute);
   ASSIGNMOB(31457, backstabber);
@@ -559,7 +558,6 @@ void assign_mobiles(void)
   ASSIGNMOB(31003, magic_user);
 
   /*Blight of Passage*/
-  
   ASSIGNMOB(3619, fighter);
   ASSIGNMOB(3680, magic_user);
   ASSIGNMOB(3682, thief);
@@ -569,8 +567,6 @@ void assign_mobiles(void)
   ASSIGNMOB(3675, fighter);
   
 }
-
-
 
 /* assign special procedures to objects */
 void assign_objects(void)
