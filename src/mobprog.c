@@ -34,8 +34,6 @@
 #include "mobprog.h"
 #include "spells.h"
 
-char buf2[MAX_STRING_LENGTH];
-
 /* externals */
 extern struct room_data *world;
 extern struct char_data *character_list;

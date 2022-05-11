@@ -1692,8 +1692,6 @@ valid_user_class_choice(int race, int user_choice)
 void
 nanny(struct descriptor_data *d, char *arg)
 {
-  char buf[128];
-  char buf2[128];
   int player_i, load_result, new_char, clan_num;
   char tmp_name[MAX_INPUT_LENGTH];
   struct char_file_u tmp_store;

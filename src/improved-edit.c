@@ -99,8 +99,6 @@ void parse_action(int command, char *string, struct descriptor_data *d)
   int indent = 0, rep_all = 0, flags = 0, replaced, i, line_low, line_high, j = 0;
   unsigned int total_len;
   char *s, *t, temp;
-  char buf[MAX_STRING_LENGTH];
-  char buf2[MAX_STRING_LENGTH];
 
   switch (command) {
   case PARSE_HELP:
