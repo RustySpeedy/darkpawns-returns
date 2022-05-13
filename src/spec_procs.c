@@ -1466,9 +1466,9 @@ SPECIAL(cleric)
   if (lspell <3 && ( (IS_EVIL(ch)&& IS_EVIL(vict))||
                      (IS_GOOD(ch)&& IS_GOOD(vict)) )  )
     lspell = 4;     /*Don't let dispel themselves */
-
+  /* The One shouldn't port */
   if ((GET_HIT(ch) < (GET_MAX_HIT(ch) / 4)) && (lspell > 25) &&
-      (!MOB_FLAGGED(ch, MOB_AGGRESSIVE)) )
+      (!MOB_FLAGGED(ch, MOB_AGGRESSIVE)) && GET_MOB_VNUM(ch) != 14198)
     {
       if (number(0,2))
         cast_spell(ch, ch, NULL, SPELL_TELEPORT);
