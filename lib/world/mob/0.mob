@@ -284,8 +284,8 @@ Satan Klaus looks a little bit like Adolf Hitler
 in a big red suit. He has a VERY evil grin on his
 face.
 ~
-8644666 0 0 0 1073886344 2 0 0 0 E
-66 -46 -56 66d5+21402 44d4+44
+8644728 0 0 0 1073886344 2 0 0 0 E
+66 -46 -56 66d5+21402 55d8+44
 1000000 2020173344
 8 8 1
 BareHandAttack: 10
@@ -459,16 +459,17 @@ Race: 19
 Noise: You feel a sense of Dread as your Doom approaches.
 E
 #92
-dummy~
-a target dummy~
-a target dummy stands here.
+white auditor~
+a Pristine White Auditor~
+A white robed figure floats here
 ~
-It looks, err, unfinished.
+They maintain the balance of the universe
 ~
-10 0 0 0 0 0 0 0 0 E
-30 -10 0 1d1+0 1d1+5
+1290 0 0 0 5148 0 0 0 0 E
+30 -10 0 1d1+2990 127d9+23
 2000 900000
 8 8 0
 Race: 25
+Noise: in your mind you hear the following message repeated over and over.  "only the pure of heart shall pass"
 E
 $

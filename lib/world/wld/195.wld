@@ -6,7 +6,7 @@ marble doors embossed with hieroglyphs depicting the valor of the avian nobles
 and their faithful.  Unfortunately, the marble doors seem to be permanently 
 sealed, preventing adventurers from entering the sacred realm.
 ~
-195 4 0 0 0 3
+195 32772 0 0 0 3
 D1
 ~
 ~
@@ -19,7 +19,7 @@ open clearing.  The trees in the forest open up allowing the sun to shine
 on a large sandstone structure in the distance.  The forest seems very
 peaceful here, almost similar to the calm before a storm.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D1
 ~
 ~
@@ -36,7 +36,7 @@ you have ever come across in your life.  The tree has a powerful, mystical
 aura about it one you cannot quite discern.  Scampering all about the tree
 are all sorts of small woodland creatures, seemingly at home in its branches.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D0
 ~
 ~
@@ -57,7 +57,7 @@ so thick.  Somehow the shrubbery manages to flourish despite the lack of
 sunlight.  A constant barrage of wild animal sounds echoes throughout the
 forest along with several other strange noises.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D1
 ~
 ~
@@ -75,7 +75,7 @@ earth sheltering all sorts of wildlife.  A mother bear and her two cubs
 passed by recently as indicated by the paw prints in the dirt.  The woods
 seem more serene than before, almost as if the forest is inviting you to stay.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D1
 ~
 ~
@@ -117,7 +117,7 @@ A dim light from the west brightens the earth enough to see.  A long, colorful
 snake slithers through the tree roots garnishing the earth.  Termites and other
 small bugs flood the area, thriving on a fallen tree that has begun to rot.
 ~
-195 4 0 0 0 3
+195 32772 0 0 0 3
 D1
 ~
 ~
@@ -134,7 +134,7 @@ the beady white eyes of nearby animals.  The path is marked only by the
 gaps between the towering oak trees.  Scavengers crowd the forest in
 anticipation of something, or someone, dying.
 ~
-195 4 0 0 0 3
+195 32772 0 0 0 3
 D0
 ~
 ~
@@ -152,7 +152,7 @@ chirping fades and is replaced by eerie shrill noises and high-pitched howls.
 The ambience of this forest grows more foreboding as the path leads farther 
 into the forest.
 ~
-195 4 0 0 0 3
+195 32772 0 0 0 3
 D1
 ~
 ~
@@ -169,7 +169,7 @@ taken this path in a long time as evident by the tree roots and shrubbery
 growing over the trail.  The shrill howl of a wolf pierces the calm of the
 forest and provides an ominous pretense as to where this path leads from.
 ~
-195 4 0 0 0 3
+195 32772 0 0 0 3
 D1
 ~
 ~
@@ -183,7 +183,7 @@ S
 The Halls of Order~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -201,7 +201,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -219,7 +219,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -233,7 +233,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -251,7 +251,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -265,7 +265,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -283,7 +283,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -301,7 +301,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -319,7 +319,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D1
 ~
 ~
@@ -333,7 +333,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -355,7 +355,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -377,7 +377,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -399,7 +399,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D1
 ~
 ~
@@ -417,7 +417,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -439,7 +439,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -461,7 +461,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -483,7 +483,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D1
 ~
 ~
@@ -501,7 +501,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -523,7 +523,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -545,7 +545,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -567,7 +567,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D1
 ~
 ~
@@ -585,7 +585,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -603,7 +603,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -621,7 +621,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -639,7 +639,7 @@ S
 Pyramid Interior - Ground Floor~
 The walls and ceiling are covered in great detail with heiroglyphics depicting  an epic struggle against a powerful demon and its armies.  From deeper within   the pyramid you hear shuffling and a low moaning sound.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D2
 ~
 ~
@@ -653,7 +653,7 @@ S
 A Ruined Hall of Worship~
 This once majestic hall of worship looks incredibly ruined, there is blood, puke and other bodily wastes all over the area.  The stench wafting up from the      floor is nearly unbearable.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D1
 ~
 ~
@@ -667,7 +667,7 @@ S
 A Ruined Hall of Worship~
 This once majestic hall of worship looks incredibly ruined, there is blood, puke and other bodily wastes all over the area.  The stench wafting up from the      floor is nearly unbearable.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -685,7 +685,7 @@ S
 A Ruined Hall of Worship~
 This once majestic hall of worship looks incredibly ruined, there is blood, puke and other bodily wastes all over the area.  The stench wafting up from the      floor is nearly unbearable.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -699,7 +699,7 @@ S
 The Tomb Antechamber~
 The entire room seems to be covered in the finest of gildings along beautiful   white marble walls and ceilings.  Off in the distance you can make out two largefigures guarding an extremely ornate set of doors.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -713,7 +713,7 @@ S
 A Ruined Hall of Worship~
 This once majestic hall of worship looks incredibly ruined, there is blood, puke and other bodily wastes all over the area.  The stench wafting up from the      floor is nearly unbearable.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D1
 ~
 ~
@@ -731,7 +731,7 @@ S
 A Ruined Hall of Worship~
 This once majestic hall of worship looks incredibly ruined, there is blood, puke and other bodily wastes all over the area.  The stench wafting up from the      floor is nearly unbearable.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D1
 ~
 ~
@@ -749,7 +749,7 @@ S
 A Ruined Hall of Worship~
 This once majestic hall of worship looks incredibly ruined, there is blood, puke and other bodily wastes all over the area.  The stench wafting up from the      floor is nearly unbearable.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D2
 ~
 ~
@@ -763,7 +763,7 @@ S
 A Ruined Hall of Worship~
 This once majestic hall of worship looks incredibly ruined, there is blood, puke and other bodily wastes all over the area.  The stench wafting up from the      floor is nearly unbearable.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -785,7 +785,7 @@ S
 A Ruined Hall of Worship~
 This once majestic hall of worship looks incredibly ruined, there is blood, puke and other bodily wastes all over the area.  The stench wafting up from the      floor is nearly unbearable.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -807,7 +807,7 @@ S
 A Ruined Hall of Worship~
 This once majestic hall of worship looks incredibly ruined, there is blood, puke and other bodily wastes all over the area.  The stench wafting up from the      floor is nearly unbearable.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -825,7 +825,7 @@ S
 A Ruined Hall of Worship~
 This once majestic hall of worship looks incredibly ruined, there is blood, puke and other bodily wastes all over the area.  The stench wafting up from the      floor is nearly unbearable.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -843,7 +843,7 @@ S
 A Ruined Hall of Worship~
 This once majestic hall of worship looks incredibly ruined, there is blood, puke and other bodily wastes all over the area.  The stench wafting up from the      floor is nearly unbearable.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -861,7 +861,7 @@ S
 A Ruined Hall of Worship~
 This once majestic hall of worship looks incredibly ruined, there is blood, puke and other bodily wastes all over the area.  The stench wafting up from the      floor is nearly unbearable.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -875,7 +875,7 @@ S
 Training Arena~
 This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -889,7 +889,7 @@ S
 Training Arena~
 This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -907,7 +907,7 @@ S
 Training Arena~
 This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D1
 ~
 ~
@@ -921,7 +921,7 @@ S
 Training Arena~
 This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -939,7 +939,7 @@ S
 Training Arena~
 This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -957,7 +957,7 @@ S
 Training Arena~
 This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -971,7 +971,7 @@ S
 Training Arena~
 This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -993,7 +993,7 @@ S
 Training Arena~
 This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -1015,7 +1015,7 @@ S
 Training Arena~
 This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -1033,7 +1033,7 @@ S
 Training Arena~
 This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D1
 ~
 ~
@@ -1051,7 +1051,7 @@ S
 Training Arena~
 This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D1
 ~
 ~
@@ -1069,7 +1069,7 @@ S
 Training Arena~
 This arena you can tell is used for highly intense training, there are weapons  of all types in the racks along the walls.  There are also straw dummies posted at intervals and a wrestling pit for melee combat.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D2
 ~
 ~
@@ -1083,7 +1083,7 @@ S
 The Tomb Antechamber~
 The entire room seems to be covered in the finest of gildings along beautiful   white marble walls and ceilings.  Off in the distance you can make out two largefigures guarding an extremely ornate set of doors.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -1101,7 +1101,7 @@ S
 The Tomb Antechamber~
 The entire room seems to be covered in the finest of gildings along beautiful   white marble walls and ceilings.  Off in the distance you can make out two largefigures guarding an extremely ornate set of doors.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -1115,7 +1115,7 @@ S
 The Tomb Antechamber~
 The entire room seems to be covered in the finest of gildings along beautiful   white marble walls and ceilings.  Off in the distance you can make out two largefigures guarding an extremely ornate set of doors.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -1137,7 +1137,7 @@ S
 The Tomb Antechamber~
 The entire room seems to be covered in the finest of gildings along beautiful   white marble walls and ceilings.  Off in the distance you can make out two largefigures guarding an extremely ornate set of doors.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D1
 ~
 ~
@@ -1151,7 +1151,7 @@ S
 The Tomb Antechamber~
 The entire room seems to be covered in the finest of gildings along beautiful   white marble walls and ceilings.  Off in the distance you can make out two largefigures guarding an extremely ornate set of doors.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D2
 ~
 ~
@@ -1165,7 +1165,7 @@ S
 The Tomb Antechamber~
 The entire room seems to be covered in the finest of gildings along beautiful   white marble walls and ceilings.  Off in the distance you can make out two largefigures guarding an extremely ornate set of doors.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -1187,7 +1187,7 @@ S
 The Tomb Antechamber~
 The entire room seems to be covered in the finest of gildings along beautiful   white marble walls and ceilings.  Off in the distance you can make out two largefigures guarding an extremely ornate set of doors.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -1205,7 +1205,7 @@ S
 The Tomb Antechamber~
 The entire room seems to be covered in the finest of gildings along beautiful   white marble walls and ceilings.  Off in the distance you can make out two largefigures guarding an extremely ornate set of doors.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -1223,7 +1223,7 @@ S
 The Tomb of the Fallen Sun God~
 In this room are great depictions of a glorious and majestic avian ascending    upward into the heavens wreathed in a cloak of pure light during a time of greatdarkness.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D1
 ~
 ~
@@ -1241,7 +1241,7 @@ S
 The Tomb of the Fallen Sun God~
 In this room are great depictions of a glorious and majestic avian ascending    upward into the heavens wreathed in a cloak of pure light during a time of greatdarkness.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D1
 ~
 ~
@@ -1255,7 +1255,7 @@ S
 The Tomb of the Fallen Sun God~
 In this room are great depictions of a glorious and majestic avian ascending    upward into the heavens wreathed in a cloak of pure light during a time of greatdarkness.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D2
 ~
 ~
@@ -1269,7 +1269,7 @@ S
 The Tomb of the Fallen Sun God~
 In this room are great depictions of a glorious and majestic avian ascending    upward into the heavens wreathed in a cloak of pure light during a time of greatdarkness.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -1287,7 +1287,7 @@ S
 The Tomb of the Fallen Sun God~
 In this room are great depictions of a glorious and majestic avian ascending    upward into the heavens wreathed in a cloak of pure light during a time of greatdarkness.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -1301,7 +1301,7 @@ S
 The Tomb of the Fallen Sun God~
 In this room are great depictions of a glorious and majestic avian ascending    upward into the heavens wreathed in a cloak of pure light during a time of greatdarkness.
 ~
-195 8 0 0 0 0
+195 12 0 0 0 0
 D0
 ~
 ~
@@ -1325,7 +1325,7 @@ the flourishing underbrush.  Rabbits and other small mammals scurry through
 the brush and search the bushes for nuts and berries.  Several species of birds
 line the upper branches of the trees as their song fills the air.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D0
 ~
 ~
@@ -1343,7 +1343,7 @@ rocks allow the path to continue across the water.  The sound of running
 water combined with the lighthearted song of the birds makes this path
 through the forest seem peaceful, for now.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D0
 ~
 ~
@@ -1360,7 +1360,7 @@ path fades away.  The shrubbery is even denser in this area and covers up
 all sorts of wildlife living on the ground level.  A small gap in the trees to
 the west reveals a new path that is even more overgrown.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D2
 ~
 ~
@@ -1377,7 +1377,7 @@ Branches and tree limbs hang over the path making it difficult to navigate.  A
 small clearing exposes a hollowed out tree stump that looks like a good place 
 to rest.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D1
 ~
 ~
@@ -1396,7 +1396,7 @@ great magics were used.  Small woodland creatures scamper about playfully,
 uncaring about the oddity of the woods.  Meanwhile a mysterious chanting
 resonates throughout the forest.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D1
 ~
 ~
@@ -1414,7 +1414,7 @@ of wildlife and vegetation have disappeared almost completely.  The strange
 noises echoing through the forest grow louder and it becomes clear that they
 are some sort of ritualistic chanting.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D1
 ~
 ~
@@ -1431,7 +1431,7 @@ the lush forest while the sun shines bright through the trees and lights up the
 abundant canopy.  The sounds of wildlife and birds fade tremendously as the
 strange chanting noises amplify.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D0
 ~
 ~
@@ -1450,7 +1450,7 @@ Small woodland creatures scamper about playfully, seemingly enjoying their
 place in the forest.  Meanwhile, a mysterious, enchanting song begins to
 resonate throughout the forest.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D0
 ~
 ~
@@ -1468,7 +1468,7 @@ where a family of rabbits gathers berries for storage.  Strange noises echo
 through the forest and grow louder and it becomes clear that they are some
 enticing songs of battles long past, sang by numerous enchanting voices.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D1
 ~
 ~
@@ -1485,7 +1485,7 @@ forest.  The sun shines bright through the trees and lights up the abundant
 greenery.  The sounds of wildlife and birds fade slightly as the enchanting
 songs begin to amplify.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D1
 ~
 ~
@@ -1502,7 +1502,7 @@ They appear to be formed directly out of the forest by magic of some kind.
 Behind the gates you can see what appears to be a small encampment teeming
 with activity.
 ~
-195 4 0 0 0 3
+195 32772 0 0 0 3
 D0
 ~
 gate~
@@ -1520,7 +1520,7 @@ there are no visible signs of life.  Perhaps the sounds are just a figment of
 your imagination running wild.  To either side are large, silken tents in which
 you can see numerous signs indicating a sizeable number of stationed troops.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D0
 ~
 ~
@@ -1544,7 +1544,7 @@ Path through the Elven Encampment~
 logs set as benches around the fire for nighttime tales and songs.  The air
 about the camp feels jovial and friendly.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D0
 ~
 ~
@@ -1568,7 +1568,7 @@ A Small Elven Tent~
 of things to lessen the wear on morale due to travel.  There are six cots set
 up along the sides of the tent.
 ~
-195 8 0 0 0 0
+195 32776 0 0 0 0
 D1
 ~
 ~
@@ -1580,7 +1580,7 @@ A Small Elven Tent~
 of things to lessen the wear on morale due to travel.  There are six cots set
 up along the sides of the tent.
 ~
-195 8 0 0 0 0
+195 32776 0 0 0 0
 D3
 ~
 ~
@@ -1592,7 +1592,7 @@ Central Building Entrance~
 The sounds coming from within indicate planning towards a campaign.
 A constant sense of movement around you leaves a feeling of being watched.
 ~
-195 0 0 0 0 3
+195 32768 0 0 0 3
 D0
 ~
 door~
@@ -1610,7 +1610,7 @@ The sounds of a small forge and anvil hard at work can be heard throughout
 the shop.  The tent itself is one of the larger ones in the camp.  It is also
 constructed out of a very durable silk-like material.
 ~
-195 12 0 0 0 0
+195 32780 0 0 0 0
 D1
 ~
 ~
@@ -1624,7 +1624,7 @@ longer than normal metal.  The sounds of a small, busy forge can be heard
 coming from the back of the shop.  The tent itself is one of the larger ones
 in the camp.  It is also constructed out of a very durable silk-like material.
 ~
-195 12 0 0 0 0
+195 32780 0 0 0 0
 D3
 ~
 ~
@@ -1637,7 +1637,7 @@ intruders while soft whispers coming from the rear of this tent disclose
 secret battle formations and siege tactics.  An uneasy feeling trembles
 up your spine as the sound of a blade sharpening catches your ear.
 ~
-195 8 0 0 0 0
+195 32776 0 0 0 0
 D0
 ~
 ~
@@ -1662,7 +1662,7 @@ The stench of a freshly killed boar emanates from one of the crates, filling
 the room with a blood tainted aroma.  The smell alone could ward off any 
 unwarranted visitors.
 ~
-195 8 0 0 0 0
+195 32776 0 0 0 0
 D0
 ~
 ~
@@ -1679,7 +1679,7 @@ the general himself.  A rack with several heavily-used blades rests against
 the wall while an assortment of shields lays strewn across the base of the
 tent.  Soldiers footsteps pound the ground as they continue to guard the area.
 ~
-195 8 0 0 0 0
+195 32776 0 0 0 0
 D0
 ~
 ~
@@ -1696,7 +1696,7 @@ long piece of parchment is tacked to a board, hanging from two ropes along
 the back wall.  Majestic scripting covers what appears to be a map of the
 area, on which numerous small figures have been strategically placed.
 ~
-195 8 0 0 0 0
+195 32776 0 0 0 0
 D1
 ~
 ~
@@ -1716,7 +1716,7 @@ Inside the Commanders' Tent~
 types of siege engines.  Blueprints of battering rams, catapults, and siege
 towers lay stacked on a small table and adorn the walls.
 ~
-195 8 0 0 0 0
+195 32776 0 0 0 0
 D1
 ~
 ~
@@ -1733,7 +1733,7 @@ manuscripts, books, and other documents.  This appears to be where
 the general stores the historical texts he references when forming his
 future siege tactics.
 ~
-195 8 0 0 0 0
+195 32776 0 0 0 0
 D2
 ~
 ~

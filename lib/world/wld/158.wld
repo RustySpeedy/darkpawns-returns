@@ -10,20 +10,18 @@ D5
 ~
 0 0 15801
 E
-House~
-       Level One              Level Two and Above
+Subterranean Sea~
+  The Subterranean Cavern           The Sea Cave
 
-     /                             0
-     0           0                 /
-     |           |                 0
-     0 - 0   0   0                 /
-         |   |   |                 0
-        /0 - 0 - 0 ---             /
-         |   |   |                 0   0 - 0
-         0   0 - 0                 |   |
-             |                    /0 - 0
-             0                         |
-                                       0 - 0
+          0 - 0 - 0 - 0                    |
+          |       |   |        0 - 0 / 0   0 - 0 - 0
+  0 - 0 - 0   0 - 0   0            |   |   |   |   |
+      |   |       |                0   0   0 - 0 - 0 - 0/
+ /0 - 0   0 - 0 - 0 - 0/           |   |   |   |   |
+      |   |   |   |                0   0 - 0 - 0 - 0
+      0   0   0 - 0 - 0
+          |           |
+          0 - 0       0
 ~
 E
 Cellar Domain~
@@ -40,18 +38,20 @@ Cellar Domain~
                                     0   0 - 0 / 0
 ~
 E
-Subterranean Sea~
-  The Subterranean Cavern           The Sea Cave
+House~
+       Level One              Level Two and Above
 
-          0 - 0 - 0 - 0                    |
-          |       |   |        0 - 0 / 0   0 - 0 - 0
-  0 - 0 - 0   0 - 0   0            |   |   |   |   |
-      |   |       |                0   0   0 - 0 - 0 - 0/
- /0 - 0   0 - 0 - 0 - 0/           |   |   |   |   |
-      |   |   |   |                0   0 - 0 - 0 - 0
-      0   0   0 - 0 - 0
-          |           |
-          0 - 0       0
+     /                             0
+     0           0                 /
+     |           |                 0
+     0 - 0   0   0                 /
+         |   |   |                 0
+        /0 - 0 - 0 ---             /
+         |   |   |                 0   0 - 0
+         0   0 - 0                 |   |
+             |                    /0 - 0
+             0                         |
+                                       0 - 0
 ~
 S
 #15801
@@ -85,10 +85,8 @@ D3
 ~
 0 0 15804
 E
-furniture~
-You pull some of the sheets off and look at what is left of the furniture.
-Anything with a fabric covering has been ripped, in some cases torn off
-leaving only a skeletal wooden frame.
+movement~
+Whatever it was...it's gone. Perhaps...
 ~
 E
 Footprints~
@@ -96,8 +94,10 @@ Although there are quite a few here, you can clearly see that they all belong
 to the same individual.
 ~
 E
-movement~
-Whatever it was...it's gone. Perhaps...
+furniture~
+You pull some of the sheets off and look at what is left of the furniture.
+Anything with a fabric covering has been ripped, in some cases torn off
+leaving only a skeletal wooden frame.
 ~
 S
 #15802
@@ -362,8 +362,10 @@ D0
 ~
 0 0 15805
 E
-paper~
-They are all blank, probably faded over time.
+mahogany desk~
+The desk is the only piece of furniture that remains in this room and is
+rather lavish given the nature of the previous owner's occupation. There's
+nothing on the top of it, but it does have a few drawers down one side.
 ~
 E
 blood~
@@ -371,10 +373,8 @@ Certainly a site you are now familiar with, but in a house that's been
 deserted for a number of years, the freshness of the stain is a worry.
 ~
 E
-mahogany desk~
-The desk is the only piece of furniture that remains in this room and is
-rather lavish given the nature of the previous owner's occupation. There's
-nothing on the top of it, but it does have a few drawers down one side.
+paper~
+They are all blank, probably faded over time.
 ~
 S
 #15813
@@ -595,13 +595,13 @@ D5
 trapdoor~
 1 0 15822
 E
+device~
+It's a series of gears and belts that rotate the silver dish.
+~
+E
 dish~
 The dish is actually a concave mirror that amplifies and reflects the light
 source placed in front of it.
-~
-E
-device~
-It's a series of gears and belts that rotate the silver dish.
 ~
 S
 #15824
@@ -827,7 +827,7 @@ which is a worrying though since you now stand in it. You can access two of
 the other chambers to the north and west. Large barrels sit flush against
 the eastern and southern walls.
 ~
-158 9 0 0 0 0
+158 1048585 0 0 0 0
 D0
 ~
 ~
@@ -847,16 +847,16 @@ D3
 ~
 0 0 15833
 E
+tap~
+On further examination, the tap appears to be a handle of some kind. Perhaps
+there is more than meets the eye here...
+~
+E
 barrels~
 You've never seen any as large as the ones before you. Each barrel is large
 enough to fit three or four people of your size inside...provided you could
 get inside of course! The only thing of note that you can see is the small
 tap on each barrel.
-~
-E
-tap~
-On further examination, the tap appears to be a handle of some kind. Perhaps
-there is more than meets the eye here...
 ~
 S
 #15835
@@ -954,7 +954,7 @@ by the relatively intact walls and lack of dust.
    Stairs lead up to the wine cellar and the passageway continues to the east
 into the darkness.
 ~
-158 13 0 0 0 0
+158 1048589 0 0 0 0
 D1
 It is too dark to see.
 ~
@@ -1012,13 +1012,13 @@ D0
 door~
 1 -1 15841
 E
+Arcane~
+They all glow softly and you are uncertain as to their purpose.
+~
+E
 pedestal~
 You could be mistaken, but it looks as if it has been created from the bones
 of a creature unknown to you.
-~
-E
-Arcane~
-They all glow softly and you are uncertain as to their purpose.
 ~
 S
 #15843
@@ -1066,19 +1066,19 @@ D2
 ~
 0 0 15843
 E
-barrels~
-You pry the lid off one of the barrels and instantly wish you hadn't. Having
-killed your share of creatures in the past, you are all to familiar with the
-sight and smell of blood and that's exactly what this barrel contains.
+flame~
+You can see no source for the flame...it simplies sits beneath the jars
+and burns.
 ~
 E
 contraption~
 Having never seen anything like it before, you can only wonder what it does.
 ~
 E
-flame~
-You can see no source for the flame...it simplies sits beneath the jars
-and burns.
+barrels~
+You pry the lid off one of the barrels and instantly wish you hadn't. Having
+killed your share of creatures in the past, you are all to familiar with the
+sight and smell of blood and that's exactly what this barrel contains.
 ~
 S
 #15845
@@ -1180,14 +1180,14 @@ You notice the outline of a small trapdoor in the floor.
 secret trapdoor~
 2 15810 15886
 E
-trapdoor~
-You rifle through the straw some more and discover a wooden trapdoor. It has
-a strange looking keyhole.
-~
-E
 straw~
 It is infested with all manner of mites and fleas so you decide not to search
 it further.
+~
+E
+trapdoor~
+You rifle through the straw some more and discover a wooden trapdoor. It has
+a strange looking keyhole.
 ~
 S
 #15850
@@ -1304,14 +1304,14 @@ D3
 ~
 0 0 15853
 E
-Candles~
-They don't look like ordinary candles, the wax is a blood red color and there
-is no heat coming from the flames.
-~
-E
 dagger~
 It has a serpentine blade and an ornate gold handle. Try as you might, you
 cannot budge it from the altar.
+~
+E
+Candles~
+They don't look like ordinary candles, the wax is a blood red color and there
+is no heat coming from the flames.
 ~
 S
 #15855
@@ -1616,13 +1616,13 @@ The tunnel twists too much for you too see into it.
 ~
 0 0 15887
 E
-bags~
-Each contains a variety of ore pieces.
-~
-E
 platform~
 It is a number of wooden planks joined together and has small wagon wheels
 affixed to its side.
+~
+E
+bags~
+Each contains a variety of ore pieces.
 ~
 S
 #15868

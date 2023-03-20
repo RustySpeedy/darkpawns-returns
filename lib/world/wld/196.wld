@@ -22,7 +22,7 @@ on each side of the cave, topped with skulls.  A rather large pile of bones
 has gathered in the area, and perhaps it'd be best to leave before you joined
 them.
 ~
-196 41480 0 0 0 0
+196 8712 0 0 0 0
 D0
 ~
 boulder~
@@ -32,12 +32,12 @@ D2
 ~
 0 0 9724
 E
-bones pile~
-You think you see something moving under the bones...
-~
-E
 writings writing walls wall words word~
 You can only make out one word, and it reads 'Danger.'
+~
+E
+bones pile~
+You think you see something moving under the bones...
 ~
 S
 #19602
@@ -47,7 +47,7 @@ mat lies in front of a bookcase on the north wall.  A ninja's book of
 meditations lies open on the mat, suggesting that the owner has been here
 recently; perhaps it would be best to leave before he returns.
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D1
 ~
 ~
@@ -64,7 +64,7 @@ even signs of magical intervention, but there is more than enough light to see
 clearly.  An open book stands on a pedestal in the center of the room, with
 some neat writing, which appears to read: 'Through conquest comes knowledge.'
 ~
-196 33292 0 0 0 0
+196 524 0 0 0 0
 D0
 ~
 ~
@@ -86,7 +86,7 @@ home, an old cardboard box reading "this side up" on the top.
 the east, you hear jeers and cheers from what you assume to be some sort of
 battle arena.
 ~
-196 32776 0 0 0 0
+196 12 0 0 0 0
 D0
 ~
 ~
@@ -114,8 +114,8 @@ D1
 0 0 19616
 D3
 ~
-~
-0 0 19604
+Sealed~
+1 0 19604
 S
 #19606
 The Altar of Nat~
@@ -127,7 +127,7 @@ relics depicting the Goddess Nat. You feel drawn near to the statue and the
 feeling of relaxation flows through your body. In her presence you are lost
 in the ecstasy of content and you wish time would stop.
 ~
-196 264792 0 0 0 0
+196 264796 0 0 0 0
 D2
 ~
 ~
@@ -149,7 +149,7 @@ Beyond the door, you think you hear the drops of many small metal objects.
 To the west you hear a man yell "Hey Ma!" To the east comes a feeling of
 refreshment and content - your curiousity wanders in all directions.
 ~
-196 8216 0 0 0 0
+196 8220 0 0 0 0
 D1
 ~
 ~
@@ -170,7 +170,7 @@ dead people. Your curiousity takes over you and you feel the impulse to look
 at each one. To the west, you swear you hear a man yell "Hey Ma!" To the east,
 you can sense the void of a large open cavern.
 ~
-196 8 0 0 0 0
+196 12 0 0 0 0
 D1
 ~
 ~
@@ -180,33 +180,19 @@ D3
 ~
 0 0 19609
 E
-portrait~
-A dark elf with black hair and pointy ears. He wields a living dagger, almost
-as sharp as the evil gleam in his eyes.
+8.portrait~
+This last portrait seems different from the others. In it stands two elven
+kids, standing over the body of what looks like a giant argent slug. One
+holds two daggers, which with closer inspection both appear to have the words
+"Property of Torak" inscribed along them. The other has a blade shaped in a
+strange fashion. Their childish complexion and long ears make them look quite
+proud of themselves - bearing large smiles, they appear on top of the world.
 ~
 E
-2.portrait~
-A holy man with battle scars accenting kind eyes. He holds a scourge in his
-hands and you ponder whether it was a tool of creation or a weapon of
-destruction.
-~
-E
-3.portrait~
-A powerful Asian man with the look of craze and chaos in his eyes. His look
-of brash makes you unsure of whether he could have been your greatest ally or
-enemy. And damn his muscles are big!
-~
-E
-4.portrait~
-A heavy warrior with an unshaven face. Numerous unwanted battles have left
-this warrior's eyes dark and weary, and yet a glimmer of hope still lingers
-for future tranquility.
-~
-E
-5.portrait~
-A ninja robed in black garments whose deadly eyes seem alert and alive even
-in a still painting. He wields no weapon, yet his hands seem deadly, stained
-in the blood of his enemies.
+7.portrait~
+Holding two black daggers of eternal flame, his entire body seems to be built
+for death. Yet his face tells a different story, with soft eyes of
+understanding and a scar of remorse.
 ~
 E
 6.portrait~
@@ -216,19 +202,33 @@ of men, it lies lightly upon his broad shoulders. In callused hands laid
 across his lap is a huge broadsword with blossomed flowers along its hilt.
 ~
 E
-7.portrait~
-Holding two black daggers of eternal flame, his entire body seems to be built
-for death. Yet his face tells a different story, with soft eyes of
-understanding and a scar of remorse.
+5.portrait~
+A ninja robed in black garments whose deadly eyes seem alert and alive even
+in a still painting. He wields no weapon, yet his hands seem deadly, stained
+in the blood of his enemies.
 ~
 E
-8.portrait~
-This last portrait seems different from the others. In it stands two elven
-kids, standing over the body of what looks like a giant argent slug. One
-holds two daggers, which with closer inspection both appear to have the words
-"Property of Torak" inscribed along them. The other has a blade shaped in a
-strange fashion. Their childish complexion and long ears make them look quite
-proud of themselves - bearing large smiles, they appear on top of the world.
+4.portrait~
+A heavy warrior with an unshaven face. Numerous unwanted battles have left
+this warrior's eyes dark and weary, and yet a glimmer of hope still lingers
+for future tranquility.
+~
+E
+3.portrait~
+A powerful Asian man with the look of craze and chaos in his eyes. His look
+of brash makes you unsure of whether he could have been your greatest ally or
+enemy. And damn his muscles are big!
+~
+E
+2.portrait~
+A holy man with battle scars accenting kind eyes. He holds a scourge in his
+hands and you ponder whether it was a tool of creation or a weapon of
+destruction.
+~
+E
+portrait~
+A dark elf with black hair and pointy ears. He wields a living dagger, almost
+as sharp as the evil gleam in his eyes.
 ~
 S
 #19609
@@ -240,7 +240,7 @@ hair to stand on end. Near the western wall is a metal sign which simply reads
 "Route 66" with arrows pointing to the north and south. Out of nowhere, you
 think you hear an old woman say "We gots to get acrost..."
 ~
-196 8 0 0 0 0
+196 12 0 0 0 0
 D1
 ~
 ~
@@ -255,7 +255,7 @@ girls giggling perk your ears as you see puddles of water forming beneath the
 door. There is also a metal reinforced door to the east made from thick
 mahogany - there is nothing but dead silence coming from the other side.
 ~
-196 72 0 0 0 0
+196 76 0 0 0 0
 D0
 You'll need to go in there to see what lies within.
 ~
@@ -267,8 +267,8 @@ D1
 0 0 19613
 D5
 ~
-~
-0 0 19607
+door~
+1 0 19607
 E
 window~
 It is completely fogged up from the other side.
@@ -323,7 +323,7 @@ seamlessly melt into the root system. You can't resist moving one of the
 chairs to confirm that they are indeed chairs with ornate carvings and not
 another component of the elves' work.
 ~
-196 72 0 0 0 0
+196 76 0 0 0 0
 D1
 ~
 door~
@@ -341,7 +341,7 @@ the sky which is ablaze with all shades of red. There is a large metal door
 to the east and a thick, wood door to the west. This room, however, is
 eerily quiet yet tranquil.
 ~
-196 72 0 0 0 0
+196 76 0 0 0 0
 D1
 ~
 metal door~
@@ -372,7 +372,7 @@ Within the Arena~
 by at ankle level. The floor is simple dirt, stained with blood in some
 places and displaying the tell-tale signs of battle.
 ~
-196 8 0 0 0 0
+196 12 0 0 0 0
 D0
 ~
 ~
@@ -396,7 +396,7 @@ Within the Arena~
 your next foe. Corpses lie at irregular intervals, perhaps an indication of
 what is to come...
 ~
-196 8 0 0 0 0
+196 12 0 0 0 0
 D1
 ~
 ~
@@ -412,7 +412,7 @@ Within the Arena~
 your next foe. Corpses lie at irregular intervals, perhaps an indication of
 what is to come...
 ~
-196 8 0 0 0 0
+196 12 0 0 0 0
 D1
 ~
 ~
@@ -432,7 +432,7 @@ Within the Arena~
 your next foe. Corpses lie at irregular intervals, perhaps an indication of
 what is to come...
 ~
-196 8 0 0 0 0
+196 12 0 0 0 0
 D0
 ~
 ~
@@ -456,7 +456,7 @@ Within the Arena~
 your next foe. Corpses lie at irregular intervals, perhaps an indication of
 what is to come...
 ~
-196 8 0 0 0 0
+196 12 0 0 0 0
 D0
 ~
 ~
@@ -476,7 +476,7 @@ Within the Arena~
 your next foe. Corpses lie at irregular intervals, perhaps an indication of
 what is to come...
 ~
-196 8 0 0 0 0
+196 12 0 0 0 0
 D0
 ~
 ~
@@ -492,7 +492,7 @@ Within the Arena~
 your next foe. Corpses lie at irregular intervals, perhaps an indication of
 what is to come...
 ~
-196 8 0 0 0 0
+196 12 0 0 0 0
 D0
 ~
 ~
@@ -512,7 +512,7 @@ Within the Arena~
 your next foe. Corpses lie at irregular intervals, perhaps an indication of
 what is to come...
 ~
-196 8 0 0 0 0
+196 12 0 0 0 0
 D2
 ~
 ~
@@ -528,7 +528,7 @@ Within the Arena~
 your next foe. Corpses lie at irregular intervals, perhaps an indication of
 what is to come...
 ~
-196 8 0 0 0 0
+196 12 0 0 0 0
 D0
 ~
 ~
@@ -723,7 +723,7 @@ while the tops of several other buildings are visible over the surrounding
 wall.  Heavily guarded by two of the toughest monks you have ever seen, you
 find no easy way to break into this sacred realm.
 ~
-196 32772 0 0 0 0
+196 4 0 0 0 0
 D0
 ~
 gate~
@@ -733,14 +733,14 @@ D2
 ~
 0 0 9715
 E
-<NONE>~
-<NONE>
-~
-E
 gate~
 This wrought iron gate appears to be the only entrance to the monastery.  A 
 giant lock with an unorthodox keyhole prevents the iron bars from budging.
 You wonder what kind of object will unlock these gates.  
+~
+E
+<NONE>~
+<NONE>
 ~
 S
 #19636
@@ -751,7 +751,7 @@ nomadic friars frequent this abbey in search of peace and tranquility.  The
 main sanctuary of this place of worship lies to the north, while a line of
 friars files out from the small building to the east.
 ~
-196 40968 0 0 0 0
+196 8200 0 0 0 0
 D0
 ~
 ~
@@ -765,13 +765,9 @@ D2
 gate~
 2 19642 19635
 E
-archaic~
-Some abstract looking symbols, made up of strange curves and lines which you
-find oddly appealing.
-~
-E
-bed~
-A simple, yet very cozy looking bed.
+chair~
+The leather looks very worn in, and as you run your hand over it you are
+amazed at its softness.
 ~
 E
 desk~
@@ -781,9 +777,13 @@ Scattered across the top are pieces of paper, some rudimentary writing
 equipment, and several half burnt out candles.
 ~
 E
-chair~
-The leather looks very worn in, and as you run your hand over it you are
-amazed at its softness.
+bed~
+A simple, yet very cozy looking bed.
+~
+E
+archaic~
+Some abstract looking symbols, made up of strange curves and lines which you
+find oddly appealing.
 ~
 S
 #19637
@@ -794,7 +794,7 @@ into the room through the stained-glass windows lining the walls.  A smaller
 shrine sits outside the door leading to the oratory allowing monks to perform
 additional prayer rituals before they enter.
 ~
-196 32776 0 0 0 0
+196 8 0 0 0 0
 D0
 ~
 ~
@@ -812,7 +812,7 @@ dark and sinister with only a torch flickering and casting the shadows dancing
 across the room.  The light reveals vicious claw marks and several indentations
 in the walls caused by the vile creatures being summoned here.
 ~
-196 32776 0 0 0 0
+196 8 0 0 0 0
 D4
 ~
 trapdoor~
@@ -828,7 +828,7 @@ throughout the oratory off of the solid limestone walls enclosing the area.
 Two solid gold hinges fastened to the wooden floor catch your eye from
 underneath one of the back pews.
 ~
-196 294936 0 0 0 0
+196 262172 0 0 0 0
 D0
 ~
 door~
@@ -853,7 +853,7 @@ thin and the sun glimmers off of the clouds.  The sounds of birds and other
 noises fade in the distance as the only sound is the gentle breeze.  The end
 of this seemingly infinite stairway remains far out of sight.
 ~
-196 32776 0 0 0 0
+196 8 0 0 0 0
 D4
 ~
 ~
@@ -881,7 +881,7 @@ the heavenly atmosphere with the sensualness of its inhabitants.  Three
 beautiful women lay scantily-clad on the bed, awaiting their master's
 return to fulfill his every desire.
 ~
-196 294940 0 0 0 0
+196 262172 0 0 0 0
 D2
 ~
 silk curtain~
@@ -901,7 +901,7 @@ impoverished friars.  Several wooden crates are stocked full of donations,
 overflowing onto the ground.  These alms of goodwill have been collected by the
 members of this monastery to provide aid to all needy souls of the realm.
 ~
-196 35356 0 0 0 0
+196 2588 0 0 0 0
 D3
 ~
 ~
@@ -925,7 +925,7 @@ the light, but a large, oak-trimmed mirror can be distinguished and sits
 directly in front of the door.  Shadows dancing in the corners of the mirror
 give the impression that a large man is lurking somewhere behind the door.
 ~
-196 294924 0 0 0 0
+196 262156 0 0 0 0
 D1
 ~
 oak~
@@ -944,7 +944,7 @@ surrounding chairs fashioned from the same timber.  This area serves as a
 congregation room for those who have ascended to the highest level of the
 heaven walkers.
 ~
-196 294940 0 0 0 0
+196 262172 0 0 0 0
 D0
 ~
 silk curtain~
@@ -986,7 +986,7 @@ lightning briefly illuminates the room and a message scrawled in
 blood on the far wall helps provide insight into the feverish madness of a man
 vainly chasing the specter of immortality.
 ~
-196 294940 0 0 0 0
+196 262172 0 0 0 0
 D3
 ~
 door wooden~
@@ -1007,7 +1007,7 @@ monastery's financial endeavors take place as a small friar stands watch over
 the banking facility.  An elaborate ivory stairway was built here, leading
 endlessly into the heavens.
 ~
-196 32776 0 0 0 0
+196 8 0 0 0 0
 D1
 ~
 ~
@@ -1030,7 +1030,7 @@ fruits onto the path for the monks to enjoy.  Several smaller ponds are
 scattered throughout the gardens with several breeds of geese floating
 atop the water.
 ~
-196 32776 0 0 0 0
+196 8 0 0 0 0
 D1
 ~
 ~
@@ -1048,7 +1048,7 @@ inhabit the earth of these gardens, serving as a tribute to former members and
 important allies of the monastery.  A small dirt trail leads through the
 greenery towards a beautiful white limestone terrace.
 ~
-196 32768 0 0 0 0
+196 0 0 0 0 0
 D1
 ~
 ~
@@ -1072,7 +1072,7 @@ creating an iridescent glow to complement the gentle hum of the portals.
 A small sign is posted on the wall giving some indication as to where these
 portals lead.
 ~
-196 32776 0 0 0 0
+196 8 0 0 0 0
 D0
 ~
 Seraphim door~
@@ -1096,7 +1096,7 @@ magickal light. Tapestries adorn the walls, showing a powerful-looking mage
 pitted against a variety of creatures, many the likes of which you have never
 encountered.
 ~
-196 40972 0 0 0 0
+196 8204 0 0 0 0
 D2
 ~
 door~
@@ -1111,17 +1111,17 @@ A trapdoor
 Trapdoor~
 1 19650 19692
 E
-blah~
-What?
+tapestry tapestries~
+Ornate script woven into the fine fabric describes the mage as Mpande; the
+various creatures he is fighting in each range from dragons to dwarves.
 ~
 E
 sphere spheres~
 They look like plain glass globes, but give off a magickal light.
 ~
 E
-tapestry tapestries~
-Ornate script woven into the fine fabric describes the mage as Mpande; the
-various creatures he is fighting in each range from dragons to dwarves.
+blah~
+What?
 ~
 S
 #19651
@@ -1133,7 +1133,7 @@ of the room.  To the south, an archway opens onto a large balcony while to the
 north, shimmers of light dance around the room.  There is a large golden
 plaque embedded above the southern archway.  
 ~
-196 296988 0 0 0 0
+196 264220 0 0 0 0
 D0
 ~
 ~
@@ -1163,15 +1163,16 @@ reflects all sources of light creating an interesting effect within the room
 as if the light itself were alive and dancing around you. Above the northern
 portal is a small wooden sign.
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D2
 ~
 ~
 0 0 19651
 E
 sign~
+
 The sign reads:
-     Aloazar - green portal
+     West Desert - turquoise portal
      Xixieqi - white portal
      Amber   - violet portal
 ~
@@ -1183,7 +1184,7 @@ although the density of trees prevents you from seeing too much further
 through them. From here, you could easily make it down to the base of the
 tower but getting back up may be a problem.
 ~
-196 32772 0 0 0 0
+196 4 0 0 0 0
 D0
 ~
 ~
@@ -1193,11 +1194,11 @@ D5
 ~
 0 0 19654
 E
-blah~
+eek~
 What?
 ~
 E
-eek~
+blah~
 What?
 ~
 S
@@ -1206,7 +1207,7 @@ At the Base of a Tall Tower~
 Above you rises a tall tower of cold granite. The entrance to the north is a
 large ironwood door, easily large enough to pass a wagon through.
 ~
-196 32768 0 0 0 3
+196 0 0 0 0 3
 D0
 ~
 door~
@@ -1227,7 +1228,7 @@ the second floor and up further into the tower. There is a certain chill in
 the air and you shiver uncomfortably but the feeling soon passes and you are
 left standing here.
 ~
-196 40988 0 0 0 0
+196 8220 0 0 0 0
 D4
 ~
 ~
@@ -1250,7 +1251,7 @@ some from this clan and others who strived to better themselves within this
 world. The treasure room lies to the south while a strong, wooden door lies
 to the north.
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D0
 You can't quite see into the room..perhaps you should go in there.
 ~
@@ -1275,7 +1276,7 @@ The Treasure Room~
 floor to the solid gold pillars that support the floor above, the sight 
 takes your breath away. The only exit from the room lies to the north.
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D0
 ~
 ~
@@ -1289,19 +1290,19 @@ quite breath-taking; from the mountains to the north to the small desolate-
 looking village to the west.  Runes of power are inscribed into the ceiling
 here, and a small pentagram has been etched into the floor.
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D5
 ~
 ~
 0 0 19656
 E
-Runes~
-They are runes of teleportation.
-~
-E
 pentagram~
 The pentagram is carved into the stone of the floor, directly beneath the 
 runes on the ceiling.
+~
+E
+Runes~
+They are runes of teleportation.
 ~
 S
 #19659
@@ -1336,7 +1337,7 @@ The room is large and the roof is missing, letting natural light and the
 elements in.  The room has been cleared out from the center, the ground is
 charred and a large pentagram seems to have been burned into the stone floor.
 ~
-196 32772 0 0 0 1
+196 4 0 0 0 1
 D5
 ~
 ~
@@ -1363,7 +1364,7 @@ the neck indicate someone has beheaded the figure.  Exits to the left and
 right lead to confessionals in different states of disaster.  To the north, is
 another room.  
 ~
-196 40972 0 0 0 0
+196 8204 0 0 0 0
 D0
 ~
 ~
@@ -1393,7 +1394,7 @@ pieces.  Something bad happened here, this place no longer has a welcoming
 feel to it.  To the north you will find a heavily guarded double door and to
 the south the forest.  
 ~
-196 40972 0 0 0 0
+196 8204 0 0 0 0
 D0
 You cannot see clearly into there.
 ~
@@ -1413,7 +1414,7 @@ surround it.  To the north you can see what used to be a chancel and the
 altar.  To the west, the entrance to the bell tower.  To the east you spot a
 bookshelf halfway pulled away from the wall and a opening behind it.  
 ~
-196 297500 0 0 0 0
+196 264732 0 0 0 0
 D0
 ~
 ~
@@ -1443,7 +1444,7 @@ can see the backside of a bookshelf which is pushed away from the doorway
 leading back into the broken church.  This could have been a room used for
 secret meetings by the priests..  
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D3
 ~
 ~
@@ -1461,7 +1462,7 @@ have been bathed in blood and hastily cleaned up.  There is a stairwell
 leading up to the top of the tower upward.  At the south wall it seems all of
 the church decor has been piled up and burned.  
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D1
 ~
 ~
@@ -1475,7 +1476,7 @@ S
 An Oubliette~
 This drafy room was built specifically to be forgotten. Once someone or something falls into this room they will fade from memory.
 ~
-196 32808 0 0 0 0
+196 40 0 0 0 0
 D4
 ~
 ~
@@ -1491,7 +1492,7 @@ middle.  There aren't any other exits and if the heavy hatch were to be closed
 and locked, the occupants would likely spend the remainder of their days in
 here with no exit.  
 ~
-196 38916 0 0 0 0
+196 6148 0 0 0 0
 D2
 ~
 secret~
@@ -1510,7 +1511,7 @@ where the clergy stored unwanted or discarded items.  In the southern end of
 this room, it has been cleared out and a large gateway stands here beckoning
 you.  
 ~
-196 294936 0 0 0 0
+196 262168 0 0 0 0
 D4
 ~
 ~
@@ -1524,7 +1525,7 @@ skills here, both against each other and the foul beasts that lurk in the
 darkened corridors. The room has been permanently stained with the blood of
 hapless victims.
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D3
 ~
 ~
@@ -1534,7 +1535,7 @@ S
 The Room of Portals~
    From here the clan may travel far distances with minimal effort.  
 ~
-196 33292 0 0 0 0
+196 524 0 0 0 0
 D1
 ~
 ~
@@ -1550,7 +1551,7 @@ Vallhalla~
 find the room of portals.  To the east a room made for summoning and fighting
 awaits.  
 ~
-196 295452 0 0 0 0
+196 262684 0 0 0 0
 D0
 ~
 ~
@@ -1575,7 +1576,7 @@ could pass through them at once.  The castle is very large, and the roof is
 made of thousands of golden shields.  There is no place like this and only
 those worthy can pass.  Trespassers be warned.  
 ~
-196 33284 0 0 0 0
+196 516 0 0 0 0
 D0
 Enormous gates leading into Valhalla!
 ~
@@ -1600,7 +1601,7 @@ A Tunnel~
 moisture and the walls are crawling with insects.  This is a well kept secret
 amongst the clan, as it should remain.  
 ~
-196 32768 0 0 0 0
+196 0 0 0 0 0
 D0
 ~
 secret~
@@ -1615,7 +1616,7 @@ S
 A Chute~
 The walls appear to have been specially built to have no grip points, and are covered in some kind of slime making them impossible to scale.
 ~
-196 34824 0 0 0 9
+196 2056 0 0 0 9
 D4
 A trapdoor
 ~
@@ -1627,14 +1628,24 @@ D5
 0 0 19679
 S
 #19693
-Spare~
-   From the north you can hear deep, rhythmic drumming, accompanied by dark
-chanting from several female voices. Blue-tinted light flickers from the south,
-and on the east-wall is a large shield painted with the crest of the Inner
-Sanctum. Thick slabs of white marble make up the flooring, and consistent with
-the contrasting theme, the ceiling is designed with black marble.
+Spare ~
+   You enter a rather sparse room which holds no interest whatsoever apart
+from the glowing portals on the western, northern and eastern walls. Each
+reflects all sources of light creating an interesting effect within the room
+as if the light itself were alive and dancing around you. Above the northern
+portal is a small wooden sign.
 ~
-196 8 0 0 0 0
+196 12 0 0 0 0
+D3
+~
+~
+0 0 19652
+E
+sign~
+The sign reads:
+     Grey Keep - black portal
+     Volcano Entrance - orange portal
+~
 S
 #19694
 Spare~
@@ -1658,7 +1669,7 @@ smashed in and some pieces of it that litter the floor are still smoldering.
 Through the screen past the divider, deep swirls of orange seem to be
 coming from a portal.  
 ~
-196 32796 0 0 0 0
+196 28 0 0 0 0
 D1
 ~
 ~
@@ -1673,7 +1684,7 @@ crimson tapestry spans the western wall, back to the northern wall, and ends
 at the eastern wall.  Words painted in black upon the tapestry read, "Bravely
 and gladly a man shall go, till the day of his death is come."
 ~
-196 32796 0 0 0 0
+196 28 0 0 0 0
 D2
 ~
 ~
@@ -1690,7 +1701,7 @@ stained with crimson blood that still feels damp to the touch.  A trail of the
 same crimson blood leads out of the confessional into the altar area.  A
 portal of some sort is visible from any angle in the confessional.  
 ~
-196 32796 0 0 0 0
+196 28 0 0 0 0
 D3
 ~
 ~

@@ -37,17 +37,17 @@ mask ceremonial wendigo~
 mouth full of jagged teeth.  The eye holes are small and deep set.  
 ~
 A
-19 1
+19 3
 A
 6 -1
 A
-12 7
+13 25
 A
 29 10
 A
-29 3
+29 5
 A
-29 26
+17 -20
 #31704
 ancient draconian armguards~
 some &Cancient-draconian&n armguards~
@@ -195,8 +195,8 @@ naginata plague bringer~
 the &cNaginata&n known as, "&GP&glague &GB&gringer&n"~
 A mysterious naginata lay in the dust carelessly.~
 ~
-5 268435520 0 0 0 8193 0 0 0
-0 10 4 3
+5 16777408 0 0 0 8193 0 0 0
+0 21 1 3
 0 9999 0.00
 A
 19 4
@@ -207,7 +207,9 @@ A
 A
 24 -15
 A
-17 -4
+17 -20
+A
+29 12
 #31713
 dragon familiar~
 a small, &Cd&cra&Bg&co&Cn&n familiar~
@@ -227,24 +229,23 @@ A
 A
 14 20
 #31714
-clue~
-a Clue!~
-A clue is lying here.~
-Valor will lead to Salvation
+ancient manuscript piece paper note banana famine~
+a crumbling Banana leaf with markings scrawled across it~
+A large brown leaf crumbles to dust.~
+Banana's are big business. My business.
 ~
 16 0 0 0 0 1 0 0 0
 0 0 0 0
-1 0 0.00
+1 0 75.00
 #31715
-note reconstructed~
-a reconstructed note~
-A note is lying here.~
-The fallen knight in shining armor makes plans within plans to safeguard the world from evil.
-he knows the enemy!
+scrap clue note paper colourful amate~
+an Colourful scrap of Amate~
+A beautiful piece of Amate is lying here~
+Someone has been doodling. it's quite beatiful. A Gouldian Finch
 ~
 16 0 0 0 0 1 0 0 0
 0 0 0 0
-0 0 0.00
+0 0 10.00
 #31716
 book old grubby journal~
 a Grubby old journal~
@@ -252,21 +253,22 @@ A pile of moulding papers lies here.~
 ~
 16 65544 0 0 0 1 0 0 0
 0 0 0 0
-1 5 0.00
+1 5 75.00
 E
 Journal book grubby old~
-Skimming through the pages this appears to be the journal of an adventurer or perhaps a spy. The writer appears to have been falling into madness as it progresses
-it appears as though someone has been trying to decipher it and has put notes in the margins. The Later sections all focus on an impending doom, one phrase has been circled repeatedly. Ask Amantis, Amantis knows!
+skimming through the pages this appears to be records, or logs of some kind. it is written in code but from what you can decipher it appears to be accountings of...a brothel made for one purpose. To lure in Darius. there are design diagrams for some kind 
+prophylactic ribbed on the inside for his pleasure, coated with some kind of special elven spannish fly to make it tolerable for the girls.
+on the last page there appears to be a list, nine of the items are crossed off, the last one is circled with "I will finally remake the seal!" written beside it.  D
 ~
 #31717
-hint~
-it's a hint!~
-Pick it up you animal~
-She may be one of the greatest in the land with a sword but she has chosen the wrong side and we will crush her armies!
+manuscript paper piece hint clue death~
+a piece of an ancient manuscript~
+A scrap of aged vellum~
+ is associated with quiet, sleepless nights and is named for the vigil (watch) being kept beside the d
 ~
 16 0 0 0 0 1 0 0 0
 0 0 0 0
-0 0 0.00
+0 0 75.00
 E
 hint~
 She may be one of the greatest in the ladn with a sword but she has chosen the wrong side in this conflict and we will crush her armies!
@@ -413,7 +415,7 @@ immovable object staff~
 the Immovable object~
 A stick stands here unmoving.~
 ~
-4 0 0 0 0 8193 0 0 0
+4 0 0 0 0 513 0 0 0
 40 1000 10 73
 20 4000 0.00
 A
@@ -421,25 +423,39 @@ A
 A
 13 30
 A
-26 10
+24 -25
 A
 18 4
+A
+19 3
+A
+23 -50
 #31725
 unstoppable force staff~
 the unstoppable force~
 What appears to be a large Pin streaks through the room, passing through everything in it's path.~
 ~
-4 0 0 0 0 8193 0 0 0
-100 1000 20 94
+3 0 0 0 0 24577 0 0 0
+1000 9999 20 94
 20 4000 0.00
 #31726
 staff of hellfire~
 staff of hellfire~
-An unfinished object is lying here.~
+Whats left of the burning bush lies here~
 ~
-4 0 0 0 0 24577 0 0 0
-100 1000 20 92
-0 0 0.00
+3 64937984 0 0 0 16385 0 0 0
+70 1000 20 58
+5 666 0.00
+A
+13 30
+A
+19 3
+A
+12 25
+A
+27 10
+A
+17 -10
 #31727
 dragon tea cup urine~
 a small cup of distilled dragon tea~
@@ -507,7 +523,7 @@ A
 A
 29 1
 #31732
-Great camping Implement~
+Great camping Implement blessed~
 the Great &bBlessed&n Camping Implement~
 It's a knife. No! a spoon, No! a fork! it could be anything!~
 ~
@@ -586,13 +602,15 @@ upon closer inspection you notice an inscription around the mouthpiece of the ho
 120 100 10 52
 5 5000 0.00
 A
-19 3
+19 5
 A
-12 15
+12 25
 A
-27 15
+27 25
 A
 29 26
+A
+13 25
 #31737
 shadowy boots~
 some &bShadowy&n boots with &Rflames&n licking at the heels.~
@@ -617,7 +635,7 @@ Fancy gold chain used to belong to Rick James~
 It's a chain made of gold. so fancy~
 ~
 5 358334595 0 0 0 8193 0 0 0
-0 14 3 10
+0 14 3 12
 5 5000 0.00
 A
 5 -3
@@ -647,7 +665,7 @@ A
 A
 27 2
 A
-12 10
+12 15
 A
 13 10
 A
@@ -761,7 +779,7 @@ A
 #31748
 noodley appendage~
 noodley appendage~
-An unfinished object is lying here.~
+A wet noodle is lying here.~
 ~
 19 16908610 0 0 0 257 0 0 0
 10000 0 0 100
@@ -837,7 +855,7 @@ a tooth dripping poison hanging from a platinum chain.~
 A small tooth disappears into the hole created by it's acidic coating.~
 There is something odd about this item. it...pulls you. You want to follow but know you shouldn't.
 ~
-18 323650 0 0 0 5 0 0 0
+11 323650 0 0 0 5 0 0 0
 0 1 1 11
 1 7777 0.00
 A
@@ -856,7 +874,7 @@ a Lance of weaponized &RSouls&n~
 You aren't sure what is keeping the souls trapped in there but they really don't look happy about it.~
 ~
 5 157611523 0 0 0 8193 0 0 0
-0 23 1 14
+0 23 1 3
 10 6666 0.00
 A
 19 5
@@ -875,7 +893,7 @@ rift space time~
 a rift in space and time~
 You think you used to see sometihng here, but maybe not~
 ~
-9 99414019 0 0 0 513 0 0 0
+9 89976835 0 0 0 513 0 0 0
 25 0 0 0
 1 6666 0.00
 A
@@ -910,7 +928,7 @@ A
 6 6
 #31756
 portable black hole~
-a portable black hole~
+a portable &Dblack&n hole~
 All the light in the room appears to be sucked into a small point floating about 6 inches above the ground here.~
 ~
 15 16777218 0 0 0 16385 0 0 0
@@ -919,41 +937,41 @@ All the light in the room appears to be sucked into a small point floating about
 A
 19 2
 A
-27 10
+27 15
 A
 12 25
 A
-17 -5
+17 -10
+A
+13 15
 #31757
-cursed wish~
-Egon's wish come true~
-That'll learn ya~
+famine scale apocolypse~
+&bFamine's&n Scale~
+An ornate scale lies here, deciding your fate.~
 poor egon
 ~
-14 65672 0 0 0 491423 0 0 0
-0 0 0 0
-76 50 95.00
+4 72990731 0 0 0 16385 0 0 0
+30 20 20 67
+1 9001 5.00
 A
-29 35
+12 15
 A
-29 25
+13 15
 A
-29 11
+27 15
 A
-14 -125
+29 5
 A
-14 -125
-A
-14 -125
+5 2
 #31758
-death visage bone~
-&WDeath's&n Visage~
+death visage bone apocolypse~
+&DDeath's&n Visage~
 A bleached skull lies here.~
 you stare into the face of Death, lets hope he doesnt come to claim it.
 ~
-3 0 0 0 0 131073 0 0 0
+3 16777362 0 0 0 131073 0 0 0
 30 20 20 27
-5 999 5.00
+5 9001 5.00
 A
 27 3
 A
@@ -967,13 +985,13 @@ A
 A
 29 1
 #31759
-war sword red~
-&rWar's&n Sword~
-a blade so sharp it seems to cut the light lies here~
+war sword red apocolypse~
+&RWar's&n Sword~
+A blade so sharp it seems to cut the light lies here~
 ~
-5 434387283 0 0 0 8193 0 0 0
-0 14 3 3
-35 9001 5.00
+5 434385235 0 0 0 8193 0 0 0
+0 18 2 3
+25 9001 5.00
 A
 19 3
 A
@@ -986,6 +1004,245 @@ A
 29 10
 A
 26 10
+#31760
+pestilence crown thorns apocolypse~
+&WPestilence's&n Crown of Thorns~
+A crown of thorns lies here surrounded by Locusts.~
+~
+3 16777307 0 0 0 17 0 0 0
+30 1000 20 45
+10 9001 5.00
+A
+19 3
+A
+18 2
+A
+29 30
+A
+14 50
+A
+3 3
+A
+17 -25
+#31761
+apocolypse seal horsemen four~
+a Seal of the &RApo&Wcol&Dlyp&bse&n~
+A Flaming medallion depicting four savage horses rests here.~
+as you inspect the seal you see four Horses breaking out as waves crashing onto the shore. one &Rred&n, one &Wwhite&n one &bBlack&n and one &Dpale&n
+~
+4 16843083 0 0 0 5 0 0 0
+300 200 20 83
+1 99000 0.00
+A
+19 3
+A
+17 -15
+A
+29 30
+A
+18 10
+A
+9 100
+A
+24 -15
+#31762
+colourful feather~
+a colourful feather~
+A brightly coloured feather floats in the wind~
+~
+8 1 0 0 0 1 0 0 0
+0 0 0 0
+0 300 100.00
+#31763
+serpent scales~
+the skin of a serpent~
+Something slithered out of its skin here~
+~
+8 1 0 0 0 1 0 0 0
+0 0 0 0
+0 0 50.00
+#31764
+prophylactic condom used~
+a well used prophlyactic~
+Darius has clearly been here.~
+~
+8 67 0 0 0 131073 0 0 0
+0 0 0 0
+1 1000 0.50
+#31765
+lonely thorn~
+a lonely thorn~
+A solitary thorn lies here.~
+~
+8 3 0 0 0 1 0 0 0
+0 0 0 0
+0 500 10.00
+#31766
+death beetle shell~
+a bone white shell~
+A shell shaped like a skull lies here~
+~
+8 0 0 0 0 1 0 0 0
+0 0 0 0
+0 500 2.00
+#31767
+fu man chu~
+fu man chu~
+Someone got a shave and a haircut for two bits!~
+~
+3 72532480 0 0 0 131073 0 0 0
+200 1000 20 92
+1 666 0.00
+A
+19 3
+A
+17 -15
+A
+27 3
+A
+13 10
+A
+18 3
+A
+12 10
+#31769
+note recipe instructions manual ancient~
+an ancient manual~
+Scraps of paper float around here coalessing into what appears to be a book~
+A thorn from the crown
+His symbol
+The ability stave him off
+The last Watch
+A splash of colour
+And Immortal essence to bind it all together
+~
+16 0 0 0 0 1 0 0 0
+0 0 0 0
+0 100 50.00
+#31770
+camping knife original~
+the &WOriginal &bCamping&n Knife~
+A glowing swiss army knife lies in the dirt.~
+this looks like the most useful tool you could ever own
+~
+5 78966851 0 0 0 8193 0 0 0
+0 11 3 11
+1 90000 0.00
+A
+19 8
+A
+18 5
+A
+25 19
+A
+24 -30
+A
+23 -50
+A
+25 25
+#31771
+Bad Mojo~
+Bad Mojo~
+Someone has left their Mojo here, you should probably leave it alone.~
+it's mojo, Baaad Mojo.
+~
+3 0 0 0 0 2049 0 0 0
+30 1000 20 67
+2 1000 0.00
+A
+18 -5
+A
+3 -10
+A
+26 -50
+A
+12 25
+A
+1 10
+A
+13 25
+#31772
+armor vulnerability~
+Armor of Vulnerability~
+A shiny suit of armor lies here begging you to put it on~
+dont do it!
+~
+9 3 0 0 0 9 0 0 0
+-100 0 0 0
+0 1000 0.00
+A
+19 15
+A
+17 100
+A
+17 100
+A
+17 100
+A
+24 100
+A
+29 25
+#31773
+hope diamond~
+the Hope Diamond~
+An unfinished object is lying here.~
+~
+3 0 0 0 0 5 0 0 0
+30 200 20 73
+2 1000 0.00
+A
+1 -12
+A
+19 5
+A
+27 15
+A
+12 20
+A
+2 -5
+A
+13 15
+#31774
+uruyu sand cloak~
+a cloak of uruyu sand~
+A pile of sand forms a dune here, don't take it home!~
+~
+9 2 0 0 0 1025 0 0 0
+-20 0 0 0
+5 1000 0.00
+A
+13 25
+A
+2 -5
+A
+3 -5
+A
+29 34
+A
+18 -5
+A
+12 25
+#31775
+oroboros circlet~
+an oroboros circlet~
+A squirming mass a scales and fang devours the world~
+a snaking eating its own tail writhes here
+~
+9 0 0 0 0 4097 0 0 0
+-30 0 0 0
+3 1000 0.00
+A
+2 -5
+A
+3 -5
+A
+1 -5
+A
+13 15
+A
+12 15
+A
+27 5
 #31778
 dark matter containment sphere~
 an indestructable sphere imprisoning dark-matter~
@@ -1006,6 +1263,26 @@ A
 29 1
 A
 29 17
+#31779
+microphone~
+Microphone~
+This is the very microphone thay Ryan Seacrest used to ring in 2023~
+~
+5 131218 0 0 0 8193 0 0 0
+0 10 3 7
+1 5000 0.00
+A
+6 6
+A
+18 5
+A
+17 -30
+A
+29 26
+A
+27 15
+A
+19 3
 #31798
 open furnace~
 a large open furnace~

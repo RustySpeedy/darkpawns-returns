@@ -235,7 +235,7 @@ bespeaks the wisdom of eons.  Summoned from heaven by the God of War to serve
 as his steed, Bahamut is a fierce and loyal companion to mighty Mars.
 ~
 10572058 0 0 0 1140855944 0 0 0 400 E
-60 -40 -50 60d5+30000 40d4+75
+60 -40 -50 60d5+30000 40d10+75
 0 135420039
 8 8 1
 BareHandAttack: 12

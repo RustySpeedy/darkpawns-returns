@@ -1,1 +1,10 @@
-$
+#19801
+yellow portal gate~
+a shimmering yellow portal~
+A shimmering portal of yellow light hovers in the middle of the room.~
+~
+1 0 0 0 0 0 0 0 0
+0 0 -1 0
+500 12119 100.00
+S portal.lua 2
+$~

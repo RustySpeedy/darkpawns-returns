@@ -94,7 +94,7 @@ less like the most powerful warlock in the world, and more like a male concubine
 faithfully obeying orders.
 ~
 776233 0 0 0 1073784008 0 0 0 -1000 E
-34 -14 -24 34d5+2746 22d4+22
+34 -14 -24 34d5+2746 22d4+23
 0 270000
 6 6 1
 Race: 0
@@ -722,11 +722,30 @@ length on its own, the scales built into it seem to work as a finely built
 serrated blade.  
 ~
 9168921 0 0 0 1193128 2 0 0 0 E
-39 -19 -29 39d6+19850 26d6+42
+39 -19 -29 39d6+11000 40d6+42
 150000 375000
 8 8 0
 BareHandAttack: 4
-Race: 19
-Noise: &yAn unnerving calm has come upon you as a &YD&wi&Yv&wi&Yn&we&y tranquility eases into your soul...... like the calm before the end...
+Race: 14
+Noise: You hear a soothing demonic, high-pitched voice call out 'Wanna come play Georgie?'
+E
+#14443
+primeval alpha wendigo~
+The Primeval Wendigo~
+A extremely fast, massive, pitch-black creature with a silver hide darts around nearby its razor-sharp claws gouging the ground in its wake.
+~
+   This massive, extremely well-muscled beast stands at a enormous height of
+25 meters.  It is covered in a coarse white fur with a very distinct silver
+streak that runs from its head to its waist.  It's claws are permanently
+stained blood-red with the viscera and gore of its many victims it has hunted,
+torn apart, and eaten over its countless centuries of life.  It glares at you
+and let's out an unearthly howl that sends a terror screaming thru your very
+soul telling you to flee as fast as possible......  But it's too late.....  
+~
+8888380 0 0 0 1075717308 2 0 0 -1000 E
+39 -19 -29 50d0+18525 30d10+55
+4500000 375000
+8 8 0
+BareHandAttack: 9
 E
 $

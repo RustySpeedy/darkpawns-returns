@@ -381,15 +381,15 @@ A beautiful statue of marble fills the room.~
 1000 1 -1 0
 10 0 100.00
 E
-plaque~
-It simply reads "Targhee, the holiest of mages and her guardian Angel"
-~
-E
 statue marble targhee angelfire~
 The statue has been exquisitely carved from only the finest of marble. It has
 a large square base with veins of gold coursing through it in an intricate
 pattern. There are two powerful figures side by side and a small plaque on
 the statue's base.
+~
+E
+plaque~
+It simply reads "Targhee, the holiest of mages and her guardian Angel"
 ~
 #19654
 majestic throne bones~
@@ -398,7 +398,8 @@ A majestic throne constructed from human bones sits here.~
 ~
 12 0 0 0 0 0 0 0 0
 0 0 0 0
-10 1000 100.00
+5000 19693 100.00
+S portal.lua 2
 E
 majestic throne bones~
 The throne has been crafted with great care and commands an air of respect.
@@ -491,14 +492,14 @@ An ancient statue, chiseled from granite, of an unknown saint stands here missin
 10 4219 100.00
 S portal.lua 2
 E
-message portal~
-This portal will take you to the Cozy Inn in Bhyroga Village.
-~
-E
 statue saint~
    A statue of an unkown saint which was once beautiful piece of
 crafstmanship, made from fine marble and gold leaf.  There is a message carved
 into the back of the base.  
+~
+E
+message portal~
+This portal will take you to the Cozy Inn in Bhyroga Village.
 ~
 #19681
 gate gateway kir oshi~
@@ -563,19 +564,19 @@ The anus of Agnes absorbs you..
 1000 8004 100.00
 S portal.lua 2
 E
-tattoo~
-This asshole leads to the Altar in Kir Drax'in.
+nun anus ass butthole~
+   The entryway is dark, veiny, and smells of dead sea creatures.  This gaping
+poop shoot has seen better days.  It may be best if you just take a running
+start at it.  
+You notice something strange about her left buttcheek...
 ~
 E
 cheek~
    There is a tattoo under the left ass cheek.  
 ~
 E
-nun anus ass butthole~
-   The entryway is dark, veiny, and smells of dead sea creatures.  This gaping
-poop shoot has seen better days.  It may be best if you just take a running
-start at it.  
-You notice something strange about her left buttcheek...
+tattoo~
+This asshole leads to the Altar in Kir Drax'in.
 ~
 #19692
 statue fountain evil~
@@ -587,10 +588,6 @@ A large bowl sits bubbling at the base of a large obsidian statue depicting what
 10004 21279 100.00
 S portal.lua 2
 E
-portal message~
-This portal will take you to the southern gates of Aloazar.
-~
-E
 statue fountain evil~
    At the base of this freaky ass statue lies a obsidian bowl large enough to
 bath in filled with whiskey.  A dark, obsidian based statue with various acts
@@ -598,6 +595,10 @@ of torture, sexual perversions, and other heathenistic behaviors.  There are
 naked men, women, demons, and a sly looking trickster they call Loki all
 involved in these acts in some way shape or form.  There is a message carved
 in the back of the statue in common tongue.  
+~
+E
+portal message~
+This portal will take you to the southern gates of Aloazar.
 ~
 #19693
 Jormungand serpent portal~
@@ -609,15 +610,15 @@ A terrifying obsidian statue of a large sea serpent known as Jormungand is sitti
 500 11087 100.00
 S portal.lua 2
 E
-message portal~
-This will take you to the Desert Tunnels near the Sphinx's.
-~
-E
 statue serpent jormungand~
    A large statue made entirely from obsidian.  Absolutely flawless
 chisel-work it is awe inspiring and terrifying and the same time.  Long fangs
 threaten you from this enormous snakes wide open mouth.  There is a message
 carved into the back in common tongue.  
+~
+E
+message portal~
+This will take you to the Desert Tunnels near the Sphinx's.
 ~
 #19694
 allfather fountain~
@@ -629,15 +630,15 @@ An extraordinary granite statue of the Allfather towers over you and the sparkli
 10000004 31798 100.00
 S portal.lua 2
 E
-message portal~
-This will take you to Skathe's Retreat in the north, brother.
-~
-E
 allfather fountain~
    The statue is solid granite and perfectly resembles Odin standing tall and
 powerful.  There are runes etched into the base of the statue which doubles as
 a drinking fountain.  There is a message carved in common tongue around the
 backside.  
+~
+E
+message portal~
+This will take you to Skathe's Retreat in the north, brother.
 ~
 #19695
 rocky key~

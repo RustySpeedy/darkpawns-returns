@@ -59,21 +59,21 @@ feel mesmerized.
 Race: 8
 E
 #7904
-War man~
+war man horseman~
 War~
 War rides through on a horse black as night.
 ~
 War is one of the four horsemen of the Apocalypse. Clothed head-to-toe in black
 armor, he fears no mortal man.
 ~
-821260 0 0 0 1224 0 0 0 -700 E
-31 -11 -20 20d4+997 20d4+20
+9209868 0 0 0 1049800 2 0 0 0 E
+31 -11 -20 20d8+2997 30d5+28
 50 90000
 8 8 1
 Race: 19
 E
 #7905
-Death man~
+death man horseman~
 Death~
 Death rides on a pale horse.
 ~
@@ -81,14 +81,14 @@ Death is one of the four horsemen of the Apocalypse. This skeletal figure has
 one goal: to collect souls for judgment. It looks as though he has decided to
 start with yours.
 ~
-821260 0 0 0 1160 0 0 0 -700 E
-31 -11 -21 31d5+997 20d4+20
+9209868 0 0 0 67110024 0 0 0 -700 E
+31 -11 -21 31d8+3497 25d6+28
 50 90000
 8 8 1
 Race: 19
 E
 #7906
-Famine man~
+famine horseman man~
 Famine~
 An imposing man on a black horse rides here.
 ~
@@ -96,22 +96,22 @@ Famine is one of the four horsemen of the Apocalypse.
 Although wearing only rags, his immortal stature
 makes him a threat to your very existence.
 ~
-821260 0 0 0 1096 0 0 0 -700 E
-31 -11 -21 31d5+997 20d4+20
+9209868 0 0 0 1224 0 0 0 -700 E
+31 -11 -21 31d8+2997 20d7+29
 50 90000
 8 8 1
 Race: 19
 E
 #7907
-Pestilence man~
+pestilence man horseman~
 Pestilence~
 Pestilence rides here on a lame horse.
 ~
 Pestilence is one of the four horsemen of the Apocalypse. Spreading disease and
 death across the land, he pays little attention to the living.
 ~
-821260 0 0 0 1224 0 0 0 -700 E
-31 -11 -21 30d5+997 20d4+20
+9209884 0 0 0 1180872 2 0 0 -700 E
+31 -11 -21 30d9+3997 27d6+33
 50 90000
 8 8 1
 Race: 19
@@ -198,9 +198,9 @@ stands ten feet tall.  Two moldy, quivering stumps hang from its sides, slimy
 roots flailing wildly about.  It has no legs, instead moving like a slug,
 leaving a trail of thick, green-tinted slime.
 ~
-616456 0 0 0 1032 0 0 0 -800 E
-33 -13 -23 33d5+2163 22d4+22
-8 180000
+616456 0 0 0 132296 2 0 0 -800 E
+33 -13 -23 33d5+4663 30d5+30
+24 180000
 8 8 0
 BareHandAttack: 9
 Race: 17
@@ -361,8 +361,8 @@ A beautiful white horse with a single, spiral horn stands here.
 The Unicorn is an ancient, mystical creature, the symbol of Life in druidic
 religions.  There is rumored to be only a single one in the entire world.
 ~
-190489 0 0 0 38024 0 0 0 1000 E
-31 -11 -21 31d5+997 20d4+20
+8579353 0 0 0 68195464 2 0 0 1000 E
+31 -11 -21 31d5+21100 40d4+20
 0 90000
 8 8 2
 BareHandAttack: 9
@@ -489,8 +489,8 @@ A tall man with an extremely long goatee is pacing the floor muttering obsceniti
    Pai Mei is a legendary master of the Bak Mei and Eagle's Claw styles of
 martial arts.  This is one fatal mother fucker.  
 ~
-25676313 0 0 0 1158554764 18 0 0 0 E
-39 -57 -29 50d5+12000 35d12+27
+25680409 0 0 0 1158554764 18 0 0 0 E
+39 -57 -29 50d5+12000 35d12+37
 90000 375000
 8 8 0
 BareHandAttack: 3

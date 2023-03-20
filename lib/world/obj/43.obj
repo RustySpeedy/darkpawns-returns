@@ -42,7 +42,7 @@ Mighty Mars is depicted here in a massive granite statue.
 In godly armor, Mars wields a fasces of imperium and haunts
 your soul with a piercing, nightmarish glare.
 ~
-23 67 0 0 0 0 0 0 0
+23 67 0 0 0 1 0 0 0
 1000 1000 6 0
 1000 0 100.00
 E
@@ -406,7 +406,7 @@ strengthen the grip of faith over the minds of gullible cretins.
 #4335
 habit~
 the brown habit of a sagely teacher~
-a rumpled pile of worn fabric lies here~
+A rumpled pile of worn fabric lies here~
 ~
 9 89976899 0 0 0 1025 0 0 0
 18 0 0 0
@@ -1083,7 +1083,7 @@ Sticky, alcohol-stained robes lie in a mess on the floor.~
 ~
 11 131152 0 0 0 1025 0 0 0
 0 0 0 0
-10 5 60.00
+10 500 60.00
 A
 6 -5
 A
@@ -1178,7 +1178,7 @@ Big Mama Mighty Axe~
 Big Mama's Bigass Axe~
 The Bigass Axe of Biiiiiig Mama is here, by Golly!~
 ~
-5 6320448 0 0 0 1 0 0 0
+5 6320448 0 0 0 8193 0 0 0
 0 5 5 3
 24 2000 100.00
 A

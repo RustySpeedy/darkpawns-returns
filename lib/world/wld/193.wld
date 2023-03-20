@@ -1,8 +1,42 @@
 #19300
 Casica's zone~
-22334 link room (yes this is my notepad)
-
+planned entrace at 4726
+Zone based off idea of Barnstads former home.. Dwarven Ruins/Town
 ~
-193 0 0 0 0 0
+193 786432 0 0 0 0
+S
+#19301
+A recently formed hole in the cavern wall~
+Standing inside the recently formed cave you start to ponder over the destuctive forces that might have exposed it, you wonder if its worth the risk to continue on. The walls of rock seem to have almost been dug out by hand....
+~
+193 0 0 0 0 5
+D0
+~
+~
+0 0 19302
+S
+#19302
+inside of a cave~
+Traveling deeper into the cave the walls begin to apear smoother as if massive tools were used to dig out this formation. Looking deeper in the the cave you can vaguely make out the silhouette of what seems to be an archway of some type......
+~
+193 0 0 0 0 5
+D0
+~
+~
+0 0 19303
+D2
+~
+~
+0 0 19301
+S
+#19303
+ruined Archway~
+In front of you stands a massive marble gateway that has long sence been abondoned by its makers.
+~
+193 0 0 0 0 5
+D2
+~
+~
+0 0 19302
 S
 $~

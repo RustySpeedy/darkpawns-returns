@@ -23,15 +23,15 @@ A small key made entirely of dark crystal was dropped here.~
 0 0 0 0
 1 1 50.00
 E
-writing~
-The key has some strange words engraved in it, you do not understand their
-meaning but they have an evil sound to them.
-~
-E
 key~
 The dark crystal key is very lightweight but seems very strong.  Looking at
 it carefully you see strange, sinister-looking writing in a language you do
 not know.
+~
+E
+writing~
+The key has some strange words engraved in it, you do not understand their
+meaning but they have an evil sound to them.
 ~
 #20003
 key glowing gleaming white~
@@ -185,7 +185,7 @@ An ancient staff of power is floating in mid air here.~
 ~
 5 215867459 0 0 0 8193 0 0 0
 0 5 5 12
-10 10000 5.00
+10 10000 7.00
 A
 29 7
 A
@@ -288,4 +288,24 @@ A black helm designed for demonic use lies here.~
 9 3350 10.00
 A
 19 1
+#20028
+runic ancient staff power~
+&nan &yA&Dn&yc&Di&ye&Dn&yt &gR&Cu&gn&Ci&gc&n Staff of &mP&Ro&mw&Re&mr&n~
+A staff of unimaginable power floats here its runes distorting the space nearby.~
+~
+3 215867739 0 0 0 8193 0 0 0
+100 18 0 93
+2 9999 1.00
+A
+19 5
+A
+18 5
+A
+24 -30
+A
+29 7
+A
+12 50
+A
+27 15
 $~

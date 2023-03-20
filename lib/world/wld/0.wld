@@ -60,7 +60,7 @@ S
 Skarash's Room~
 DAMMIT SKARASH, GET TO WORK!!!! :)
 ~
-0 524288 0 0 0 0
+0 524292 0 0 0 0
 E
 sign~
 Welcome to Skarash's Wholesale Bordello.
@@ -77,7 +77,7 @@ the black marble floor, scattered with silken and velvet pillows.  Above,
 three cresent moons have been carved from the cathedral ceiling to gaze
 upon the heavens above.
 ~
-0 524352 0 0 0 0
+0 524356 0 0 0 0
 S
 #34
 Prep Room~
@@ -87,7 +87,7 @@ before.  Large mystical runes lie to the east, creating a doorway into
 the onslaught.  A peaceful aura is settled around the room, allowing 
 you to prepare for the battle that awaits.
 ~
-0 16 0 0 0 0
+0 20 0 0 0 0
 D1
 ~
 ~
@@ -108,16 +108,16 @@ fire that lights most of the room.  There are torches along the walls that
 provide even more light.  There are huge wooden chairs around the room that
 allow all of the pantheon to assemble in some sort of order.
 ~
-0 56 0 0 0 0
-E
-chair chairs~
-They are huge wooden seats made from the same wood that the
-round table are made from.  They are fit for a God.
-~
+0 60 0 0 0 0
 E
 table~
 It is a huge wooden table, probably 25 feet across, and perfectly round.
 The wood is a dark rich wood, unlike any that comes from nature.
+~
+E
+chair chairs~
+They are huge wooden seats made from the same wood that the
+round table are made from.  They are fit for a God.
 ~
 S
 #42
@@ -219,7 +219,7 @@ S
 Sigfried's Room~
 Finish the Room you filthy heathen!
 ~
-0 786448 0 0 0 0
+0 790544 0 0 0 0
 D5
 ~
 door~
@@ -232,6 +232,6 @@ and nothing else has meaning here. For an instant, you are walking the
 hills near the Pagoda, the next you're rowing across a vast ocean. Your
 mind is generating many images all of which appear before you.
 ~
-0 917576 0 0 0 0
+0 917592 0 0 0 0
 S
 $~
