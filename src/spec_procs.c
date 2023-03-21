@@ -1778,7 +1778,6 @@ SPECIAL(outofjailguard)
     return(FALSE);
 }
 
-
 SPECIAL(jailguard)
 {
     if (mini_mud || !IS_MOVE(cmd))

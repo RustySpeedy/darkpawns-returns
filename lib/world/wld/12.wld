@@ -51,7 +51,7 @@ S
 floating in the endless pain~
 Every molecule of your being screams that you shuold not be here.
 ~
-12 262184 0 0 0 12
+12 1310760 0 0 0 12
 R archive/elemental_room.lua 4
 D0
 You see what appears to be light at the end of the tunnel.
@@ -66,7 +66,7 @@ Flaming Scrim~
 D2
 ~
 ~
-0 0 1212
+0 0 1216
 D3
 A picture of calm and serenity
 ~
@@ -77,19 +77,19 @@ S
 You chose ...  Poorly~
 You wish you were back floating in the endless pain.
 ~
-12 64 0 0 0 11
+12 64 0 0 0 9
 D1
 you can't see through the portal
 ~
-flaming scrim~
-2 0 1212
+calm serenity~
+1 31746 1212
 S
 #1214
 an Enourmous colander~
 It is very difficult to navigate around in the giant space, every step you take your feet either slip on something slimy in the red muck, or seem to fall into nothingness. The walls slope gently upwards as far as the eye can see.
 Once you have come all the way into the room, what appears to be several large meatballs with long noodley appendages block your exit.
 ~
-12 262144 0 0 0 6
+12 262144 0 0 0 8
 D0
 Colander as far as the eye can see
 ~
@@ -116,6 +116,16 @@ Maybe everything that glitters IS gold! this is the most sparkly room you have e
 ~
 12 0 0 0 0 0
 D2
+~
+secret~
+1 -1 1212
+S
+#1216
+the hollowed out husk of a once beautiful world~
+Every ounce of life has been sucked from the surroundings, as far as the eye can see is just barren rock.
+~
+12 0 0 0 0 1
+D0
 ~
 ~
 0 0 1212

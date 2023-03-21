@@ -151,12 +151,12 @@ slash~
 0 1 6 11
 3 30 100.00
 E
-sword small~
-The small sword seems to have an inscription of some sort inscription...~
-E
 inscription~
 It says: "May this sword be a good companion."
 ~
+E
+sword small~
+The small sword seems to have an inscription of some sort inscription...~
 #8022
 sword long~
 a long sword~
@@ -1005,7 +1005,7 @@ a massive stone-fireplace~
 You are beckoned by the warm fire raging within this stone fireplace.~
 A well-stoked fire is raging inside this fireplace.
 ~
-15 1 0 0 0 1 0 0 0
+15 1 0 0 0 0 0 0 0
 100 0 -1 0
 1000 0 100.00
 #8171
@@ -1044,7 +1044,7 @@ a floor safe~
 A hardened-steel forged plate is bolted to the ground with a theft-proof slot cut into the top.~
 A heavy-duty floor safe.
 ~
-15 0 0 0 0 1 0 0 0
+15 0 0 0 0 0 0 0 0
 300 15 8174 0
 500 1 100.00
 #8174

@@ -192,17 +192,25 @@ A pair of fine slippers lie here.~
 0 0 0 0
 1 210 15.00
 #11016
-boots ethereal~
+pair of ethereal boots~
 a pair of ethereal boots~
 You see a wavy distortion on the ground here.~
 ~
-11 110141536 0 0 0 65 0 0 0
-0 0 0 0
+9 50524258 0 0 0 65 0 0 0
+16 0 0 0
 1 8500 6.00
 A
-17 10
+19 3
 A
-29 18
+24 -15
+A
+27 5
+A
+12 15
+A
+13 25
+A
+29 26
 #11017
 key stone~
 a stone key~

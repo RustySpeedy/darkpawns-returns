@@ -105,7 +105,7 @@ A badly dented breastplate lies abandoned here.~
 ~
 9 0 0 0 0 9 0 0 0
 4 0 0 0
-10 50 50.00
+10 500 50.00
 A
 2 -1
 #7010
@@ -231,10 +231,6 @@ A slender rapier has been set here.~
 0 3 3 11
 7 100 25.00
 E
-inscription~
-Crafted by Feinweir Bakdralash, Master Weaponer
-~
-E
 rapier~
 Carefully crafted, this slender weapon is ineffectual in the hand of the
 uninitiated, and deadly in the hands of the skilled. Made of many layers
@@ -242,6 +238,10 @@ of folded steel, the strength of the thin blade is surprisingly resilient.
 A fine wire-mesh basket protects the hands of the wielder and provides
 a guard with which to break the opponents blade. There is an inscriptions
 along the blade.
+~
+E
+inscription~
+Crafted by Feinweir Bakdralash, Master Weaponer
 ~
 #7022
 sash~

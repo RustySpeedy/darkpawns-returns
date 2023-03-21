@@ -8,7 +8,7 @@ what sounds like an unnatural wailing nearby...
 D2
 ~
 ~
-0 0 19174
+0 0 19173
 D4
 ~
 ~
@@ -1016,7 +1016,7 @@ D1
 0 0 19158
 D2
 ~
-~
+door~
 1 0 19155
 S
 #19155
@@ -1027,10 +1027,10 @@ toilet.  Lying about are smelly rotten rags, seemingly falling apart even
 as you look at them.  You wager a guess that this room hasn't had much use
 for many years considering the condition of the crew....
 ~
-191 524552 0 0 0 0
+191 524556 0 0 0 0
 D0
 ~
-~
+door~
 1 0 19154
 S
 #19156
@@ -1347,6 +1347,10 @@ On the Dock~
 to the west.
 ~
 191 0 0 0 0 2
+D0
+~
+~
+0 0 19100
 D1
 ~
 ~
@@ -1361,11 +1365,7 @@ On the Dock~
 You stand on a small wooden dock; to the north lies only water. To the south
 is the city gate.
 ~
-191 32768 0 0 0 0
-D0
-~
-~
-0 0 19100
+191 0 0 0 0 0
 D2
 ~
 door iron~

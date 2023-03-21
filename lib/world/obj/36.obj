@@ -580,63 +580,37 @@ An object of unparralled divinity lies here please report to an immortal!~
 0 0 0 0
 0 0 0.00
 E
-4 Weapons~
-76]    a daemonic whip    <9910>
-77]    a biotic dagger    <3503>
-78]    a frost-covered blade    <11008>
-79]    the Hammer of Night    <14402>
-80]    a Bodhidharma staff    <19409>
-81]    a petrified stalk    <11000>
-82]    the Sun Blade    <14128>
-83]    a serpentine dagger    <15807>
-84]    a beheading axe    <11025>
-85]    a diamond-handled whip    <20007>
-86]    a wicked-looking kama    <19436>
-87]    a vengeful blade    <11048>
-88]    a spider-shaped dagger    <14424>
-89]    a bo stick    <7007>
-90]    a strangely-shaped blade    <20021>
-91]    an enchanted blade    <3101>
-92]    an ivory mace    <23507>
-93]    a twisted dagger    <7914>
-94]    an elven blade named "Silverstar"    <19521>
-95]    a daemon's lochaber    <4914>
-96]    a bullwhip    <12802>
-97]    an ornate dagger    <5200>
-98]    a golden axe    <12804>
-99]    a cobalt knife    <23509>
-100]   a sharp, shiny scalpel    <14422>
-~
-E
-3 dr~
-51]    weighted chain    <19413>
-52]    a sickle-shaped claw    <18601>
-53]    black dragon's claw    <14309>
-54]    a set of sharp steel claws    <12110>
-55]    a small fire opal    <19401>
-56]    an unholy mask    <11038>
-57]    a holy mask    <11039>
-58]    a fanged mask    <14427>
-59]    a sickle-shaped claw    <18615>
-60]    a tiger eye    <11003>
-61]    a golden idol    <12801>
-62]    some vengeful armor    <11047>
-63]    a pirate hat    <12134>
-64]    a belt of woven shadow    <23505>
-65]    some daemonic greaves    <7951>
-66]    a jade ring    <4210>
-67]    an onyx ring    <11012>
-68]    an opal ring    <4209>
-69]    a necklace made of bones    <14122>
-70]    a pair of black-laced boots    <15809>
-71]    an orb of power    <11054>
-72]    a cream cloak of ancient runes    <31403>
-73]    a ninja cloak    <3103>
-74]    some magma gauntlets    <1310>
-75]    Chakram    <7913>
+Page 2~
+Roll Selection #      Item Name         Item Vnumber
+
+26]    the elemental eye    <1317>
+27]    some golden armor    <3109>
+28]    a golden ring of intertwined leaves    <5505>
+29]    dull black armor    <3123>
+30]    a golden crown    <12810>
+31]    some dull black leggings    <3129>
+32]    a golden cloak    <12811>
+33]    some dull black sleeves    <3124>
+34]    a green suit of scale mail armor    <14428>
+35]    an ebony cloak    <4105>
+36]    a rakshasa bracelet    <11013>
+37]    a sparkling rope    <4215>
+38]    a pumice crown    <9905>
+39]    an ornate collar    <11028>
+40]    the ring of the Necromancer    <15808>
+41]    a bloody talisman    <14130>
+42]    a dark black cloth cloak w/ silvery rose clasp    <2739>
+43]    a brass lamp    <11050>
+44]    a golden shield    <12803>
+45]    a green and black shield    <2730>
+46]    a shadow cape    <19111>
+47]    a small pair of spectacles    <14408>
+48]    a silver hunting horn    <2752>
+49]    a living ring    <3501>
+50]    a funerary talisman    <11001>
 
 To See More Options
-&RRead page 4&n
+&RRead Page 3&n
 ~
 E
 immortal reward ledger 1~
@@ -672,36 +646,62 @@ To See More Options
 &RRead Page 2&n
 ~
 E
-Page 2~
-Roll Selection #      Item Name         Item Vnumber
-
-26]    the elemental eye    <1317>
-27]    some golden armor    <3109>
-28]    a golden ring of intertwined leaves    <5505>
-29]    dull black armor    <3123>
-30]    a golden crown    <12810>
-31]    some dull black leggings    <3129>
-32]    a golden cloak    <12811>
-33]    some dull black sleeves    <3124>
-34]    a green suit of scale mail armor    <14428>
-35]    an ebony cloak    <4105>
-36]    a rakshasa bracelet    <11013>
-37]    a sparkling rope    <4215>
-38]    a pumice crown    <9905>
-39]    an ornate collar    <11028>
-40]    the ring of the Necromancer    <15808>
-41]    a bloody talisman    <14130>
-42]    a dark black cloth cloak w/ silvery rose clasp    <2739>
-43]    a brass lamp    <11050>
-44]    a golden shield    <12803>
-45]    a green and black shield    <2730>
-46]    a shadow cape    <19111>
-47]    a small pair of spectacles    <14408>
-48]    a silver hunting horn    <2752>
-49]    a living ring    <3501>
-50]    a funerary talisman    <11001>
+3 dr~
+51]    weighted chain    <19413>
+52]    a sickle-shaped claw    <18601>
+53]    black dragon's claw    <14309>
+54]    a set of sharp steel claws    <12110>
+55]    a small fire opal    <19401>
+56]    an unholy mask    <11038>
+57]    a holy mask    <11039>
+58]    a fanged mask    <14427>
+59]    a sickle-shaped claw    <18615>
+60]    a tiger eye    <11003>
+61]    a golden idol    <12801>
+62]    some vengeful armor    <11047>
+63]    a pirate hat    <12134>
+64]    a belt of woven shadow    <23505>
+65]    some daemonic greaves    <7951>
+66]    a jade ring    <4210>
+67]    an onyx ring    <11012>
+68]    an opal ring    <4209>
+69]    a necklace made of bones    <14122>
+70]    a pair of black-laced boots    <15809>
+71]    an orb of power    <11054>
+72]    a cream cloak of ancient runes    <31403>
+73]    a ninja cloak    <3103>
+74]    some magma gauntlets    <1310>
+75]    Chakram    <7913>
 
 To See More Options
-&RRead Page 3&n
+&RRead page 4&n
+~
+E
+4 Weapons~
+76]    a daemonic whip    <9910>
+77]    a biotic dagger    <3503>
+78]    a frost-covered blade    <11008>
+79]    the Hammer of Night    <14402>
+80]    a Bodhidharma staff    <19409>
+81]    a petrified stalk    <11000>
+82]    the Sun Blade    <14128>
+83]    a serpentine dagger    <15807>
+84]    a beheading axe    <11025>
+85]    a diamond-handled whip    <20007>
+86]    a wicked-looking kama    <19436>
+87]    a vengeful blade    <11048>
+88]    a spider-shaped dagger    <14424>
+89]    a bo stick    <7007>
+90]    a strangely-shaped blade    <20021>
+91]    an enchanted blade    <3101>
+92]    an ivory mace    <23507>
+93]    a twisted dagger    <7914>
+94]    an elven blade named "Silverstar"    <19521>
+95]    a daemon's lochaber    <4914>
+96]    a bullwhip    <12802>
+97]    an ornate dagger    <5200>
+98]    a golden axe    <12804>
+99]    a cobalt knife    <23509>
+100]   a sharp, shiny scalpel    <14422>
 ~
 $~

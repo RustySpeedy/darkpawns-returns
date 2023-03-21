@@ -71,8 +71,8 @@ A giant black dragon glares at you, jealously
 Fafnir is always between you and his hoard, never allowing you close. whenever he touches anything other than his hoard steam acrid smoke rises from the spot as his vile poison corrodes all that he touches.
 ~
 8644731 0 0 0 68821180 2 0 0 0 E
-38 -18 -28 38d5+5078 25d4+26
-1000000 372000
+60 -40 -50 60d5+30000 50d8+40
+1000000 544828704
 5 8 0
 BareHandAttack: 10
 Race: 10
@@ -85,12 +85,11 @@ His noodleyness calmly observes you
 What appears before you is a Giant, mass of Spaghetti and meatballs in red sauce like your grandma used to make. Although you see no eyes and no orafices, you feel like it is watching your every move. it's precense is so strong you can barely
 stand to look at it.
 ~
-260125 0 0 0 69107900 2 0 0 0 E
-38 -18 -28 38d5+5078 25d4+26
-0 372000
+260127 0 0 0 69107900 18 0 0 0 E
+60 -40 -50 60d5+15000 30d7+40
+0 544828704
 8 8 0
 BareHandAttack: 2
-Race: 10
 E
 #31707
 evil senyakhaz destroyer chaos monster~
@@ -99,12 +98,40 @@ A Swirling force tries to manipulate you towards chaos.
 ~
 Senyakhaz is less a being, and more of a presence. A feeling of dread and inevitabilty. The longer you are in its presence the more you feel like doing something oh so very rash.
 ~
-9435135 0 0 0 68858922 2 0 0 0 E
-38 -18 -28 38d5+5078 25d4+26
-0 372000
+9172991 0 0 0 68858922 2 0 0 0 E
+60 -40 -50 60d5+17904 30d10+35
+1000000 544828704
 8 8 0
 BareHandAttack: 12
+E
+#31708
+Ryan Seacrest~
+Ryan Seacrest~
+Ryan Seacrest stands here looking Fabulous
+~
+stop looking! Your eyes, you can?t handle this much hansome.
+~
+8615994 0 0 0 75629576 2 0 0 0 E
+50 -30 -40 50d5+21077 44d4+55
+1000000 1769497901
+8 8 1
+BareHandAttack: 1
+Race: 2
+Noise: 10,9,8,7,6,5,4,3,2,1 Happy New Year!
+E
+#31710
+Black Auditor~
+a Pitch Black Auditor~
+A Black robed figure floats here
+~
+They maintain balance in the universe
+~
+8517818 0 0 0 140296 2 0 0 0 E
+50 -30 -40 50d5+12074 44d4+55
+0 1769497901
+8 8 0
 Race: 0
+Noise: Only those with darkness in their hearts may pass.
 E
 #31778
 dark matter life form~

@@ -8,15 +8,15 @@ A violent, unstable ball of lightning floats above its master. It seems to chang
 0 0 -1 0
 3 500 100.00
 E
-fulgurum~
-A violent, unstable ball of lightning floats above its master. It seems to change and oscillate with
-its keepers mood and motions. Keep your distance, these things can and will f**K you up. 
-~
-E
 ball lightning pilae leves vis~
    A violent, unstable ball of lightning floats above its master.  It seems to
 change and oscillate with its keepers mood and motions.  Keep your distance,
 these things can and will f**K you up.  
+~
+E
+fulgurum~
+A violent, unstable ball of lightning floats above its master. It seems to change and oscillate with
+its keepers mood and motions. Keep your distance, these things can and will f**K you up. 
 ~
 A
 18 2
@@ -768,11 +768,11 @@ A large, beaten saddle-bag. It is grey in color, ancient, and belonged to Death 
 ~
 #194
 pointy blood dagger~
-The Pointy end goes in, the &RBlood&n comes out.~
+the Pointy end goes in, the &RBlood&n comes out.~
 Don't touch it~
 ~
 5 0 0 0 0 8193 0 0 0
-0 1000 1 11
+0 2000 20 11
 0 1000 0.00
 A
 25 11

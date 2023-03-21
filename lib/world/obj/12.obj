@@ -45,7 +45,7 @@ A small pile of ash lies here.~
 ~
 12 0 0 0 0 1 0 0 0
 0 0 0 0
-1 15000 100.00
+0 5000 100.00
 #1226
 sand reagent~
 a pinch of sand~
@@ -61,7 +61,7 @@ An eye the size of your fist lies here, staring at you.~
 ~
 12 0 0 0 0 16385 0 0 0
 0 0 0 0
-1 1 1.00
+0 10000 100.00
 #1228
 frog leg reagent~
 the leg of a frog~

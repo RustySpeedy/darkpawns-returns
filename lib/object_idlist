@@ -943,11 +943,11 @@ Item will give the following abilities:  NOBITS
 Item is: HUM MAGIC !CLE !NIN !MYS 
 Encumbrance: 25, Value: 1000
 
-Object: 'The Pointy end goes in, the &RBlood&n comes out.', Item type: WEAPON
+Object: 'the Pointy end goes in, the &RBlood&n comes out.', Item type: WEAPON
 Item will give the following abilities:  NOBITS 
 Item is: NOBITS 
 Encumbrance: 0, Value: 1000
-Damage Dice is '1000D1' for an average per-round damage of 1000.0.
+Damage Dice is '2000D20' for an average per-round damage of 21000.0.
 Can affect you as :
    Extra damage to: Demons.
    Extra damage to: Humanoids.
@@ -1052,7 +1052,7 @@ Encumbrance: 100, Value: 0
 Object: 'a bit of ash', Item type: OTHER
 Item will give the following abilities:  NOBITS 
 Item is: NOBITS 
-Encumbrance: 1, Value: 1000
+Encumbrance: 0, Value: 5000
 
 Object: 'a pinch of sand', Item type: OTHER
 Item will give the following abilities:  NOBITS 
@@ -1547,9 +1547,9 @@ Can affect you as :
    Affects: MANA_REGEN By 10
    Affects: ARMOR By -10
 
-Object: 'A Blessed &RFlaming&n sword.', Item type: WEAPON
+Object: 'a Blessed &RFlaming&n sword.', Item type: WEAPON
 Item will give the following abilities:  NOBITS 
-Item is: NOBITS 
+Item is: !EVIL 
 Encumbrance: 6, Value: 4000
 Damage Dice is '7D5' for an average per-round damage of 21.0.
 Can affect you as :
@@ -3275,12 +3275,18 @@ Item will give the following abilities:  NOBITS
 Item is: GLOW HUM 
 Encumbrance: 1000, Value: 200
 
-Object: 'the brown habit of a sagely teacher', Item type: WORN
+Object: 'the brown habit of a sagely teacher', Item type: ARMOR
 Item will give the following abilities:  NOBITS 
-Item is: NOBITS 
-Encumbrance: 0, Value: 0
+Item is: GLOW HUM MAGIC !MAGE !CLE !THI !WAR !PSI !NIN !PAL !ASS RARE !RAN 
+Encumbrance: 5, Value: 1000
+AC-apply is 18
 Can affect you as :
    Affects: PERM_SPELL By 7
+   Affects: MAXMOVE By -100
+   Affects: MAXMANA By 25
+   Affects: DAMROLL By 2
+   Affects: MANA_REGEN By 5
+   Affects: SAVING_SPELL By -15
 
 Object: 'a mighty mangonel', Item type: FIRE WEAPON
 Item will give the following abilities:  NOBITS 
@@ -4221,13 +4227,14 @@ Encumbrance: 6, Value: 0
 
 Object: 'a wicked-looking serrated sword', Item type: WEAPON
 Item will give the following abilities:  NOBITS 
-Item is: GLOW HUM !GOOD !NEU !MAGE !CLE !THI !PSI !NIN !MAGUS !ASS !MYS 
-Encumbrance: 15, Value: 8250
-Damage Dice is '6D5' for an average per-round damage of 18.0.
+Item is: GLOW HUM !GOOD !MAGE !CLE !THI !PSI !NIN !PAL !MAGUS !ASS !MYS 
+Encumbrance: 15, Value: 7250
+Damage Dice is '6D6' for an average per-round damage of 21.0.
 Can affect you as :
    Affects: PERM_SPELL By 13
-   Affects: DAMROLL By 1
+   Affects: DAMROLL By 3
    Affects: HITROLL By 1
+   Affects: SAVING_SPELL By -5
 
 Object: 'a glass dagger', Item type: WEAPON
 Item will give the following abilities:  NOBITS 
@@ -4577,6 +4584,19 @@ Item will give the following abilities:  NOBITS
 Item is: GLOW MAGIC BLESS 
 Encumbrance: 1, Value: 6000
 
+Object: 'a suit of &gD&Gr&ga&Gg&go&Gn&n-&DS&Wc&Da&Wl&De&n Full-Plate', Item type: ARMOR
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM MAGIC BLESS !MAGE !CLE !THI !WAR !SELL !PSI RARE !LOCATE 
+Encumbrance: 5, Value: 25000
+AC-apply is 30
+Can affect you as :
+   Affects: DAMROLL By 3
+   Affects: ARMOR By -5
+   Affects: HIT_REGEN By 10
+   Affects: SAVING_BREATH By -20
+   Affects: SAVING_SPELL By -20
+   Affects: PERM_SPELL By 26
+
 Object: 'a mica statue', Item type: OTHER
 Item will give the following abilities:  NOBITS 
 Item is: GLOW !DONATE !INVIS MAGIC !SELL !LOCATE 
@@ -4768,12 +4788,13 @@ Object: 'a blood-soaked bear paw', Item type: WEAPON
 Item will give the following abilities:  NOBITS 
 Item is: HUM MAGIC !MAGE !CLE !THI !WAR !MAGUS !ASS !AVA !LOCATE !MYS 
 Encumbrance: 3, Value: 666
-Damage Dice is '6D5' for an average per-round damage of 18.0.
+Damage Dice is '10D3' for an average per-round damage of 20.0.
 Can affect you as :
    Extra damage to: Fishs.
    Affects: HIT_REGEN By -1
    Affects: CHA By -2
    Extra damage to: Reptiles.
+   Affects: DAMROLL By 3
 
 Object: 'an oozing parazonium', Item type: WEAPON
 Item will give the following abilities:  NOBITS 
@@ -5276,7 +5297,7 @@ Encumbrance: 1, Value: 1
 
 Object: 'an armored jester's jacket', Item type: ARMOR
 Item will give the following abilities:  NOBITS 
-Item is: MAGIC !GOOD !MAGE !CLE !THI !WAR !PSI 
+Item is: MAGIC !MAGE !CLE !THI !WAR !PSI 
 Encumbrance: 5, Value: 10000
 AC-apply is 21
 Can affect you as :
@@ -5465,6 +5486,16 @@ Can affect you as :
    Affects: DAMROLL By 1
    Affects: DEX By 3
    Affects: HIT_REGEN By 10
+
+Object: 'a cloak of iridescent dragon scales', Item type: WORN
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM !INVIS MAGIC !MAGE !CLE !THI !WAR !PSI RARE !LOCATE 
+Encumbrance: 10, Value: 9500
+Can affect you as :
+   Affects: ARMOR By -12
+   Affects: HITROLL By 1
+   Affects: DAMROLL By 2
+   Affects: PERM_SPELL By 19
 
 Object: 'a rugged leather backpack', Item type: CONTAINER
 Item will give the following abilities:  NOBITS 
@@ -5708,6 +5739,19 @@ Item will give the following abilities:  NOBITS
 Item is: NOBITS 
 Encumbrance: 500, Value: 0
 
+Object: 'Dispater's Unholy Executioners Hood', Item type: ARMOR
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM MAGIC !DROP BLESS !GOOD !NEU !MAGE !CLE !THI !WAR !SELL !PSI !NIN !PAL !MAGUS !ASS !AVA !RAN !MYS 
+Encumbrance: 125, Value: 1000
+AC-apply is 100
+Can affect you as :
+   Extra damage to: Elfs.
+   Extra damage to: Dwarfs.
+   Extra damage to: Kenders.
+   Extra damage to: Rakshasas.
+   Extra damage to: Minotaurs.
+   Extra damage to: Humanoids.
+
 Object: 'a golden, bejewelled ornate statue', Item type: LIGHT
 Item will give the following abilities:  NOBITS 
 Item is: GLOW HUM MAGIC 
@@ -5738,6 +5782,11 @@ Item will give the following abilities:  NOBITS
 Item is: NOBITS 
 Encumbrance: 2, Value: 600
 This POTION casts: metalskinglobe of invulnerabilitydetect invisibility
+
+Object: 'corpse slug bile', Item type: KEY
+Item will give the following abilities:  NOBITS 
+Item is: NOBITS 
+Encumbrance: 0, Value: 100
 
 Object: 'a petrified stalk', Item type: WEAPON
 Item will give the following abilities:  NOBITS 
@@ -5785,7 +5834,7 @@ Can affect you as :
 Object: 'the Sceptre of the Gods', Item type: OTHER
 Item will give the following abilities:  NOBITS 
 Item is: GLOW HUM MAGIC 
-Encumbrance: 1, Value: 10000
+Encumbrance: 1, Value: 7000
 Can affect you as :
    Affects: DAMROLL By 50
    Affects: HITROLL By 50
@@ -5874,7 +5923,7 @@ Encumbrance: 1, Value: 210
 
 Object: 'a pair of ethereal boots', Item type: WORN
 Item will give the following abilities:  NOBITS 
-Item is: INVIS !NEU !CLE !WAR !PAL !AVA !LOCATE !RAN 
+Item is: INVIS MAGIC !CLE !WAR !PAL !AVA !LOCATE !RAN 
 Encumbrance: 1, Value: 8500
 Can affect you as :
    Affects: ARMOR By 10
@@ -6996,9 +7045,11 @@ Object: 'the Hammer of Night', Item type: WEAPON
 Item will give the following abilities:  NOBITS 
 Item is: !INVIS MAGIC BLESS !GOOD !NEU !MAGE !THI !PSI !NIN !MAGUS !ASS !MYS TWOHANDS 
 Encumbrance: 27, Value: 2000
-Damage Dice is '6D5' for an average per-round damage of 18.0.
+Damage Dice is '8D6' for an average per-round damage of 28.0.
 Can affect you as :
    Affects: DAMROLL By 3
+   Affects: HITROLL By 2
+   Affects: SAVING_SPELL By -10
    Affects: SAVING_BREATH By -10
 
 Object: 'a large, steel key', Item type: KEY
@@ -7370,6 +7421,12 @@ Can affect you as :
    Affects: DAMROLL By 2
    Affects: SAVING_BREATH By -15
    Affects: SAVING_SPELL By -15
+
+Object: 'a vial of concentrated elemental ichor', Item type: POTION
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM 
+Encumbrance: 5, Value: 150000
+This POTION casts: globe of invulnerabilityglobe of invulnerabilityglobe of invulnerability
 
 Object: 'a great, black horn', Item type: OTHER
 Item will give the following abilities:  NOBITS 
@@ -8463,7 +8520,7 @@ Can affect you as :
 Object: 'Orodreth's Bottomless Bag', Item type: CONTAINER
 Item will give the following abilities:  NOBITS 
 Item is: NOBITS 
-Encumbrance: 40, Value: 10000
+Encumbrance: 10, Value: 10000
 
 Object: 'a single red rose', Item type: OTHER
 Item will give the following abilities:  NOBITS 
@@ -9040,7 +9097,7 @@ Item is: !THI !WAR !NIN !PAL !ASS !RAN
 Encumbrance: 3, Value: 4000
 AC-apply is 12
 Can affect you as :
-   Affects: MAXMANA By 10
+   Affects: MAXMANA By 15
    Affects: MANA_REGEN By 10
    Affects: HITROLL By -5
    Affects: AGE By 10
@@ -9441,10 +9498,17 @@ Item will give the following abilities:  NOBITS
 Item is: NOBITS 
 Encumbrance: 1, Value: 0
 
-Object: 'an avian stone carved with the runes for "recall"', Item type: OTHER
+Object: 'an avian stone carved with the runes for "recall"', Item type: SCROLL
 Item will give the following abilities:  NOBITS 
 Item is: GLOW HUM 
 Encumbrance: 2, Value: 0
+This SCROLL casts: group recall
+
+Object: 'Metalskin Potion', Item type: POTION
+Item will give the following abilities:  NOBITS 
+Item is: NOBITS 
+Encumbrance: 0, Value: 0
+This POTION casts: metalskinmetalskinmetalskin
 
 Object: 'a shimmering golden portal', Item type: LIGHT
 Item will give the following abilities:  NOBITS 
@@ -9661,7 +9725,7 @@ Item will give the following abilities:  NOBITS
 Item is: NOBITS 
 Encumbrance: 10, Value: 0
 
-Object: 'the marble statue', Item type: OTHER
+Object: 'the marble statue', Item type: CONTAINER
 Item will give the following abilities:  NOBITS 
 Item is: GLOW 
 Encumbrance: 10, Value: 0
@@ -10245,12 +10309,16 @@ Can affect you as :
 
 Object: 'a pair of ethereal leggings', Item type: ARMOR
 Item will give the following abilities:  NOBITS 
-Item is: GLOW MAGIC BLESS !EVIL !NEU !WAR !PSI !NIN !PAL !RAN !MYS 
+Item is: GLOW INVIS MAGIC BLESS !MAGE !CLE !WAR !PSI RARE !MYS 
 Encumbrance: 15, Value: 7000
-AC-apply is 8
+AC-apply is 15
 Can affect you as :
-   Affects: MAXMOVE By 10
-   Affects: DEX By 1
+   Affects: DAMROLL By 3
+   Affects: HITROLL By 2
+   Affects: ARMOR By -5
+   Affects: MAXHIT By 10
+   Affects: MANA_REGEN By 5
+   Affects: MAXMANA By 10
 
 Object: 'an ancient staff of power', Item type: WEAPON
 Item will give the following abilities:  NOBITS 
@@ -10592,7 +10660,7 @@ Encumbrance: 1000004, Value: 10100
 Object: 'Hee hee', Item type: OTHER
 Item will give the following abilities:  NOBITS 
 Item is: HUM MAGIC !SELL 
-Encumbrance: 5, Value: 0
+Encumbrance: 5, Value: 500
 Can affect you as :
    Affects: INT By -3
    Affects: WIS By -3
@@ -10873,8 +10941,20 @@ Can affect you as :
 Object: 'a Wendigo blood ampul', Item type: POTION
 Item will give the following abilities:  NOBITS 
 Item is: NOBITS 
-Encumbrance: 2, Value: 0
+Encumbrance: 2, Value: 1000
 This POTION casts: metalskinglobe of invulnerabilitycurse
+
+Object: 'the &rblood&y - &rsoaked &Df&We&Dr&Wo&Dc&Wi&Do&Wu&Ds &wclaws&n of the Wendigo', Item type: ARMOR
+Item will give the following abilities:  NOBITS 
+Item is: GLOW !INVIS MAGIC !MAGE !CLE !THI !WAR !PSI 
+Encumbrance: 10, Value: 12500
+AC-apply is 13
+Can affect you as :
+   Affects: HITROLL By 2
+   Affects: DAMROLL By 4
+   Affects: HIT_REGEN By 10
+   Affects: MOVE_REGEN By 10
+   Affects: PERM_SPELL By 5
 
 Object: 'test weight', Item type: UNDEFINED
 Item will give the following abilities:  NOBITS 
@@ -11157,7 +11237,7 @@ Object: 'a blood-soaked bear paw', Item type: WEAPON
 Item will give the following abilities:  NOBITS 
 Item is: HUM MAGIC !MAGE !CLE !THI !WAR !PSI !MAGUS !ASS !AVA !LOCATE !MYS TWOHANDS 
 Encumbrance: 29, Value: 666
-Damage Dice is '5D5' for an average per-round damage of 15.0.
+Damage Dice is '15D2' for an average per-round damage of 22.5.
 Can affect you as :
    Extra damage to: Fishs.
    Extra damage to: Reptiles.
@@ -11191,12 +11271,12 @@ Encumbrance: 1, Value: 999
 This WAND casts: poisonIt has 9 maximum charges and 7 remaining.
 
 Can affect you as :
-   Affects: DAMROLL By 1
+   Affects: DAMROLL By 3
    Affects: CHA By -1
-   Affects: MAXMANA By 7
+   Affects: MAXHIT By 25
    Affects: PERM_SPELL By 10
-   Affects: PERM_SPELL By 3
-   Affects: PERM_SPELL By 26
+   Affects: PERM_SPELL By 5
+   Affects: ARMOR By -20
 
 Object: 'some &Cancient-draconian&n armguards', Item type: ARMOR
 Item will give the following abilities:  NOBITS 
@@ -11233,11 +11313,13 @@ Can affect you as :
    Affects: PERM_SPELL By 3
    Affects: PERM_SPELL By 10
    Affects: MAXHIT By 20
+   Affects: PERM_SPELL By 12
+   Affects: PERM_SPELL By 13
 
 Object: 'Traditional Pastafarian Colander of the Church of the &MFl&Byi&Yng &ySpaghetti &RMonster&n', Item type: ARMOR
 Item will give the following abilities:  NOBITS 
 Item is: GLOW MAGIC 
-Encumbrance: 5, Value: 10000
+Encumbrance: 5, Value: 7000
 AC-apply is 10
 Can affect you as :
    Affects: DAMROLL By 2
@@ -11292,20 +11374,21 @@ Can affect you as :
 
 Object: 'the &cNaginata&n known as, "&GP&glague &GB&gringer&n"', Item type: WEAPON
 Item will give the following abilities:  NOBITS 
-Item is: MAGIC TWOHANDS 
+Item is: MAGIC !DROP RARE 
 Encumbrance: 0, Value: 9999
-Damage Dice is '10D4' for an average per-round damage of 25.0.
+Damage Dice is '21D1' for an average per-round damage of 21.0.
 Can affect you as :
    Affects: DAMROLL By 4
    Affects: HITROLL By 3
    Affects: SAVING_BREATH By -15
    Affects: SAVING_SPELL By -15
-   Affects: ARMOR By -4
+   Affects: ARMOR By -20
+   Affects: PERM_SPELL By 12
 
 Object: 'a small, &Cd&cra&Bg&co&Cn&n familiar', Item type: CASTING_EQ
 Item will give the following abilities:  NOBITS 
 Item is: HUM INVIS MAGIC !CLE !THI !WAR !PSI !PAL !ASS !RAN !MYS 
-Encumbrance: 0, Value: 9999
+Encumbrance: 0, Value: 5000
 This WAND casts: disintegrationIt has 10 maximum charges and 10 remaining.
 
 Can affect you as :
@@ -11335,7 +11418,7 @@ Item will give the following abilities:  NOBITS
 Item is: NOBITS 
 Encumbrance: 0, Value: 0
 
-Object: 'A &GCrocodile&n tooth hat', Item type: ARMOR
+Object: 'a &GCrocodile&n tooth hat', Item type: ARMOR
 Item will give the following abilities:  NOBITS 
 Item is: NOBITS 
 Encumbrance: 5, Value: 4000
@@ -11350,7 +11433,7 @@ Can affect you as :
 
 Object: 'a &GCrocodile Skin&n Jacket', Item type: ARMOR
 Item will give the following abilities:  NOBITS 
-Item is: NOBITS 
+Item is: RARE 
 Encumbrance: 10, Value: 4000
 AC-apply is 15
 Can affect you as :
@@ -11396,18 +11479,18 @@ Damage Dice is '42D1' for an average per-round damage of 42.0.
 Can affect you as :
    Affects: PERM_SPELL By 31
    Extra damage to: Magical Constructs.
-   Affects: HIT_REGEN By 15
+   Affects: HIT_REGEN By 127
    Affects: MAXHIT By 20
    Affects: PERM_SPELL By 12
    Affects: DEX By -10
 
-Object: 'A scroll of Defenses', Item type: SCROLL
+Object: 'a scroll of Defenses', Item type: SCROLL
 Item will give the following abilities:  NOBITS 
 Item is: NOBITS 
-Encumbrance: 0, Value: 0
-This SCROLL casts: psychic shieldmetalskinmetalskin
+Encumbrance: 0, Value: 1000
+This SCROLL casts: psychic shieldmetalskinglobe of invulnerability
 
-Object: 'The Immovable object', Item type: CASTING_EQ
+Object: 'the Immovable object', Item type: CASTING_EQ
 Item will give the following abilities:  NOBITS 
 Item is: NOBITS 
 Encumbrance: 20, Value: 4000
@@ -11419,7 +11502,7 @@ Can affect you as :
    Affects: HIT_REGEN By 10
    Affects: HITROLL By 4
 
-Object: 'The unstoppable force', Item type: CASTING_EQ
+Object: 'the unstoppable force', Item type: CASTING_EQ
 Item will give the following abilities:  NOBITS 
 Item is: NOBITS 
 Encumbrance: 20, Value: 4000
@@ -11428,37 +11511,43 @@ This STAFF casts: calliopeIt has 1000 maximum charges and 20 remaining.
 
 Object: 'staff of hellfire', Item type: CASTING_EQ
 Item will give the following abilities:  NOBITS 
-Item is: NOBITS 
-Encumbrance: 0, Value: 0
-This STAFF casts: ray of disruptionIt has 1000 maximum charges and 20 remaining.
+Item is: !CLE !THI !WAR NAMED !PSI !NIN !PAL !ASS !AVA RARE !LOCATE 
+Encumbrance: 5, Value: 666
+This WAND casts: hellfireIt has 1000 maximum charges and 20 remaining.
 
+Can affect you as :
+   Affects: MAXHIT By 30
+   Affects: DAMROLL By 3
+   Affects: MAXMANA By 25
+   Affects: MANA_REGEN By 10
+   Affects: ARMOR By -10
 
-Object: 'scroll of enchant armor', Item type: SCROLL
+Object: 'a small cup of distilled dragon tea', Item type: POTION
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM MAGIC 
+Encumbrance: 1, Value: 2000
+This POTION casts: mass healmass healglobe of invulnerability
+
+Object: 'a Scrap of paper', Item type: CONTAINER
 Item will give the following abilities:  NOBITS 
 Item is: NOBITS 
-Encumbrance: 0, Value: 0
-This SCROLL casts: enchant armorenchant armorenchant armor
+Encumbrance: 1, Value: 0
 
-Object: 'A Scrap of paper', Item type: NOTE
-Item will give the following abilities:  NOBITS 
-Item is: NOBITS 
-Encumbrance: 0, Value: 0
-
-Object: 'A tome of spells', Item type: SCROLL
+Object: 'a tome of spells', Item type: SCROLL
 Item will give the following abilities:  NOBITS 
 Item is: NOBITS 
 Encumbrance: 0, Value: 1000
 This SCROLL casts: earthquakesmokescreenshift reality
 
-Object: 'A beaten up old journal', Item type: NOTE
+Object: 'a beaten up old journal', Item type: NOTE
 Item will give the following abilities:  NOBITS 
 Item is: NOBITS 
 Encumbrance: 5, Value: 1000
 
-Object: 'A ring of &Bcold&n &RFire&n', Item type: ARMOR
+Object: 'a ring of &Bcold&n &RFire&n', Item type: ARMOR
 Item will give the following abilities:  NOBITS 
-Item is: NOBITS 
-Encumbrance: 0, Value: 0
+Item is: RARE 
+Encumbrance: 0, Value: 5000
 AC-apply is 8
 Can affect you as :
    Affects: MAXMANA By 15
@@ -11468,11 +11557,11 @@ Can affect you as :
    Affects: PERM_SPELL By 3
    Affects: PERM_SPELL By 1
 
-Object: 'The Great &bBlessed&n Camping Implement', Item type: WEAPON
+Object: 'the Great &bBlessed&n Camping Implement', Item type: WEAPON
 Item will give the following abilities:  NOBITS 
 Item is: GLOW HUM MAGIC BLESS 
 Encumbrance: 10, Value: 3000
-Damage Dice is '17D2' for an average per-round damage of 25.5.
+Damage Dice is '13D3' for an average per-round damage of 26.0.
 Can affect you as :
    Affects: DAMROLL By 5
    Affects: ARMOR By -15
@@ -11490,20 +11579,20 @@ Can affect you as :
    Affects: DAMROLL By 2
    Affects: MAXHIT By 15
 
-Object: 'A circle of &RFlaming&n &bShadows&n', Item type: ARMOR
+Object: 'a circle of &RFlaming&n &bShadows&n', Item type: ARMOR
 Item will give the following abilities:  NOBITS 
-Item is: GLOW HUM MAGIC !MAGE !CLE !THI !WAR !PSI !NIN !ASS !RAN !MYS 
+Item is: GLOW HUM MAGIC !MAGE !CLE !THI !WAR !PSI !NIN !MAGUS !ASS RARE !MYS 
 Encumbrance: 5, Value: 3000
 AC-apply is 7
 Can affect you as :
    Affects: MAXHIT By 15
    Affects: MAXMANA By 15
-   Affects: MAXMOVE By 15
+   Affects: HITROLL By 2
    Affects: HIT_REGEN By 15
    Affects: MOVE_REGEN By 15
    Affects: DAMROLL By 3
 
-Object: 'A Burning wall of &RFire&n', Item type: ARMOR
+Object: 'a Burning wall of &RFire&n', Item type: ARMOR
 Item will give the following abilities:  NOBITS 
 Item is: NOBITS 
 Encumbrance: 10, Value: 3000
@@ -11515,16 +11604,16 @@ Can affect you as :
    Affects: HIT_REGEN By 10
    Affects: MOVE_REGEN By 10
 
-Object: 'The Horn of ages', Item type: CASTING_EQ
+Object: 'the true Horn of the Ages', Item type: CASTING_EQ
 Item will give the following abilities:  NOBITS 
-Item is: NOBITS 
+Item is: GLOW HUM MAGIC !LOCATE 
 Encumbrance: 5, Value: 5000
 This STAFF casts: mass healIt has 100 maximum charges and 10 remaining.
 
 Can affect you as :
-   Affects: DAMROLL By 2
+   Affects: DAMROLL By 3
    Affects: MAXMANA By 15
-   Affects: MANA_REGEN By 10
+   Affects: MANA_REGEN By 15
    Affects: PERM_SPELL By 26
 
 Object: 'some &bShadowy&n boots with &Rflames&n licking at the heels.', Item type: ARMOR
@@ -11537,7 +11626,313 @@ Can affect you as :
    Affects: MAXMANA By 10
    Affects: CON By 2
    Affects: MAXHIT By 10
-   Affects: PERM_SPELL By 18
+   Affects: PERM_SPELL By 6
+
+Object: 'Fancy gold chain used to belong to Rick James', Item type: WEAPON
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM !DROP !THI !WAR !SELL NAMED !NIN !PAL !ASS RARE !RAN TWOHANDS 
+Encumbrance: 5, Value: 5000
+Damage Dice is '14D3' for an average per-round damage of 28.0.
+Can affect you as :
+   Affects: CON By -3
+   Affects: ARMOR By -20
+   Affects: DAMROLL By 5
+   Affects: HITROLL By 10
+   Affects: MANA_REGEN By 20
+   Affects: PERM_SPELL By 5
+
+Object: 'a belt buckle in the shape of a &WStar&n', Item type: ARMOR
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM MAGIC BLESS !MAGE !THI !WAR !PSI !NIN !PAL !MAGUS !ASS !RAN 
+Encumbrance: 3, Value: 5000
+AC-apply is 7
+Can affect you as :
+   Affects: DAMROLL By 3
+   Affects: CON By 1
+   Affects: MANA_REGEN By 2
+   Affects: MAXMANA By 15
+   Affects: MAXHIT By 10
+   Affects: SAVING_SPELL By -5
+
+Object: 'the all-seeing eye of the d&Wi&nv&Wi&nn&We&n dragon', Item type: ARMOR
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM !INVIS MAGIC BLESS !EVIL !CLE !THI !PSI !NIN !PAL !AVA !RAN 
+Encumbrance: 1, Value: 6666
+AC-apply is 8
+Can affect you as :
+   Affects: DAMROLL By 3
+   Affects: HITROLL By 2
+   Affects: DEX By 2
+
+Object: 'a keratinized modification of the d&Wi&nv&Wi&nn&We&n dragon epidermus', Item type: WEAPON
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM MAGIC !EVIL !MAGE !CLE !THI !WAR !PAL !AVA !RAN 
+Encumbrance: 5, Value: 6666
+Damage Dice is '21D1' for an average per-round damage of 21.0.
+Can affect you as :
+   Affects: DAMROLL By 4
+   Affects: HITROLL By 4
+   Affects: PERM_SPELL By 12
+   Affects: PERM_SPELL By 1
+   Affects: PERM_SPELL By 3
+
+Object: 'the physical manifestation of the soul of the d&Wi&nv&Wi&nn&We&n dragon', Item type: ARMOR
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM INVIS MAGIC BLESS 
+Encumbrance: 0, Value: 5000
+AC-apply is 5
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: HITROLL By 2
+   Affects: PERM_SPELL By 1
+   Affects: PERM_SPELL By 26
+   Affects: SAVING_SPELL By -10
+   Affects: AGE By -20
+
+Object: 'the &WOrb&n of &RSouls&n', Item type: ARMOR
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM MAGIC RARE 
+Encumbrance: 1, Value: 6666
+AC-apply is 10
+Can affect you as :
+   Affects: DAMROLL By 3
+   Affects: SAVING_SPELL By -5
+   Affects: ARMOR By -5
+   Affects: AGE By -10
+
+Object: 'a small vortex of tortured &RSouls&n', Item type: ARMOR
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM MAGIC 
+Encumbrance: 1, Value: 5000
+AC-apply is 4
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: HITROLL By 2
+   Affects: MAXHIT By 10
+   Affects: MANA_REGEN By 2
+   Affects: SAVING_SPELL By -2
+
+Object: 'Smouldering Cherubim wings', Item type: ARMOR
+Item will give the following abilities:  NOBITS 
+Item is: HUM !INVIS MAGIC BLESS !CLE !THI !WAR !PSI !NIN !PAL !ASS !RAN 
+Encumbrance: 0, Value: 6666
+AC-apply is 15
+Can affect you as :
+   Affects: DAMROLL By 3
+   Affects: MANA_REGEN By 5
+   Affects: PERM_SPELL By 26
+   Affects: MAXMANA By 15
+   Affects: CON By 1
+   Affects: AGE By -50
+
+Object: 'noodley appendage', Item type: FOOD
+Item will give the following abilities:  NOBITS 
+Item is: HUM MAGIC BLESS NAMED RARE 
+Encumbrance: 1, Value: 3333
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: ARMOR By -15
+   Affects: HITROLL By 2
+   Affects: MAXHIT By 10
+   Affects: SAVING_SPELL By -5
+   Affects: AGE By -10
+
+Object: 'Only those pure of heart may enter here', Item type: LIGHT
+Item will give the following abilities:  NOBITS 
+Item is: NOBITS 
+Encumbrance: 400, Value: 1212
+
+Object: 'a Prison pussy with a stripe', Item type: ARMOR
+Item will give the following abilities:  NOBITS 
+Item is: NOBITS 
+Encumbrance: 1, Value: 100
+AC-apply is 0
+Can affect you as :
+   Affects: MAXHIT By 2
+   Affects: CHA By -6
+   Affects: AGE By 20
+
+Object: 'a holy avenger', Item type: WEAPON
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM MAGIC BLESS !EVIL !MAGE !CLE !THI !WAR !PSI !NIN !MAGUS !ASS RARE !LOCATE !RAN !MYS 
+Encumbrance: 12, Value: 7000
+Damage Dice is '8D3' for an average per-round damage of 16.0.
+Can affect you as :
+   Affects: DAMROLL By 4
+   Affects: HITROLL By 4
+   Extra damage to: Undeads.
+   Extra damage to: Demons.
+
+Object: 'a tooth dripping poison hanging from a platinum chain.', Item type: KEY
+Item will give the following abilities:  NOBITS 
+Item is: HUM MAGIC !MAGE !CLE !THI !WAR !PSI 
+Encumbrance: 1, Value: 7777
+Can affect you as :
+   Affects: DAMROLL By 3
+   Affects: HITROLL By 2
+   Affects: MAXMANA By 15
+   Affects: MANA_REGEN By 10
+   Affects: ARMOR By -10
+
+Object: 'a Lance of weaponized &RSouls&n', Item type: WEAPON
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM !GOOD !EVIL !MAGE !CLE !THI !WAR !PSI !MAGUS !ASS RARE !MYS 
+Encumbrance: 10, Value: 6666
+Damage Dice is '23D1' for an average per-round damage of 23.0.
+Can affect you as :
+   Affects: DAMROLL By 5
+   Affects: HITROLL By 5
+   Affects: PERM_SPELL By 12
+   Affects: PERM_SPELL By 13
+   Affects: ARMOR By -25
+   Affects: MAXHIT By 15
+
+Object: 'a rift in space and time', Item type: ARMOR
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM !MAGE !CLE !THI !WAR !PSI !NIN !MAGUS !ASS !AVA RARE !RAN 
+Encumbrance: 1, Value: 6666
+AC-apply is 25
+Can affect you as :
+   Affects: DAMROLL By 3
+   Affects: SAVING_BREATH By -20
+   Affects: SAVING_SPELL By -20
+   Affects: MAXHIT By 20
+   Affects: PERM_SPELL By 5
+   Affects: HIT_REGEN By 10
+
+Object: 'a &RSoul&n patch', Item type: ARMOR
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM !INVIS BLESS RARE !LOCATE 
+Encumbrance: 0, Value: 666
+AC-apply is 12
+Can affect you as :
+   Affects: DAMROLL By 3
+   Affects: HITROLL By 2
+   Affects: MAXHIT By 10
+   Affects: SAVING_SPELL By -5
+   Affects: CHA By 6
+
+Object: 'a portable &Dblack&n hole', Item type: CONTAINER
+Item will give the following abilities:  NOBITS 
+Item is: HUM RARE 
+Encumbrance: 1, Value: 10000
+Can affect you as :
+   Affects: DAMROLL By 2
+   Affects: MANA_REGEN By 10
+   Affects: MAXMANA By 25
+   Affects: ARMOR By -5
+
+Object: '&bFamine's&n Scale', Item type: CASTING_EQ
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM !DONATE !THI !WAR !SELL !NIN !PAL !ASS !RAN 
+Encumbrance: 1, Value: 9001
+This STAFF casts: vitalityIt has 20 maximum charges and 20 remaining.
+
+Can affect you as :
+   Affects: MAXMANA By 15
+   Affects: MAXHIT By 15
+   Affects: MANA_REGEN By 15
+   Affects: PERM_SPELL By 5
+   Affects: CON By 2
+
+Object: '&DDeath's&n Visage', Item type: CASTING_EQ
+Item will give the following abilities:  NOBITS 
+Item is: HUM !INVIS !DROP RARE 
+Encumbrance: 5, Value: 9001
+This WAND casts: harmIt has 20 maximum charges and 20 remaining.
+
+Can affect you as :
+   Affects: MANA_REGEN By 3
+   Affects: MAXMANA By 10
+   Affects: AGE By 50
+   Affects: CON By 1
+   Affects: PERM_SPELL By 3
+   Affects: PERM_SPELL By 1
+
+Object: '&RWar's&n Sword', Item type: WEAPON
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM !INVIS MAGIC BLESS !MAGE !CLE !PSI !MAGUS !ASS !AVA RARE !MYS TWOHANDS 
+Encumbrance: 25, Value: 9001
+Damage Dice is '18D2' for an average per-round damage of 27.0.
+Can affect you as :
+   Affects: DAMROLL By 3
+   Affects: ARMOR By -15
+   Affects: HITROLL By 5
+   Affects: SAVING_SPELL By -10
+   Affects: PERM_SPELL By 10
+   Affects: HIT_REGEN By 10
+
+Object: '&WPestilence's&n Crown of Thorns', Item type: CASTING_EQ
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM !DONATE !INVIS MAGIC !DROP RARE 
+Encumbrance: 10, Value: 9001
+This STAFF casts: animate deadIt has 20 maximum charges and 20 remaining.
+
+Can affect you as :
+   Affects: DAMROLL By 3
+   Affects: HITROLL By 2
+   Affects: PERM_SPELL By 30
+   Affects: MAXMOVE By 50
+   Affects: INT By 3
+   Affects: ARMOR By -25
+
+Object: 'a Seal of the &RApo&Wcol&Dlyp&bse&n', Item type: CASTING_EQ
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM !DONATE MAGIC BLESS !SELL RARE 
+Encumbrance: 1, Value: 99000
+This WAND casts: soul leechIt has 100 maximum charges and 20 remaining.
+
+Can affect you as :
+   Affects: DAMROLL By 4
+   Affects: ARMOR By -20
+   Affects: PERM_SPELL By 30
+   Affects: HITROLL By 10
+   Affects: AGE By 100
+   Affects: SAVING_SPELL By -25
+
+Object: 'a colourful feather', Item type: TREASURE
+Item will give the following abilities:  NOBITS 
+Item is: GLOW 
+Encumbrance: 1, Value: 300
+
+Object: 'the skin of a serpent', Item type: TREASURE
+Item will give the following abilities:  NOBITS 
+Item is: GLOW 
+Encumbrance: 0, Value: 0
+
+Object: 'a well used prophlyactic', Item type: TREASURE
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM MAGIC 
+Encumbrance: 1, Value: 1000
+
+Object: 'a lonely thorn', Item type: TREASURE
+Item will give the following abilities:  NOBITS 
+Item is: GLOW HUM 
+Encumbrance: 1, Value: 500
+
+Object: 'a bone white shell', Item type: TREASURE
+Item will give the following abilities:  NOBITS 
+Item is: NOBITS 
+Encumbrance: 1, Value: 500
+
+Object: 'fu man chu', Item type: CASTING_EQ
+Item will give the following abilities:  NOBITS 
+Item is: !GOOD !THI !WAR NAMED !PAL !ASS !RAN 
+Encumbrance: 1, Value: 666
+This WAND casts: ray of disruptionIt has 1000 maximum charges and 20 remaining.
+
+Can affect you as :
+   Affects: DAMROLL By 3
+   Affects: ARMOR By -15
+   Affects: MANA_REGEN By 3
+   Affects: MAXHIT By 10
+   Affects: HITROLL By 3
+   Affects: MAXMANA By 10
+
+Object: 'an ancient manual', Item type: NOTE
+Item will give the following abilities:  NOBITS 
+Item is: NOBITS 
+Encumbrance: 0, Value: 100
 
 Object: 'an indestructable sphere imprisoning dark-matter', Item type: ARMOR
 Item will give the following abilities:  NOBITS 
@@ -11550,7 +11945,7 @@ Can affect you as :
    Affects: DAMROLL By 3
    Affects: PERM_SPELL By 3
    Affects: PERM_SPELL By 1
-   Affects: PERM_SPELL By 30
+   Affects: PERM_SPELL By 17
 
 Object: 'a large open furnace', Item type: OTHER
 Item will give the following abilities:  NOBITS 
@@ -11620,7 +12015,7 @@ Object: 'a glowing green mushroom', Item type: POTION
 Item will give the following abilities:  NOBITS 
 Item is: GLOW 
 Encumbrance: 1, Value: 50
-This POTION casts: blindnessslowdream travel
+This POTION casts: dream travelpsychic shieldidentify
 
 Object: 'a glowing blue sphere', Item type: CONTAINER
 Item will give the following abilities:  NOBITS 

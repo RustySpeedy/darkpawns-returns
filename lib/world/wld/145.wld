@@ -46,10 +46,6 @@ D3
 ~
 0 0 14502
 E
-podium~
-It's made from wood.
-~
-E
 sign~
 Welcome to the world-renowed Kir Drax'in Zoo!
 Our Attractions:
@@ -63,6 +59,10 @@ Please mind our zookeepers, who are there for your protection,
 as well as the protection of the animals.
 Thank you.
                          -The Mgmnt.
+~
+E
+podium~
+It's made from wood.
 ~
 S
 #14502
@@ -358,18 +358,18 @@ D1
 ~
 0 0 14518
 E
-iron table medical instruments bottles~
-   This tall iron table is covered with clean medical instruments ranging from
-scalpels to bonesaws.  The shelf above contains dozens of opaque liquid in
-various sized brown bottles.  Several syringes are included in the medical
-equipment on the table.  
-~
-E
 expansive bars table~
    This table is large enough for a fully grown tiger.  It is lined on each
 side with iron bars that are anchored about every foot.  There are long chains
 hung to the bars that look as if theyre used to restrain whatever poor animal
 that is being treated.  
+~
+E
+iron table medical instruments bottles~
+   This tall iron table is covered with clean medical instruments ranging from
+scalpels to bonesaws.  The shelf above contains dozens of opaque liquid in
+various sized brown bottles.  Several syringes are included in the medical
+equipment on the table.  
 ~
 S
 #14517
@@ -516,19 +516,18 @@ of the stone floor.  The unmistakably animal scent is stronger here and has a
 sickly, sweet quality to it.  In the northwest corner, an iron-legged wooden
 table sits with various papers and journals neatly situated upon it.  
 ~
-145 0 0 0 0 0
+145 32 0 0 0 0
 D3
 A sturdy iron-barred door.
 ~
 door~
 2 14511 14522
 E
-splinters wood wheel base cage~
-   The remaining pieces of this cage can be summed up to an iron and wooden
-plank base that sits on four heavy iron wheels.  The size indicates that the
-base was a part of a cage large enough to hold a monstrously large animal.  
-The wooden planks that presumably made up the walls of the cage lie scattered
-about the room and almost seem as if the whole thing exploded outward.
+iron legged table~
+   This oak-topped table has seen years of use exhibited by gouges and stains
+that have become a permanent part of its surface.  Upon it lie several bound
+leather journals and scattered papers.  One of these leather-bound journals
+lie open with a fountain pen open beside it.  
 ~
 E
 leather bound journal log~
@@ -543,11 +542,12 @@ present.  It goes on to indicate that the author will be requesting approval to
 euthanize the animal from the Zoomaster.  
 ~
 E
-iron legged table~
-   This oak-topped table has seen years of use exhibited by gouges and stains
-that have become a permanent part of its surface.  Upon it lie several bound
-leather journals and scattered papers.  One of these leather-bound journals
-lie open with a fountain pen open beside it.  
+splinters wood wheel base cage~
+   The remaining pieces of this cage can be summed up to an iron and wooden
+plank base that sits on four heavy iron wheels.  The size indicates that the
+base was a part of a cage large enough to hold a monstrously large animal.  
+The wooden planks that presumably made up the walls of the cage lie scattered
+about the room and almost seem as if the whole thing exploded outward.
 ~
 S
 #14525
