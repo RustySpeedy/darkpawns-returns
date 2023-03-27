@@ -1,1 +1,43 @@
+#18801
+Draug~
+Draug ~
+A reanimated Draug shambles about.
+~
+Gazing apon this dishoveled being, you come to realize this thing has long sense died. 
+~
+10223720 0 0 0 78952 18 0 0 0 E
+33 -13 -23 33d5+2163 22d4+30
+0 180000
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+#18802
+Draug Walker Corpse~
+Draug Walker~
+You gaze apon a huge rotting corpse shuffling towards you.
+~
+A Druagen Walker shambles about seemingly unwittingly.
+~
+9484392 0 0 0 132296 18 0 0 0 E
+24 -4 -14 24d5+276 16d4+16
+1000 35000
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+#18803
+Draug Mage Corpse~
+Draug Magus~
+A Drougen Magus wanders about
+~
+A corpse of an long passed magus roams the cemetery seeking to protect its kin.
+~
+9990364 0 0 0 13542 18 0 0 0 E
+26 -6 -16 26d5+322 17d4+25
+0 40000
+8 8 0
+BareHandAttack: 12
+Race: 9
+E
 $

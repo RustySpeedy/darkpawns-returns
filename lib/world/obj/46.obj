@@ -180,4 +180,17 @@ A maroon stone sits here.~
 1 950 50.00
 A
 24 -3
+#4618
+tree stump~
+tree stump~
+tree stump~
+Apon inspecting this hollowed out stump you vaguly make out some type of warning carved into it.
+~
+15 0 0 0 0 0 0 0 0
+0 0 0 0
+5000 0 100.00
+E
+tree stump warning sign~
+For all those whom enter be warned.... You will not RETURN....
+~
 $~
