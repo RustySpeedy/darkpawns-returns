@@ -76,19 +76,20 @@ Race: 25
 E
 #5005
 Grint'alkan brass dragon wyrm~
-Grint'alkan, the brass dragon~
+Grint'alkan, the horned dragon~
 A metallic-scaled dragon naps here in the baking sun.
 ~
 At over 80 feet long, this wyrm is clearly an old beast for its species.
-He snoozes peacefully in the sun, not caring to awaken for your presence.
+He snoozes peacefully in the sun, barely stirring to awaken for your presence.
 ~
-469018 0 0 0 1064 0 0 0 450 E
-32 -12 -22 32d8+1580 25d6+21
-750 120000
-4 4 1
+9398346 0 0 0 1193128 2 0 0 450 E
+42 -25 -32 42d5+12000 30d4+54
+25000 673215269
+5 5 1
 BareHandAttack: 8
 Race: 10
 Noise: You can hear a powerful gust of air rushing nearby.
+Script: none 0
 E
 #5006
 trader caravan~

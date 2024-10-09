@@ -6,7 +6,7 @@ center of the path the ground is soft, and black soil peeks through in some
 places.  Your exits are west back to the open forest and east further in the
 path.  
 ~
-314 32768 0 0 0 3
+314 0 0 0 0 3
 D1
 ~
 ~
@@ -24,7 +24,7 @@ center of the path the ground is soft, and black soil peeks through in some
 places.  There are three exits, north and east to some sort of burrows.  West
 will take you back to the beaten path through the woods.  
 ~
-314 32768 0 0 0 3
+314 0 0 0 0 3
 D0
 ~
 ~
@@ -45,7 +45,7 @@ this area, it smells a bit like a farm.  There are bits of armor grade metal
 scraps on the ground, they look to be chewed to bits.  There's even an half
 eaten sword...  
 ~
-314 32768 0 0 0 3
+314 0 0 0 0 3
 D2
 ~
 ~
@@ -55,19 +55,19 @@ S
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31404
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31405
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31406
 the Pine Forest~
@@ -79,73 +79,98 @@ S
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31408
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31409
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31410
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31411
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31412
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31413
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31414
-the Pine Forest~
-Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
+the Pine Forest (Ostay room)~
+roaming mob loading room
+each exit leads to difernt zone around the world map
 ~
-314 0 0 0 0 3
+314 524372 0 0 0 3
+D0
+~
+~
+0 0 31588
+D1
+~
+~
+0 0 9186
+D2
+~
+~
+0 0 11141
+D3
+~
+~
+0 0 5083
+D4
+~
+~
+0 0 3290
+D5
+~
+~
+0 0 2629
 S
 #31415
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31416
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31417
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31418
 the Pine Forest~
 Lush pine forest with random oak trees and ancient ruins etc. Ocassional cottage or cabin/homestead strewn about. Two warring clans occupying the opposite sides of the road Etc..
 ~
-314 0 0 0 0 3
+314 4 0 0 0 3
 S
 #31419
 Norse Stronghold Entrance~
@@ -278,7 +303,7 @@ D3
 0 0 31423
 S
 #31425
-The Dvergar's Forge~
+The Dverger's Forge~
    Heat from the forge in the northwestern corner of the room makes the air
 feel oppressive.  The forge was made when this room was constructed and the
 smoke from the forge is led out by a vent connected to he northwestern corner
@@ -561,7 +586,7 @@ trimming accent points here and there.  There is a steep staircase leading up
 to the second floor in the next room over to the west.  There is a large bench
 to the south, and a small candlelit shrine to the north.  
 ~
-314 32776 0 0 0 0
+314 8 0 0 0 0
 D1
 ~
 door~
@@ -578,7 +603,7 @@ A small wood burning stove sets off in the south western corner, which is
 piped up through the ceiling above.  On the western wall a steep, spiral
 staircase will take you to the secondary floor of this hastily built spire.  
 ~
-314 32776 0 0 0 0
+314 8 0 0 0 0
 D1
 ~
 ~
@@ -600,7 +625,7 @@ the staircase will take you to the third floor, down will bring you to the
 first.  There are several benches filling the room, all facing a small altar
 and podium at the far eastern end for the floor.  
 ~
-314 32776 0 0 0 0
+314 8 0 0 0 0
 D1
 ~
 ~
@@ -622,7 +647,7 @@ first.  There are several benches filling the room, all facing a small altar
 and podium at the far eastern end for the floor.  There is a small window
 peering out to the forest on the eastern wall.  
 ~
-314 32776 0 0 0 0
+314 8 0 0 0 0
 D3
 ~
 ~
@@ -634,7 +659,7 @@ Third Floor of a Holy Spire - Sleeping Quarters~
 north and south.  The beds continue on as the room spans eastward.  The room
 is dimly lit and smells of linens.  
 ~
-314 32776 0 0 0 0
+314 8 0 0 0 0
 D1
 ~
 ~
@@ -654,7 +679,7 @@ Third Floor of a Holy Spire - Sleeping Quarters~
 a large glass window protected by metal bars on the eastern wall.  Your only
 escape is to the west.  
 ~
-314 32776 0 0 0 0
+314 8 0 0 0 0
 D3
 ~
 ~
@@ -667,7 +692,7 @@ weaponry organized.  There is a table for maintenance which is the only place
 in the room any sort of grime or dirt can be found.  The room stretches
 eastward as it transforms into a war room.  
 ~
-314 32776 0 0 0 0
+314 8 0 0 0 0
 D1
 ~
 ~
@@ -687,7 +712,7 @@ Fourth Floor of a Holy Spire - War Room~
 natural light in the room.  There is a large table in the center of the room.
 Your only exit is west into the armory.  
 ~
-314 32776 0 0 0 0
+314 8 0 0 0 0
 D3
 ~
 ~
@@ -700,7 +725,7 @@ Everything is white washed and pristine.  To the very far northeast you can
 spot a very tall structure that emits a bright light.  You have two exits
 east, to the main area and down the stairs below you.  
 ~
-314 32768 0 0 0 0
+314 0 0 0 0 0
 D1
 ~
 ~
@@ -718,7 +743,7 @@ the eastern perch.  To the very far northeast you can spot a very tall
 structure that emits a bright light.  Your only exit is west to the rest of
 the archer's nest.  
 ~
-314 32768 0 0 0 0
+314 0 0 0 0 0
 D3
 ~
 ~
@@ -732,7 +757,7 @@ forest, and southmore forest.  Looking up your view of the sky is limited by
 the tree limbs and vegetation.  The ground is moist, thick with pine straw and
 moss.  
 ~
-314 32768 0 0 0 0
+314 0 0 0 0 0
 D1
 ~
 ~
@@ -754,7 +779,7 @@ forest, and southmore forest.  Looking up your view of the sky is limited by
 the tree limbs and vegetation.  The ground is moist, thick with pine straw and
 moss.  
 ~
-314 32768 0 0 0 0
+314 0 0 0 0 0
 D2
 ~
 ~
@@ -782,7 +807,7 @@ beams, similar to the stronghold's structure.  A torch further down casts dim
 light for guidance.  An earthy smell permeates the moist air.  If it weren't
 for the torch further down, the tunnel would be pitch black.  
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D3
 ~
 ~
@@ -800,7 +825,7 @@ beams, similar to the stronghold's structure.  A torch further down casts dim
 light for guidance.  An earthy smell permeates the moist air.  If it weren't
 for the torch further down, the tunnel would be pitch black.  
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D1
 ~
 ~
@@ -818,7 +843,7 @@ casts dim light for guidance.  An earthy smell permeates the moist air.  If it
 weren't for the torch on the northern beam, the tunnel would be pitch black.
 
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D1
 ~
 ~
@@ -835,7 +860,7 @@ beams, similar to the stronghold's structure.  A torch further down casts dim
 light for guidance.  An earthy smell permeates the moist air.  If it weren't
 for the torch further down, the tunnel would be pitch black.  
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D1
 ~
 ~
@@ -853,7 +878,7 @@ casts dim light for guidance.  An earthy smell permeates the moist air.  If it
 weren't for the torch on the northern beam, the tunnel would be pitch black.
 
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D1
 ~
 ~
@@ -870,7 +895,7 @@ beams, similar to the stronghold's structure.  A torch further down casts dim
 light for guidance.  An earthy smell permeates the moist air.  If it weren't
 for the torch further down, the tunnel would be pitch black.  
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D1
 ~
 ~
@@ -888,7 +913,7 @@ casts dim light for guidance.  An earthy smell permeates the moist air.  If it
 weren't for the torch on the northern beam, the tunnel would be pitch black.
 The tunnel runs east and west here with a small room to the south.  
 ~
-314 32768 0 0 0 0
+314 0 0 0 0 0
 D1
 ~
 ~
@@ -909,7 +934,7 @@ beams, similar to the stronghold's structure.  A torch further down casts dim
 light for guidance.  An earthy smell permeates the moist air.  If it weren't
 for the torch further down, the tunnel would be pitch black.  
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D1
 ~
 ~
@@ -926,7 +951,7 @@ walls are curved, which gives the room an oval shape.  A few torches are here
 on the walls, giving plenty of light.  This seems to be a room made for rest
 during the walk through the tunnel.  
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D0
 ~
 ~
@@ -943,7 +968,7 @@ beams, similar to the stronghold's structure.  A torch on the a northern beam
 casts dim light for guidance.  An earthy smell permeates the moist air.  If it
 weren't for the torch on the northern beam, the tunnel would be pitch black.
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D0
 ~
 ~
@@ -960,7 +985,7 @@ beams, similar to the stronghold's structure.  A torch further down casts dim
 light for guidance.  An earthy smell permeates the moist air.  If it weren't
 for the torch further down, the tunnel would be pitch black.  
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D0
 ~
 ~
@@ -977,7 +1002,7 @@ beams, similar to the stronghold's structure.  A torch further down casts dim
 light for guidance.  An earthy smell permeates the moist air.  If it weren't
 for the torch further down, the tunnel would be pitch black.  
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D0
 ~
 ~
@@ -994,7 +1019,7 @@ beams, similar to the stronghold's structure.  A torch on the a northern beam
 casts dim light for guidance.  An earthy smell permeates the moist air.  If it
 weren't for the torch on the northern beam, the tunnel would be pitch black.
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D0
 ~
 ~
@@ -1011,7 +1036,7 @@ beams, similar to the stronghold's structure.  A torch further down casts dim
 light for guidance.  An earthy smell permeates the moist air.  If it weren't
 for the torch further down, the tunnel would be pitch black.  
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D0
 ~
 ~
@@ -1028,7 +1053,7 @@ beams, similar to the stronghold's structure.  A torch on the a northern beam
 casts dim light for guidance.  An earthy smell permeates the moist air.  If it
 weren't for the torch on the northern beam, the tunnel would be pitch black.
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D0
 ~
 ~
@@ -1045,7 +1070,7 @@ beams, similar to the stronghold's structure.  A torch on the a northern beam
 casts dim light for guidance.  An earthy smell permeates the moist air.  If it
 weren't for the torch on the northern beam, the tunnel would be pitch black.
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D1
 ~
 ~
@@ -1062,7 +1087,7 @@ beams, similar to the stronghold's structure.  A torch further down casts dim
 light for guidance.  An earthy smell permeates the moist air.  If it weren't
 for the torch further down, the tunnel would be pitch black.  
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D1
 ~
 ~
@@ -1079,7 +1104,7 @@ beams, similar to the stronghold's structure.  A torch further down casts dim
 light for guidance.  An earthy smell permeates the moist air.  If it weren't
 for the torch further down, the tunnel would be pitch black.  
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D1
 ~
 ~
@@ -1096,7 +1121,7 @@ beams, similar to the stronghold's structure.  A torch on the a northern beam
 casts dim light for guidance.  An earthy smell permeates the moist air.  If it
 weren't for the torch on the northern beam, the tunnel would be pitch black.
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D1
 ~
 ~
@@ -1114,7 +1139,7 @@ light for guidance.  An earthy smell permeates the moist air.  If it weren't
 for the torch further down, the tunnel would be pitch black.  A wooden ladder
 leads up to a trap door in the ceiling of the tunnel here.  
 ~
-314 33024 0 0 0 12
+314 256 0 0 0 12
 D1
 ~
 ~

@@ -5,7 +5,7 @@ Puff the Fractal Dragon is here, contemplating a higher reality.
 ~
 It's Puff!
 ~
-16393 0 0 0 0 0 0 0 1000 E
+16393 0 0 0 32808 0 0 0 1000 E
 26 -6 -16 26d5+322 17d4+17
 10 40000
 8 8 2
@@ -178,11 +178,11 @@ He looks rather tired and worn out and seems to have no idea where he is
 or where he's going. He has a small satchel at his side and it looks as
 though there's something in it.
 ~
-239624 0 0 0 132136 0 0 0 0 E
-30 -10 -20 30d5+414 20d4+20
-5000 60000
+8645388 0 0 0 144552 2 0 0 0 E
+50 -30 -40 50d5+12074 33d4+34
+5000 1769497901
 8 8 1
-BareHandAttack: 8
+BareHandAttack: 5
 Race: 0
 E
 #31
@@ -299,11 +299,26 @@ Death Dealer looks you over coldly.
 A tall, otherworldly man in jet black armor with a sinister looking katana.
 Death Dealer wanders the world in search of souls for his amusement.
 ~
-845832 0 0 0 1256 0 0 0 -1000 E
-32 -12 -22 32d5+1580 21d4+21
-3300 120000
+845836 0 0 0 1256 0 0 0 -1000 E
+70 -50 -60 70d5+23734 46d4+70
+3300 1915188591
 8 8 1
 Race: 25
+Script: 0 0
+E
+#80
+hen bird ~
+a hen~
+A hen is here flocking around a huge gobbler.
+~
+Yup just a normal female always making noise at the gobbler.
+~
+8654858 0 0 0 1152 0 0 0 0 E
+38 -18 -28 38d5+5078 25d4+26
+0 372000
+8 8 0
+BareHandAttack: 8
+Race: 24
 E
 #81
 elemental earth~
@@ -406,17 +421,21 @@ many-toothed maw capable of devouring men whole.
 Race: 11
 E
 #88
-giant turkey~
-a giant turkey~
-A giant turkey is sitting here.
+giant turkey Zumrud~
+Zumrud~
+A giant turkey looking creature is sitting here.
 ~
-It is a goddamn turkey.  A big 'ol bird.  What else do you want.
+   For a bird it seems to be very old and alert to its surroundings.  It
+deffently seems to have noticed you long before you noticed it.  But ya, it is
+a goddamn turkey.  A big 'ol bird.  What else do you want.  
 ~
-8 0 0 0 0 0 0 0 0 E
-39 -19 -29 39d5+5661 26d4+26
-0 375000
+9105276 0 0 0 67253416 0 0 0 0 E
+55 -35 -45 55d5+14989 36d4+37
+500000 1000000
 8 8 1
-Noise: GOBBLE!
+BareHandAttack: 8
+Race: 24
+Noise: GOOBLE GOOBLE GOOBLEEEEE!!!!
 E
 #89
 mob unfinished~

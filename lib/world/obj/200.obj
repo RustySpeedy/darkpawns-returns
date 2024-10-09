@@ -23,15 +23,15 @@ A small key made entirely of dark crystal was dropped here.~
 0 0 0 0
 1 1 50.00
 E
+writing~
+The key has some strange words engraved in it, you do not understand their
+meaning but they have an evil sound to them.
+~
+E
 key~
 The dark crystal key is very lightweight but seems very strong.  Looking at
 it carefully you see strange, sinister-looking writing in a language you do
 not know.
-~
-E
-writing~
-The key has some strange words engraved in it, you do not understand their
-meaning but they have an evil sound to them.
 ~
 #20003
 key glowing gleaming white~
@@ -163,7 +163,7 @@ ethereal leggings~
 a pair of ethereal leggings~
 A shimmering set of ethereal leggings have been dropped here.~
 ~
-9 151302497 0 0 0 33 0 0 0
+9 17080673 0 0 0 33 0 0 0
 15 0 0 0
 15 7000 2.00
 A
@@ -171,13 +171,13 @@ A
 A
 18 2
 A
-17 -5
+17 -10
 A
-13 10
+13 15
 A
-27 5
+27 10
 A
-12 10
+12 20
 #20016
 archmage staff power ancient~
 an ancient staff of power~

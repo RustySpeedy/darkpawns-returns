@@ -6,7 +6,7 @@ vent hosts a small rivulet of dark, impure lava no more than a hand's
 breadth wide which runs westward into the open air from the south.
    The vent continues to the south.
 ~
-49 4 0 0 0 0
+49 32772 0 0 0 0
 D2
 ~
 ~
@@ -27,7 +27,7 @@ escape to the outside.
    Your ears are beginning to pop a bit, and you know that the pressure
 will only get worse as you venture deeper into the volcano.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 ~
 ~
@@ -48,7 +48,7 @@ path.
 fortress keep at the end, and to the east where beings stroll in and out
 of a gaming house.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D1
 The street continues in that direction.
 ~
@@ -69,7 +69,7 @@ you.
    To the north, the street turns sharply eastward around a corner, while
 to the south, the street continues to the main keep of the fortress.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 You see a street corner.
 ~
@@ -89,7 +89,7 @@ for each other's valuables.
   The bazaar extends to the east and southeast, while the street you stand
 on continues north and south.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The street continues to the north.
 ~
@@ -118,7 +118,7 @@ brawls, mostly ignored by the others in the bazaar.
    To the south, the street bends sharply as it meets the main keep
 of the fortress.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The street continues to the north.
 ~
@@ -145,7 +145,7 @@ of the bazaar.
    To the east, the street continues toward the main gate of the keep,
 while to the north, the street leads past the bazaar.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The street continues to the north.
 ~
@@ -170,7 +170,7 @@ bereft of furniture or similar items.  Fortunately, they show no signs
 of animation.
    The exit lies to the south.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D2
 The room exits to the south.
 ~
@@ -188,7 +188,7 @@ though macabre, must be admired judging from the craftesmanship.
    The exit lies to the south, while to the north, you see an open
 hall.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 You can see a door.
 ~
@@ -211,7 +211,7 @@ gases as they did in life.
 a portcullis of wrought iron forbidding your passage, while the hall 
 entends back to the east toward the shouted orders of other guards.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D0
 The portcullis lies to the north.
 ~
@@ -235,7 +235,7 @@ mountain itself was dormant.
    To the north and west, cave walls of hardened lava stand before you,
 while to the south, the rivulet streams toward the exit.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D1
 A hand-carved tunnel leads off in that direction.
 ~
@@ -255,7 +255,7 @@ blackened the stone itself as magma flowed eastward here from the north.
 A trickle of lava flows in the middle of the tunnel, streaming eastward
 toward the exit.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D0
 The tunnel continues to the north.
 ~
@@ -276,7 +276,7 @@ and naseous.
    As you look west, you see the street bend southward, around the odd
 building, while the street continues toward the main gate to the east.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D1
  The street continues to the east.
 ~
@@ -302,7 +302,7 @@ be the leg of a fellow daemon or similar beast.
 glistening and their tails swishing in delight as they devour their meal.
    The only exit appears to be to the north.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D0
 You can see the exit to the north.
 ~
@@ -318,7 +318,7 @@ wares are bought and sold, each item bringing a fair price to its seller.
    The bazaar extends to the east and south, stretching across the area
 to the southeast as well.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D1
 The bazaar continues in that direction.
 ~
@@ -345,7 +345,7 @@ wares are bought and sold, each item bringing a fair price to its seller.
 to the northeast as well.  To the south, a street cuts in from the east,
 running across the keep's gate to the south.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The bazaar continues to the north.
 ~
@@ -378,7 +378,7 @@ bustling activity in the bazaar seems to be a delightful distraction from
 the terrors and risks of living in the undermountain.  
    Beneath you, the street runs to the east and west, away from the keep.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 You can see the bazaar there.
 ~
@@ -409,7 +409,7 @@ burning a black flame that combats the light from your own source.
    To the south, the hall continues to a set of doors, while to the
 north, you can exit the keep.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D0
 The bazaar lies beyond the gate to the north.
 ~
@@ -431,7 +431,7 @@ cold from behind the door escaped only to condense with moisture in
 this hall.
    The hall continues to the north, back toward the exit.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D0
 The hall continues to a foyer there.
 ~
@@ -451,7 +451,7 @@ of any intruders as they stare directly ahead.
    The hall continues to the east and west, and exits to the north 
 toward the bazaar.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D0
 You can see the doors.
 ~
@@ -477,7 +477,7 @@ the floor of the area where the lava to the west could not consume them.
 of the undermountain, while to the west, the natural tunnel bends to
 the south.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D1
 The tunnel continues to the east.
 ~
@@ -499,7 +499,7 @@ this area.
    The fissure leads to the east, where the terrain seems to slope a
 bit downward.
 ~
-49 265 0 0 0 0
+49 33033 0 0 0 0
 D1
 The fissure extends to the east.
 ~
@@ -524,7 +524,7 @@ sounds as though the occupants of this city are gambling.  Judging by the
 snarls, and the occasional flying body that soars out the door, it appears
 that many are losing.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 You see the stone wall.
 ~
@@ -559,7 +559,7 @@ to the place to the north, while some sort of overseer, a fire daemon
 from the look of him, wanders from table to table, apparently looking
 for cheaters.
 ~
-49 12 0 0 0 0
+49 32780 0 0 0 0
 D0
 You can see the street there.
 ~
@@ -575,7 +575,7 @@ wares are bought and sold, each item bringing a fair price to its seller.
    The bazaar extends to the west and south, stretching across the area
 to the southwest as well.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D1
 The street lies in that direction.
 ~
@@ -602,7 +602,7 @@ wares are bought and sold, each item bringing a fair price to its seller.
 to the northwest as well.  To the south, a street cuts in from the east,
 running toward the gate to the southwest.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The bazaar continues to the north.
 ~
@@ -633,7 +633,7 @@ still looks as though it was carved from the soul of an evil god.
 to be the rule, while to the east and west, the street continues.
    Off to the west however, you notice the main gate to the keep.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 You can see the bazaar there.
 ~
@@ -663,7 +663,7 @@ fire daemons.
 direction, save for the few torchlights that occupy the hallway to
 the south.
 ~
-49 41 0 0 0 0
+49 32809 0 0 0 0
 D1
 You can see nothing in this darkness.
 ~
@@ -685,7 +685,7 @@ in tune to their steps.
 though with no door to enclose it, it must have some other function.  To
 the south, a door lies set into the obsidian wall.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D0
 The hall ends to the north at a round chamber.
 ~
@@ -708,7 +708,7 @@ be mere images of their true selves.
    A door rests in the north wall, exiting the large, domed chamber,
 while a corridor cuts in from a curved doorway to the west.
 ~
-49 41 0 0 0 0
+49 32809 0 0 0 0
 D0
 You can see a door there.
 ~
@@ -731,7 +731,7 @@ you and can feel slight vibrations as plates shift deep below the
 surface of the mountain.
    The tunnel extends to the east and west.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D1
 The tunnel continues to the east, growing colder as you move in that
 direction.
@@ -754,7 +754,7 @@ the tiny flying rodents shouldn't bother with what they cannot swallow.
    The fissure widens and grows deeper as you travel east, narrowing as
 you look back to the west, toward the exit of this part of the cavern.
 ~
-49 265 0 0 0 0
+49 33033 0 0 0 0
 D1
 The fissure grows deeper to the east.
 ~
@@ -778,7 +778,7 @@ dark splendor of the fortress and the shadowy keep off to the south.
    Streets branch off to the south and west, away from the busy main
 gate.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D1
 The gate leads to a street in that direction.
 ~
@@ -804,7 +804,7 @@ more advanced races.
    A bazaar of sorts appears to the southwest and you can see the main 
 gate of the fortress to the north.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The street ends at the main gate to the north.
 ~
@@ -824,7 +824,7 @@ for each other's valuables.
   The bazaar extends to the west and southwest, while the street you stand
 on continues north and south.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The street continues to the north.
 ~
@@ -853,7 +853,7 @@ brawls, mostly ignored by the others in the bazaar.
    To the south, the street bends sharply as it meets the main keep
 of the fortress.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The street continues to the north.
 ~
@@ -880,7 +880,7 @@ around the city.
    To the west, the street continues toward the main gate of the keep,
 while to the north, the street leads to the fortress gate.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The street continues to the north.
 ~
@@ -903,7 +903,7 @@ lackluster.
 seems to have been carved from mahogany.
    You can see only the exit you came from here.
 ~
-49 41 0 0 0 0
+49 32809 0 0 0 0
 D2
 You can see a chest of cloth there.
 ~
@@ -924,7 +924,7 @@ back.
    Heavy breathing seems to be coming from the south, as though some old
 dragon was deep in slumber.
 ~
-49 265 0 0 0 0
+49 33033 0 0 0 0
 D0
 You can see a chest.
 ~
@@ -946,7 +946,7 @@ escorted by deva and similar angel-like beings who legends say have
 been assigned to protect them for eternity.
    The only exit is to the north.
 ~
-49 169 0 0 0 0
+49 32937 0 0 0 0
 D0
 The tunnel continues to the north.
 ~
@@ -961,7 +961,7 @@ are similarly flawed, though you can clearly see that they were once smooth
 and whole.  
    The tunnel extends to the east and west.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D1
 The tunnel continues in that direction.
 ~
@@ -983,7 +983,7 @@ scent of your body.
    The fissure continues to the west, where it rises steeply and to the
 east, where it seems to drop off sharply.
 ~
-49 265 0 0 0 0
+49 33033 0 0 0 0
 D1
 The fissure drops steeply to the east.
 ~
@@ -1005,7 +1005,7 @@ to break the monotony of solid walls rising above you to the north and
 east.  You can also escape the pack by bolting to the south, though
 the beasts around you form an almost impenetrable barrier to pass.
 ~
-49 12 0 0 0 0
+49 32780 0 0 0 0
 D2
 The pack seems to thin a bit to the south.
 ~
@@ -1031,7 +1031,7 @@ stands tall, patrolled by tailed, weaponed beasts at its peak.
    The street continues to the south, away from the beings and the
 mob that threatens to crush you under their scaly heels.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 Through the crowd, the street continues northward.
 ~
@@ -1054,7 +1054,7 @@ them.
    To the north, you can enter the crowd of beings or head south and
 get away from the rush.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The street continues into a mob of horrible, strange beings to the north.
 ~
@@ -1074,7 +1074,7 @@ northward toward some loud noises and sounds of activity.
 on its eastern side by the wall of the cavern.  To the south, the street
 continues back toward the exit of the undermountain cavern.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The street continues to the north.
 ~
@@ -1097,7 +1097,7 @@ no door is apparent on this side.
 patrol the streets, each wielding exposed weapons.
 
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The street continues to a checkpoint to the north.  Daemon guards
 stand at attention there.
@@ -1120,7 +1120,7 @@ stone structure to the northeast.
    The street continues to the north, where enormous demon-like beings
 patrol the streets, each wielding exposed weapons.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The street continues to the north.
 ~
@@ -1147,7 +1147,7 @@ The scent of burnt leather and oiled steel emanates from within.
    The street continues to the north, where enormous demon-like beings
 patrol the streets, each bearing broadswords the size of a human leg.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The street continues to the north.
 ~
@@ -1176,7 +1176,7 @@ almost thirty feet above you.
    The street continues to the north and exits to the courtyard east
 of here.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The street continues to the north.
 ~
@@ -1196,7 +1196,7 @@ of igenous stones that once help up the ceiling.
    A small crawlspace extends through the rubble to the east where you can
 hear a soft moaning.  The corridor leads back toward the exit to the west.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D1
 Rubble impedes the passage, though a crawlspace can be seen amidst it.
 ~
@@ -1216,7 +1216,7 @@ can hear the rushing of air, as though an underground vent exited into the
 chamber below.
    Darkness surrounds you, making the exit to the west seem very inviting.
 ~
-49 265 0 0 0 0
+49 33033 0 0 0 0
 D3
 The path ascends to the west.
 ~
@@ -1242,7 +1242,7 @@ goods as they set up stalls in a bazaar.
    The only non-fatal way to leave here is east, across the top of the
 tower.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D1
 The tower continues to the east.
 ~
@@ -1258,7 +1258,7 @@ since you know this place to be deep within the undermountain.
    The only exit from here is down, all other directions blocked by thick
 stone walls.
 ~
-49 41 0 0 0 0
+49 32813 0 0 0 0
 D1
 You see a carved door.
 ~
@@ -1281,7 +1281,7 @@ with moisture as are the stairs that lead up.
    Oddly enough, a greenish moss seems to grow on the walls in patches
 here, apparently lacking the need for sunlight to grow.
 ~
-49 41 0 0 0 0
+49 32809 0 0 0 0
 D1
 ~
 ~
@@ -1300,7 +1300,7 @@ that landing to the east.
    Only black rock and faint whispers from above share your company
 here, making the exit below you seem very inviting.
 ~
-49 41 0 0 0 0
+49 32809 0 0 0 0
 D1
 The stairs come to a landing to the east.
 ~
@@ -1322,7 +1322,7 @@ perhaps just a trick of the light.
 windows allow any type of light to enter and even sound seems muffled
 in here.
 ~
-49 41 0 0 0 0
+49 32809 0 0 0 0
 D1
 You see the tower door.
 ~
@@ -1345,7 +1345,7 @@ westward over the guarded wall.
    The alley continues to the east, where it bends sharply northward,
 and west to the main street.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D1
 The alley bends to the east.
 ~
@@ -1367,7 +1367,7 @@ they move.
 you are not worth the trouble to trounce.
    The exit lies to the west.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D3
 You see an open door there.
 ~
@@ -1388,7 +1388,7 @@ smooth cavern walls rise and slope above you.  As you look west, you
 see the street continue, then turn sharply as it meets the side of another
 building to the west.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D1
 You see a stone door there.
 ~
@@ -1408,7 +1408,7 @@ the tunnel.
    To the west, the crawlspace opens to an open corridor, while to the
 east, you feel a cool draft and smell the faintest scent of ozone.
 ~
-49 13 0 0 0 0
+49 32781 0 0 0 0
 D1
 You can see nothing but darkness.
 ~
@@ -1426,7 +1426,7 @@ The Base Of The Fissure~
 wall, choking you as you struggle for breath.  You quickly become dizzy,
 almost sick, as you stumble about, looking for an exit.
 ~
-49 265 0 0 0 0
+49 33033 0 0 0 0
 D1
 The air grows even more foul to the east.
 ~
@@ -1448,7 +1448,7 @@ wares from their own native lands.
    The tower top dips slightly to the east and west, both offering 
 different views of the fortress below.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D1
 The top of the tower extends there.
 ~
@@ -1474,7 +1474,7 @@ wall, its stone hinges set to last an eternity.  Its twin, carved with a
 relief of stars and other celestial objects lies in the western wall,
 where a damp, almost humid, scent of vapour originates.
 ~
-49 41 0 0 0 0
+49 32809 0 0 0 0
 D1
 You see a door there.
 ~
@@ -1495,7 +1495,7 @@ help.
 behind the splash of a waterfall.  A rushing of air deafens you, but
 does nothing to clear your vision through the vapour.
 ~
-49 41 0 0 0 0
+49 32809 0 0 0 0
 D1
 You see a stone door.
 ~
@@ -1518,7 +1518,7 @@ from above.
    The stairs ascend to the east, along a circular path and descend back
 to the west.
 ~
-49 41 0 0 0 0
+49 32809 0 0 0 0
 D1
 The stairs climb to the west, circling around to the south as it climbs.
 ~
@@ -1539,7 +1539,7 @@ outlines of a door in the eastern wall.
 scrapes the cavern ceiling above you.  The dark stone of the tower
 seems to blend in suitably with the surrounding cavern walls.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D1
 You can see a stone door there.
 ~
@@ -1566,7 +1566,7 @@ to the north.
 claw-like scratches, evidence of some daemon's hostility and rage, while
 to the west, the alley continues toward the main street.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D0
 The alley ends in a cul-de-sac to the north.
 ~
@@ -1607,7 +1607,7 @@ what lies beyond.
 and though you are not certain of your location, you feel sure that 
 you stand in a rift between worlds.
 ~
-49 264 0 0 0 0
+49 33032 0 0 0 0
 D1
 The rift enters the prime material world there.
 ~
@@ -1632,7 +1632,7 @@ door.
 electric sense of apprehension.
    The only other exit lies through the rubble to the west.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D1
 A solid iron door rests firmly hinged to the wall.
 ~
@@ -1651,7 +1651,7 @@ The gas coming from the pool is already starting to thicken and swirl,
 following the air currents of your exhalations.
    Death will come quickly here should you linger.
 ~
-49 265 0 0 0 11
+49 33033 0 0 0 11
 R archive/elemental_room.lua 4
 D3
 You can escape the foul air to the west.
@@ -1670,7 +1670,7 @@ the cavern from above.
    Looking for exits, you notice that only the west and the stairs back
 into the tower do not offer fatal falls.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D3
 The tower continues to the west.
 ~
@@ -1689,7 +1689,7 @@ you to fresher, warmer air past the stone walls that compose most of this
 tower.
    The only other exit is through the door to the west.
 ~
-49 41 0 0 0 0
+49 32813 0 0 0 0
 D3
 You see a door there.
 ~
@@ -1715,7 +1715,7 @@ than pushed.
 southward and to the east, while the gaping darkness seems to hold some
 secret as you look over the handrail to the north.
 ~
-49 41 0 0 0 0
+49 32809 0 0 0 0
 D3
 You see a stone door.
 ~
@@ -1736,7 +1736,7 @@ molted, leaving its ovular dead skin behind.
 which seems to turn southwest as you go upward.  A landing can be seen
 just west of here, still in the range of your light.
 ~
-49 41 0 0 0 0
+49 32809 0 0 0 0
 D3
 You see a landing there.
 ~
@@ -1757,7 +1757,7 @@ here, no doubt an ingredient in the well's contents.
 fumes that airse from the acidic pit, while a door of stone, pitted and
 etched with acid, exits this place to the west.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D2
 The tunnel leads into darkness to the south.
 ~
@@ -1776,7 +1776,7 @@ over the passage of many years.  Smooth walls and curved floors form an
 almost perfect cylinder in this cave which leads south, further into
 the undermountain.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D0
 Acidic fumes come from that direction
 ~
@@ -1798,7 +1798,7 @@ into which a daemon skull rests, its hollow eye sockets gleaming yellow
 as it watches over the dead.
    The only exit is to the north.
 ~
-49 9 0 0 0 13
+49 32777 0 0 0 13
 R archive/elemental_room.lua 4
 D0
 The tunnel continues to the north.
@@ -1814,7 +1814,7 @@ since dissolved any limestone formations had they been present.
    The tunnel continues to both the east and west, growing misty and
 clouded as you head away.
 ~
-49 8 0 0 0 0
+49 32776 0 0 0 0
 D1
 You feel warm air coming from that direction.
 ~
@@ -1835,7 +1835,7 @@ power, radiates in this room.
    A single door lies in the southern wall while a small crevasse can
 be seen flawing the glyphs on the eastern wall.
 ~
-49 9 0 0 0 0
+49 32777 0 0 0 0
 D1
 You see nothing special.
 ~
@@ -1862,7 +1862,7 @@ in the intense heat.
 north however, a cold mist seeps from under the door, creating a vortex of
 roiling steam at its base.
 ~
-49 13 0 0 0 11
+49 32781 0 0 0 11
 R archive/elemental_room.lua 4
 D0
 You can see a sturdy door to the north.
@@ -1884,7 +1884,7 @@ a toxic gas as it splashes into the lava streams.
    The tunnel continues to the south, though it seems to look more stable
 to the north.
 ~
-49 40 0 0 0 11
+49 32808 0 0 0 11
 R archive/elemental_room.lua 4
 D0
 The tunnel continues to the north.
@@ -1906,7 +1906,7 @@ hellish elements.
    The tunnel continues southward through the flames and northward into
 an unstable tunnel.
 ~
-49 40 0 0 0 11
+49 32808 0 0 0 11
 R archive/elemental_room.lua 4
 D0
 The tunnel continues to the north.
@@ -1929,7 +1929,7 @@ below.
    The exit of the tunnel lies to the north, where the tunnel gradually
 melts away like the southern, eastern, and wested walls here.
 ~
-49 44 0 0 0 11
+49 32812 0 0 0 11
 R archive/elemental_room.lua 4
 D0
 You see bluish fire to the north.
@@ -1953,7 +1953,7 @@ crystal amidst the dense black rock that composes the core of the mountain.
    Below you, you can see nothing but are aware of the occasional geyser
 of ash that disrupts the currents and spins you around.
 ~
-49 44 0 0 0 11
+49 32812 0 0 0 11
 R archive/elemental_room.lua 4
 D4
 The top of the shaft lies in that direction.
@@ -1975,7 +1975,7 @@ heart of the chimney below.
 is becoming more difficult as you soar upwards on hot currents or
 plummet on cold ones.
 ~
-49 44 0 0 0 11
+49 32812 0 0 0 11
 R archive/elemental_room.lua 4
 D4
 The chimney continues above you.
@@ -1997,7 +1997,7 @@ heart of the chimney below.
 is becoming more difficult as you soar upwards on hot currents or
 plummet on cold ones.
 ~
-49 44 0 0 0 11
+49 32812 0 0 0 11
 R archive/elemental_room.lua 4
 D4
 The chimney continues above you.
@@ -2020,7 +2020,7 @@ just beyond the range of the pool.  The reddish glow of the magma lights
 the area in a hellish crimson.
    Above you, ash and smoke roil in the currents of air.
 ~
-49 44 0 0 0 11
+49 32812 0 0 0 11
 R archive/elemental_room.lua 4
 D4
 The chimney continues above you.
@@ -2042,7 +2042,7 @@ back the molten rock.
 the constant scent of sulfur that seems to dominate the walls and floors 
 of the hellish cavern.
 ~
-49 40 0 0 0 0
+49 32808 0 0 0 0
 D3
 A cavern leads off in that direction.
 ~
@@ -2063,7 +2063,7 @@ imagined the horrid calls of distress.
    Above you, a single stalactite points into the shaft, standing a
 silent vigil over the frigid fog.
 ~
-49 67108876 0 0 0 0
+49 67141644 0 0 0 0
 D3
 The wall is smooth to the west.
 ~
@@ -2086,7 +2086,7 @@ impossible.
    Staring down, you notice a faint glow.  A pale, almost sickly, blue
 light seems to radiate from deep within the shaft below you.
 ~
-49 67108905 0 0 0 9
+49 67141673 0 0 0 9
 D4
 You can see the top of the shaft there.
 ~
@@ -2106,7 +2106,7 @@ growing larger as yellow tendrils of mist swirl around the light below.
    The wet walls prevent you from getting a foothold in any direction.  
 You can only travel up or down the shaft.
 ~
-49 67108876 0 0 0 9
+49 67141644 0 0 0 9
 D4
 The sharf continues, growing darker above.
 ~
@@ -2130,7 +2130,7 @@ odd sensation that you are no longer within the mountain.
    You can descend toward the greenish light or ascend toward the 
 dark top of the shaft.
 ~
-49 67108876 0 0 0 9
+49 67141644 0 0 0 9
 D4
 The shaft grows darker as you stare above you.
 ~
@@ -2153,7 +2153,7 @@ putrid greenish glow below.
 still cohesive despite the strong constant air currents from below.
    You can continue up or down the tunnel.
 ~
-49 67108876 0 0 0 9
+49 67141644 0 0 0 9
 D4
 You see the shaft extend upwards.
 ~
@@ -2177,7 +2177,7 @@ top of the shaft which is far out of sight in the darkness above you.
 Below you, you can see the mists swirl and you catch a strong scent of
 sulfur.
 ~
-49 67108876 0 0 0 9
+49 67141644 0 0 0 9
 D4
 You see the shaft continue upward into darkness and mist.
 ~
@@ -2199,7 +2199,7 @@ yellowish ochre.
    The shaft continues upwards, far out of sight and descends into frigid
 winds below you.
 ~
-49 67108908 0 0 0 9
+49 67141676 0 0 0 9
 D4
 The top of the shaft is over half a mile away up there.
 ~
@@ -2221,7 +2221,7 @@ below.
 sight and reach.  Below you, the burgundy mists seem to solidify and you
 can swear you hear faint shrieks of pain coming from them.
 ~
-49 67108908 0 0 0 9
+49 67141676 0 0 0 9
 D4
 The shaft continues above you.
 ~
@@ -2245,7 +2245,7 @@ extremeties.  Below you, the circle of light mesmerizes you and invites
 you closer, though above you, the shaft grows warmer and seems far less
 dangerous.
 ~
-49 67108908 0 0 0 9
+49 67141676 0 0 0 9
 D4
 The shaft entrance lies far above you.
 ~
@@ -2268,7 +2268,7 @@ of light, as though a glacier was housed beneath it.  The being seem to be
 anxious to escape more than the cold however, judging by the looks of mixed
 terror and relief as they soar past you.
 ~
-49 44 0 0 0 9
+49 32812 0 0 0 9
 D4
 The shaft continues upwards.
 ~

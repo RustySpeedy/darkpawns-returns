@@ -1,7 +1,7 @@
 #18801
-Draug~
-Draug ~
-A reanimated Draug shambles about.
+Draugr Soldier~
+Draugr Soldier~
+A reanimated Draugr Soldier shambles about.
 ~
 Gazing apon this dishoveled being, you come to realize this thing has long sense died. 
 ~
@@ -13,13 +13,16 @@ BareHandAttack: 8
 Race: 9
 E
 #18802
-Draug Walker Corpse~
-Draug Walker~
+Draugr Knight Corpse Humanoid~
+Draugr Knight~
 You gaze apon a huge rotting corpse shuffling towards you.
 ~
-A Druagen Walker shambles about seemingly unwittingly.
+   Though long sense deceased you can make out many of this humanoid's
+features.  What is left of this rotting corpse's skin is rough like dried
+leather , exposing it skeletal framework.  Its icy blue eyes seem frozen with
+a mystical glaze the can pierce your very soul.  
 ~
-9484392 0 0 0 132296 18 0 0 0 E
+9484392 0 0 0 132296 16 0 0 0 E
 24 -4 -14 24d5+276 16d4+16
 1000 35000
 8 8 0
@@ -31,13 +34,56 @@ Draug Mage Corpse~
 Draug Magus~
 A Drougen Magus wanders about
 ~
-A corpse of an long passed magus roams the cemetery seeking to protect its kin.
+   What remain of this long passed magus is nothing less than horrifing to
+look at.  There is no telling how long this corpse has been left to roam
+about.  
 ~
 9990364 0 0 0 13542 18 0 0 0 E
 26 -6 -16 26d5+322 17d4+25
-0 40000
+4000 40000
 8 8 0
 BareHandAttack: 12
 Race: 9
+E
+#18804
+Draug Deathlord~
+Draug Deathlord~
+A monstrous creature stands here glaring at you.
+~
+This mighty ancient warrior has defently seen better days. Its flesh has almost completely fallen off its bones making it hard to determain what it use to be.
+~
+10481788 0 0 0 45216 18 0 0 0 E
+27 -7 -17 27d5+345 18d4+28
+5000 45000
+8 8 0
+BareHandAttack: 7
+Race: 9
+E
+#18805
+mob unfinished~
+Karr the Old~
+An unfinished mob stands here.
+~
+It looks, err, unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+30 -10 -20 30d5+414 20d4+34
+1500 60000
+8 8 0
+Race: 9
+E
+#18806
+mob unfinished~
+Karr the Old Enraged King~
+* Karr the Everlasting paces about looking for blood..
+~
+It looks, err, unfinished.
+~
+9707516 0 0 0 1074967776 2 0 0 0 E
+35 -15 -25 35d5+3329 23d4+40
+40000 360000
+8 8 0
+Race: 9
+Noise: Come to me and DIE....
 E
 $

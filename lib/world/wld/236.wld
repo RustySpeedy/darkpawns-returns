@@ -1,0 +1,1271 @@
+#23600
+Draugr Cemetry ~
+   Zone is loosely based off the draugr from Norse mythology.  A portal is the
+entrance to the zone which is located within the Prisoner Isle zone in room #
+2510.  
+~
+236 262148 0 0 0 0
+D5
+~
+~
+0 0 23629
+S
+#23601
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23604
+D1
+~
+~
+0 0 23602
+S
+#23602
+Marshy graveyard~
+   Walking the perimeter of the graveyard you notice the crumbling tombstones
+through out.  You see no signs of movement and the only sounds you can hear is
+the swish of your own foot steps apon the water logged ground.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23605
+D1
+~
+~
+0 0 23663
+D3
+~
+~
+0 0 23601
+S
+#23603
+Marshy graveyard~
+   Walking the perimeter of the graveyard you notice the crumbling tombstones
+through out.  You see no signs of movement and the only sounds you can hear are
+the swish of your own footsteps upon the waterlogged ground.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23609
+D1
+~
+~
+0 0 23604
+S
+#23604
+Marshy graveyard~
+   Walking through this graveyard your starting to get annoyed with all the
+thick mud.  Out of the corner of your eye you spot a shadow pass by a
+tombstone in the distance.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23610
+D1
+~
+~
+0 0 23605
+D2
+~
+~
+0 0 23601
+D3
+~
+~
+0 0 23603
+S
+#23605
+Marshy graveyard~
+  Walking through the graveyard you start to wonder if your eyes are playing
+tricks on you.  Wasn't there just a tombstone over in the distance?  You're
+almost certain that you didn't pass by one in the room before.  Something is
+definitely wrong with this place.
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23611
+D1
+~
+~
+0 0 23606
+D2
+~
+~
+0 0 23602
+D3
+~
+~
+0 0 23604
+S
+#23606
+Marshy graveyard~
+   Trudging through the mud and the muck in this marshlike cemetery is
+starting to take its toll on you.  The only foot prints you see around is your
+own but you can swear you can here things moving about.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23612
+D1
+~
+~
+0 0 23607
+D2
+~
+~
+0 0 23663
+D3
+~
+~
+0 0 23605
+S
+#23607
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23613
+D3
+~
+~
+0 0 23606
+S
+#23608
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23615
+D1
+~
+~
+0 0 23609
+S
+#23609
+Marshy graveyard~
+   Trudging through the mud and the muck in this marshlike cemetery is
+starting to take its tool on you. The only footprints you see are your
+own but you can swear you can hear things moving about.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23616
+D1
+~
+~
+0 0 23610
+D2
+~
+~
+0 0 23603
+D3
+~
+~
+0 0 23608
+S
+#23610
+Marshy Graveyard~
+   Walking through this graveyard your starting to get annoyed with all the
+thick mud.  Out of the corner of your eye you spot a shadow pass by a
+tombstone in the distance.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23617
+D1
+~
+~
+0 0 23611
+D2
+~
+~
+0 0 23604
+D3
+~
+~
+0 0 23609
+S
+#23611
+Marshy Graveyard~
+   Trekking through this marshlike graveyard you take care to watch your
+footing.  The crumbling moss covered tombstones and thick mud are making
+things difficult though.  The eerie silence is only broken with the noise of
+your own foot steps.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23618
+D1
+~
+~
+0 0 23612
+D2
+~
+~
+0 0 23605
+D3
+~
+~
+0 0 23610
+S
+#23612
+Marshy Graveyard~
+  Walking through the graveyard you start to wonder if your eyes are playing
+tricks on you.  Wasn't there just a tombstone over in the distance?  You're
+almost certain that you didn't pass by one in the room before.  Something is
+definitely wrong with this place.
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23619
+D1
+~
+~
+0 0 23613
+D2
+~
+~
+0 0 23606
+D3
+~
+~
+0 0 23611
+S
+#23613
+Marshy graveyard~
+   Trekking through this marshlike graveyard you take care to watch your
+footing.  The crumbling moss covered tombstones and thick mud are making
+things difficult though.  The eerie silence is only broken with the noise of
+your own foot steps.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23620
+D1
+~
+~
+0 0 23614
+D2
+~
+~
+0 0 23607
+D3
+~
+~
+0 0 23612
+S
+#23614
+Marshy graveyard~
+   Walking the perimeter of the graveyard you notice the crumbling tombstones
+through out.  You see no signs of movement and the only sounds you can hear is
+the swish of your own foot steps apon the water logged ground.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23621
+D3
+~
+~
+0 0 23613
+S
+#23615
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23662
+D1
+~
+~
+0 0 23616
+D2
+~
+~
+0 0 23608
+S
+#23616
+Marshy graveyard~
+   Walking through this graveyard you're starting to get annoyed with all the
+thick mud.  Out of the corner of your eye you spot a shadow pass by a
+tombstone in the distance.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23622
+D1
+~
+~
+0 0 23617
+D2
+~
+~
+0 0 23609
+D3
+~
+~
+0 0 23615
+S
+#23617
+Marshy Graveyard~
+   Trudging through the mud and the muck in this marshlike cemetery is
+starting to take its toll on you.  The only foot prints you see around is your
+own but you can swear you can here things moving about.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23623
+D1
+~
+~
+0 0 23618
+D2
+~
+~
+0 0 23610
+D3
+~
+~
+0 0 23616
+S
+#23618
+Marshy Graveyard~
+   Trekking through this marshlike graveyard you take care to watch your
+footing.  The crumbling moss covered tombstones and thick mud are making
+things difficult though.  The eerie silence is only broken with the noise of
+your own foot steps.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23624
+D1
+~
+~
+0 0 23619
+D2
+~
+~
+0 0 23611
+D3
+~
+~
+0 0 23617
+S
+#23619
+Marshy Graveyard~
+  Walking through the graveyard you start to wonder if your eyes are playing
+tricks on you.  Wasn't there just a tombstone over in the distance?  You're
+almost certain that you didn't pass by one in the room before.  Something is
+definitely wrong with this place.
+~
+236 1 0 0 0 15
+D1
+~
+~
+0 0 23620
+D2
+~
+~
+0 0 23612
+D3
+~
+~
+0 0 23618
+S
+#23620
+Marshy Graveyard~
+   Trekking through this marshlike graveyard you take care to watch your
+footing.  The crumbling moss covered tombstones and thick mud are making
+things difficult though.  The eerie silence is only broken with the noise of
+your own foot steps.  
+~
+236 1 0 0 0 15
+D1
+~
+~
+0 0 23621
+D2
+~
+~
+0 0 23613
+D3
+~
+~
+0 0 23619
+S
+#23621
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23627
+D2
+~
+~
+0 0 23614
+D3
+~
+~
+0 0 23620
+S
+#23622
+Marshy graveyard~
+   Walking the perimeter of the graveyard you notice the crumbling tombstones
+through out.  You see no signs of movement and the only sounds you can hear is
+the swish of your own foot steps apon the water logged ground.  
+~
+236 1 0 0 0 15
+D1
+~
+~
+0 0 23623
+D2
+~
+~
+0 0 23616
+D3
+~
+~
+0 0 23662
+S
+#23623
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
+~
+236 1 0 0 0 15
+D1
+~
+~
+0 0 23624
+D2
+~
+~
+0 0 23617
+D3
+~
+~
+0 0 23622
+S
+#23624
+Marshy graveyard~
+   As you pass through the rusted gate it suddenly slams closed behind you!!!
+You start to understand why somebody carved that warning into that stump.  
+Though your not in the swamps anymore the ground is still completely water
+logged.  Through the dense fog you make out the silloute of tombstones to the
+south and west.  
+~
+236 1 0 0 0 15
+D0
+a rusty wrought iron gate.
+~
+gates rusty iron trapdoor wrought gate~
+1 0 23628
+D2
+~
+~
+0 0 23618
+D3
+~
+~
+0 0 23623
+S
+#23625
+Catacomb Entrance~
+   You stumble apon an old decrepit building.  There is moss and vines
+covering the entire structure.  Looking around you notice most of the hallways
+are collapsed or completely impassable, the only way to enter to through the
+flooded catacombs below.  
+~
+236 5 0 0 0 0
+D1
+~
+~
+0 0 23626
+D5
+~
+~
+0 0 23632
+S
+#23626
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
+~
+236 1 0 0 0 15
+D1
+~
+~
+0 0 23627
+D3
+~
+~
+0 0 23625
+S
+#23627
+Marshy graveyard~
+   Walking the perimeter of the graveyard you notice the crumbling tombstones
+through out.  You see no signs of movement and the only sounds you can hear is
+the swish of your own foot steps apon the water logged ground.  
+~
+236 1 0 0 0 15
+D2
+~
+~
+0 0 23621
+D3
+~
+~
+0 0 23626
+S
+#23628
+Swampy Pathway~
+   You come upon a rusty set of wrought iron gates.  Peering through the iron
+bars you can see what can only be the remains of a very old cemetery.  
+~
+236 1 0 0 0 15
+D1
+~
+~
+0 0 23629
+D2
+a rusty wrought iron gate.
+~
+gates rusty iron trapdoor wrought gate~
+1 0 23624
+S
+#23629
+Swampy Pathway~
+   As your head clears from what seems to be a hell of a dream, you realize
+you're no longer standing in the jungle.  Looking around you realize you're
+standing in a swamp and there seems to be no way back.  The only way is
+onward.  
+~
+236 21 0 0 0 15
+D3
+~
+~
+0 0 23628
+S
+#23630
+Flooded Catacomb~
+   The cobbled walls are caked in layers of roots, mud, and moss.  Swimming
+and feeling your way around you realize you found one of the corners of this
+watery grave.  
+~
+236 9 0 0 0 8
+D1
+~
+~
+0 0 23631
+D2
+~
+~
+0 0 23634
+S
+#23631
+Flooded Catacomb~
+   With the water being so murky you almost have to feel your way around down
+here.  From what you can tell the passage ways continues in all directions but
+north.  
+~
+236 9 0 0 0 8
+D1
+~
+~
+0 0 23632
+D2
+~
+~
+0 0 23635
+D3
+~
+~
+0 0 23630
+S
+#23632
+Flooded Catacomb~
+   Diving down into the muddy waters might have been a bad idea.  The
+visibility is absolutely terrible down here.  From what you can see there is
+nothing to spectacular about this place , it looks like a normal underground
+cemetery, numerous crypts lining the walls.  Most of which seem to be in good
+condition other than being completely submerged.  
+~
+236 9 0 0 0 8
+D3
+~
+~
+0 0 23631
+D4
+~
+~
+0 0 23625
+S
+#23633
+Flooded Catacomb~
+   You come across where the catacomb walls have failed and crumbled.  
+Obviously, this is how most of the water has flooded in through the years.  
+Strangely enough there is a current pushing you back the way you came....  
+~
+236 8388617 0 0 0 8
+D1
+~
+~
+0 0 23634
+S
+#23634
+Flooded Catacomb~
+   The murky water is starting to get to you, but you must keep going before
+you run out of breath and life.  Without the walls to help guide you, it's
+hard to get a sense of where anything is.  
+~
+236 9 0 0 0 8
+D0
+~
+~
+0 0 23630
+D1
+~
+~
+0 0 23635
+D2
+~
+~
+0 0 23638
+D3
+~
+~
+0 0 23633
+S
+#23635
+Flooded Catacomb~
+   You find yourself in an open area without any walls to help guide you.  
+The water is pretty stagnant and still murky as can be here.  By now to start
+to feel the pressure of holding your breath for so long.  
+~
+236 9 0 0 0 8
+D0
+~
+~
+0 0 23631
+D1
+~
+~
+0 0 23636
+D2
+~
+~
+0 0 23639
+D3
+~
+~
+0 0 23634
+S
+#23636
+Flooded Catacomb~
+   Swimming around in all this dirty makes it realy hard to find your way
+around and impossible to see anything other than what is right infront of your
+face.  Thankfully you are able to feel the stone wall to your north.  
+~
+236 9 0 0 0 8
+D1
+~
+~
+0 0 23637
+D2
+~
+~
+0 0 23640
+D3
+~
+~
+0 0 23635
+S
+#23637
+Flooded Catacomb~
+   Diving down into the muddy waters might have been a bad idea.  The
+visibility is absolutely terrible down here.  From what you can see there is
+nothing to spectacular about this place , it looks like a normal underground
+cemetery, numerous crypts lining the walls.  Most of which seem to be in good
+condition other than being completely submerged.  
+~
+236 9 0 0 0 8
+D2
+~
+~
+0 0 23641
+D3
+~
+~
+0 0 23636
+S
+#23638
+Flooded Catacomb~
+   Although the water is still very murky here, you swim into what seems like
+another corner of this underwater tomb.  You can only vaguely make out the
+crypts that are carved into the stone walls.  
+~
+236 9 0 0 0 8
+D0
+~
+~
+0 0 23634
+D1
+~
+~
+0 0 23639
+S
+#23639
+Flooded Catacomb~
+   This cold watery crypt is starting to get the best of you by now.  Trying
+to glance around you think you notice something swimming towards you in the
+distance...  Or was it just floating debris.  Feeling around the walls you can
+make out that it continues on to the east and west.  
+~
+236 9 0 0 0 8
+D0
+~
+~
+0 0 23635
+D1
+~
+~
+0 0 23640
+D3
+~
+~
+0 0 23638
+S
+#23640
+Flooded Catacomb~
+   Through the murky waters you can barely see what seems to be a hallway to
+your south.  It might be leading to another way out of this watery crypt.  
+Well at least that the way the water is slowly pulling you.  
+~
+236 9 0 0 0 8
+D0
+~
+~
+0 0 23636
+D1
+~
+~
+0 0 23641
+D2
+~
+~
+0 0 23642
+D3
+~
+~
+0 0 23639
+S
+#23641
+Flooded Catacomb~
+   You swam yourself right into another corner of this underwater cesspool.  
+From here you can start to feel a slight current wanting to pull you to the
+west.  
+~
+236 9 0 0 0 8
+D0
+~
+~
+0 0 23637
+D3
+~
+~
+0 0 23640
+S
+#23642
+Flooded Catacomb~
+   Looks like you found were all the water is going...  You notice a slight
+current pulling you towards the south.  Though there seems to be another path
+to the east.  I wouldn't wait long to decide, the choice might be made for
+you!  
+~
+236 4194313 0 0 0 8
+D0
+~
+~
+0 0 23640
+D1
+~
+~
+0 0 23643
+D2
+~
+~
+0 0 23644
+S
+#23643
+Flooded Catacomb~
+   The water seems to clear up a bit here as now you can notice a faint light
+coming from above.  The possiblity of taking a huge breath to relieve the pain
+in your chest is tempting but something seems to be forcing back the way you
+came.  
+~
+236 16777225 0 0 0 8
+D3
+~
+~
+0 0 23642
+D4
+~
+~
+0 0 23654
+S
+#23644
+Flooded Catacomb~
+   With everything being pitch black around you, it is very difficult
+navigating about.  You start to feel a slight current pulling you downward
+into a hole that is just big enough for a person.  At this point you are
+unsure what is down there and you might not want to find out.  
+~
+236 67108873 0 0 0 8
+D0
+~
+~
+0 0 23642
+D5
+~
+~
+0 0 23658
+S
+#23645
+Treasure Room~
+You stumble into a hidden treasure room. it all starts making sense why there are so many of these undead creatures roaming around. . . . They are guarding their ancient fortune!!
+~
+236 786452 0 0 0 0
+D2
+~
+wall~
+1 0 23647
+S
+#23646
+Inner Chapel~
+   Inside of the inner chapel of the mausoleum you are overwhelmed with the
+sheer beauty of the architecture.  The entire room, from the pillars along the
+walls to the floors, is made entirely of marble.  The wooden pews provide a
+nice place to sit for those that come to mourn.  
+~
+236 8 0 0 0 0
+D1
+~
+~
+0 0 23647
+D2
+~
+~
+0 0 23648
+S
+#23647
+At the Altar~
+   As you walk into the room you notice a beautifully crafted altar seemingly
+untouched by the surrounding environment. The altar itself has been
+meticulously forged out of solid gold.  Carved into its surface is a depiction
+of a great battle in front of a massive set of gleaming gates.  
+~
+236 77 0 0 0 0
+D0
+~
+wall door secret~
+1 0 23645
+D1
+~
+~
+0 0 23665
+D2
+~
+~
+0 0 23649
+D3
+~
+~
+0 0 23646
+S
+#23648
+Inner Chapel~
+   Inside of the inner chapel of the mausoleum you are overwhelmed with the
+sheer beauty of the architecture.  The entire room, from the pillars along the
+walls to the floors, is made entirely of marble.  The wooden pews provide a
+nice place to sit for those that come to mourn.  
+~
+236 8 0 0 0 0
+D0
+~
+~
+0 0 23646
+D1
+~
+~
+0 0 23649
+D2
+~
+~
+0 0 23664
+S
+#23649
+Inner Chapel~
+   Inside the inner chapel of the mausoleum you are overwhelmed with the sheer
+beauty of the architecture.  The entire room from the pillars along the walls
+to the floors is made entirely of marble.  The only thing that is not marble
+is the wooden pews to each side of you.  
+~
+236 8 0 0 0 0
+D0
+~
+~
+0 0 23647
+D1
+~
+~
+0 0 23650
+D2
+~
+~
+0 0 23651
+D3
+~
+~
+0 0 23648
+S
+#23650
+Inner Chapel~
+   Inside of the inner chapel of the mausoleum you are overwhelmed with the
+sheer beauty of the architecture.  The entire room, from the pillars along the
+walls to the floors, is made entirely of marble.  The wooden pews provide a
+nice place to sit for those that come to mourn.  
+~
+236 8 0 0 0 0
+D0
+~
+~
+0 0 23665
+D2
+~
+~
+0 0 23652
+D3
+~
+~
+0 0 23649
+S
+#23651
+Inner Chapel~
+   Entering into the inner chapel of the mausoleum you are overwhelmed with
+the sheer beauty of the architecture.  The entire room from the pillars along
+the walls to the floors, is made entirely of marble.  The only thing that is
+not marble is the wooden pews to each side of you.  
+~
+236 8 0 0 0 0
+D0
+~
+~
+0 0 23649
+D1
+~
+~
+0 0 23652
+D2
+~
+~
+0 0 23653
+D3
+~
+~
+0 0 23664
+S
+#23652
+Inner Chapel~
+   Inside of the inner chapel of the mausoleum you are overwhelmed with the
+sheer beauty of the architecture.  The entire room, from the pillars along the
+walls to the floors, is made entirely of marble.  The wooden pews provide a
+nice place to sit for those that come to mourn.  There is a solid wooden door
+to your south.  
+~
+236 8 0 0 0 0
+D0
+~
+~
+0 0 23650
+D2
+A solid oak door
+~
+Solid Oak Door~
+1 0 23654
+D3
+~
+~
+0 0 23651
+S
+#23653
+Hallway~
+   Walking through the hallway within this mausoleum you notice the numerous
+crypts lining the walls.  The skulls of the deceased are all displaying,
+seemingly staring at you as walk by.  Ahead of you to the north is a spacious
+chamber.  It must be the inner chapel where people used to come to pray for the
+dead.  
+~
+236 8 0 0 0 0
+D0
+~
+~
+0 0 23651
+D2
+~
+~
+0 0 23656
+S
+#23654
+Storage Closet~
+   This room definitely has not been used in many years.  Even part of the
+floor has collapsed leading down into what seems to be a flooded crypt.  
+Along the stone walls to notice old wicker brooms and other random rusty
+tools.  
+~
+236 262172 0 0 0 0
+D0
+Solid Oak Door
+~
+Solid Oak Door2~
+1 0 23652
+D5
+~
+~
+0 0 23643
+S
+#23655
+Colapsed Hallway~
+   Standing in your path is a pile of rubble.  The massive hole in the ceiling
+give you our clue on where the debris came from.  Better head back the way you
+came.  
+~
+236 8 0 0 0 0
+D1
+~
+~
+0 0 23656
+S
+#23656
+Hallway~
+   Walking through the hallway within this mausoleum you notice the numerous
+crypts lining the walls.  The skulls of the deceased are all displaying,
+seemingly staring at you as walk by.  
+~
+236 8 0 0 0 0
+D0
+~
+~
+0 0 23653
+D3
+~
+~
+0 0 23655
+S
+#23657
+Stuck in the current!!!~
+   Still being pulled along by the current, you barely notice what looks like
+a passage in the wall to the east.  This might be your last chance for escape
+before being pulling down in to the darkness.  
+~
+236 67108877 0 0 0 8
+D1
+a moss covered gate
+~
+gate iron moss~
+1 0 23658
+D5
+~
+~
+0 0 12335
+S
+#23658
+In the current~
+   The current has pulled you down into the hole and is tring to keep you
+going to the south.  You must ask yourself is it worth it to find out why this
+is here....  Or do you make one last effort to swim back up.  
+~
+236 4194317 0 0 0 8
+D2
+~
+~
+0 0 23660
+D4
+~
+~
+0 0 23644
+S
+#23659
+Stuck in the current!!!!~
+   Well as long as you are going for the ride, you might want to reconsider a
+lot of the choices you have made.  
+~
+236 2097165 0 0 0 8
+D0
+~
+~
+0 0 23657
+S
+#23660
+Stuck in the current!!!~
+   Well now you have done it!  You should have seconded guessed yourself a
+little faster than what you did.  The current is speeding up and there is no
+telling where you are going.  
+~
+236 16777229 0 0 0 8
+D3
+~
+~
+0 0 23659
+S
+#23661
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
+~
+236 0 0 0 0 0
+S
+#23662
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
+~
+236 1 0 0 0 15
+D1
+~
+~
+0 0 23622
+D2
+~
+~
+0 0 23615
+S
+#23663
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
+~
+236 1 0 0 0 15
+D0
+~
+~
+0 0 23606
+D3
+~
+~
+0 0 23602
+S
+#23664
+Inner Chapel~
+   Inside of the inner chapel of the mausoleum you are overwhelmed with the
+sheer beauty of the architecture.  The entire room, from the pillars along the
+walls to the floors, is made entirely of marble.  The wooden pews provide a
+nice place to sit for those that come to mourn.  
+~
+236 8 0 0 0 0
+D0
+~
+~
+0 0 23648
+D1
+~
+~
+0 0 23651
+S
+#23665
+Inner Chapel~
+   Inside of the inner chapel of the mausoleum you are overwhelmed with the
+sheer beauty of the architecture.  The entire room, from the pillars along the
+walls to the floors, is made entirely of marble.  The wooden pews provide a
+nice place to sit for those that come to morn.  
+~
+236 8 0 0 0 0
+D2
+~
+~
+0 0 23650
+D3
+~
+~
+0 0 23647
+S
+#23699
+spark room~
+Noise maker to draw attention to the stump above.
+The stump is the portal to the Draugr Cemetry.
+~
+236 517 0 0 0 0
+D4
+~
+~
+0 0 2510
+S
+$~

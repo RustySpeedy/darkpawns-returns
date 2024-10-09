@@ -181,16 +181,23 @@ A maroon stone sits here.~
 A
 24 -3
 #4618
-tree stump~
-tree stump~
-tree stump~
-Apon inspecting this hollowed out stump you vaguly make out some type of warning carved into it.
+stump tree~
+Water logged tree stump~
+A hollow, waterlogged tree stump.~
+Upon inspecting this hollowed-out stump, you vaguely make out some type of warning carved into it.
 ~
 15 0 0 0 0 0 0 0 0
 0 0 0 0
-5000 0 100.00
+5000 23629 100.00
+S portal.lua 2
 E
-tree stump warning sign~
-For all those whom enter be warned.... You will not RETURN....
+carve carving warning sign~
+  For all those who enter be warned... You will NOT return! For all those
+who enter this gateway be warned... You will NOT return.
+~
+E
+tree stump~
+  Upon inspecting this hollowed-out stump you vaguely make out some type of
+warning carved into it.
 ~
 $~

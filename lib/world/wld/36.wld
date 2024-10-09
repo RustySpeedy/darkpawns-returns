@@ -126,15 +126,15 @@ D1
 ~
 0 0 3606
 E
-crypt~
-   An antiquated and heavily weathered coat of arms can be seen but not
-identified due to the extreme damage.  
-~
-E
 holes~
    As you peer inside you can see that the interior was more than likely quite
 opulent at one time, now it had been destroyed by tomb raiders and then left
 to be forgotten and covered in dust.  
+~
+E
+crypt~
+   An antiquated and heavily weathered coat of arms can be seen but not
+identified due to the extreme damage.  
 ~
 S
 #3606
@@ -1730,7 +1730,7 @@ The Cemetery Entrance~
 the landscape.  Flickers of movement catch the eye along the paths weaving
 through the graves of fallen Kir Drax'in heroes.  A worn path is beaten into
 the grass and weeds from the shuffling feet of visitors come to pay respects.
-There is a towering black stone &W&Wtablet&n towering over you near the gates.  
+There is a black stone tablet towering over you near the gates.
 ~
 36 0 0 0 0 0
 D2

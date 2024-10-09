@@ -87,11 +87,11 @@ A
 A
 28 -15
 #31706
-Ethereal Britches Shattered Illusions~
+ethereal britches shattered illusions CA~
 &WEthereal&n britches of &GShattered &bI&Bl&bl&Bu&bs&Bi&bo&Bn&bs&n~
 A pair of mind shattering britches are here... kind of?~
 ~
-9 323651 0 0 0 65537 0 0 0
+9 319555 0 0 0 65537 0 0 0
 12 0 0 0
 18 8500 0.00
 A
@@ -107,15 +107,15 @@ A
 A
 29 13
 #31707
-Traditional Pastafarian Colander ~
+Traditional Pastafarian Colander~
 Traditional Pastafarian Colander of the Church of the &MFl&Byi&Yng &ySpaghetti &RMonster&n~
 Not sure what the fuck your looking at right now, but it is horrifying and covered in spaghetti sauce, and its right here on the floor.~
 ~
 9 65 0 0 0 17 0 0 0
 10 0 0 0
-5 7000 0.00
+5 7000 0.25
 A
-19 2
+19 3
 A
 18 2
 A
@@ -181,15 +181,21 @@ esoteric combat black gloves~
 some &mesoteric&n black-combat gloves~
 Some kind of black material is hardly visible on the ground, could be gloves maybe?~
 ~
-9 110109186 0 0 0 129 0 0 0
-4 0 0 0
-2 9999 0.00
+9 106192898 0 0 0 129 0 0 0
+6 0 0 0
+2 9999 3.00
 A
 19 4
 A
-28 10
+27 4
 A
 14 50
+A
+12 15
+A
+13 10
+A
+28 50
 #31712
 naginata plague bringer~
 the &cNaginata&n known as, "&GP&glague &GB&gringer&n"~
@@ -201,13 +207,13 @@ A mysterious naginata lay in the dust carelessly.~
 A
 19 4
 A
-18 3
+18 4
 A
 23 -15
 A
 24 -15
 A
-17 -20
+17 -15
 A
 29 12
 #31713
@@ -274,7 +280,7 @@ hint~
 She may be one of the greatest in the ladn with a sword but she has chosen the wrong side in this conflict and we will crush her armies!
 ~
 #31718
-Hat Crocodile tooth~
+hat crocodile tooth~
 a &GCrocodile&n tooth hat~
 A black hat with crocodile teeth along the brim lies here forgotten.~
 ~
@@ -322,13 +328,13 @@ It's a fork~
 0 7 6 11
 2 1000 0.00
 E
+fork~
+The runes glow faintly, you can barely make something out about.....Bubba &RHotep&n
+~
+E
 hotep~
 upon closer inspection the runes apear to be a story, a story of a great battle between good and evil, Black and white, Light and Shadows, the world hangs in the balance which path will you choose? the shorter easier path, or the longer more perilious but
 more rewarding
-~
-E
-fork~
-The runes glow faintly, you can barely make something out about.....Bubba &RHotep&n
 ~
 A
 25 3
@@ -351,16 +357,16 @@ There is nothing here.~
 100 0 1 35
 0 2000 0.00
 E
-Yourself~
-Look at yourself! listening to a spoon! you need a vacation, you should go camping. I hear you can see the Oddest things when you go camping!
+spoon~
+There Is No Spoon Do not try and bend the spoon, thats impossible. Instead, only try to realize the &Rtruth&n
 ~
 E
 truth~
 There is no spoon. Then youll see that it is not the spoon that bends, it is only &RYourself&n
 ~
 E
-spoon~
-There Is No Spoon Do not try and bend the spoon, thats impossible. Instead, only try to realize the &Rtruth&n
+Yourself~
+Look at yourself! listening to a spoon! you need a vacation, you should go camping. I hear you can see the Oddest things when you go camping!
 ~
 A
 29 31
@@ -383,12 +389,12 @@ Now THAT's a Knife!~
 0 42 1 3
 10 4000 0.00
 E
-runes~
-These runes apear to be less like writing and more like pictographs. A great sage and a Master smith. A choice.
-~
-E
 knife~
 This appears to be a huge knife, or perhaps a blade remounted. The &Rrunes&n along it's tang glow brightly
+~
+E
+runes~
+These runes apear to be less like writing and more like pictographs. A great sage and a Master smith. A choice.
 ~
 A
 29 31
@@ -436,8 +442,20 @@ the unstoppable force~
 What appears to be a large Pin streaks through the room, passing through everything in it's path.~
 ~
 3 0 0 0 0 24577 0 0 0
-1000 9999 20 94
+99999 999999 20 92
 20 4000 0.00
+A
+29 7
+A
+17 -100
+A
+12 50
+A
+27 20
+A
+29 33
+A
+25 16
 #31726
 staff of hellfire~
 staff of hellfire~
@@ -464,7 +482,7 @@ it smells like...urine
 ~
 10 67 0 0 0 1 0 0 0
 100 52 52 66
-1 2000 0.00
+1 2000 75.00
 E
 tea~
 it smells like....urine
@@ -508,14 +526,14 @@ a ring of &Bcold&n &RFire&n~
 It's a burning ring of fire~
 ~
 9 16777216 0 0 0 3 0 0 0
-8 0 0 0
-0 5000 0.00
+10 0 0 0
+0 5000 3.00
 A
 12 15
 A
-19 3
+19 4
 A
-18 3
+18 4
 A
 13 15
 A
@@ -543,25 +561,31 @@ A
 A
 25 19
 #31733
-flaming shadows leggings~
+MH flaming shadows leggings~
 Leggings of &RFlaming&n &bShadows&n~
 Shadow flames leap up your legs here.~
 ~
-9 0 0 0 0 33 0 0 0
+9 16777216 0 0 0 33 0 0 0
 13 0 0 0
-6 3000 0.00
+6 3000 3.00
 A
-19 2
+19 3
 A
-13 15
+13 20
+A
+12 20
+A
+27 5
+A
+29 10
 #31734
 circle flaming shadows~
 a circle of &RFlaming&n &bShadows&n~
 Shadows surrounded by fire.~
 ~
-9 158134339 0 0 0 2049 0 0 0
+9 151842883 0 0 0 2049 0 0 0
 7 0 0 0
-5 3000 0.00
+5 3000 3.00
 A
 13 15
 A
@@ -581,7 +605,7 @@ It's a &RFirewall&n~
 ~
 9 0 0 0 0 513 0 0 0
 15 0 0 0
-10 3000 0.00
+10 3000 3.00
 A
 13 15
 A
@@ -589,7 +613,7 @@ A
 A
 14 15
 A
-26 10
+27 10
 A
 28 10
 #31736
@@ -600,7 +624,7 @@ upon closer inspection you notice an inscription around the mouthpiece of the ho
 ~
 4 33554499 0 0 0 16385 0 0 0
 120 100 10 52
-5 5000 0.00
+5 5000 2.00
 A
 19 5
 A
@@ -611,6 +635,8 @@ A
 29 26
 A
 13 25
+A
+17 -30
 #31737
 shadowy boots~
 some &bShadowy&n boots with &Rflames&n licking at the heels.~
@@ -618,17 +644,19 @@ Some very stylish boots float here.~
 ~
 9 0 0 0 0 65 0 0 0
 10 0 0 0
-10 5000 0.00
+10 5000 3.00
 A
-27 3
+27 10
 A
-12 10
+12 15
 A
 5 2
 A
 13 10
 A
 29 6
+A
+14 100
 #31740
 Fancy gold chain used to belong to Rick James~
 Fancy gold chain used to belong to Rick James~
@@ -650,7 +678,7 @@ A
 A
 29 5
 #31741
-lone ranger start belt buckle~
+lone ranger star belt buckle~
 a belt buckle in the shape of a &WStar&n~
 It's a star, it doesn't seem to serve any purpose.~
 The Lone Ranger's pants must be around his ankles about now!
@@ -661,15 +689,15 @@ The Lone Ranger's pants must be around his ankles about now!
 A
 19 3
 A
-5 1
+5 2
 A
-27 2
+27 5
 A
 12 15
 A
 13 10
 A
-24 -5
+3 3
 #31742
 dragon eye divine allseeing~
 the all-seeing eye of the d&Wi&nv&Wi&nn&We&n dragon~
@@ -723,9 +751,9 @@ A
 A
 9 -20
 #31745
-orb souls~
+orb souls maelstrom light~
 the &WOrb&n of &RSouls&n~
-A Swirling maelstrom of light hovers just above the gound.~
+A swirling maelstrom of light hovers just above the ground.~
 ~
 9 16777283 0 0 0 16385 0 0 0
 10 0 0 0
@@ -763,15 +791,15 @@ Somehow these Fiery wings are smouldering~
 ~
 9 73195858 0 0 0 1025 0 0 0
 15 0 0 0
-0 6666 0.00
+0 6666 2.00
 A
 19 3
 A
-27 5
+27 15
 A
 29 26
 A
-12 15
+12 25
 A
 5 1
 A
@@ -783,7 +811,7 @@ A wet noodle is lying here.~
 ~
 19 16908610 0 0 0 257 0 0 0
 10000 0 0 100
-1 3333 0.00
+1 3333 5.00
 A
 19 2
 A
@@ -797,18 +825,18 @@ A
 A
 9 -10
 #31749
-gate portal will pattern secret passageway~
-Only those pure of heart may enter here~
-A large burning Gate opens before you. all that awaits you is death.~
+gate portal flame secret~
+a column of &Rflame&n~
+A tall column of flame stretches from floor to ceiling here.~
 If your Soul be black and twisted, enter here and meet your fate.
 ~
 1 0 0 0 0 0 0 0 0
 0 0 -1 0
-400 1212 0.00
+400 1212 100.00
 S portal.lua 2
 E
-gate portal~
-An inscription written in flames circles the gate, If your Soul be black and twisted, enter here and meet your fate. if not only your doom awaits.
+will pattern~
+you feel a pull to another realm. Simply wish it, and step through the portal.
 ~
 E
 secret passage~
@@ -816,23 +844,27 @@ In the dim light you make out ancient runes that read.
 Only those pure of heart may enter here, woe to all others who come near.
 ~
 E
-will pattern~
-you feel a pull to another realm. Simply wish it, and step through the portal.
+gate portal~
+An inscription written in flames circles the gate, If your Soul be black and twisted, enter here and meet your fate. if not only your doom awaits.
 ~
 #31750
-moustache beard pussy prison~
-a Prison pussy with a stripe~
+mankini gold lame~
+a gold lame mankini~
 Ziz lost his moneymaker~
 ~
-9 0 0 0 0 131073 0 0 0
-0 0 0 0
-1 100 0.00
+9 0 0 0 0 9 0 0 0
+-600 0 0 0
+1 9000 0.00
 A
-13 2
+13 50
 A
-6 -6
+29 7
 A
-9 20
+29 33
+A
+27 30
+A
+12 50
 #31751
 holy avenger~
 a holy avenger~
@@ -850,14 +882,14 @@ A
 A
 25 11
 #31752
-tooth chain poison platimum dragon~
+tooth chain poison platinum dragon~
 a tooth dripping poison hanging from a platinum chain.~
 A small tooth disappears into the hole created by it's acidic coating.~
 There is something odd about this item. it...pulls you. You want to follow but know you shouldn't.
 ~
-11 323650 0 0 0 5 0 0 0
+11 17100866 0 0 0 5 0 0 0
 0 1 1 11
-1 7777 0.00
+1 7777 4.00
 A
 19 3
 A
@@ -873,11 +905,11 @@ weaponized souls lance~
 a Lance of weaponized &RSouls&n~
 You aren't sure what is keeping the souls trapped in there but they really don't look happy about it.~
 ~
-5 157611523 0 0 0 8193 0 0 0
+5 157609987 0 0 0 8193 0 0 0
 0 23 1 3
-10 6666 0.00
+10 6666 0.75
 A
-19 5
+19 6
 A
 18 5
 A
@@ -887,17 +919,17 @@ A
 A
 17 -25
 A
-13 15
+13 25
 #31754
-rift space time~
+LA rift sapce time~
 a rift in space and time~
 You think you used to see sometihng here, but maybe not~
 ~
 9 89976835 0 0 0 513 0 0 0
 25 0 0 0
-1 6666 0.00
+1 6666 4.00
 A
-19 3
+19 4
 A
 23 -20
 A
@@ -905,9 +937,9 @@ A
 A
 13 20
 A
-29 5
+12 20
 A
-26 10
+27 10
 #31755
 soul patch~
 a &RSoul&n patch~
@@ -923,7 +955,7 @@ A
 A
 13 10
 A
-24 -5
+24 -10
 A
 6 6
 #31756
@@ -933,7 +965,7 @@ All the light in the room appears to be sucked into a small point floating about
 ~
 15 16777218 0 0 0 16385 0 0 0
 250 1 -1 0
-1 10000 0.00
+1 10000 2.00
 A
 19 2
 A
@@ -964,7 +996,7 @@ A
 A
 5 2
 #31758
-death visage bone apocolypse~
+death visage apocalypse bone skull~
 &DDeath's&n Visage~
 A bleached skull lies here.~
 you stare into the face of Death, lets hope he doesnt come to claim it.
@@ -1034,7 +1066,7 @@ as you inspect the seal you see four Horses breaking out as waves crashing onto 
 300 200 20 83
 1 99000 0.00
 A
-19 3
+19 4
 A
 17 -15
 A
@@ -1046,7 +1078,7 @@ A
 A
 24 -15
 #31762
-colourful feather~
+colourful feather apocolypse~
 a colourful feather~
 A brightly coloured feather floats in the wind~
 ~
@@ -1062,15 +1094,15 @@ Something slithered out of its skin here~
 0 0 0 0
 0 0 50.00
 #31764
-prophylactic condom used~
-a well used prophlyactic~
+prophylactic condom used darius apocolypse~
+a well-used prophylactic~
 Darius has clearly been here.~
 ~
 8 67 0 0 0 131073 0 0 0
 0 0 0 0
 1 1000 0.50
 #31765
-lonely thorn~
+lonely thorn apocolypse~
 a lonely thorn~
 A solitary thorn lies here.~
 ~
@@ -1078,7 +1110,7 @@ A solitary thorn lies here.~
 0 0 0 0
 0 500 10.00
 #31766
-death beetle shell~
+death beetlle shell apocolypse~
 a bone white shell~
 A shell shaped like a skull lies here~
 ~
@@ -1092,7 +1124,7 @@ Someone got a shave and a haircut for two bits!~
 ~
 3 72532480 0 0 0 131073 0 0 0
 200 1000 20 92
-1 666 0.00
+1 666 6.00
 A
 19 3
 A
@@ -1164,7 +1196,7 @@ A
 #31772
 armor vulnerability~
 Armor of Vulnerability~
-A shiny suit of armor lies here begging you to put it on~
+A shiny suit of armor lies here begging you to put it on.~
 dont do it!
 ~
 9 3 0 0 0 9 0 0 0
@@ -1217,16 +1249,16 @@ A
 A
 3 -5
 A
-29 34
+17 50
 A
 18 -5
 A
 12 25
 #31775
-oroboros circlet~
+oroboros circlet lr lm lh~
 an oroboros circlet~
 A squirming mass a scales and fang devours the world~
-a snaking eating its own tail writhes here
+a snake eating its own tail writhes here
 ~
 9 0 0 0 0 4097 0 0 0
 -30 0 0 0
@@ -1245,7 +1277,7 @@ A
 27 5
 #31778
 dark matter containment sphere~
-an indestructable sphere imprisoning dark-matter~
+an indestructible sphere imprisoning dark-matter~
 A sphere containing some sort of violent energy is here causing a disruption in the world around it.~
 ~
 9 323 0 0 0 262145 0 0 0
@@ -1283,6 +1315,41 @@ A
 27 15
 A
 19 3
+#31780
+an electric Boomstick~
+an electric Boomstick~
+Crackly~
+~
+5 0 0 0 0 8193 0 0 0
+0 1 1 12
+5 7000 0.00
+A
+19 27
+A
+18 5
+A
+27 5
+A
+13 15
+A
+23 -50
+A
+25 0
+#31781
+Colour chart~
+&BB&bb&CC&cc&DD&dd&GG&gg&MM&mmN&nn&RR&rr&WW&ww&YY&yy&n~
+Ampersand plus the letter makes the rainbow!~
+Ampersand n and w are the base mud colours, b is black and thus invisible. always make sure to close your argument with &&w
+~
+9 0 0 0 0 286721 0 0 0
+100 0 0 0
+0 0 0.00
+E
+chart~
+&&n and &&w are the base mud colours, &&b is black and thus invisible. always make sure to close your argument with &&w
+~
+A
+19 30
 #31798
 open furnace~
 a large open furnace~

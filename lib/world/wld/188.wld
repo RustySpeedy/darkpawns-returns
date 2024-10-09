@@ -1,19 +1,21 @@
 #18800
-Map Room~
-If you've stumbled in here by mistake, please... find your way out.
-Zone not open to public.
+BUGGED ZONe~
+DO NOT USE THIS ZONE TO MAKE ITEMS!!!!!!!!!!!!!!
 ~
-188 4 0 0 0 0
+188 524356 0 0 0 0
 D5
 ~
 ~
 0 0 18801
 S
 #18801
---~
-You are in an unfinished room.
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -24,24 +26,32 @@ D1
 0 0 18802
 S
 #18802
---~
-You are in an unfinished room.
+Marshy graveyard~
+   Walking the perimeter of the graveyard you notice the crumbling tombstones
+through out.  You see no signs of movement and the only sounds you can hear is
+the swish of your own foot steps apon the water logged ground.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
 0 0 18805
+D1
+~
+~
+0 0 18863
 D3
 ~
 ~
 0 0 18801
 S
 #18803
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Walking the perimeter of the graveyard you notice the crumbling tombstones
+through out.  You see no signs of movement and the only sounds you can hear is
+the swish of your own foot steps apon the water logged ground.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -52,10 +62,12 @@ D1
 0 0 18804
 S
 #18804
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Walking through this graveyard your starting to get annoyed with all the
+thick mud.  Out of the corner of your eye you spot a shadow pass by a
+tombstone in the distance.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -74,10 +86,13 @@ D3
 0 0 18803
 S
 #18805
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Walking through the graveyard you start to wonder if your eyes are playing
+tricks on you.  Wasnt there just a tombstone over in the distance and your
+almost certain that you didnt pass by one in the room before.  Something is
+definitly wrong with this place.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -96,10 +111,12 @@ D3
 0 0 18804
 S
 #18806
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Trudging through the mud and the muck in this marshlike cemetery is
+starting to take its toll on you.  The only foot prints you see around is your
+own but you can swear you can here things moving about.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -108,16 +125,23 @@ D1
 ~
 ~
 0 0 18807
+D2
+~
+~
+0 0 18863
 D3
 ~
 ~
 0 0 18805
 S
 #18807
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -128,10 +152,13 @@ D3
 0 0 18806
 S
 #18808
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -142,10 +169,12 @@ D1
 0 0 18809
 S
 #18809
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Trudging through the mud and the muck in this marshlike cemetery is
+starting to take its toll on you.  The only foot prints you see around is your
+own but you can swear you can here things moving about.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -164,10 +193,12 @@ D3
 0 0 18808
 S
 #18810
-Lower Floor~
-You are in an unfinished room.
+Marshy Graveyard~
+   Walking through this graveyard your starting to get annoyed with all the
+thick mud.  Out of the corner of your eye you spot a shadow pass by a
+tombstone in the distance.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -186,10 +217,13 @@ D3
 0 0 18809
 S
 #18811
-Lower Floor~
-You are in an unfinished room.
+Marshy Graveyard~
+   Trekking through this marshlike graveyard you take care to watch your
+footing.  The crumbling moss covered tombstones and thick mud are making
+things difficult though.  The eerie silence is only broken with the noise of
+your own foot steps.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -208,10 +242,13 @@ D3
 0 0 18810
 S
 #18812
-Lower Floor~
-You are in an unfinished room.
+Marshy Graveyard~
+   Walking through the graveyard you start to wonder if your eyes are playing
+tricks on you.  Wasnt there just a tombstone over in the distance and your
+almost certain that you didnt pass by one in the room before.  Something is
+definitly wrong with this place.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -230,10 +267,13 @@ D3
 0 0 18811
 S
 #18813
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Trekking through this marshlike graveyard you take care to watch your
+footing.  The crumbling moss covered tombstones and thick mud are making
+things difficult though.  The eerie silence is only broken with the noise of
+your own foot steps.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -252,10 +292,12 @@ D3
 0 0 18812
 S
 #18814
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Walking the perimeter of the graveyard you notice the crumbling tombstones
+through out.  You see no signs of movement and the only sounds you can hear is
+the swish of your own foot steps apon the water logged ground.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -266,10 +308,17 @@ D3
 0 0 18813
 S
 #18815
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
+D0
+~
+~
+0 0 18862
 D1
 ~
 ~
@@ -280,10 +329,12 @@ D2
 0 0 18808
 S
 #18816
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Walking through this graveyard your starting to get annoyed with all the
+thick mud.  Out of the corner of your eye you spot a shadow pass by a
+tombstone in the distance.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -302,10 +353,12 @@ D3
 0 0 18815
 S
 #18817
-Lower Floor~
-You are in an unfinished room.
+Marshy Graveyard~
+   Trudging through the mud and the muck in this marshlike cemetery is
+starting to take its toll on you.  The only foot prints you see around is your
+own but you can swear you can here things moving about.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -324,10 +377,13 @@ D3
 0 0 18816
 S
 #18818
-Lower Floor~
-You are in an unfinished room.
+Marshy Graveyard~
+   Trekking through this marshlike graveyard you take care to watch your
+footing.  The crumbling moss covered tombstones and thick mud are making
+things difficult though.  The eerie silence is only broken with the noise of
+your own foot steps.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -346,10 +402,13 @@ D3
 0 0 18817
 S
 #18819
-Lower Floor~
-You are in an unfinished room.
+Marshy Graveyard~
+   Walking through the graveyard you start to wonder if your eyes are playing
+tricks on you.  Wasnt there just a tombstone over in the distance and your
+almost certain that you didnt pass by one in the room before.  Something is
+definitly wrong with this place.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D1
 ~
 ~
@@ -364,10 +423,13 @@ D3
 0 0 18818
 S
 #18820
-Lower Floor~
-You are in an unfinished room.
+Marshy Graveyard~
+   Trekking through this marshlike graveyard you take care to watch your
+footing.  The crumbling moss covered tombstones and thick mud are making
+things difficult though.  The eerie silence is only broken with the noise of
+your own foot steps.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -386,10 +448,13 @@ D3
 0 0 18819
 S
 #18821
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
 ~
 ~
@@ -404,10 +469,12 @@ D3
 0 0 18820
 S
 #18822
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Walking the perimeter of the graveyard you notice the crumbling tombstones
+through out.  You see no signs of movement and the only sounds you can hear is
+the swish of your own foot steps apon the water logged ground.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D1
 ~
 ~
@@ -416,12 +483,19 @@ D2
 ~
 ~
 0 0 18816
+D3
+~
+~
+0 0 18862
 S
 #18823
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D1
 ~
 ~
@@ -436,11 +510,16 @@ D3
 0 0 18822
 S
 #18824
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   As you pass through the rusted gate it suddenly slams closed behind you!!!
+You start to understand why somebody carved that warning into that stump.  
+Though your not in the swamps anymore the ground is still completely water
+logged.  Through the dense fog you make out the silloute of tombstones to the
+south and west.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D0
+rusty wrought iron gate
 ~
 ~
 0 0 18828
@@ -454,24 +533,30 @@ D3
 0 0 18823
 S
 #18825
-Lower Floor~
-You are in an unfinished room.
+Catacomb Entrance~
+   You stumble apon an old decrepit building.  There is moss and vines
+covering the entire structure.  Looking around you notice most of the hallways
+are collapsed or completely impassable, the only way to enter to through the
+flooded catacombs below.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D1
 ~
 ~
 0 0 18826
-D4
+D5
 ~
 ~
 0 0 18832
 S
 #18826
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D1
 ~
 ~
@@ -486,10 +571,12 @@ D3
 0 0 18825
 S
 #18827
-Lower Floor~
-You are in an unfinished room.
+Marshy graveyard~
+   Walking the perimeter of the graveyard you notice the crumbling tombstones
+through out.  You see no signs of movement and the only sounds you can hear is
+the swish of your own foot steps apon the water logged ground.  
 ~
-188 4 0 0 0 0
+188 4 0 0 0 15
 D2
 ~
 ~
@@ -500,34 +587,41 @@ D3
 0 0 18826
 S
 #18828
-Lower Floor~
-You are in an unfinished room.
+Swampy Pathway~
+   You come apon a rusty set of wrought iron gates.  Peering through the iron
+bars you can see what can only be the remains of a very old cemetery.  
 ~
-188 4 0 0 0 0
+188 132 0 0 0 15
 D1
 ~
 ~
 0 0 18829
 D2
+rusty wrought iron gate
 ~
 ~
 0 0 18824
 S
 #18829
-Lower Floor~
-You are in an unfinished room.
+Swampy Pathway~
+   As your head clears from what seems to be a hell of a dream, you relize
+your still standing in the swamps but something seems different now.  Looking
+around you realize your not where you once were and there is no way back, the
+only way is onward.  
 ~
-188 4 0 0 0 0
+188 262196 0 0 0 15
 D3
 ~
 ~
 0 0 18828
 S
 #18830
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   The cobbled walls are caked in layers of roots, mud, and moss.  Swimming
+and feeling your way around you realize you found one of the corners of this
+watery grave.  
 ~
-188 4 0 0 0 0
+188 13 0 0 0 8
 D1
 ~
 ~
@@ -538,10 +632,12 @@ D2
 0 0 18834
 S
 #18831
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   With the water being so murky you almost have to feel your way around down
+here.  From what you can tell the passage ways continues in all directions but
+north.  
 ~
-188 4 0 0 0 0
+188 13 0 0 0 8
 D1
 ~
 ~
@@ -556,34 +652,42 @@ D3
 0 0 18830
 S
 #18832
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   Diving down into the muddy waters might have been a bad idea.  The
+visibility is absolutely terrible down here.  From what you can see there is
+nothing to spectacular about this place , it looks like a normal underground
+cemetery, numerous crypts lining the walls.  Most of which seem to be in good
+condition other than being completely submerged.  
 ~
-188 4 0 0 0 0
+188 13 0 0 0 8
 D3
 ~
 ~
 0 0 18831
-D5
+D4
 ~
 ~
 0 0 18825
 S
 #18833
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   You come across where the catacomb walls have failed and crumbled.  
+Obviously, this is how most of the water has flooded in through the years.  
+Strangely enough there is a current pushing you back the way you came....  
 ~
-188 4 0 0 0 0
+188 8388621 0 0 0 8
 D1
 ~
 ~
 0 0 18834
 S
 #18834
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   The murky water is starting to get to you, but you must keep going before
+you run out of breath and life.  Without the walls to help guide you, it's
+hard to get a sense of where anything is.  
 ~
-188 4 0 0 0 0
+188 13 0 0 0 8
 D0
 ~
 ~
@@ -602,10 +706,12 @@ D3
 0 0 18833
 S
 #18835
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   You find yourself in an open area without any walls to help guide you.  
+The water is pretty stagnant and still murky as can be here.  By now to start
+to feel the pressure of holding your breath for so long.  
 ~
-188 4 0 0 0 0
+188 13 0 0 0 8
 D0
 ~
 ~
@@ -624,10 +730,12 @@ D3
 0 0 18834
 S
 #18836
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   Swimming around in all this dirty makes it realy hard to find your way
+around and impossible to see anything other than what is right infront of your
+face.  Thankfully you are able to feel the stone wall to your north.  
 ~
-188 4 0 0 0 0
+188 13 0 0 0 8
 D1
 ~
 ~
@@ -642,10 +750,14 @@ D3
 0 0 18835
 S
 #18837
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   Diving down into the muddy waters might have been a bad idea.  The
+visibility is absolutely terrible down here.  From what you can see there is
+nothing to spectacular about this place , it looks like a normal underground
+cemetery, numerous crypts lining the walls.  Most of which seem to be in good
+condition other than being completely submerged.  
 ~
-188 4 0 0 0 0
+188 13 0 0 0 8
 D2
 ~
 ~
@@ -656,10 +768,12 @@ D3
 0 0 18836
 S
 #18838
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   Although the water is still very murky here, you swim into what seems like
+another corner of this underwater tomb.  You can only vaguely make out the
+crypts that are carved into the stone walls.  
 ~
-188 4 0 0 0 0
+188 13 0 0 0 8
 D0
 ~
 ~
@@ -670,10 +784,13 @@ D1
 0 0 18839
 S
 #18839
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   This cold watery crypt is starting to get the best of you by now.  Trying
+to glance around you think you notice something swimming towards you in the
+distance...  Or was it just floating debris.  Feeling around the walls you can
+make out that it continues on to the east and west.  
 ~
-188 4 0 0 0 0
+188 13 0 0 0 8
 D0
 ~
 ~
@@ -688,10 +805,12 @@ D3
 0 0 18838
 S
 #18840
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   Through the murky waters you can barely see what seems to be a hallway to
+your south.  It might be leading to another way out of this watery crypt.  
+Well at least that the way the water is slowly pulling you.  
 ~
-188 4 0 0 0 0
+188 13 0 0 0 8
 D0
 ~
 ~
@@ -710,10 +829,12 @@ D3
 0 0 18839
 S
 #18841
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   You swam yourself right into another corner of this underwater cesspool.  
+From here you can start to feel a slight current wanting to pull you to the
+west.  
 ~
-188 4 0 0 0 0
+188 13 0 0 0 8
 D0
 ~
 ~
@@ -724,10 +845,13 @@ D3
 0 0 18840
 S
 #18842
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   Looks like you found were all the water is going...  You notice a slight
+current pulling you towards the south.  Though there seems to be another path
+to the east.  I wouldn't wait long to decide, the choice might be made for
+you!  
 ~
-188 4 0 0 0 0
+188 4194317 0 0 0 8
 D0
 ~
 ~
@@ -742,10 +866,13 @@ D2
 0 0 18844
 S
 #18843
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   The water seems to clear up a bit here as now you can notice a faint light
+coming from above.  The possiblity of taking a huge breath to relieve the pain
+in your chest is tempting but something seems to be forcing back the way you
+came.  
 ~
-188 0 0 0 0 0
+188 16777229 0 0 0 8
 D3
 ~
 ~
@@ -756,10 +883,13 @@ D4
 0 0 18854
 S
 #18844
-2nd Floor~
-You are in an unfinished room.
+Flooded Catacomb~
+   With everything being pitch black around you, it is very difficult
+navigating about.  You start to feel a slight current pulling you downward
+into a hole that is just big enough for a person.  At this point you are
+unsure what is down there and you might not want to find out.  
 ~
-188 4 0 0 0 0
+188 67108877 0 0 0 8
 D0
 ~
 ~
@@ -770,18 +900,23 @@ D5
 0 0 18858
 S
 #18845
-Top Floor~
-You are in an unfinished room.
+Treasure Room~
+   You stumble into a hidden treasure room.  It all starts making sense why
+there are some many of these undead creatures have been roaming around....  
+They are guarding their ancient fortune!!  
 ~
-188 4 0 0 0 0
-D1
+188 786452 0 0 0 0
+D2
 ~
-~
-0 0 18846
+wall~
+0 0 18847
 S
 #18846
-Top Floor~
-You are in an unfinished room.
+Inner Chaple~
+   Inside of the inner chapel of the mausoleum you are overwhelmed with the
+sheer beauty of the architecture.  The entire room, from the pillars along the
+walls to the floors, is made entirely of marble.  The wooden pews provide a
+nice place to sit for those that come to morn.  
 ~
 188 4 0 0 0 0
 D1
@@ -792,16 +927,23 @@ D2
 ~
 ~
 0 0 18848
-D3
+S
+#18847
+At the Alter~
+   As you walk into the room you notice a beautifully crafted alter seemingly
+untouched by the surrounding environment.  The alter itself has been
+meticulously forged out of solid gold.  Carved into its surface is a depiction
+of a great battle in front of a massive set of gleaming gates.  
+~
+188 12 0 0 0 0
+D0
 ~
 ~
 0 0 18845
-S
-#18847
-Top Floor~
-You are in an unfinished room.
+D1
 ~
-188 4 0 0 0 0
+~
+0 0 18865
 D2
 ~
 ~
@@ -812,8 +954,11 @@ D3
 0 0 18846
 S
 #18848
-Top Floor~
-You are in an unfinished room.
+Inner Chaple~
+   Inside of the inner chapel of the mausoleum you are overwhelmed with the
+sheer beauty of the architecture.  The entire room, from the pillars along the
+walls to the floors, is made entirely of marble.  The wooden pews provide a
+nice place to sit for those that come to morn.  
 ~
 188 4 0 0 0 0
 D0
@@ -824,10 +969,17 @@ D1
 ~
 ~
 0 0 18849
+D2
+~
+~
+0 0 18864
 S
 #18849
-Top Floor~
-You are in an unfinished room.
+Inner Chaple~
+   Inside the inner chapel of the mausoleum you are overwhelmed with the sheer
+beauty of the architecture.  The entire room from the pillars along the walls
+to the floors, is made entirely of marble.  The only thing that is not marble
+is the wooden pews to each side of you.  
 ~
 188 4 0 0 0 0
 D0
@@ -848,10 +1000,17 @@ D3
 0 0 18848
 S
 #18850
-Top Floor~
-You are in an unfinished room.
+Inner Chaple~
+   Inside of the inner chapel of the mausoleum you are overwhelmed with the
+sheer beauty of the architecture.  The entire room, from the pillars along the
+walls to the floors, is made entirely of marble.  The wooden pews provide a
+nice place to sit for those that come to morn.  
 ~
 188 4 0 0 0 0
+D0
+~
+~
+0 0 18865
 D2
 ~
 ~
@@ -862,8 +1021,11 @@ D3
 0 0 18849
 S
 #18851
-Top Floor~
-You are in an unfinished room.
+Inner Chapel~
+   Entering into the inner chapel of the mausoleum you are overwhelmed with
+the sheer beauty of the architecture.  The entire room from the pillars along
+the walls to the floors, is made entirely of marble.  The only thing that is
+not marble is the wooden pews to each side of you.  
 ~
 188 4 0 0 0 0
 D0
@@ -878,10 +1040,18 @@ D2
 ~
 ~
 0 0 18853
+D3
+~
+~
+0 0 18864
 S
 #18852
-Top Floor~
-You are in an unfinished room.
+Inner Chaple~
+   Inside of the inner chapel of the mausoleum you are overwhelmed with the
+sheer beauty of the architecture.  The entire room, from the pillars along the
+walls to the floors, is made entirely of marble.  The wooden pews provide a
+nice place to sit for those that come to morn.  There is a solid wooden door
+to your south.  
 ~
 188 4 0 0 0 0
 D0
@@ -889,19 +1059,24 @@ D0
 ~
 0 0 18850
 D2
+Solid oak door
 ~
-~
-0 0 18854
+Solid oak door~
+1 0 18854
 D3
 ~
 ~
 0 0 18851
 S
 #18853
-Top Floor~
-You are in an unfinished room.
+Hallway~
+   Walking through the hallway within this mausoleum you notice the numerous
+crypts lining the walls.  The skulls of the deceased are all displaying,
+seemingly staring at you as walk by.  Ahead of you to the north is a spacious
+chamber.  It must be the inner chapel where people use to come to pray for the
+dead.  
 ~
-188 4 0 0 0 0
+188 5 0 0 0 0
 D0
 ~
 ~
@@ -912,22 +1087,28 @@ D2
 0 0 18856
 S
 #18854
-Top Floor~
-You are in an unfinished room.
+Storage Closet~
+   This room definitely has not been used in many years.  Even part of the
+floor has collapsed leading down into what seems to be a flooded crypt.  
+Along the stone walls to notice old wicker brooms and other random rusty
+tools.  
 ~
 188 4 0 0 0 0
 D0
+Solid oak door
 ~
-~
-0 0 18852
+Solid oak door~
+1 0 18852
 D5
 ~
 ~
 0 0 18843
 S
 #18855
-Top Floor~
-You are in an unfinished room.
+Colapsed Hallway~
+   Standing in your path is a pile of rubble.  The massive hole in the ceiling
+give you our clue on where the debris came from.  Better head back the way you
+came.  
 ~
 188 4 0 0 0 0
 D1
@@ -936,10 +1117,12 @@ D1
 0 0 18856
 S
 #18856
-Top Floor~
-You are in an unfinished room.
+Hallway~
+   Walking through the hallway within this mausoleum you notice the numerous
+crypts lining the walls.  The skulls of the deceased are all displaying,
+seemingly staring at you as walk by.  
 ~
-188 4 0 0 0 0
+188 5 0 0 0 0
 D0
 ~
 ~
@@ -950,63 +1133,158 @@ D3
 0 0 18855
 S
 #18857
-2nd Floor~
-You are in an unfinished room.
+Stuck in the current!!!~
+   Still being pulled along by the current, you barely notice what looks like
+a passage in the wall to the east.  This might be your last chance for escape
+before being pulling down in to the darkness.  
 ~
-188 4 0 0 0 0
+188 67109005 0 0 0 8
 D1
+iron gate
+~
+iron gate~
+1 0 18858
+D5
 ~
 ~
-0 0 18858
-D2
-~
-~
-0 0 18859
+0 0 12335
 S
 #18858
-2nd Floor~
-You are in an unfinished room.
+In the current~
+   The current has pulled you down into the hole and is tring to keep you
+going to the south.  You must ask yourself is it worth it to find out why this
+is here....  Or do you make one last effort to swim back up.  
 ~
-188 4 0 0 0 0
+188 4194317 0 0 0 8
 D2
 ~
 ~
 0 0 18860
-D3
-~
-~
-0 0 18857
 D4
 ~
 ~
 0 0 18844
 S
 #18859
-2nd Floor~
-You are in an unfinished room.
+Stuck in the current!!!!~
+   Well as long as you are going for the ride, you might want to reconsider a
+lot of the choices you have made.  
 ~
-188 4 0 0 0 0
+188 2097293 0 0 0 8
 D0
 ~
 ~
 0 0 18857
+S
+#18860
+Stuck in the current!!!~
+   Well now you have done it!  You should have seconded guessed yourself a
+little faster than what you did.  The current is speeding up and there is no
+telling where you are going.  
+~
+188 16777357 0 0 0 8
+D3
+~
+~
+0 0 18859
+S
+#18862
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
+~
+188 4 0 0 0 15
 D1
 ~
 ~
-0 0 18860
+0 0 18822
+D2
+~
+~
+0 0 18815
 S
-#18860
-2nd Floor~
-You are in an unfinished room.
+#18863
+Marshy graveyard~
+   Following along the outer edge of the graveyard, you trek through the
+marshlike surroundings taking care to watch where you step.  Crumbling
+tombstones and shallow graves are all around.  There is no telling what else
+might be laying around or if anyone else is near by.  
+~
+188 4 0 0 0 15
+D0
+~
+~
+0 0 18806
+D3
+~
+~
+0 0 18802
+S
+#18864
+Inner Chaple~
+   Inside of the inner chapel of the mausoleum you are overwhelmed with the
+sheer beauty of the architecture.  The entire room, from the pillars along the
+walls to the floors, is made entirely of marble.  The wooden pews provide a
+nice place to sit for those that come to morn.  
 ~
 188 4 0 0 0 0
 D0
 ~
 ~
-0 0 18858
+0 0 18848
+D1
+~
+~
+0 0 18851
+S
+#18865
+Inner Chaple~
+   Inside of the inner chapel of the mausoleum you are overwhelmed with the
+sheer beauty of the architecture.  The entire room, from the pillars along the
+walls to the floors, is made entirely of marble.  The wooden pews provide a
+nice place to sit for those that come to morn.  
+~
+188 4 0 0 0 0
+D2
+~
+~
+0 0 18850
 D3
 ~
 ~
-0 0 18859
+0 0 18847
+S
+#18890
+Draugr Spawn Room~
+Spawn point for mob 18801 (Draugr Soldier)
+5 per zone reset with 20 max.
+~
+188 524864 0 0 0 0
+D0
+~
+~
+0 0 18816
+D1
+~
+~
+0 0 18814
+D2
+~
+~
+0 0 18805
+D3
+~
+~
+0 0 18830
+D4
+~
+~
+0 0 18819
+D5
+~
+~
+0 0 18841
 S
 $~

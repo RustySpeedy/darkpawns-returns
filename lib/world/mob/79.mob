@@ -376,11 +376,12 @@ The Crow is here, dressed like a mime from hell.
 He's dressed in black leather pants and a tight long-sleeve top.
 Electrical tape holds his clothes together.
 ~
-786440 0 0 0 1224 0 0 0 -700 E
-29 -9 -19 29d5+391 19d4+19
-330 55000
+9232456 0 0 0 177352 2 0 0 -700 E
+40 -20 -30 40d5+6244 26d4+45
+330 400000
 8 8 1
 Race: 0
+Noise: Victims, aren't we all?
 E
 #7979
 kender thief~
@@ -406,9 +407,9 @@ Wearing a low-cut, steel-breasted garment that leaves little to the imagi-
 nation, she's an intelligent vixen who kicks ass and doesn't bother to take
 names.
 ~
-264216 0 0 0 164872 0 0 0 600 E
-32 -12 -22 32d5+1580 21d4+21
-25 120000
+8824858 0 0 0 1074955400 2 0 0 600 E
+32 -15 -20 40d8+8000 40d9+52
+500000 120000
 8 8 2
 Race: 0
 E
@@ -486,11 +487,11 @@ Pei Mei Bak Mei~
 the legendary Pei Mei~
 A tall man with an extremely long goatee is pacing the floor muttering obscenities.
 ~
-   Pai Mei is a legendary master of the Bak Mei and Eagle's Claw styles of
-martial arts.  This is one fatal mother fucker.  
+Pei Mei is a legendary master of the Bak Mei and Eagle's Claw styles of
+martial arts.  This is one fatal motherfucker.
 ~
-25680409 0 0 0 1158554764 18 0 0 0 E
-39 -57 -29 50d5+12000 35d12+37
+25680537 0 0 0 1158554764 18 0 0 0 E
+39 -20 -29 50d5+22000 40d13+1
 90000 375000
 8 8 0
 BareHandAttack: 3

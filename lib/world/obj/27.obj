@@ -528,7 +528,7 @@ kilt~
 A handsome kilt made from green and gold plaid cloth.
 ~
 #2742
-breeches~
+blue breeches~
 a pair of blue breeches~
 Some blue breeches lie here.~
 ~
@@ -992,6 +992,22 @@ A
 18 -1
 A
 19 -1
+#2775
+potion masterful travel~
+a Masterful travel potion~
+An unfinished object is lying here.~
+~
+10 0 0 0 0 1 0 0 0
+9999 102 53 51
+0 10000 0.00
+#2776
+masterful potion of sight~
+a Masterful potion of sight~
+An unfinished object is lying here.~
+~
+10 0 0 0 0 1 0 0 0
+900 50 19 44
+0 10000 0.00
 #2790
 key sheriffkey~
 a key~

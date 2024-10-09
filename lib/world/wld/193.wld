@@ -3,7 +3,7 @@ Casica's zone~
 planned entrace at 4726
 Zone based off idea of Barnstads former home.. Dwarven Ruins/Town
 ~
-193 786432 0 0 0 0
+193 786436 0 0 0 0
 D5
 ~
 ~
@@ -13,7 +13,7 @@ S
 A recently formed hole in the cavern wall~
 Standing inside the recently formed cave you start to ponder over the destuctive forces that might have exposed it, you wonder if its worth the risk to continue on. The walls of rock seem to have almost been dug out by hand....
 ~
-193 0 0 0 0 5
+193 4 0 0 0 5
 D0
 ~
 ~
@@ -23,7 +23,7 @@ S
 inside of a cave~
 Traveling deeper into the cave the walls begin to apear smoother as if massive tools were used to dig out this formation. Looking deeper in the the cave you can vaguely make out the silhouette of what seems to be an archway of some type......
 ~
-193 0 0 0 0 5
+193 4 0 0 0 5
 D0
 ~
 ~
@@ -37,10 +37,80 @@ S
 ruined Archway~
 In front of you stands a massive marble gateway that has long sence been abondoned by its makers.
 ~
-193 0 0 0 0 5
+193 4 0 0 0 5
+D0
+~
+~
+0 0 19304
 D2
 ~
 ~
-0 0 19302
+0 0 19303
+S
+#19304
+Through the Archway~
+As you pass under the archway your skin begins to tingle as if you were entering a portal
+~
+193 388 0 0 0 0
+D2
+~
+~
+0 0 19303
+D5
+~
+~
+0 0 19305
+S
+#19305
+Through the Archway~
+The tingling grows more intense, you feel an irresistable urge to keep going deeper into the mountain.
+~
+193 67109252 0 0 0 0
+D4
+~
+~
+0 0 19304
+D5
+~
+~
+0 0 19306
+S
+#19306
+Through the Archway~
+The tingling grows more intense, you feel an irresistable urge to keep going deeper into the mountain.
+~
+193 67109252 0 0 0 0
+D4
+~
+~
+0 0 19305
+D5
+~
+~
+0 0 19307
+S
+#19307
+Through the Archway~
+The tingling grows more intense, you feel an irresistable urge to keep going deeper into the mountain.
+~
+193 2097540 0 0 0 0
+D0
+~
+~
+0 0 19308
+D4
+~
+~
+0 0 19306
+S
+#19308
+Through the Archway~
+The tingling suddenly stops, but you can't help wondering what's next
+~
+193 388 0 0 0 0
+D2
+~
+~
+0 0 19307
 S
 $~

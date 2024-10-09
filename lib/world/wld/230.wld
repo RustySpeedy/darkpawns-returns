@@ -1,7 +1,561 @@
 #23000
-Begining~
+Wunderland Begining~
+Zone is based loosey off the off the book "Thrrough the Looking Glass"
+~
+230 84 0 0 0 4
+D5
+~
+~
+0 0 23001
+S
+#23001
+Garden~
 You are in an unfinished room.
 ~
 230 0 0 0 0 0
+D0
+~
+~
+0 0 23021
+D1
+~
+~
+0 0 23002
+D2
+~
+~
+0 0 23006
+D3
+~
+~
+0 0 23005
+S
+#23002
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23022
+D1
+~
+~
+0 0 23003
+D2
+~
+~
+0 0 23007
+D3
+~
+~
+0 0 23001
+S
+#23003
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23023
+D1
+~
+~
+0 0 23004
+D2
+~
+~
+0 0 23008
+D3
+~
+~
+0 0 23002
+S
+#23004
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23024
+D1
+~
+~
+0 0 23005
+D2
+~
+~
+0 0 23009
+D3
+~
+~
+0 0 23003
+S
+#23005
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23025
+D1
+~
+~
+0 0 23001
+D2
+~
+~
+0 0 23010
+D3
+~
+~
+0 0 23004
+S
+#23006
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23001
+D1
+~
+~
+0 0 23007
+D2
+~
+~
+0 0 23011
+D3
+~
+~
+0 0 23010
+S
+#23007
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23002
+D1
+~
+~
+0 0 23008
+D2
+~
+~
+0 0 23012
+D3
+~
+~
+0 0 23006
+S
+#23008
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23003
+D1
+~
+~
+0 0 23009
+D2
+~
+~
+0 0 23013
+D3
+~
+~
+0 0 23007
+S
+#23009
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23004
+D1
+~
+~
+0 0 23010
+D2
+~
+~
+0 0 23014
+D3
+~
+~
+0 0 23008
+S
+#23010
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23005
+D1
+~
+~
+0 0 23006
+D2
+~
+~
+0 0 23015
+D3
+~
+~
+0 0 23009
+S
+#23011
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23006
+D1
+~
+~
+0 0 23012
+D2
+~
+~
+0 0 23016
+D3
+~
+~
+0 0 23015
+S
+#23012
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23007
+D1
+~
+~
+0 0 23013
+D2
+~
+~
+0 0 23017
+D3
+~
+~
+0 0 23011
+S
+#23013
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23008
+D1
+~
+~
+0 0 23014
+D2
+~
+~
+0 0 23018
+D3
+~
+~
+0 0 23012
+S
+#23014
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23009
+D1
+~
+~
+0 0 23015
+D2
+~
+~
+0 0 23019
+D3
+~
+~
+0 0 23013
+S
+#23015
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23010
+D1
+~
+~
+0 0 23011
+D2
+~
+~
+0 0 23020
+D3
+~
+~
+0 0 23014
+S
+#23016
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23011
+D1
+~
+~
+0 0 23017
+D2
+~
+~
+0 0 23021
+D3
+~
+~
+0 0 23020
+S
+#23017
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23012
+D1
+~
+~
+0 0 23018
+D2
+~
+~
+0 0 23022
+D3
+~
+~
+0 0 23016
+S
+#23018
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23013
+D1
+~
+~
+0 0 23019
+D2
+~
+~
+0 0 23023
+D3
+~
+~
+0 0 23017
+S
+#23019
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23014
+D1
+~
+~
+0 0 23020
+D2
+~
+~
+0 0 23024
+D3
+~
+~
+0 0 23018
+S
+#23020
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23015
+D1
+~
+~
+0 0 23016
+D2
+~
+~
+0 0 23025
+D3
+~
+~
+0 0 23019
+S
+#23021
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23016
+D1
+~
+~
+0 0 23022
+D2
+~
+~
+0 0 23001
+D3
+~
+~
+0 0 23025
+S
+#23022
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23017
+D1
+~
+~
+0 0 23023
+D2
+~
+~
+0 0 23002
+D3
+~
+~
+0 0 23021
+S
+#23023
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23018
+D1
+~
+~
+0 0 23024
+D2
+~
+~
+0 0 23003
+D3
+~
+~
+0 0 23022
+S
+#23024
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23019
+D1
+~
+~
+0 0 23025
+D2
+~
+~
+0 0 23004
+D3
+~
+~
+0 0 23023
+S
+#23025
+Garden~
+You are in an unfinished room.
+~
+230 0 0 0 0 0
+D0
+~
+~
+0 0 23020
+D1
+~
+~
+0 0 23021
+D2
+~
+~
+0 0 23005
+D3
+~
+~
+0 0 23024
 S
 $~

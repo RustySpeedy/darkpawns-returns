@@ -947,7 +947,7 @@ south you eyes are met with sheer cliffs a hundred feet up atleast.  There is
 only one way to go and thats the direction the gods choose.  Which is east in
 this case!  
 ~
-318 8388832 0 0 0 7
+318 8388836 0 0 0 7
 S
 #31846
 The Frjosa Hel-vegr River~
@@ -956,7 +956,7 @@ south you eyes are met with sheer cliffs a hundred feet up atleast.  There is
 only one way to go and thats the direction the gods choose.  Which is east in
 this case!  
 ~
-318 8388832 0 0 0 7
+318 8388836 0 0 0 7
 S
 #31847
 The Frjosa Hel-vegr River~
@@ -965,7 +965,7 @@ south you eyes are met with sheer cliffs a hundred feet up atleast.  There is
 only one way to go and thats the direction the gods choose.  Which is east in
 this case!  
 ~
-318 8388832 0 0 0 7
+318 8388836 0 0 0 7
 S
 #31848
 The Frjosa Hel-vegr River~
@@ -1213,7 +1213,7 @@ AHHHH! SPLAAAAAT! YOU ARE DEAD...~
 right now.  You are in the hand's of Slayer, your fate has been decided
 prevously.  
 ~
-318 67109025 0 0 0 6
+318 67109029 0 0 0 6
 R archive/elemental_room.lua 4
 D5
    You notice a slight glimmer of light below.  
@@ -1227,7 +1227,7 @@ the Underground Frjosa Hel-vgr Torrent~
 southwards in a freezing underground river.  The river is freezing, abusive,
 and is sending you to your death.
 ~
-318 4194528 0 0 0 6
+318 4194532 0 0 0 6
 R archive/elemental_room.lua 4
 D2
 ~
@@ -1241,7 +1241,7 @@ out of the water if your able.  Looking out you can see the sky, and below it
 nothingness.  Its almost as if the world ends here, the skyline is strange and
 has no horizon.  To the &W&Ceas&Wt&n you see something &Wglowing&n blue.
 ~
-318 4194465 0 0 0 6
+318 4194469 0 0 0 6
 R archive/elemental_room.lua 4
 D0
 ~
@@ -1265,7 +1265,7 @@ will be here.  But it too is now not anything or nothing at all.  Hey, don't
 worry about it, its always good to start fresh and naked.  Actually, looking
 down you see a way...  No nevermind your fucked.  Proper fucked.  
 ~
-318 2 0 0 0 13
+318 6 0 0 0 13
 S
 #31897
 a Secluded Shore~
@@ -1275,7 +1275,7 @@ cave is glistening with ice hanging from above and covering everything in
 sight.  Encased in the ice something is glowing brightly, which &Yilluminates&n
 this small underground shore.  
 ~
-318 0 0 0 0 0
+318 4 0 0 0 0
 D3
 ~
 ~

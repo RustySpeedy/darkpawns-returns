@@ -667,7 +667,7 @@ A
 #8079
 ooze brown poison fissure~
 a small fissure oozing a brown pasty substance~
-A small fissure has formed in the ground here, it is oozing some strange putrid brown substance!~
+A small fissure has formed in the ground here. It is oozing some strange, brown, putrid substance!~
 ~
 12 0 0 0 0 0 0 0 0
 0 0 0 0
@@ -964,7 +964,7 @@ possi fire fly fireflies~
 a possi of fireflies~
 A small possi of fireflies hovering here providing a calming yellow-green illumination of the surroundings.~
 ~
-1 33554515 0 0 0 262145 0 0 0
+11 33554515 0 0 0 262145 0 0 0
 0 0 -1 0
 1 5000 4.00
 E
@@ -978,6 +978,8 @@ A
 29 1
 A
 29 3
+A
+29 10
 #8169
 bug trap~
 a hand-crafted bug trap~

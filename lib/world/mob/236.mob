@@ -1,0 +1,107 @@
+#23601
+Draugr Soldier~
+Draugr Soldier~
+A Draugr Soldier shambles about.
+~
+   Gazing upon this disheveled being, you come to realize this thing has long
+since died.  
+~
+8411244 0 0 0 1049640 16 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+500 60000
+8 8 0
+BareHandAttack: 3
+Race: 9
+E
+#23602
+Draugr Knight Corpse Humanoid~
+Draugr Knight~
+You gaze upon a huge rotting corpse shuffling towards you.
+~
+   Though long since deceased, you can make out many of this humanoid's
+features.  Though what is left of this rotting corpse's skin, looks rough like
+dried leather exposing it skeletal framework.  Its icy blue eyes seem frozen
+with a mystical glaze that can pierce your very soul.  
+~
+8673388 0 0 0 1192 18 0 0 0 E
+28 -8 -18 28d5+368 18d4+19
+700 50000
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+#23603
+Draugr Priest~
+Draugr Priest~
+A Draugr Priest wanders about.
+~
+   What remain of this long-passed priest is nothing less than horrifying to
+look at.  There is no telling how long this corpse has been left to roam
+about.  
+~
+8672364 0 0 0 1108 16 0 0 0 E
+28 -8 -18 28d5+700 18d4+19
+700 50000
+8 8 0
+BareHandAttack: 12
+Race: 9
+E
+#23604
+Draugr Deathlord~
+Draugr Deathlord~
+A monstrous creature stands here glaring at you.
+~
+   This mighty ancient warrior has defiantly seen better days.  Its flesh has
+almost completely fallen off its bones making it hard to determine what it
+used to be.  
+~
+8707180 0 0 0 1180924 18 0 0 0 E
+30 -10 -20 30d5+414 20d4+20
+1500 60000
+8 8 0
+BareHandAttack: 8
+Race: 9
+E
+#23605
+Karr the Old man draugr~
+Karr the Old~
+A decrepit old man kneels in front of the altar chanting prayers.
+~
+   Known as Karr the Old, this being has spent countless millenniums
+watching over his fallen comrades and all their possessions.  
+~
+9434926 0 0 0 1488124 18 0 0 0 E
+37 -17 -27 37d5+4495 24d4+25
+65000 869000
+5 5 0
+Race: 9
+Noise: Leave this place or DIE!!
+E
+#23606
+spark crackling~
+spark~
+A crackling spark for the stump above.
+~
+Yup i just make noise for the stump
+~
+90186 0 0 0 33820 16 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+Noise: Crackling energy is being emitted from within the stump!!!
+E
+#23607
+swamp rat cleaner~
+a swamp rat~
+A swamp rat scurries about collecting junk for its nest.
+~
+   This rodent seems too busy to be bothered with anything but
+collecting things for its nest.
+~
+18874444 0 0 0 524394 16 0 0 0 E
+28 -8 -18 28d5+368 18d4+19
+0 0
+8 8 0
+Race: 15
+E
+$

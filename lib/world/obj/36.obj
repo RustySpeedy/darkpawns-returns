@@ -1,7 +1,7 @@
 #3600
 fountain ornate water~
 ornate fountain~
-An ornate Fountain depicting legendary scenes is here.~
+An ornate fountain depicting legendery scenes is here.~
 ~
 23 1 0 0 0 1 0 0 0
 999999 999999 15 0
@@ -84,9 +84,9 @@ A
 A
 13 5
 #3607
-dented black steel greaves~
-some dented black steel greaves~
-A set of damaged black steel greaves are collecting dust here.~
+dented black steel vambraces~
+some dented black steel vambraces~
+A set of damaged black steel vambraces are collecting dust here.~
 ~
 9 65536 0 0 0 257 0 0 0
 3 0 0 0
@@ -164,7 +164,7 @@ A
 A
 23 -5
 #3613
-black boot steel dented~
+black boots steel dented~
 some dented, black steel boots~
 A pair of black boots made of steel are here begging for feet.~
 ~
@@ -346,7 +346,7 @@ A meticulously crafted water container from the skin of a goat has been careless
 #3628
 large engraving monolith~
 a large black monolith~
-An very large obsidian monolith has a important message for whomever decides to enter the Cemetary Gateway.~
+A large obsidian tablet bares an important message.~
 ~
 12 0 0 0 0 0 0 0 0
 0 0 0 0
@@ -374,9 +374,9 @@ towers over you three men tall, you see in bold script:&n
 
 ~
 #3673
-cemetary~
+gates gateway cemetery~
 the Cemetary Gates~
-A large gateway beckons you into its bowels, please enter the gate to begin a journey you will never forget!~
+A gateway beckons you into its bowels.~
 ~
 12 3 0 0 0 0 0 0 0
 0 0 0 0
@@ -447,9 +447,9 @@ An ancient bronze coin is here...~
 0 0 0 0
 1 200 75.00
 #3678
-ancient spellbook~
-a gold plated spellbook~
-A book with a gold plated spline is here collecting dust.~
+gold ancient spellbook book~
+a gold-plated spellbook~
+A book with a gold-plated spine is here collecting dust~
 ~
 3 0 0 0 0 1 0 0 0
 15 1 1 36

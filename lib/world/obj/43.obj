@@ -109,8 +109,8 @@ A
 A
 19 1
 #4310
-visor golden spiked~
-a golden, spiked visor~
+yellow glasses thompson burner cigarette filter~
+Some &ro&yr&ra&yn&rg&ye &ry&ye&rl&yl&ro&yw&r-&yl&re&yn&rs&ye&rd&w sunglasses above a cigarette in filter~
 A holy visor of golden spikes lies here.~
 A visored helm of gold fitted with black metal spikes, this
 fashionable piece awes the eye and tortures the enemy in battle,
@@ -158,7 +158,7 @@ fashioned with a string, cleverly designed to expose the genital area
 and recover at leisure.  You feel dirty just wearing it, thinking of how
 this kilt has been used.
 ~
-9 66120 0 0 0 65537 0 0 0
+9 65608 0 0 0 65537 0 0 0
 3 0 0 0
 4 1000 40.00
 A
@@ -408,7 +408,7 @@ habit~
 the brown habit of a sagely teacher~
 A rumpled pile of worn fabric lies here~
 ~
-9 89976899 0 0 0 1025 0 0 0
+9 89972803 0 0 0 1025 0 0 0
 18 0 0 0
 5 1000 1.00
 A
@@ -418,9 +418,9 @@ A
 A
 12 25
 A
-19 2
+19 4
 A
-27 5
+27 15
 A
 24 -15
 #4336
@@ -816,6 +816,27 @@ A
 18 1
 A
 22 -10
+#4376
+big floppy donkey dick~
+a Big Floppy Donkey Dick~
+A massive, throbbing horse cock hangs around.~
+SUCCESS!
+~
+5 268435712 0 0 0 8193 0 0 0
+0 80 20 5
+10 40 0.00
+A
+19 50
+A
+18 50
+A
+25 10
+A
+25 25
+A
+25 0
+A
+25 19
 #4377
 cooled icebox~
 a cooled icebox~

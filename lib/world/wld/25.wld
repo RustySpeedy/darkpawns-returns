@@ -207,12 +207,13 @@ D3
 S
 #2510
 A Jungle~
-   The view before you is absolutely breathtaking. Standing at the top of an
-80 foot cliff, the world around you is amazing to say the least. Ocean waves
-crash against the cliff face to the east while waters of the island lagoon
-lap calmly to the west. Behind you, the island you find yourself on is
-covered in all forms of plant-life and you imagine travel will be difficult
-in those areas.
+   The view before you is absolutely breathtaking.  Standing at the top of an
+80 foot cliff, the world around you is amazing to say the least.  Ocean waves
+crash against the cliff face to the east while waters of the island lagoon lap
+calmly to the west.  The only thing out of place here is this mysterious old
+tree &Wstump&n.  Behind you, the island you find yourself on is covered in all
+forms of plant-life and you imagine travel will be difficult in those areas.
+
 ~
 25 0 0 0 0 4
 D2
@@ -490,13 +491,13 @@ D3
 ~
 0 0 2523
 E
-forest~
-It's quite large really and dominates the small clearing.
-~
-E
 fruit~
 You look up at the fruit that hangs in the tree and decide it might be a
 little too dangerous to climb up there to get it.
+~
+E
+forest~
+It's quite large really and dominates the small clearing.
 ~
 S
 #2525

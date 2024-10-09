@@ -16,7 +16,7 @@ exploits of the many intrepid mortals.  A spiral staircase leads down
 to another part of this room.  There is a sign hovering in the 
 awesomeness of this room.
 ~
-12 520 0 0 0 0
+12 524808 0 0 0 0
 D5
 You see the lower part of this room, and the normal board.
 ~
@@ -48,16 +48,16 @@ temple stairway stairs~
 0 -1 8004
 S
 #1212
-floating in the endless pain~
-Every molecule of your being screams that you shuold not be here.
+Floating in the Endless Pain~
+Every molecule of your being screams that you should not be here.
 ~
-12 1310760 0 0 0 12
+12 262184 0 0 0 12
 R archive/elemental_room.lua 4
 D0
 You see what appears to be light at the end of the tunnel.
 ~
-secret tunnel~
-1 -1 1215
+tunnel~
+2 31747 1215
 D1
 you can't see through the portal
 ~
@@ -74,7 +74,7 @@ calm serenity~
 2 31746 1213
 S
 #1213
-You chose ...  Poorly~
+You chose... poorly~
 You wish you were back floating in the endless pain.
 ~
 12 64 0 0 0 9
@@ -82,12 +82,15 @@ D1
 you can't see through the portal
 ~
 calm serenity~
-1 31746 1212
+2 31746 1212
 S
 #1214
-an Enourmous colander~
-It is very difficult to navigate around in the giant space, every step you take your feet either slip on something slimy in the red muck, or seem to fall into nothingness. The walls slope gently upwards as far as the eye can see.
-Once you have come all the way into the room, what appears to be several large meatballs with long noodley appendages block your exit.
+An Enormous Colander~
+  It is very difficult to navigate around in this giant space: every step you take your
+feet either slip on something slimy in the red muck, or seem to fall into nothingness.
+The walls slope gently upwards as far as the eye can see.
+  Now that you have come all the way into the room, what appears to be several large
+meatballs with noodley appendages block your exit.
 ~
 12 262144 0 0 0 8
 D0
@@ -111,20 +114,22 @@ Colander as far as the eye can see
 0 0 1214
 S
 #1215
-A cave of wonders.~
-Maybe everything that glitters IS gold! this is the most sparkly room you have ever seen. Mounds of treasure everywhere, and in the middle a giant black dragon that does not look happy about your being here.
+A Cave of Wonders~
+Maybe everything that glitters IS gold! This is the most sparkly room you have ever seen.
+Mounds of treasure lie everywhere. In the middle broods a giant black dragon unhappy about
+your intrusion.
 ~
-12 0 0 0 0 0
+12 4 0 0 0 0
 D2
 ~
 secret~
 1 -1 1212
 S
 #1216
-the hollowed out husk of a once beautiful world~
-Every ounce of life has been sucked from the surroundings, as far as the eye can see is just barren rock.
+The Hollowed-Out Husk of a Once Beautiful World~
+Every ounce of life has been sucked from the surroundings; as far as the eye can see is just barren rock.
 ~
-12 0 0 0 0 1
+12 262144 0 0 0 1
 D0
 ~
 ~

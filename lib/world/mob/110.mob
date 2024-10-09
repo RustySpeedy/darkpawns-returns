@@ -542,18 +542,18 @@ It appears to be living marble, and pays little attention to you.
 BareHandAttack: 6
 E
 #11038
-minion~
-a minion of Serapis~
-A minion of Serapis walks the land in search of souls for his master.
+Chamberlain Skeksil Skeksis~
+SkekSil the Chamberlain~
+SkekSil the Chamberlain wanders the halls
 ~
-Sent by Serapis to search the land for threats to his rule... you
-seem to qualify. Death by his hand will not be pretty.
+SkekSil the Chamberlain wears a red robe with a large red hump, with a black lace-filled collar and robe accents. His urRu counterpart is urSol the Chanter
 ~
-811085 0 0 0 1160 0 0 0 -1000 E
-31 -11 -21 31d5+997 20d4+20
-666 90000
+9199741 0 0 0 1075184776 2 0 0 -1000 E
+60 -40 -50 60d100+25000 40d20+70
+666 544828704
 8 8 0
-Race: 11
+BareHandAttack: 8
+Race: 27
 E
 #11039
 dracolich skeletal dragon~
