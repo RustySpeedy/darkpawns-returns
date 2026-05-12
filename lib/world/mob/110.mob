@@ -608,4 +608,21 @@ It appears to be living marble, and pays little attention to you.
 90 90000
 5 8 0
 E
+#11043
+shai hulud sandworm eternal worm~
+Shai-Hulud, Grandfather of the Desert~
+An enormous sandworm burrows underneath the sand dunes, preparing to breach.
+~
+Spanning over 400 metres in length, this giant sandworm is ready to rock the
+house!! Escaping the depths of the desert sands, Shai-Hulud's array of
+crystalline teeth glisten in the sun and await receiving their next sacrifice.
+~
+9171037 0 0 0 1075709066 2 0 0 0 E
+50 -30 -40 50d8+15500 38d7+34
+85000 1769497901
+8 8 0
+BareHandAttack: 9
+Race: 25
+Noise: An eerie vibration underneath the sand makes your heart stop...
+E
 $

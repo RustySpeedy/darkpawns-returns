@@ -21,9 +21,9 @@ Echidna the greater medusa stares at you as you enter the room.
 ~
 Her petrifying gaze can even kill gods.. Don't look at her!
 ~
-15 0 0 0 128 0 0 0 -1000 E
-31 -11 -21 31d5+997 20d4+20
-1 90000
+8644667 0 0 0 1189032 2 0 0 -1000 E
+36 -16 -26 36d8+3912 33d6+32
+188988 363000
 8 8 2
 E
 #14102
@@ -31,27 +31,36 @@ maedar glyphar medusa male man~
 Glyphar the maedar~
 Glyphar the maedar stands here.
 ~
-His petrifying gaze can even kill gods... Don't look at him!
+   Standing here, towering well above any mere mortal humanoid, at a towering
+height of over 5 meters tall, this regal looking 1/2 man 1/2 snake creature
+known as a Naga rests here on his coils.  As you gaze upon this majestic
+creature, you suddenly notice his piercing, glowing gray eyes as an odd
+stiffness begins to affect you.  Wielded in his powerful arms is a massive
+three-headed flail and glowing faintly above his head is an amazingly detailed
+floating circlet.  
+
 ~
-591931 0 0 0 1192 0 0 0 -1000 E
-34 -14 -24 34d5+2746 22d4+22
-400 270000
+9168955 0 0 0 1221800 2 0 0 -1000 E
+39 -19 -29 39d10+5661 36d6+36
+234646 375000
 8 8 1
 BareHandAttack: 9
-Race: 27
+Race: 19
 E
 #14103
 snake large giant~
 a large snake~
 A large snake slithers around here.
 ~
+
 Covered in a diamond-shaped pattern of sanguine scales, it's both a beauty
 and a terror to behold. A forked tongue the size of your forearm whips in and
 out of it's mouth, silently tasting the air.. and your scent with it.
+
 ~
-602137 0 0 0 128 0 0 0 -1000 E
-20 0 -10 20d5+210 13d4+13
-0 25000
+8990749 0 0 0 435368 2 0 0 -1000 E
+25 -5 -20 25d10+975 20d6+17
+0 37500
 8 8 0
 BareHandAttack: 4
 Race: 13
@@ -147,8 +156,11 @@ small snake demonic~
 a small snake~
 A small snake slithers around here.
 ~
-It's a small, black snake, no more around than your thumb, but it's eyes glow
-with a fierce red light, and as it looks at you a chill runs up your spine.
+
+It's a small, black snake, no more around than your thumb, but it's eyes
+glow with a fierce red light, and as it looks at you a chill runs up your
+spine.
+
 ~
 260137 0 0 0 951336 0 0 0 0 E
 10 10 0 10d5+110 5d4+5
@@ -166,11 +178,12 @@ The One is an extradimensional entity that the ancients said was older
 than our own world.  It is intelligent and completely evil, it survives
 by devouring the energy from entire worlds.
 ~
-8485915 0 0 0 136380 2 0 0 -1000 E
-50 -30 -40 50d5+20000 33d8+45
-1000000 1769497901
+9010715 0 0 0 1184956 2 0 0 -1000 E
+60 -40 -50 60d5+22000 40d8+40
+1000000 544828704
 8 8 0
-Race: 19
+BareHandAttack: 12
+Race: 7
 E
 #14199
 tak an la minion serapis~

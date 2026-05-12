@@ -1,12 +1,33 @@
 #2700
-blessed sword flaming~
-a Blessed &RFlaming&n sword.~
-A powerfull sword lies here.~
+blessed sword flaming corrupted one~
+a Blessed &RFlaming&w sword&n corrupted by The One.~
+A powerful sword lies here, slowing burning.~
 The blue flames coming off the blade are so bright you are forced to avert your eyes
 ~
-5 1024 0 0 0 8193 0 0 0
-0 7 5 3
-6 4000 100.00
+5 285213073 0 0 0 8193 0 0 0
+0 14 4 3
+6 4000 5.00
+A
+18 6
+A
+19 6
+A
+29 7
+A
+25 25
+A
+17 -25
+A
+29 31
+#2701
+a Blessed flaming sword~
+a Blessed &RFlaming&n sword~
+A powerful looking sword lies here burning brightly~
+the flames are so bright you need to shield your eyes and look away
+~
+5 16778577 0 0 0 8193 0 0 0
+0 8 5 3
+10 4000 5.00
 A
 18 3
 A
@@ -19,18 +40,6 @@ A
 12 10
 A
 27 5
-#2701
-Slayer's skin~
-a loosely fitting skin suit from Slayer himself~
-A pile of skin.~
-~
-9 80 0 0 0 9 0 0 0
-50 0 0 0
-10 0 100.00
-A
-29 26
-A
-17 -50
 #2702
 sleeves green gold~
 green and gold sleeves~
@@ -327,7 +336,7 @@ A
 17 -5
 #2728
 ruby ring~
-a ruby ring~
+a &Rruby&n ring~
 A ring with a huge ruby lies here.~
 ~
 8 2756673 0 0 0 3 0 0 0

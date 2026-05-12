@@ -363,20 +363,17 @@ insulting them. Most people in the room seem to be studiously ignoring him.
 Race: 0
 E
 #7023
-slave mage slave-mage~
-the slave-mage~
-A sickly slave-mage is here, serving Tymora.
+sigrid esben mage high priestess witch~
+Sigrid Esben, High Priestess of the Raek-Tel Witch Coven~
+A powerful witch enchants in the shadows, performing a sacred ritual.
 ~
-It is a grey skinned sickly creature with big eyes that bulge from its
-face.  The slave-mage wears a bulky collar that allows its master to keep
-its magical energies in check.
-~
-188427 0 0 0 144552 0 0 0 0 E
-35 -15 -25 35d5+3329 23d4+23
-150 0
-6 6 0
+undefined~
+9367327 0 0 0 1166193832 16 0 0 0 E
+50 -30 -40 50d20+22000 35d10+34
+2500000 1769497901
+8 8 2
 BareHandAttack: 12
-Race: 25
+Race: 29
 E
 #7024
 beggar-king king~

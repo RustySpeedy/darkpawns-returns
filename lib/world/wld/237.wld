@@ -1,7 +1,1517 @@
 #23700
-Beginning~
+The Crystal spire (Sigfried)~
 You are in an unfinished room.
 ~
-237 0 0 0 0 0
+237 4 0 0 0 0
+S
+#23701
+placeholder 01~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D5
+~
+~
+0 0 23702
+S
+#23702
+placeholder 02~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23704
+D1
+~
+~
+0 0 23706
+D2
+~
+~
+0 0 23707
+D3
+~
+~
+0 0 23705
+D4
+~
+~
+0 0 23701
+D5
+~
+~
+0 0 23703
+S
+#23703
+placeholder 03~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D4
+~
+~
+0 0 23702
+D5
+~
+~
+0 0 23799
+S
+#23704
+placeholder 04~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23685
+D2
+~
+~
+0 0 23702
+D3
+~
+~
+0 0 23675
+S
+#23705
+placeholder 05~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23675
+D1
+~
+~
+0 0 23702
+D2
+~
+~
+0 0 23674
+S
+#23706
+placeholder 06~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23685
+D2
+~
+~
+0 0 23680
+D3
+~
+~
+0 0 23702
+S
+#23707
+placeholder 07~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23702
+D1
+~
+~
+0 0 23680
+D3
+~
+~
+0 0 23674
+S
+#23708
+placeholder 08~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23709
+D2
+~
+~
+0 0 23712
+D4
+~
+~
+0 0 23675
+D5
+~
+~
+0 0 23718
+S
+#23709
+placeholder 09~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23710
+D3
+~
+~
+0 0 23708
+S
+#23710
+placeholder 10~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23711
+D3
+~
+~
+0 0 23709
+S
+#23711
+placeholder 11~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D2
+~
+~
+0 0 23713
+D3
+~
+~
+0 0 23710
+D4
+~
+~
+0 0 23685
+D5
+~
+~
+0 0 23722
+S
+#23712
+placeholder 12~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23708
+D2
+~
+~
+0 0 23714
+S
+#23713
+placeholder 13~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23711
+D2
+~
+~
+0 0 23715
+S
+#23714
+placeholder 14~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23712
+D2
+~
+~
+0 0 23673
+S
+#23715
+placeholder 15~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23713
+D2
+~
+~
+0 0 23679
+S
+#23716
+placeholder 16~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23717
+D3
+~
+~
+0 0 23673
+S
+#23717
+placeholder 17~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23679
+D3
+~
+~
+0 0 23716
+S
+#23718
+placeholder 18~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23719
+D2
+~
+~
+0 0 23723
+D4
+~
+~
+0 0 23708
+D5
+~
+~
+0 0 23736
+S
+#23719
+placeholder 19~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23720
+D2
+~
+~
+0 0 23724
+D3
+~
+~
+0 0 23718
+S
+#23720
+placeholder 20~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23721
+D3
+~
+~
+0 0 23719
+S
+#23721
+placeholder 21~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23722
+D2
+~
+~
+0 0 23725
+D3
+~
+~
+0 0 23720
+S
+#23722
+placeholder 22~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D2
+~
+~
+0 0 23726
+D3
+~
+~
+0 0 23721
+D4
+~
+~
+0 0 23711
+D5
+~
+~
+0 0 23741
+S
+#23723
+placeholder 23~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23718
+D1
+~
+~
+0 0 23724
+D2
+~
+~
+0 0 23727
+S
+#23724
+placeholder 24~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23719
+D3
+~
+~
+0 0 23723
+S
+#23725
+placeholder 25~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23721
+D1
+~
+~
+0 0 23726
+S
+#23726
+placeholder 26~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23722
+D2
+~
+~
+0 0 23728
+D3
+~
+~
+0 0 23725
+S
+#23727
+placeholder 27~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23723
+D2
+~
+~
+0 0 23729
+S
+#23728
+placeholder 28~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23726
+D2
+~
+~
+0 0 23732
+S
+#23729
+placeholder 29~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23727
+D1
+~
+~
+0 0 23730
+D2
+~
+~
+0 0 23672
+S
+#23730
+placeholder 30~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D2
+~
+~
+0 0 23733
+D3
+~
+~
+0 0 23729
+S
+#23731
+placeholder 31~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23732
+D2
+~
+~
+0 0 23735
+S
+#23732
+placeholder 32~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23728
+D2
+~
+~
+0 0 23678
+D3
+~
+~
+0 0 23731
+S
+#23733
+placeholder 33~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23730
+D1
+~
+~
+0 0 23734
+D3
+~
+~
+0 0 23672
+S
+#23734
+placeholder 34~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23735
+D3
+~
+~
+0 0 23733
+S
+#23735
+placeholder 35~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23731
+D1
+~
+~
+0 0 23678
+D3
+~
+~
+0 0 23734
+S
+#23736
+placeholder 36~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23737
+D2
+~
+~
+0 0 23742
+D4
+~
+~
+0 0 23718
+D5
+~
+~
+0 0 23764
+S
+#23737
+placeholder 37~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23738
+D2
+~
+~
+0 0 23743
+D3
+~
+~
+0 0 23736
+S
+#23738
+placeholder 38~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23739
+D3
+~
+~
+0 0 23737
+S
+#23739
+placeholder 39~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23740
+D3
+~
+~
+0 0 23738
+S
+#23740
+placeholder 40~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23741
+D2
+~
+~
+0 0 23744
+D3
+~
+~
+0 0 23739
+S
+#23741
+placeholder 41~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D2
+~
+~
+0 0 23745
+D3
+~
+~
+0 0 23740
+D4
+~
+~
+0 0 23722
+D5
+~
+~
+0 0 23766
+S
+#23742
+placeholder 42~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23736
+D1
+~
+~
+0 0 23743
+D2
+~
+~
+0 0 23746
+S
+#23743
+placeholder 43~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23737
+D3
+~
+~
+0 0 23742
+S
+#23744
+placeholder 44~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23740
+D1
+~
+~
+0 0 23745
+S
+#23745
+placeholder 45~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23741
+D2
+~
+~
+0 0 23747
+D3
+~
+~
+0 0 23744
+S
+#23746
+placeholder 46~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23742
+D2
+~
+~
+0 0 23748
+S
+#23747
+placeholder 47~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23745
+D2
+~
+~
+0 0 23749
+S
+#23748
+placeholder 48~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23746
+D2
+~
+~
+0 0 23750
+S
+#23749
+placeholder 49~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23747
+D2
+~
+~
+0 0 23751
+S
+#23750
+placeholder 50~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23748
+D1
+~
+~
+0 0 23756
+D2
+~
+~
+0 0 23671
+S
+#23751
+placeholder 51~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23749
+D2
+~
+~
+0 0 23677
+D3
+~
+~
+0 0 23757
+S
+#23752
+placeholder 52~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23756
+D1
+~
+~
+0 0 23753
+D3
+~
+~
+0 0 23671
+S
+#23753
+placeholder 53~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23754
+D3
+~
+~
+0 0 23752
+S
+#23754
+placeholder 54~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23755
+D3
+~
+~
+0 0 23753
+S
+#23755
+placeholder 55~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23757
+D1
+~
+~
+0 0 23677
+D3
+~
+~
+0 0 23754
+S
+#23756
+placeholder 56~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D2
+~
+~
+0 0 23752
+D3
+~
+~
+0 0 23750
+S
+#23757
+placeholder 57~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23751
+D2
+~
+~
+0 0 23755
+S
+#23758
+placeholder 58~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23759
+D3
+~
+~
+0 0 23757
+S
+#23759
+placeholder 59~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23760
+D2
+~
+~
+0 0 23765
+D3
+~
+~
+0 0 23758
+S
+#23760
+placeholder 60~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23761
+D3
+~
+~
+0 0 23759
+S
+#23761
+placeholder 61~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23762
+D2
+~
+~
+0 0 23766
+D3
+~
+~
+0 0 23760
+S
+#23762
+placeholder 62~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D2
+~
+~
+0 0 23767
+D3
+~
+~
+0 0 23761
+S
+#23763
+placeholder 63~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23756
+D1
+~
+~
+0 0 23764
+D2
+~
+~
+0 0 23768
+S
+#23764
+placeholder 64~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23757
+D3
+~
+~
+0 0 23763
+D4
+~
+~
+0 0 23736
+S
+#23765
+placeholder 65~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23759
+D2
+~
+~
+0 0 23770
+S
+#23766
+placeholder 66~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23761
+D1
+~
+~
+0 0 23767
+D4
+~
+~
+0 0 23741
+S
+#23767
+placeholder 67~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23762
+D2
+~
+~
+0 0 23772
+D3
+~
+~
+0 0 23766
+S
+#23768
+placeholder 68~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23763
+D2
+~
+~
+0 0 23773
+S
+#23769
+placeholder 69~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23770
+S
+#23770
+placeholder 70~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23765
+D1
+~
+~
+0 0 23771
+D2
+~
+~
+0 0 23799
+D3
+~
+~
+0 0 23769
+S
+#23771
+placeholder 71~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D3
+~
+~
+0 0 23770
+S
+#23772
+placeholder 72~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23767
+D2
+~
+~
+0 0 23776
+S
+#23773
+placeholder 73~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23768
+D1
+~
+~
+0 0 23774
+D2
+~
+~
+0 0 23777
+S
+#23774
+placeholder 74~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D3
+~
+~
+0 0 23773
+S
+#23775
+placeholder 75~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+S
+#23776
+placeholder 76~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23772
+D2
+~
+~
+0 0 23781
+S
+#23777
+placeholder 77~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23773
+D2
+~
+~
+0 0 23782
+S
+#23778
+placeholder 78~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23779
+S
+#23779
+placeholder 79~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23799
+D1
+~
+~
+0 0 23780
+D2
+~
+~
+0 0 23783
+D3
+~
+~
+0 0 23778
+S
+#23780
+placeholder 80~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D3
+~
+~
+0 0 23779
+S
+#23781
+placeholder 81~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23776
+D2
+~
+~
+0 0 23784
+S
+#23782
+placeholder 82~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23777
+D1
+~
+~
+0 0 23670
+D2
+~
+~
+0 0 23785
+S
+#23783
+placeholder 83~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23779
+D2
+~
+~
+0 0 23788
+S
+#23784
+placeholder 84~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23781
+D2
+~
+~
+0 0 23791
+D3
+~
+~
+0 0 23676
+S
+#23785
+placeholder 85~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23782
+D1
+~
+~
+0 0 23786
+S
+#23786
+placeholder 86~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23670
+D1
+~
+~
+0 0 23787
+D3
+~
+~
+0 0 23785
+S
+#23787
+placeholder 87~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23788
+D3
+~
+~
+0 0 23786
+S
+#23788
+placeholder 88~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23783
+D1
+~
+~
+0 0 23789
+D3
+~
+~
+0 0 23787
+S
+#23789
+placeholder 89~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D1
+~
+~
+0 0 23790
+D3
+~
+~
+0 0 23788
+S
+#23790
+placeholder 90~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23676
+D1
+~
+~
+0 0 23791
+D3
+~
+~
+0 0 23789
+S
+#23791
+placeholder 91~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23784
+D3
+~
+~
+0 0 23790
+S
+#23792
+placeholder 92~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+S
+#23793
+placeholder 93~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+S
+#23794
+placeholder 94~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+S
+#23795
+placeholder 95~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+S
+#23796
+placeholder 96~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+S
+#23797
+placeholder 97~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+S
+#23798
+placeholder 98~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+S
+#23799
+placeholder 99~
+You are in an unfinished room.
+~
+237 4 0 0 0 0
+D0
+~
+~
+0 0 23770
+D2
+~
+~
+0 0 23779
+D4
+~
+~
+0 0 23703
 S
 $~

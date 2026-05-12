@@ -158,9 +158,9 @@ unholy rod dispater~
 the Unholy Rod of Dispater~
 An long, unholy, powerful black rod is leaning against a rock here.~
 ~
-3 206359168 0 0 0 16385 0 0 0
-30 12 9 58
-10 6000 10.00
+3 155579016 0 0 0 16385 0 0 0
+100 50 15 58
+10 6000 5.00
 E
 rod unholy dispater~
 A stunningly horrifying yet beautifully crafted rod.  Shaped from a humanoid
@@ -168,11 +168,17 @@ spinal column, topped with an angelic skull, adorned with infernal starfire
 rubies and obisidian heart stones.  It leaves you breathless and terrified.  
 ~
 A
-19 2
+19 4
 A
-12 25
+12 40
 A
-27 10
+27 15
+A
+13 25
+A
+26 15
+A
+29 15
 #9913
 cloak of humanoid flesh~
 cloak of humanoid flesh~
@@ -263,7 +269,7 @@ A
 12 15
 #9918
 holy armguards of valor~
-holy armguards of valor~
+some holy armguards of valor~
 A set of armguards radiating a ferocious holy light are laying here.~
 ~
 9 455745 0 0 0 257 0 0 0
@@ -380,9 +386,9 @@ Dispater Unholy Executioner Hood~
 Dispater's Unholy Executioners Hood~
 A scrap of cloth, dyed nearly black by the amount of blood its saturated with lies here in a puddle.~
 ~
-9 217969091 0 0 0 17 0 0 0
-100 0 0 0
-125 1000 0.00
+9 140898779 0 0 0 17 0 0 0
+0 0 0 0
+125 1000 10.00
 A
 25 1
 A

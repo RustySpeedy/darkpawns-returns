@@ -17,7 +17,7 @@ leads northward, up the slope, into the mountains beyond.  Around you,
 thin, brown grasses sway in waves, driven by a sulfurous wind which seems
 to come from the mountains.
 ~
-47 32772 0 0 0 4
+47 4 0 0 0 4
 D0
 You see the trail lead northward, up the slope.
 ~
@@ -36,7 +36,7 @@ and rocks.  You cannot travel any further to the south or west, so thick
 are the trees and growth.  The brush to the north and east seems to offer
 some relief from the tearing vines.
 ~
-47 32768 0 0 0 0
+47 0 0 0 0 0
 D0
 The brush seems to get less dense as you travel to the north.
 ~
@@ -58,7 +58,7 @@ lichens add contrast to the dark terrain.  Forest surrounds you on all
 sides, but proves impenetrable to the south where tall rocks intermingle
 with the trees.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D0
 You see a depression in the forest floor to the north.
 ~
@@ -83,7 +83,7 @@ which impede your progress to the east and south.  To the north, the
 pine forest continues, while to the west, underbrush and rocks clutter
 the space between the trunks of the firs around you.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D0
 You see a small depression in the ground to the north.
 ~
@@ -105,7 +105,7 @@ To the north and east, this strange cavern of debris continues, while
 to the west, the cavern wall blocks your progress with impassable rock
 formations.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D0
 The cavern continues through the debris to the north.
 ~
@@ -127,7 +127,7 @@ To the north and west, this strange cavern of debris continues, while
 through a crack in the cavern wall to the east, you can see an ash-
 covered valley floor.
 ~
-47 32768 0 0 0 4
+47 0 0 0 0 4
 D0
 ~
 ~
@@ -152,7 +152,7 @@ canyon wall seems to lead to some sort of open cavern.  To the south,
 a massive cliff wall extends sharply out of the ground.  Bits of patchy
 yellow moss cling to its surface.
 ~
-47 32768 0 0 0 4
+47 0 0 0 0 4
 D0
 The canyon floor continues to the north.
 ~
@@ -180,7 +180,7 @@ glacier litter the terrain, while to the west, ash and smoke follow the
 air currents inthe valley.  The south boasts only a cliff of basalt and
 obsidian.
 ~
-47 32768 0 0 0 2
+47 0 0 0 0 2
 D0
 The boulder field continues in that direction.
 ~
@@ -206,7 +206,7 @@ to the northeast.  To the north, east, and west, boulders left by the
 former glacier litter the terrain, while to the south, an enormous cliff
 of basalt shelters you from the volcanic winds,
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D0
 The glacial pocket continues to the north.
 ~
@@ -232,7 +232,7 @@ to the north.  To the north and west, boulders left by the former glacier
 litter the terrain, as they do here, all around you.  To the south and
 east, enormous cliffs of basalt protect you from the volcanic winds.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D0
 The boulder field continues to the north.
 ~
@@ -252,7 +252,7 @@ higher mountains and west, around a glacier on the slope.  To the south,
 the mountain trail descends to the lowlands while on either side of you,
 high cliffs of ice and snow impede your progress to the east and west.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D0
 You see the trail come to a fork in that direction.
 ~
@@ -270,7 +270,7 @@ You are standing in thick, dense scrub.  Woodland vines and rocks make
 walking treacherous here as twigs and stumps rise from the yellow moss
 on the ground.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D0
 You see more of the forest to the north.
 ~
@@ -293,7 +293,7 @@ You are standing in a small depression in the forest.  Tall evergreens
 and rocks surround you as the scent of sulfur and decay mixes with the
 pines to make you dizzy.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D0
 You see more of the forest to the north.
 ~
@@ -322,7 +322,7 @@ and yellowish rocks surround you.  To the east, a tall mountain wall
 rises, impeding your progress in that direction while the forest continues
 to the north and south.  To the west, the trench continues.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D0
 The forest floor grows more even to the north.
 ~
@@ -348,7 +348,7 @@ which blots out the sunlight, leaving the area in eternal dusk.  To the
 north, south, and east, this cavern continues, while to the west, the
 cavern wall blocks your progress with impassable rock formations.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D0
 ~
 ~
@@ -373,7 +373,7 @@ and ash which blots out the sunlight, leaving the area in eternal dusk.
 To the north, south, and west, this cavern continues, while to the
 east, a lichen-covered caven wall blocks your path.
 ~
-47 32768 0 0 0 4
+47 0 0 0 0 4
 D0
 ~
 ~
@@ -396,7 +396,7 @@ the haze and smoke of recent volcanic activity make you cover your mouth
 to breathe.  To the north and south, the valley floor continues, while to
 the east and west, cliffs of basalt and hardened lava impede your travel.
 ~
-47 32768 0 0 0 4
+47 0 0 0 0 4
 D0
 The valley continues to the north.
 ~
@@ -417,7 +417,7 @@ to the northeast.  To the south and east, boulders left by the former
 glacier litter the terrain, as they do here, all around you.  To the north
 and west, solid walls of hardened lava rise against you.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D1
 The boulder field continues in that direction.
 ~
@@ -438,7 +438,7 @@ to the northeast.  To the south, east, and west, boulders left by the
 former glacier litter the terrain, as they do here and all around you.
 To the north, a wall of hardened lava forms upward from the ground.
 ~
-47 32768 0 0 0 4
+47 0 0 0 0 4
 D1
 Boulders surround you in all directions, except north.
 ~
@@ -464,7 +464,7 @@ to the north.  To the south and west, boulders left by the former glacier
 litter the terrain, as they do here, all around you.  To the north and
 east, enormous cliffs of basalt protect you from the volcanic winds.
 ~
-47 32768 0 0 0 2
+47 0 0 0 0 2
 D2
 The boulder field continues to the south.
 ~
@@ -484,7 +484,7 @@ tall faces of rock.  To your east, the trail descends down a slope into
 a pine forest, while behind you, the trail leads down into the lowlands.
 You can smell ozone, as if there was a recent lightning storm.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D0
 You see the trail continue to the north.
 ~
@@ -511,7 +511,7 @@ To the north and east, this forest continues while to the west, a tril
 leads up the slope.  To the south, a few rocks and underbrush slow and
 eventually impede your progress.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D0
 You see more of the forest to the north.
 ~
@@ -540,7 +540,7 @@ branches intertwine to block out much of the mountain sunlight and cast
 the forest floor into shadow.  The forest surrounds you on all sides, 
 though a trench appears to the south, disrupting the smooth terrain.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D0
 The forest continues to the north.
 ~
@@ -570,7 +570,7 @@ grubs and other edibles.  To your north, south, and west, the forest
 continues, while to the east, a massive mountain wall extends abruptly
 from the forest floor.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D0
 The forest continues to the north.
 ~
@@ -597,7 +597,7 @@ north, a trickle of water breaks through a crack in the wall while to the
 south and east, the cavern continues.  The western wall seems unstable,
 as though the debris could topple at any moment.
 ~
-47 32768 0 0 0 4
+47 0 0 0 0 4
 D1
 ~
 ~
@@ -617,7 +617,7 @@ north, a trickle of water breaks through a crack in the wall while to the
 south and west, the cavern continues.  The lichen-covered wall to the 
 east looks smooth and unmarred by the collapse.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D2
 ~
 ~
@@ -635,7 +635,7 @@ to breathe.  To the north, a canyon extends out of the reach of the haze.
 To the south and east, the valley floor continues, while to the west, a
 solid face of rock impedes your travel.
 ~
-47 32768 0 0 0 2
+47 0 0 0 0 2
 D0
 A canyon seems to extend far to the north.
 ~
@@ -662,7 +662,7 @@ and pumice forms a barrier for the flowing molten rock, forcing it to
 travel eastward, away from you.  Ash and smoke spout upward from flares
 of fire in the ground.  The ground could give way at any moment.
 ~
-47 32768 0 0 0 2
+47 0 0 0 0 2
 D1
 Puddles of molten rock bubble to the east.
 ~
@@ -684,7 +684,7 @@ mountain to blast you at the vent.
    You can enter the mountain to the east or return toward the cooler
 climes to the west.
 ~
-47 32772 0 0 0 5
+47 4 0 0 0 5
 D1
 You can see nothing but waves of heat coming from within the volcano.
 ~
@@ -704,7 +704,7 @@ surround you on both the east and west drip with frozen water, forming
 slalactites of frigid ice.  To the north, the trail continues to a bend
 while to the south, the trail descends down the mountain.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D0
 You see the trail bend sharply to the north.
 ~
@@ -724,7 +724,7 @@ from touching the ground here.  To the north and west, mountain walls
 impede your travel while to the south and east, more of the forest
 allows easy passage.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D1
 You see the forest continue in that direction.
 ~
@@ -743,7 +743,7 @@ branches intertwine to block out much of the mountain sunlight and cast
 the forest floor into shadow.  The forest surrounds you on the east, west,
 and south, while a mountain cliff blocks any travel to the north.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D0
 The forest continues to the north under a canopy of branches.
 ~
@@ -773,7 +773,7 @@ grubs and other edibles.  To your north, south, and west, the forest
 continues, while to the east, a mountain lake appears, catching the 
 water runoff from the peaks to the southeast.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D0
 The forest continues to the north, ending at a mountain wall.
 ~
@@ -851,7 +851,7 @@ the south, the canyon seems to open into a smoldering valley.  The heat
 is almost desert-like in that direction, though the ash seems to thin
 out, allowing easier travel.
 ~
-47 32768 0 0 0 10
+47 0 0 0 0 10
 D0
 The canyon continues to the north.
 ~
@@ -873,7 +873,7 @@ north and west.  To the east, a well-trodden path exposes a rocky ground
 while to the south, the trail proceeds between the cliff faces, down the 
 mountain.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D1
 You see the trail end in a cul-de-sac to the east.
 ~
@@ -891,7 +891,7 @@ You are standing in a cul-de-sac.  Tall, ice-covered cliffs block your
 progress to the south and east, while an enormous iron gate stands closed
 to the north, built into the cliff itself.
 ~
-47 32772 0 0 0 5
+47 4 0 0 0 5
 D0
 You see the gate to the village that way.
 ~
@@ -911,7 +911,7 @@ from touching the ground here.  To the north and west, mountain walls
 impede your travel while to the south and east, more of the forest
 allows easy passage.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D1
 The forest continues to the east.
 ~
@@ -931,7 +931,7 @@ from touching the ground here.  To the north and west, mountain walls
 impede your travel while to the south and east, more of the forest
 allows easy passage.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D1
 The forest continues to the east.
 ~
@@ -956,7 +956,7 @@ from touching the ground here.  To the north, mountain walls impede
 your travel while to the east and west, more of the forest allows easy
 passage.  To the south, you spot a large body of water.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D1
 You see the forest thinning to the east.
 ~
@@ -981,7 +981,7 @@ while to the east, a solid face of rock impedes your progress.  To the
 south, you see a lake which seems to extend back to the southwest and the
 forest.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D0
 You see an entrance to a mountain valley there.
 ~
@@ -1006,7 +1006,7 @@ south path.  To the north and south, the canyon seems to stretch
 forever.  You feel tired as you plow your way through knee-high 
 sulfurous ash.
 ~
-47 32768 0 0 0 2
+47 0 0 0 0 2
 D0
 The canyon continues to the north.
 ~
@@ -1027,7 +1027,7 @@ of this one-room house whose walls display the trophies of those whose
 skins blanket the floor.  A lone hearth stands against the western wall,
 its fire within cracking cheerfully.
 ~
-47 32776 0 0 0 0
+47 8 0 0 0 0
 D1
 You see the cold street in that direction.
 ~
@@ -1044,7 +1044,7 @@ at some sort of ceremonial temple.  To the north, the street continues
 while to either side of you, buildings stand solidly against the cold.
 To the south, you see the exit from the village.
 ~
-47 32768 0 0 0 1
+47 0 0 0 0 1
 D0
 You see the street continue to the north.
 ~
@@ -1075,7 +1075,7 @@ of this house whose walls boast the heads of those beasts whose skins
 blanket the floor.  A lone hearth stands against the eastern wall, 
 stone cold.
 ~
-47 32776 0 0 0 0
+47 8 0 0 0 0
 D3
 You see the wind-blown streets through the western window.
 ~
@@ -1088,7 +1088,7 @@ You are standing at the bend of a mountain valley.  To the west and
 south, solid walls of rock impede your progress, while to the east
 and north, the valley continues to wind among the peaks.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D0
 The mountain valley continues to the north.
 ~
@@ -1107,7 +1107,7 @@ solid walls of rock impede your progress, while to the east and west, the
 valley continues, leading you higher into the peaks.  You can see a few
 prints here in the snow.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D1
 The valley continues in that direction.
 ~
@@ -1130,7 +1130,7 @@ solid walls of rock impede your progress, while to the west, the mountain
 valley continues, leading you higher into the peaks.  To the south, tall
 trees form the beginning of a forest.
 ~
-47 32768 0 0 0 3
+47 0 0 0 0 3
 D2
 You see a forest to the south.
 ~
@@ -1150,7 +1150,7 @@ south path.  To the north and south, the canyon seems to stretch
 forever.  You feel tired as you plow your way through knee-high 
 sulfurous ash.
 ~
-47 32768 0 0 0 2
+47 0 0 0 0 2
 D0
 The canyon continues through the ash to the north.
 ~
@@ -1171,7 +1171,7 @@ goods within.  Around you, thick skins and stone hunting weapons line
 the floor and walls, indicating that the inhabitants of this village
 care only about survival, not conquest.  
 ~
-47 32776 0 0 0 0
+47 8 0 0 0 0
 D1
 Through the window, you see the street.
 ~
@@ -1185,7 +1185,7 @@ guardhouses line this street which ends further to the north at some
 sort of religious establishment.  To the south, you can see the entrance
 to the village.
 ~
-47 32768 0 0 0 1
+47 0 0 0 0 1
 D0
 You see the street continue to the north.
 ~
@@ -1215,7 +1215,7 @@ stoking the hearth which rests in the southern wall.  The walls and floors
 are spartan, as though the guards need only the chairs and the tables
 they converse at to fulfill their duties.
 ~
-47 32808 0 0 0 0
+47 40 0 0 0 0
 D3
 You see the street outside to the west.
 ~
@@ -1228,7 +1228,7 @@ You are standing at the bend of a mountain valley.  To the west and
 north, solid walls of rock impede your progress, while to the east
 and south, the valley continues to wind among the peaks.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D1
 The valley continues in that direction.
 ~
@@ -1247,7 +1247,7 @@ solid walls of rock impede your progress, while to the east and west, the
 valley continues, leading you higher into the peaks.  A single jawbone of
 some animal is here, sticking out of the ground.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D1
 The valley continues to the east, where it seems to bend to the north.
 ~
@@ -1265,7 +1265,7 @@ You are standing between two high mountain cliffs.  To the south and east,
 solid walls of ice-covered rock impede your progress, while to the west and
 north, the valley continues.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D0
 You see a junction of a valley with a couple of trails to the north.
 ~
@@ -1285,7 +1285,7 @@ south path.  To the north, you see a trail bend sharply up a mountain
 as it breaks away from the canyon while to the south, the canyon seems
 to continue forever.
 ~
-47 32768 0 0 0 4
+47 0 0 0 0 4
 D0
 You see the canyon continue to the north.
 ~
@@ -1304,7 +1304,7 @@ ascends to a locked and barred door just above you.  Around you, a few
 pieces of wood and debris litter the floor as though no one has visited
 this place recently to clean it.
 ~
-47 32904 0 0 0 0
+47 136 0 0 0 0
 D1
 You see the street out there.
 ~
@@ -1317,7 +1317,7 @@ You are standing on the main streeth of the Antali village. A tower and
 some homes line this street which ends here at an enormous temple.  To 
 the south, the street continues back toward the entrance to the village.
 ~
-47 32768 0 0 0 0
+47 0 0 0 0 0
 D0
 You see the entrance to the religious establishment.
 ~
@@ -1348,7 +1348,7 @@ of this house whose walls boast the heads of those beasts whose skins
 blanket the floor.  A lone hearth stands against the eastern wall, 
 stone cold.
 ~
-47 32776 0 0 0 0
+47 8 0 0 0 0
 D3
 You can see the street in that direction.
 ~
@@ -1365,7 +1365,7 @@ the trail continues into the mountains, while to the north, the trail
 winds its way through snow and ice as it climbs higher into the peaks.
 Everywhere else, ice-covered stone walls prevent your progress.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D0
 The trail continues higher to the north.
 ~
@@ -1386,7 +1386,7 @@ beast who wished to keep its claws in prime condition.  To the west,
 the trail continues into the mountains, while to the east, the trail
 meets a junction of other paths.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D1
 You see a junction of trails in the mountains.
 ~
@@ -1408,7 +1408,7 @@ which seems to rapidly descend down a slope.  The scent of sulfur is
 strong and you can see yellowish moss on the mountain wall by the
 crevasse.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D1
 Down the crevasse, you can see a winding trail, leading to a field of
 pale trees and shrubs.
@@ -1435,7 +1435,7 @@ and the ash on the ground indicates some volcanic activity nearby.  An
 outcropping of rocks, perhaps the face of a new mountain, blocks the way
 to the east, while clear trails run north and south from here.
 ~
-47 32772 0 0 0 2
+47 4 0 0 0 2
 D0
 You see a mountain canyon in that direction.
 ~
@@ -1461,7 +1461,7 @@ the holy mage of the tribe.
 To the north lies a door made of ice -- you guess it to be at least
 three feet thick.
 ~
-47 32812 0 0 0 0
+47 44 0 0 0 0
 D0
 Through the door you see only blackness.
 ~
@@ -1482,7 +1482,7 @@ in red, the symbol of snow magic.  Similarly, a matching symbol appears
 on the door to the east and above the steel door to the west, which appears
 to lead outside.
 ~
-47 32908 0 0 0 0
+47 140 0 0 0 0
 D1
 You can feel a draft coming from the west.
 ~
@@ -1507,7 +1507,7 @@ Occasionally, you see the scurrying of an enchanted snow rabbit which is
 a common target for young Antali archers.  Around you, three stout cliffs
 wall you inside the training yard.  The only exit lies back to the west.
 ~
-47 32896 0 0 0 5
+47 128 0 0 0 5
 D3
 The mead hall is that way.
 ~
@@ -1525,7 +1525,7 @@ winds its way through snow and ice as it descends the peaks into the
 valley below.  Everywhere else, ice-covered stone walls prevent your
 progress.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D1
 The trail continues to the east, climbing higher.
 ~
@@ -1546,7 +1546,7 @@ here which seems to come from the north, over the mountain wall.  To the
 west, the trail continues down the mountain while to the east, it bends
 northward around the next peak.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D1
 The snow seems to pile deeply in that direction.
 ~
@@ -1566,7 +1566,7 @@ the north, the trail continues to the peaks while to the west, the trail
 begins to slope gently back down the mountains.  All other directions are
 blocked by ice.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D0
 Strong winds and the scent of ozone and decay come from that direction.
 ~
@@ -1587,7 +1587,7 @@ to glow a bit as the ash falls upon it.  To the north, the canyon bends,
 while to the south, the canyon opens into a broad field of trees and
 shrubs.
 ~
-47 32768 0 0 0 2
+47 0 0 0 0 2
 D0
 The canyon seems to bend to the north.
 ~
@@ -1606,7 +1606,7 @@ that is different from the outside chamber, save the scattering of
 coins on the cavern floor and the enormous piles of snow all around
 you.  The only exit is to the east.
 ~
-47 32781 0 0 0 0
+47 13 0 0 0 0
 D1
 You see the lair continue to the east.
 ~
@@ -1622,7 +1622,7 @@ chandelier was hanging from the chamber ceiling and refracting the light.
 To the east, the cavern continues toward the exit, while to the north and
 south, solid cave walls block your progress.
 ~
-47 32769 0 0 0 0
+47 1 0 0 0 0
 D1
 You can see more of the cavern to the east.
 ~
@@ -1641,7 +1641,7 @@ of frozen water tell you that the air is below freezing.  Solid walls and
 stalagmites impede your travel to the north and south, though you can
 travel westward, deeper into the cave or eastward, toward the cave exit.
 ~
-47 32769 0 0 0 0
+47 1 0 0 0 0
 D1
 You can see more of the cave to the east.
 ~
@@ -1661,7 +1661,7 @@ Solid walls and thick stalagmites impede your travel to the north and south,
 though you can travel westward, deeper into the cave or eastward, toward
 the entrance.
 ~
-47 32769 0 0 0 0
+47 1 0 0 0 0
 D1
 You see more cavern in that direction.
 ~
@@ -1682,7 +1682,7 @@ south, impeding progress in those directions.  To the west, the cave
 leads deeper into the mountain, while back to the east, the cave entrance
 is becoming covered with snow.
 ~
-47 32769 0 0 0 0
+47 1 0 0 0 0
 D1
 You see the cave exit there.
 ~
@@ -1702,7 +1702,7 @@ To the north and east, snowdrifts impede your progress.  To the south, the
 trail continues down the mountain.  There seems to be a hole in the snow
 to the west.  Its angle suggests that it slopes down, into the mountain.
 ~
-47 32768 0 0 0 5
+47 0 0 0 0 5
 D2
 The trail continues to the south.
 ~
@@ -1720,7 +1720,7 @@ You are standing at the bend of a canyon.  To the north and west, tall
 canyon walls impede your progress while to the south and east, the
 canyon continues under the rain of ash and dust.
 ~
-47 32768 0 0 0 2
+47 0 0 0 0 2
 D1
 The canyon continues in that direction.
 ~
@@ -1734,13 +1734,14 @@ The canyon continues to the south.
 S
 #4798
 A Canyon Bend~
-You are standing at the bend of a canyon.  To the north, south, and east,
-tall canyon walls impede your progress while to the west, the canyon
-continues under the rain of ash and dust.  There appears to be some sort
-of crevasse in the wall to the south, but debris and the sheer narrowness
-of the opening make searching it futile.
+You are standing at the bend of a canyon, To the north, south, and east, tall canyon walls impeded your progress while to the west, the canoyn continues
+under the rain of ash and dust. There appears to be some sort of steaming crevasse in the wall to the south, but debris and the sheer narrowness of the opening make searching it seem futile.
 ~
-47 32768 0 0 0 2
+47 0 0 0 0 2
+D2
+~
+secret~
+2 31761 1299
 D3
 The canyon continues in that direction.
 ~
@@ -1752,7 +1753,7 @@ In Space~
 You step through the door and into inky blackness. The doorway behind you
 is gone, and to the north is the only way your body is allowed to move.
 ~
-47 32812 0 0 0 0
+47 44 0 0 0 0
 D0
 ~
 ~

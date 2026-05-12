@@ -79,17 +79,17 @@ Almost transparent, the golem stomps around mindlessly.
 Race: 25
 E
 #11706
-demon l'cath~
-the demon L'cath~
-Two red eyes glow softly in the darkness.
+mother vamp~
+Akasha the mother of all vampires~
+A stunning creature stands peering at you from across the room.
 ~
-The demon L'cath has escaped into this world.. and seems quite intent
-upon remaining.
+Though extremely attractive something seems off in her apprance.
 ~
-16491 0 0 0 136 0 0 0 -1000 E
-34 -14 -24 34d5+2800 22d4+25
-1840 270000
+9431165 0 0 0 46216 2 0 0 -1000 E
+60 -40 -50 60d10+30000 40d4+50
+5000000 544828704
 8 8 2
-Race: 11
+BareHandAttack: 8
+Race: 8
 E
 $

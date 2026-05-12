@@ -30,8 +30,8 @@ Test, the testing mob is here... testing.
 ~
 He looks like a tester.
 ~
-27 0 0 0 0 0 0 0 0 E
-10 10 0 10d5+110 5d4+5
+27 0 0 0 1160 0 0 0 0 E
+10 10 -20 10d5+30000 5d4+5
 0 6000
 8 8 0
 Race: 0
@@ -421,21 +421,18 @@ many-toothed maw capable of devouring men whole.
 Race: 11
 E
 #88
-giant turkey Zumrud~
+giant turkey zumrud~
 Zumrud~
 A giant turkey looking creature is sitting here.
 ~
-   For a bird it seems to be very old and alert to its surroundings.  It
-deffently seems to have noticed you long before you noticed it.  But ya, it is
-a goddamn turkey.  A big 'ol bird.  What else do you want.  
-~
-9105276 0 0 0 67253416 0 0 0 0 E
-55 -35 -45 55d5+14989 36d4+37
-500000 1000000
+undefined~
+9105246 0 0 0 67253416 0 0 0 0 E
+55 -35 -45 55d5+7200 36d4+37
+500000 0
 8 8 1
 BareHandAttack: 8
 Race: 24
-Noise: GOOBLE GOOBLE GOOBLEEEEE!!!!
+Noise: GOBBLE GOBBLE GOBBLE!!
 E
 #89
 mob unfinished~

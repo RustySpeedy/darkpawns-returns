@@ -119,14 +119,14 @@ The room spins as you look that way.
 ~
 0 1 20006
 E
-rune runes marks inscription words writing~
-Although the runes are written in an ancient, long-forgotten elven dialect,
-you think they say something about "death" "mist" and "confusion"...?
-~
-E
 fog mist air~
 The mist is an unnatural, greenish-black tint.  It is very hard to breathe
 in here...
+~
+E
+rune runes marks inscription words writing~
+Although the runes are written in an ancient, long-forgotten elven dialect,
+you think they say something about "death" "mist" and "confusion"...?
 ~
 S
 #20006
@@ -992,14 +992,12 @@ You see a maze through the door.
 ebony black~
 2 1002 20042
 E
-tapestries tapestry~
-The tapestries are made of fine elvish silk and have been embroidered with
-beautiful golden thread.  Although they are certainly quite valuable, the
-wallcoverings have been hung far above your reach.
-~
-E
-carpet carpeting rug~
-The rug is an elegant deep-red color.  It is very heavy...
+etching etchings marks~
+The marks on the crystal surface of the doors were clearly done by a
+talented artist.  The etchings on the white gate are a tribute to the gods,
+and depict a creation scene; those on the black gate are a prayer to the
+Fire Lord and depict a scene in hell; Upon the red gate are pictures of all
+the great heroes of old.
 ~
 E
 gate door doors~
@@ -1010,12 +1008,14 @@ to suck up the light around it!  Each gate has minute etchings on the face
 of the crystal!
 ~
 E
-etching etchings marks~
-The marks on the crystal surface of the doors were clearly done by a
-talented artist.  The etchings on the white gate are a tribute to the gods,
-and depict a creation scene; those on the black gate are a prayer to the
-Fire Lord and depict a scene in hell; Upon the red gate are pictures of all
-the great heroes of old.
+carpet carpeting rug~
+The rug is an elegant deep-red color.  It is very heavy...
+~
+E
+tapestries tapestry~
+The tapestries are made of fine elvish silk and have been embroidered with
+beautiful golden thread.  Although they are certainly quite valuable, the
+wallcoverings have been hung far above your reach.
 ~
 S
 #20044
@@ -1074,15 +1074,9 @@ The hallway continues to the north.
 ~
 0 1 20043
 E
-tapestries tapestry~
-The tapestries here are truly marvelous.  Made from the finest silk
-available they have been embroidered with thin, golden thread.  They must be
-very valuable but they are hung high up on the walls, far beyond your
-reach.
-~
-E
-rug carpeting~
-It runs north, to the other end of the hall.
+gate~
+The gate is a huge slab of blackened ebonstone.  It is featureless but
+beautiful.
 ~
 E
 ebonstone~
@@ -1090,9 +1084,15 @@ The walls are made of highly polished blac ebonstone. It must have cost a fortun
 build this tower!
 ~
 E
-gate~
-The gate is a huge slab of blackened ebonstone.  It is featureless but
-beautiful.
+rug carpeting~
+It runs north, to the other end of the hall.
+~
+E
+tapestries tapestry~
+The tapestries here are truly marvelous.  Made from the finest silk
+available they have been embroidered with thin, golden thread.  They must be
+very valuable but they are hung high up on the walls, far beyond your
+reach.
 ~
 S
 #20047
@@ -1110,12 +1110,12 @@ A large, beautiful hall lies to the south.
 ~
 0 1 20051
 E
-bed bunks beds~
-The beds are hard and uncomfortable.  The sheets are filthy and smell bad.
-~
-E
 window~
 Through the small window you see the lake and trees.
+~
+E
+bed bunks beds~
+The beds are hard and uncomfortable.  The sheets are filthy and smell bad.
 ~
 S
 #20048
@@ -1133,10 +1133,9 @@ You see a large hallway.
 ~
 0 1 20052
 E
-fire fireplace flame stone~
-The flame burns in the stone fireplace and fills the room with heat.  There
-is no wood or other fuel source, instead the fire just dances happily on the
-bare rock.
+desk wood mahogany~
+The finely crafted writing desk is heavy.  Its surface is empty at the
+moment.
 ~
 E
 book books tome tomes~
@@ -1144,9 +1143,10 @@ They are surely powerful books of magic for, as you grew close and touched
 one a strong shock darted up your arm and caused you to cry out in alarm.
 ~
 E
-desk wood mahogany~
-The finely crafted writing desk is heavy.  Its surface is empty at the
-moment.
+fire fireplace flame stone~
+The flame burns in the stone fireplace and fills the room with heat.  There
+is no wood or other fuel source, instead the fire just dances happily on the
+bare rock.
 ~
 S
 #20049
@@ -1165,17 +1165,17 @@ There is a hall to the south, make sure you get dressed before you leave!
 ~
 0 1 20053
 E
-tub tubs marble grey~
-The tubs are full of scented, steaming water full of soap bubbles.  They are
-very large, many people could comfortably bathe in this room.
+chest~
+The chest is empty.
 ~
 E
 orb ball~
 The magical orb glows red and gives off heat.
 ~
 E
-chest~
-The chest is empty.
+tub tubs marble grey~
+The tubs are full of scented, steaming water full of soap bubbles.  They are
+very large, many people could comfortably bathe in this room.
 ~
 S
 #20050
@@ -1198,9 +1198,13 @@ A small, artistic hallway leads south.
 ~
 0 1 20057
 E
-pillar column pillars~
-The pillars are very thick and tall.  Where they meet the ceiling they are
-capped an ionic design.  They are made of pure, black marble.
+window crystal north~
+You see the end of the world out the window... isn't it time you talked to
+the gods about helping full it up?
+~
+E
+art artwork painting paintings~
+This hall is full of colorful paintings of shapes and lines.
 ~
 E
 tiles tile square pattern~
@@ -1208,13 +1212,9 @@ The pattern is very geometric and is made of black, white and grey tiles.
 It repeats itself over and over down the length of the hallway.
 ~
 E
-art artwork painting paintings~
-This hall is full of colorful paintings of shapes and lines.
-~
-E
-window crystal north~
-You see the end of the world out the window... isn't it time you talked to
-the gods about helping full it up?
+pillar column pillars~
+The pillars are very thick and tall.  Where they meet the ceiling they are
+capped an ionic design.  They are made of pure, black marble.
 ~
 S
 #20051
@@ -1243,9 +1243,8 @@ The marble hall leads westward into the distance.
 ~
 0 1 20050
 E
-pillar column pillars~
-The pillars are very thick and tall.  Where they meet the ceiling they are
-capped an ionic design.  They are made of pure, black marble.
+art artwork painting paintings~
+This hall is full of colorful paintings of shapes and lines.
 ~
 E
 tiles tile square pattern~
@@ -1253,8 +1252,9 @@ The pattern is very geometric and is made of black, white and grey tiles.
 It repeats itself over and over down the length of the hallway.
 ~
 E
-art artwork painting paintings~
-This hall is full of colorful paintings of shapes and lines.
+pillar column pillars~
+The pillars are very thick and tall.  Where they meet the ceiling they are
+capped an ionic design.  They are made of pure, black marble.
 ~
 S
 #20052
@@ -1282,14 +1282,8 @@ In the immortal words of Mack: "uhhh, could it be more hallway?"
 ~
 0 1 20051
 E
-sculpture~
-You really can't tell what it is... it looks like a pyramid caught in a
-meat grinder.  Odd.
-~
-E
-pillar column pillars~
-The pillars are very thick and tall.  Where they meet the ceiling they are
-capped an ionic design.  They are made of pure, black marble.
+art artwork painting paintings~
+This hall is full of colorful paintings of shapes and lines.
 ~
 E
 tiles tile square pattern~
@@ -1297,8 +1291,14 @@ The pattern is very geometric and is made of black, white and grey tiles.
 It repeats itself over and over down the length of the hallway.
 ~
 E
-art artwork painting paintings~
-This hall is full of colorful paintings of shapes and lines.
+pillar column pillars~
+The pillars are very thick and tall.  Where they meet the ceiling they are
+capped an ionic design.  They are made of pure, black marble.
+~
+E
+sculpture~
+You really can't tell what it is... it looks like a pyramid caught in a
+meat grinder.  Odd.
 ~
 S
 #20053
@@ -1325,9 +1325,8 @@ The hallway continues.
 ~
 0 1 20052
 E
-pillar column pillars~
-The pillars are very thick and tall.  Where they meet the ceiling they are
-capped an ionic design.  They are made of pure, black marble.
+art artwork painting paintings~
+This hall is full of colorful paintings of shapes and lines.
 ~
 E
 tiles tile square pattern~
@@ -1335,8 +1334,9 @@ The pattern is very geometric and is made of black, white and grey tiles.
 It repeats itself over and over down the length of the hallway.
 ~
 E
-art artwork painting paintings~
-This hall is full of colorful paintings of shapes and lines.
+pillar column pillars~
+The pillars are very thick and tall.  Where they meet the ceiling they are
+capped an ionic design.  They are made of pure, black marble.
 ~
 S
 #20054
@@ -1358,18 +1358,8 @@ The hall continues.
 ~
 0 1 20053
 E
-window crystal~
-You gaze through the crystal walls.
-Quickly, you estimate that must VERY far above the ground, as the landscape below looks
-flat and distant.  The scenery outside of the tower is nothing to gaze at really, the
-lands you see outside the window are blasted, scortched, and abandoned.  Mountains rise
-up on the horizon, and to the north you can see large pillars of smoke and ash pouring
-out of them.
-~
-E
-pillar column pillars~
-The pillars are very thick and tall.  Where they meet the ceiling they are
-capped an ionic design.  They are made of pure, black marble.
+art artwork painting paintings~
+This hall is full of colorful paintings of shapes and lines.
 ~
 E
 tiles tile square pattern~
@@ -1377,8 +1367,18 @@ The pattern is very geometric and is made of black, white and grey tiles.
 It repeats itself over and over down the length of the hallway.
 ~
 E
-art artwork painting paintings~
-This hall is full of colorful paintings of shapes and lines.
+pillar column pillars~
+The pillars are very thick and tall.  Where they meet the ceiling they are
+capped an ionic design.  They are made of pure, black marble.
+~
+E
+window crystal~
+You gaze through the crystal walls.
+Quickly, you estimate that must VERY far above the ground, as the landscape below looks
+flat and distant.  The scenery outside of the tower is nothing to gaze at really, the
+lands you see outside the window are blasted, scortched, and abandoned.  Mountains rise
+up on the horizon, and to the north you can see large pillars of smoke and ash pouring
+out of them.
 ~
 S
 #20055
@@ -1422,17 +1422,17 @@ The library continues...
 ~
 0 1 20068
 E
+ladder ladders wooden sliding~
+The ladders are very tall and have been mounted on tracks to facilitate
+sliding them around the walls full of books.  They all have silly little
+signs that say "Please ask for assistance, Thank you".  Bah!
+~
+E
 book books collection tomes~
 The collection of books is second to none; fiction, non-fiction, reference
 books, encyclopedias of magic and everything else under the sun.  This
 library makes the one in the castle look like a sad joke.  What's that?
 No you can't take any!  The Mage's collection is not for lending.
-~
-E
-ladder ladders wooden sliding~
-The ladders are very tall and have been mounted on tracks to facilitate
-sliding them around the walls full of books.  They all have silly little
-signs that say "Please ask for assistance, Thank you".  Bah!
 ~
 S
 #20057
@@ -1541,13 +1541,13 @@ The pool looks cold, still and not very deep.
 ~
 0 1 20059
 E
+platform~
+The platform on which you stand is composed of black marble.
+~
+E
 pool water~
 The water does not appear to be very deep but it is freezing cold and
 it looks very calm and peaceful just the way it is.
-~
-E
-platform~
-The platform on which you stand is composed of black marble.
 ~
 S
 #20061
@@ -1574,17 +1574,17 @@ You see some kind of large room.
 ~
 0 1 20060
 E
-paiting portrait picture~
-The picture is of an old man with a beard standing in some gardens.
+panels~
+The wooden panels are made of stained mahogany wood and are a nice
+change of pace, I was getting quite tired of the damn stone walls.
 ~
 E
 carpet carpeting rug~
 The rug is tan colored and very rich.
 ~
 E
-panels~
-The wooden panels are made of stained mahogany wood and are a nice
-change of pace, I was getting quite tired of the damn stone walls.
+paiting portrait picture~
+The picture is of an old man with a beard standing in some gardens.
 ~
 S
 #20062
@@ -1612,8 +1612,12 @@ Could it be more hallway?
 ~
 0 1 20061
 E
-carpet carpeting rug~
-The rug is tan colored and very rich.
+arch archway~
+The archway is made of plaster and has been beautifully crafted.
+~
+E
+painting portrait~
+The portrait is of a dark, beautiful woman smiling secretively.
 ~
 E
 paneling~
@@ -1621,12 +1625,8 @@ The wooden panels are made of stained mahogany wood and are a nice
 change of pace, I was getting quite tired of the damn stone walls.
 ~
 E
-painting portrait~
-The portrait is of a dark, beautiful woman smiling secretively.
-~
-E
-arch archway~
-The archway is made of plaster and has been beautifully crafted.
+carpet carpeting rug~
+The rug is tan colored and very rich.
 ~
 S
 #20063
@@ -1653,13 +1653,13 @@ More hallway...
 ~
 0 1 20062
 E
-carpet carpeting rug~
-The rug is tan colored and very rich.
-~
-E
 paneling~
 The wooden panels are made of stained mahogany wood and are a nice
 change of pace, I was getting quite tired of the damn stone walls.
+~
+E
+carpet carpeting rug~
+The rug is tan colored and very rich.
 ~
 S
 #20064
@@ -1675,15 +1675,15 @@ Help!  I don't want to study anymore!
 ~
 0 1 20063
 E
+shelf bookshelf book books~
+The bookshelf is empty right now.
+~
+E
 desk~
 The desk is made of cheap wood and is nicked and scratched up.  Wax deposits
 on the top have accumulated; evidently someone studys here with a candle
 sometimes.  Even if you wanted to take the ugly desk, it would be far too
 heavy to carry with you.
-~
-E
-shelf bookshelf book books~
-The bookshelf is empty right now.
 ~
 S
 #20065
@@ -1735,13 +1735,13 @@ You see a boring old hall.
 ~
 0 1 20065
 E
-wine vintage bottle bottles~
-The wine bottles are rare and old.
-~
-E
 fruit fruits~
 There are some fruits here you have never seen before, not even at the
 fruit lady's shop, far away in the desert...
+~
+E
+wine vintage bottle bottles~
+The wine bottles are rare and old.
 ~
 S
 #20067
@@ -1785,17 +1785,17 @@ More books!
 ~
 0 1 20076
 E
+ladder ladders wooden sliding~
+The ladders are very tall and have been mounted on tracks to facilitate
+sliding them around the walls full of books.  They all have silly little
+signs that say "Please ask for assistance, Thank you".  Bah!
+~
+E
 book books collection tomes~
 The collection of books is second to none; fiction, non-fiction, reference
 books, encyclopedias of magic and everything else under the sun.  This
 library makes the one in the castle look like a sad joke.  What's that?
 No you can't take any!  The Mage's collection is not for lending.
-~
-E
-ladder ladders wooden sliding~
-The ladders are very tall and have been mounted on tracks to facilitate
-sliding them around the walls full of books.  They all have silly little
-signs that say "Please ask for assistance, Thank you".  Bah!
 ~
 S
 #20069
@@ -1842,13 +1842,13 @@ More hallway.
 ~
 0 1 20079
 E
-carpet carpeting rug~
-The rug is tan colored and very rich.
-~
-E
 panel wood panels paneling mahogany~
 The wooden panels are made of stained mahogany wood and are a nice
 change of pace, I was getting quite tired of the damn stone walls.
+~
+E
+carpet carpeting rug~
+The rug is tan colored and very rich.
 ~
 S
 #20071
@@ -1913,6 +1913,10 @@ The hallway continues.
 ~
 0 1 20085
 E
+plaster white trim column columns~
+The plaster trim and columns are all very pretty and clean.
+~
+E
 picture painting~
 The painting is very very large and seems to depict some sort of strange
 garden hedge maze.  As you look at it you swear it is moving!  You begin
@@ -1923,10 +1927,6 @@ spins and you feel like you are high.  Abruptly, you snap to your senses
 and find yourself...
 
 
-~
-E
-plaster white trim column columns~
-The plaster trim and columns are all very pretty and clean.
 ~
 S
 #20074
@@ -1950,18 +1950,18 @@ The dining area continues to the south.
 ~
 0 1 20086
 E
-wall~
-You walk over to the transparent wall and gaze out upon the land.
-All that greets your eyes are untold miles of blasted, scortched
-landscape, with mountains futher in the distance.  The sky is jet black
-and without stars.
-~
-E
 tables~
 The tables, chairs and place settings are made of fine, strong crystal.
 They must be quite valuable; as you touch a crystal knife you are shocked
 and instantly pull your hand away.  I guess whoever set the table doesn't
 want you messing it up.
+~
+E
+wall~
+You walk over to the transparent wall and gaze out upon the land.
+All that greets your eyes are untold miles of blasted, scortched
+landscape, with mountains futher in the distance.  The sky is jet black
+and without stars.
 ~
 S
 #20075
@@ -1978,17 +1978,17 @@ The statue gardens continue.
 ~
 0 1 20083
 E
-tree trees plant plants~
-The trees and plants are healthy and strong.  They are mostly exotic
-varieties and have leaves of every color imaginable.
+ceiling~
+It is clear and looks as if it would allow sunlight to come in here.
 ~
 E
 path~
 It leads south.
 ~
 E
-ceiling~
-It is clear and looks as if it would allow sunlight to come in here.
+tree trees plant plants~
+The trees and plants are healthy and strong.  They are mostly exotic
+varieties and have leaves of every color imaginable.
 ~
 S
 #20076
@@ -2011,17 +2011,17 @@ Some kind hall.
 ~
 0 1 20077
 E
+ladder ladders wooden sliding~
+The ladders are very tall and have been mounted on tracks to facilitate
+sliding them around the walls full of books.  They all have silly little
+signs that say "Please ask for assistance, Thank you".  Bah!
+~
+E
 book books collection tomes~
 The collection of books is second to none; fiction, non-fiction, reference
 books, encyclopedias of magic and everything else under the sun.  This
 library makes the one in the castle look like a sad joke.  What's that?
 No you can't take any!  The Mage's collection is not for lending.
-~
-E
-ladder ladders wooden sliding~
-The ladders are very tall and have been mounted on tracks to facilitate
-sliding them around the walls full of books.  They all have silly little
-signs that say "Please ask for assistance, Thank you".  Bah!
 ~
 S
 #20077
@@ -2167,21 +2167,21 @@ Looks like west.
 ~
 0 1 20081
 E
-birds bird birdies~
-They are nice, colorful tropical birds, for the most part.
-~
-E
-ceiling~
-It is clear and looks as if it would allow sunlight to come in here.
+tree trees plant plants~
+The trees and plants are healthy and strong.  They are mostly exotic
+varieties and have leaves of every color imaginable.
 ~
 E
 path~
 It leads east.
 ~
 E
-tree trees plant plants~
-The trees and plants are healthy and strong.  They are mostly exotic
-varieties and have leaves of every color imaginable.
+ceiling~
+It is clear and looks as if it would allow sunlight to come in here.
+~
+E
+birds bird birdies~
+They are nice, colorful tropical birds, for the most part.
 ~
 S
 #20083
@@ -2213,21 +2213,21 @@ The way out.
 ~
 0 1 20082
 E
-tree trees plant plants~
-The trees and plants are healthy and strong.  They are mostly exotic
-varieties and have leaves of every color imaginable.
-~
-E
-path~
-Which path!?  One leads north, south east and west.
+birds bird birdies~
+They are nice, colorful tropical birds, for the most part.
 ~
 E
 ceiling~
 It is clear and looks as if it would allow sunlight to come in here.
 ~
 E
-birds bird birdies~
-They are nice, colorful tropical birds, for the most part.
+path~
+Which path!?  One leads north, south east and west.
+~
+E
+tree trees plant plants~
+The trees and plants are healthy and strong.  They are mostly exotic
+varieties and have leaves of every color imaginable.
 ~
 S
 #20084
@@ -2244,21 +2244,21 @@ Looks like the only choice you have.
 ~
 0 1 20083
 E
-tree trees plant plants~
-The trees and plants are healthy and strong.  They are mostly exotic
-varieties and have leaves of every color imaginable.
-~
-E
-path~
-It leads west.
+birds bird birdies~
+They are nice, colorful tropical birds, for the most part.
 ~
 E
 ceiling~
 It is clear and looks as if it would allow sunlight to come in here.
 ~
 E
-birds bird birdies~
-They are nice, colorful tropical birds, for the most part.
+path~
+It leads west.
+~
+E
+tree trees plant plants~
+The trees and plants are healthy and strong.  They are mostly exotic
+varieties and have leaves of every color imaginable.
 ~
 S
 #20085
@@ -2325,21 +2325,21 @@ The path leads back to the center of the gardens.
 ~
 0 1 20083
 E
-tree trees plant plants~
-The trees and plants are healthy and strong.  They are mostly exotic
-varieties and have leaves of every color imaginable.
-~
-E
-path~
-It leads north.
+fern herb~
+The plants growing here looks as if they may be valuable spell components.
 ~
 E
 ceiling~
 It is clear and looks as if it would allow sunlight to come in here.
 ~
 E
-fern herb~
-The plants growing here looks as if they may be valuable spell components.
+path~
+It leads north.
+~
+E
+tree trees plant plants~
+The trees and plants are healthy and strong.  They are mostly exotic
+varieties and have leaves of every color imaginable.
 ~
 S
 #20088
@@ -2429,13 +2429,13 @@ That really did HURT!
 ~
 0 1 20089
 E
-crystal wall walls ceiling floor pillar column black dark~
-The walls, floor and ceiling are made of dark humming dark crystal.
-~
-E
 telescope device stargazer~
 The telescope is a marvel in optical technology and magical power.
 It is large and complicated, you had better not touch it.
+~
+E
+crystal wall walls ceiling floor pillar column black dark~
+The walls, floor and ceiling are made of dark humming dark crystal.
 ~
 S
 #20091
@@ -2498,8 +2498,8 @@ A large hallway.
 ~
 0 1 20089
 E
-basin tub bath~
-Both the washbasin and the bath are made of fine black marble.
+water bubbles steam steaming~
+A hot bath has been drawn, foamy little soap bubbles float on its surface.
 ~
 E
 mirror silver~
@@ -2507,8 +2507,8 @@ The mirror is made with fine silver and is mounted on the back of the
 door.  You look very good, you notice.
 ~
 E
-water bubbles steam steaming~
-A hot bath has been drawn, foamy little soap bubbles float on its surface.
+basin tub bath~
+Both the washbasin and the bath are made of fine black marble.
 ~
 S
 #20094
@@ -2525,13 +2525,13 @@ Some kind of hallway.
 ~
 0 1 20090
 E
-bed bunk~
-It is a comfortable king-sized bed.
-~
-E
 wardrobe cabinet~
 The wardrobe cabinet is made of fine mahogany wood and is full of fur
 coats... it looks like it goes a long way back.
+~
+E
+bed bunk~
+It is a comfortable king-sized bed.
 ~
 S
 #20095
@@ -2570,12 +2570,9 @@ There is a dimly lit hallway beyond the door.
 cell door~
 2 20023 20100
 E
-mildew mold walls~
-Thick, healthy colonies of mold and mildew grow on the rough stone walls.
-~
-E
-bones bone~
-There are a few bones on the floor here, the appear to be quite old.
+scratch mark marks~
+There are a series of marks scratched into the wall, it looks like someone
+was trying to keep track of time in here.
 ~
 E
 cot straw hay lice flea~
@@ -2583,9 +2580,12 @@ The hay appears to be where prisoners sleep; it is very dirty and lice
 infested.  Yuck!
 ~
 E
-scratch mark marks~
-There are a series of marks scratched into the wall, it looks like someone
-was trying to keep track of time in here.
+bones bone~
+There are a few bones on the floor here, the appear to be quite old.
+~
+E
+mildew mold walls~
+Thick, healthy colonies of mold and mildew grow on the rough stone walls.
 ~
 S
 #20097
@@ -2604,18 +2604,9 @@ A hallway.
 door~
 1 0 20101
 E
-rack~
-The rack is a large wooden device with leather straps and long iron spikes.
-Iron cables run through gears below the rack -- it appears that the rack can
-be stretched.
-~
-E
-bloodstains~
-The wicked looking, iron spikes and blades are covered in old, dry blood.
-~
-E
-notches~
-Someone is keeping track of something... there are about 300 marks.
+diagram~
+The diagrams show anatomical differences between the races and methods of
+interrogation.  They are quite distressing.
 ~
 E
 blades~
@@ -2623,9 +2614,18 @@ The strong case houses a variety of strange looking torture blades.  They
 are very sharp, you'd better not touch them...
 ~
 E
-diagram~
-The diagrams show anatomical differences between the races and methods of
-interrogation.  They are quite distressing.
+notches~
+Someone is keeping track of something... there are about 300 marks.
+~
+E
+bloodstains~
+The wicked looking, iron spikes and blades are covered in old, dry blood.
+~
+E
+rack~
+The rack is a large wooden device with leather straps and long iron spikes.
+Iron cables run through gears below the rack -- it appears that the rack can
+be stretched.
 ~
 S
 #20098
@@ -2661,17 +2661,13 @@ Through the bars in the door you see a dark hallway.
 cell door~
 2 20023 20100
 E
-mildew mold walls~
-Thick, healthy colonies of mold and mildew grow on the rough stone walls.
+drain floor~
+The drain on the floor is made of iron and is only the size of a small
+plate.
 ~
 E
-bones bone~
-There are a few bones on the floor here, the appear to be quite old.
-~
-E
-cot straw hay lice flea~
-The hay appears to be where prisoners sleep; it is very dirty and lice
-infested.  Yuck!
+crack ceiling~
+The crack is very small... but water has found its way in.
 ~
 E
 scratch mark marks~
@@ -2679,13 +2675,17 @@ There are a series of marks scratched into the wall, it looks like someone
 was trying to keep track of time in here.
 ~
 E
-crack ceiling~
-The crack is very small... but water has found its way in.
+cot straw hay lice flea~
+The hay appears to be where prisoners sleep; it is very dirty and lice
+infested.  Yuck!
 ~
 E
-drain floor~
-The drain on the floor is made of iron and is only the size of a small
-plate.
+bones bone~
+There are a few bones on the floor here, the appear to be quite old.
+~
+E
+mildew mold walls~
+Thick, healthy colonies of mold and mildew grow on the rough stone walls.
 ~
 S
 #20100
@@ -2789,12 +2789,9 @@ An unremarkable hallway.
 cell door~
 2 20023 20102
 E
-mildew mold walls~
-Thick, healthy colonies of mold and mildew grow on the rough stone walls.
-~
-E
-bones bone~
-There are a few bones on the floor here, the appear to be quite old.
+scratch mark marks~
+There are a series of marks scratched into the wall, it looks like someone
+was trying to keep track of time in here.
 ~
 E
 cot straw hay lice flea~
@@ -2802,9 +2799,12 @@ The hay appears to be where prisoners sleep; it is very dirty and lice
 infested.  Yuck!
 ~
 E
-scratch mark marks~
-There are a series of marks scratched into the wall, it looks like someone
-was trying to keep track of time in here.
+bones bone~
+There are a few bones on the floor here, the appear to be quite old.
+~
+E
+mildew mold walls~
+Thick, healthy colonies of mold and mildew grow on the rough stone walls.
 ~
 S
 #20104
@@ -2822,14 +2822,9 @@ D1
 door~
 1 0 20105
 E
-bed~
-There is a neatly made bed against the wall.  There seems to be a plastic
-tarp under the sheet, maybe someone has a bed-wetting problem...?
-~
-E
-desk~
-There is a letter addressed "Dear Mommy" on the desk.  It seems to be
-written in blood.
+diagram~
+The posters show some standard torture methods and the anatomy of the
+different races.  There are glosses and notes penned in on many of them.
 ~
 E
 torch~
@@ -2837,9 +2832,14 @@ It is just an ordinary, standard issue torch.  Its bolted down so that YOU
 can't take it!
 ~
 E
-diagram~
-The posters show some standard torture methods and the anatomy of the
-different races.  There are glosses and notes penned in on many of them.
+desk~
+There is a letter addressed "Dear Mommy" on the desk.  It seems to be
+written in blood.
+~
+E
+bed~
+There is a neatly made bed against the wall.  There seems to be a plastic
+tarp under the sheet, maybe someone has a bed-wetting problem...?
 ~
 S
 #20105
@@ -2919,17 +2919,9 @@ Hallway.
 cell door~
 2 20023 20107
 E
-mildew mold walls~
-Thick, healthy colonies of mold and mildew grow on the rough stone walls.
-~
-E
-bones bone~
-There are a few bones on the floor here, the appear to be quite old.
-~
-E
-hay~
-The hay appears to be where prisoners sleep; it is very dirty and lice
-infested.  Yuck!
+waste~
+There is a nice pile of shit lying in the corner; it smells wonderful.  Ah,
+well, at least it didn't attack you like piles do on the farm...
 ~
 E
 scratch mark marks~
@@ -2937,9 +2929,17 @@ There are a series of marks scratched into the wall, it looks like someone
 was trying to keep track of time in here.
 ~
 E
-waste~
-There is a nice pile of shit lying in the corner; it smells wonderful.  Ah,
-well, at least it didn't attack you like piles do on the farm...
+hay~
+The hay appears to be where prisoners sleep; it is very dirty and lice
+infested.  Yuck!
+~
+E
+bones bone~
+There are a few bones on the floor here, the appear to be quite old.
+~
+E
+mildew mold walls~
+Thick, healthy colonies of mold and mildew grow on the rough stone walls.
 ~
 S
 #20109
@@ -2958,12 +2958,9 @@ You see an angry looking prison guard walking up a hallway!
 cell door~
 2 20023 20110
 E
-mildew mold walls~
-Thick, healthy colonies of mold and mildew grow on the rough stone walls.
-~
-E
-bones bone~
-There are a few bones on the floor here, the appear to be quite old.
+mark marks~
+There are a series of marks scratched into the wall, it looks like someone
+was trying to keep track of time in here.
 ~
 E
 cot straw hay lice flea~
@@ -2971,9 +2968,12 @@ The hay appears to be where prisoners sleep; it is very dirty and lice
 infested.  Yuck!
 ~
 E
-mark marks~
-There are a series of marks scratched into the wall, it looks like someone
-was trying to keep track of time in here.
+bones bone~
+There are a few bones on the floor here, the appear to be quite old.
+~
+E
+mildew mold walls~
+Thick, healthy colonies of mold and mildew grow on the rough stone walls.
 ~
 S
 #20110
@@ -3077,17 +3077,8 @@ A dungeon hallway.
 cell door~
 2 20023 20112
 E
-mildew mold walls~
-Thick, healthy colonies of mold and mildew grow on the rough stone walls.
-~
-E
-bones bone~
-There are a few bones on the floor here, the appear to be quite old.
-~
-E
-cot straw hay lice flea~
-The hay appears to be where prisoners sleep; it is very dirty and lice
-infested.  Yuck!
+basin rusty~
+The rusty basin has filthy, warm water in it.
 ~
 E
 scratch mark marks~
@@ -3095,8 +3086,17 @@ There are a series of marks scratched into the wall, it looks like someone
 was trying to keep track of time in here.
 ~
 E
-basin rusty~
-The rusty basin has filthy, warm water in it.
+cot straw hay lice flea~
+The hay appears to be where prisoners sleep; it is very dirty and lice
+infested.  Yuck!
+~
+E
+bones bone~
+There are a few bones on the floor here, the appear to be quite old.
+~
+E
+mildew mold walls~
+Thick, healthy colonies of mold and mildew grow on the rough stone walls.
 ~
 S
 #20114
@@ -3111,12 +3111,12 @@ D1
 door~
 2 0 20115
 E
-desk chair armoir bed~
-The furniture in this room is made of matching oak and is nicely stained.
-~
-E
 basin~
 It looks as if someone comes down here and cleans the basin regularly.
+~
+E
+desk chair armoir bed~
+The furniture in this room is made of matching oak and is nicely stained.
 ~
 S
 #20115
@@ -3196,9 +3196,8 @@ D3
 ~
 2 1 20117
 E
-pots pans~
-The pots and pans have crusty, baked on, burnt remains of hard bread stuck
-to the bottoms.  They are sitting in a big pile on the dirty floor.
+floor crumbs insects insect~
+The floor is covered with little roaches feasting on small, hard crumbs.
 ~
 E
 spicket~
@@ -3206,8 +3205,9 @@ The handle of the faucet is so rusty that you have a hard time turning it...
 when you do a gush of smelly, metallic sludge squirts out.
 ~
 E
-floor crumbs insects insect~
-The floor is covered with little roaches feasting on small, hard crumbs.
+pots pans~
+The pots and pans have crusty, baked on, burnt remains of hard bread stuck
+to the bottoms.  They are sitting in a big pile on the dirty floor.
 ~
 S
 #20119
@@ -3223,9 +3223,13 @@ Hallway.
 cell door~
 2 20023 20120
 E
-chart picture diagram drawing wall poster~
-It is a poster of a very beautiful human female tied into a large torture
-rack.  Interesting...
+rack device~
+It is too complicated to describe -- lets just say it is a mass of moving
+parts, leather straps, sharp blades, large gears and bloodstains.
+~
+E
+skeleton~
+It is the skeleton of a small elf child.
 ~
 E
 shackle shackles iron wall walls~
@@ -3233,13 +3237,9 @@ Some of the iron shackles on the walls here are empty; from the others
 bones and, in one case, a complete skeleton hangs.
 ~
 E
-skeleton~
-It is the skeleton of a small elf child.
-~
-E
-rack device~
-It is too complicated to describe -- lets just say it is a mass of moving
-parts, leather straps, sharp blades, large gears and bloodstains.
+chart picture diagram drawing wall poster~
+It is a poster of a very beautiful human female tied into a large torture
+rack.  Interesting...
 ~
 S
 #20120
@@ -3340,14 +3340,14 @@ Hallway.
 door~
 2 0 20122
 E
-bed beds bunk bunks triple~
-The bunks are military-style and are made neatly.  There is a teddy bear
-on one.
-~
-E
 teddy bear~
 The teddy bear has a cute little uniform with a captain's bars on his
 collar.  He is about a foot tall and has been posed saluting crisply.
+~
+E
+bed beds bunk bunks triple~
+The bunks are military-style and are made neatly.  There is a teddy bear
+on one.
 ~
 S
 #20124
@@ -3360,15 +3360,15 @@ wall.
 ~
 200 13 0 0 0 0
 E
+rune runes symbols markings~
+They appear to be magical marks that bind one stone to another and make
+the room inescapable.
+~
+E
 window~
 Through the window you see strange, ugly fish swimming in dark water.  It
 takes you a moment but you suddenly realize you are looking out into the
 depths of Death Lake from a submerged section of the tower.
-~
-E
-rune runes symbols markings~
-They appear to be magical marks that bind one stone to another and make
-the room inescapable.
 ~
 S
 #20125
@@ -3429,22 +3429,19 @@ The door leads into a hallway.
 ~
 2 1 20130
 E
-window~
-The window is made from thick, transparent crystal and does not appear to
-be openable.  The view it affords is quite breathtaking.  You must be near
-the top of the tower, from way up here you can see all the way to the end
-of the world.  Below, you see the cold waters of Death Lake, and, further
-north, the formidable mountains that are so tall no one can climb beyond
-them yet.  Beyond that is the great northern wasteland, a void not yet
-filled.
+mural~
+The mural depicts the creation of the Dopsodod, a powerful creature born
+of pure dark magic.  It shows a man in a blowing dark cloak granting the
+energy of life to a creature crafted of stone and clay.  Overhead, the gods
+look on in disapproval; not only is it distressing that a mere mortal has
+mastered the secrets of creation, but the vain mage has made a mockery of
+the gods by forming evil, wicked creatures in their sacred images.  Storm
+clouds gather and foreshadow coming doom.
 ~
 E
-bed~
-The bed is large and well built, its blackened wood has been skillfully
-decorated by a expert wood-carver.  The four posts extend up and support
-a track from which fine curtains of black suede hang.  On the wooden
-headboard is a carving which tells the story of the fall of the Great
-Empire.
+desk ebonstone ebon~
+The large desk looks like one a great scribe would use; its surface is made
+of smooth, black ebonstone and is supported by fine, stained wood sides.
 ~
 E
 carving headboard~
@@ -3457,19 +3454,22 @@ was founded by the wise gods.  Since then, many great adventurers have
 come to these lands seeking fame, power and fortune.
 ~
 E
-desk ebonstone ebon~
-The large desk looks like one a great scribe would use; its surface is made
-of smooth, black ebonstone and is supported by fine, stained wood sides.
+bed~
+The bed is large and well built, its blackened wood has been skillfully
+decorated by a expert wood-carver.  The four posts extend up and support
+a track from which fine curtains of black suede hang.  On the wooden
+headboard is a carving which tells the story of the fall of the Great
+Empire.
 ~
 E
-mural~
-The mural depicts the creation of the Dopsodod, a powerful creature born
-of pure dark magic.  It shows a man in a blowing dark cloak granting the
-energy of life to a creature crafted of stone and clay.  Overhead, the gods
-look on in disapproval; not only is it distressing that a mere mortal has
-mastered the secrets of creation, but the vain mage has made a mockery of
-the gods by forming evil, wicked creatures in their sacred images.  Storm
-clouds gather and foreshadow coming doom.
+window~
+The window is made from thick, transparent crystal and does not appear to
+be openable.  The view it affords is quite breathtaking.  You must be near
+the top of the tower, from way up here you can see all the way to the end
+of the world.  Below, you see the cold waters of Death Lake, and, further
+north, the formidable mountains that are so tall no one can climb beyond
+them yet.  Beyond that is the great northern wasteland, a void not yet
+filled.
 ~
 S
 #20128
@@ -3487,11 +3487,10 @@ A sleeping room.
 ~
 0 1 20127
 E
-stone~
-The walls, floor, and ceiling are made of expensive, flawlessly cut blocks
-of fine grey marble.  Since marble is rare and not indigenous to this land,
-they must have been either magically created or shipped in from over the
-sea.
+plaster~
+The plaster trim is a tactile, meandering pattern of rectangles in a
+repeating series.  At the tops of the columns, upon the ionic cap, carvings
+of the God of the Sea and his servants gaze down at you.
 ~
 E
 tub~
@@ -3502,10 +3501,11 @@ hot water into the tub as a small drain allow a bit of water to run the
 bottom of the tub.
 ~
 E
-plaster~
-The plaster trim is a tactile, meandering pattern of rectangles in a
-repeating series.  At the tops of the columns, upon the ionic cap, carvings
-of the God of the Sea and his servants gaze down at you.
+stone~
+The walls, floor, and ceiling are made of expensive, flawlessly cut blocks
+of fine grey marble.  Since marble is rare and not indigenous to this land,
+they must have been either magically created or shipped in from over the
+sea.
 ~
 S
 #20129
@@ -3525,18 +3525,11 @@ Hallway.
 ~
 0 1 20130
 E
-flasks vials~
-Inside the many containers on the counter are strange liquids of all colors
-and properties.  Some smoke and bubble, others glow and pulse.  Still others
-constantly change color and some are simply plain and dull.  You are very
-tempted to take a few vials of liquid with you but, since you know nothing
-about alchemy, you would be very afraid to quaff any of them.
-~
-E
-counter workspace desk black~
-The large counter sits in the center of the room.  Its sides are covered
-with powerful runes of protection and it's black top has many stains and
-chips in its surface.  Atop the workspace sit many glass vials and flasks.
+chart table periodic wall~
+On one wall of ebonstone hangs a strange table with many entries upon it.
+The first four you immediately recognize as basic elements -- Water, Fire
+Air and Earth -- any educated person would.  But the table continues
+describing many other substances of which you have never heard.
 ~
 E
 rune runes~
@@ -3547,11 +3540,18 @@ accidental explosion or fire caused by the mixture of potent chemical
 agents.
 ~
 E
-chart table periodic wall~
-On one wall of ebonstone hangs a strange table with many entries upon it.
-The first four you immediately recognize as basic elements -- Water, Fire
-Air and Earth -- any educated person would.  But the table continues
-describing many other substances of which you have never heard.
+counter workspace desk black~
+The large counter sits in the center of the room.  Its sides are covered
+with powerful runes of protection and it's black top has many stains and
+chips in its surface.  Atop the workspace sit many glass vials and flasks.
+~
+E
+flasks vials~
+Inside the many containers on the counter are strange liquids of all colors
+and properties.  Some smoke and bubble, others glow and pulse.  Still others
+constantly change color and some are simply plain and dull.  You are very
+tempted to take a few vials of liquid with you but, since you know nothing
+about alchemy, you would be very afraid to quaff any of them.
 ~
 S
 #20130
@@ -3580,6 +3580,12 @@ D3
 ~
 0 1 20129
 E
+door crafted wood wooden~
+The wooden door is constructed of a hard, beautiful wood which you have
+never seen before.  It must have been magically procured from a far away
+land.
+~
+E
 mural ceiling painting~
 The mural must have been commissioned of some ancient master, his name
 forgotten with the passage of time.  It depicts a mage in flowing black
@@ -3589,12 +3595,6 @@ streaking towards his foe.  The other mage, clad in a pure white robe,
 holds his hands before him, as if trying to shield himself from the
 impending blast.  All about the ground are corpses of other magicians,
 all clad in white.  The work is entitled "The Fall of the White Order".
-~
-E
-door crafted wood wooden~
-The wooden door is constructed of a hard, beautiful wood which you have
-never seen before.  It must have been magically procured from a far away
-land.
 ~
 S
 #20131
@@ -3610,15 +3610,6 @@ D3
 ~
 0 1 20130
 E
-symbol floor~
-The symbol is a large circle with a large rune drawn in its center.  The
-rune is archaic and complicated but you suspect its function is to entrap
-dangerous creatures summoned here from this world and others so that they
-are powerless to harm their summoner.  You are not certain what spells the
-mages use to activate the enchantment on this room so you doubt if they
-would protect you from beasts you might summon.
-~
-E
 rune runes walls wall~
 The runes set in the walls and covered with gold are old and difficult to
 decipher.  Even so, you suspect they are enchantments to protect the tower
@@ -3627,6 +3618,15 @@ this world and others.  You, however, are ignorant as to the exact meanings
 of the many runes and as to the way to activate their powerful magic, so
 you highly doubt if they would protect you from any creatures you might
 summon.
+~
+E
+symbol floor~
+The symbol is a large circle with a large rune drawn in its center.  The
+rune is archaic and complicated but you suspect its function is to entrap
+dangerous creatures summoned here from this world and others so that they
+are powerless to harm their summoner.  You are not certain what spells the
+mages use to activate the enchantment on this room so you doubt if they
+would protect you from beasts you might summon.
 ~
 S
 #20132
@@ -3647,16 +3647,13 @@ A Hallway.
 ~
 0 1 20133
 E
-mural~
-The mural is a true masterpiece.  It is painted in the long forgotten style
-of the ancient masters and depicts a young man clad in the traditional robes
-of an apprentice mage walking through hell towards the lair of the Fire
-Lord.  His eyes are closed in deep concentration and his fists are clenched
-in fierce determination.  High above, the gods look on, keenly interested.
-Far away, a much older mage watches through a magical looking glass as in
-the darkness the Fire Lord has sensed the intruder and prepares to roast the
-foolish young mage.  The work is entitled "The Testing of the Dark Mage:
-his Assention to Membership in the Black Order".
+chair leather~
+The leather chair is large, heavy and comfortable.
+~
+E
+fire fireplace~
+The large fire has no wood to burn but shows no sign of dying as it roars
+in the stone fireplace.
 ~
 E
 spellbooks~
@@ -3667,13 +3664,16 @@ that is it written in a strange, ancient language which you do not begin to
 understand.  Dismayed, you replace the book.
 ~
 E
-fire fireplace~
-The large fire has no wood to burn but shows no sign of dying as it roars
-in the stone fireplace.
-~
-E
-chair leather~
-The leather chair is large, heavy and comfortable.
+mural~
+The mural is a true masterpiece.  It is painted in the long forgotten style
+of the ancient masters and depicts a young man clad in the traditional robes
+of an apprentice mage walking through hell towards the lair of the Fire
+Lord.  His eyes are closed in deep concentration and his fists are clenched
+in fierce determination.  High above, the gods look on, keenly interested.
+Far away, a much older mage watches through a magical looking glass as in
+the darkness the Fire Lord has sensed the intruder and prepares to roast the
+foolish young mage.  The work is entitled "The Testing of the Dark Mage:
+his Assention to Membership in the Black Order".
 ~
 S
 #20133
@@ -3732,6 +3732,16 @@ Hallway.
 ~
 0 1 20133
 E
+window~
+Through the window you have a view of the woodlands, the swamp, and a large
+field of grass far to the southeast.  You can just barely see the last
+outpost on the horizon.
+~
+E
+couch sofa~
+The sofa is made of fine leather and is quite comfortable.
+~
+E
 painting~
 The painting is not quite as old as some of the others in this area and is
 not as skillfully crafted.  It shows the gods smiting the dark mage and
@@ -3742,16 +3752,6 @@ looks on in frustration and rage and plots his vengeance against the gods.
 Far in the distance is the opening of a deep cave and the mage watches it
 now with a strange gleam in his eye.  The painting is called "The Humbling
 of the Dark Mage"
-~
-E
-couch sofa~
-The sofa is made of fine leather and is quite comfortable.
-~
-E
-window~
-Through the window you have a view of the woodlands, the swamp, and a large
-field of grass far to the southeast.  You can just barely see the last
-outpost on the horizon.
 ~
 S
 #20135

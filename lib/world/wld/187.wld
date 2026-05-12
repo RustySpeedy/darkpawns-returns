@@ -51,8 +51,8 @@ D3
 ~
 0 0 18737
 E
-cupboard~
-These cupboards are simple affair with some plates, etc.
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
 ~
 E
 bed~
@@ -60,8 +60,8 @@ These are simple beds that are basically mattresses lying on the floor with
 some wooden planks surrounding it.
 ~
 E
-table~
-It is a simple table with four posts and a few small wooden chairs around it.
+cupboard~
+These cupboards are simple affair with some plates, etc.
 ~
 S
 #18702
@@ -77,9 +77,8 @@ A Small Road
 ~
 0 1 18703
 E
-cupboard cupboards~
-Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
-nothing of real worth here, but it is very usable.
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
 ~
 E
 bed beds~
@@ -87,8 +86,9 @@ These are simple beds that are basically mattresses lying on the floor with
 some wooden planks surrounding it.
 ~
 E
-table~
-It is a simple table with four posts and a few small wooden chairs around it.
+cupboard cupboards~
+Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
+nothing of real worth here, but it is very usable.
 ~
 S
 #18703
@@ -156,9 +156,8 @@ A Main Road
 ~
 0 1 18713
 E
-cupboard cupboards~
-Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
-nothing of real worth here, but it is very usable.
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
 ~
 E
 bed beds~
@@ -166,8 +165,9 @@ These are simple beds that are basically mattresses lying on the floor with
 some wooden planks surrounding it.
 ~
 E
-table~
-It is a simple table with four posts and a few small wooden chairs around it.
+cupboard cupboards~
+Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
+nothing of real worth here, but it is very usable.
 ~
 S
 #18706
@@ -225,9 +225,8 @@ A Small Road
 ~
 0 1 18707
 E
-cupboard cupboards~
-Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
-nothing of real worth here, but it is very usable.
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
 ~
 E
 bed beds~
@@ -235,8 +234,9 @@ These are simple beds that are basically mattresses lying on the floor with
 some wooden planks surrounding it.
 ~
 E
-table~
-It is a simple table with four posts and a few small wooden chairs around it.
+cupboard cupboards~
+Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
+nothing of real worth here, but it is very usable.
 ~
 S
 #18709
@@ -518,9 +518,8 @@ A Main Road
 ~
 0 1 18713
 E
-cupboard cupboards~
-Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
-nothing of real worth here, but it is very usable.
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
 ~
 E
 bed beds~
@@ -528,8 +527,9 @@ These are simple beds that are basically mattresses lying on the floor with
 some wooden planks surrounding it.
 ~
 E
-table~
-It is a simple table with four posts and a few small wooden chairs around it.
+cupboard cupboards~
+Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
+nothing of real worth here, but it is very usable.
 ~
 S
 #18722
@@ -546,9 +546,8 @@ A Small Road
 ~
 0 1 18723
 E
-cupboard cupboards~
-Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
-nothing of real worth here, but it is very usable.
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
 ~
 E
 bed beds~
@@ -556,8 +555,9 @@ These are simple beds that are basically mattresses lying on the floor with
 some wooden planks surrounding it.
 ~
 E
-table~
-It is a simple table with four posts and a few small wooden chairs around it.
+cupboard cupboards~
+Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
+nothing of real worth here, but it is very usable.
 ~
 S
 #18723
@@ -659,9 +659,8 @@ A Small Road
 ~
 0 1 18723
 E
-cupboard cupboards~
-Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
-nothing of real worth here, but it is very usable.
+table~
+It is a simple table with four posts and a few small wooden chairs around it.
 ~
 E
 bed beds~
@@ -669,8 +668,9 @@ These are simple beds that are basically mattresses lying on the floor with
 some wooden planks surrounding it.
 ~
 E
-table~
-It is a simple table with four posts and a few small wooden chairs around it.
+cupboard cupboards~
+Thes cupboards are simple affairs with some plates, cups, and bowls.  There is
+nothing of real worth here, but it is very usable.
 ~
 S
 #18728
@@ -732,7 +732,7 @@ S
 #18732
 A Blacksmith's Storage~
    A small ladder lands in a squatty little room full of metallic bars, ores,
-and fluxes.  Unfortunately gold and precious metals seem to e lacking in the
+and fluxes.  Unfortunately gold and precious metals seem to be lacking in the
 wide array of choices.  The floor is covered in a fine powder of mixed metals
 and little nuggets of ore.  Stacks of half finished weapons and armor line the
 back wall while piles of horseshoes, nails, and other everyday hardware crowd

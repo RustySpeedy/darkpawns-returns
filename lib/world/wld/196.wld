@@ -22,7 +22,7 @@ on each side of the cave, topped with skulls.  A rather large pile of bones
 has gathered in the area, and perhaps it'd be best to leave before you joined
 them.
 ~
-196 41480 0 0 0 0
+196 8712 0 0 0 0
 D0
 ~
 boulder~
@@ -47,7 +47,7 @@ mat lies in front of a bookcase on the north wall.  A ninja's book of
 meditations lies open on the mat, suggesting that the owner has been here
 recently; perhaps it would be best to leave before he returns.
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D1
 ~
 ~
@@ -64,7 +64,7 @@ even signs of magical intervention, but there is more than enough light to see
 clearly.  An open book stands on a pedestal in the center of the room, with
 some neat writing, which appears to read: 'Through conquest comes knowledge.'
 ~
-196 33292 0 0 0 0
+196 524 0 0 0 0
 D0
 ~
 ~
@@ -86,7 +86,7 @@ home, an old cardboard box reading "this side up" on the top.
 the east, you hear jeers and cheers from what you assume to be some sort of
 battle arena.
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D0
 ~
 ~
@@ -723,7 +723,7 @@ while the tops of several other buildings are visible over the surrounding
 wall.  Heavily guarded by two of the toughest monks you have ever seen, you
 find no easy way to break into this sacred realm.
 ~
-196 32772 0 0 0 0
+196 4 0 0 0 0
 D0
 ~
 gate~
@@ -751,7 +751,7 @@ nomadic friars frequent this abbey in search of peace and tranquility.  The
 main sanctuary of this place of worship lies to the north, while a line of
 friars files out from the small building to the east.
 ~
-196 40968 0 0 0 0
+196 8200 0 0 0 0
 D0
 ~
 ~
@@ -794,7 +794,7 @@ into the room through the stained-glass windows lining the walls.  A smaller
 shrine sits outside the door leading to the oratory allowing monks to perform
 additional prayer rituals before they enter.
 ~
-196 32776 0 0 0 0
+196 8 0 0 0 0
 D0
 ~
 ~
@@ -812,7 +812,7 @@ dark and sinister with only a torch flickering and casting the shadows dancing
 across the room.  The light reveals vicious claw marks and several indentations
 in the walls caused by the vile creatures being summoned here.
 ~
-196 32776 0 0 0 0
+196 8 0 0 0 0
 D4
 ~
 trapdoor~
@@ -828,7 +828,7 @@ throughout the oratory off of the solid limestone walls enclosing the area.
 Two solid gold hinges fastened to the wooden floor catch your eye from
 underneath one of the back pews.
 ~
-196 294940 0 0 0 0
+196 262172 0 0 0 0
 D0
 ~
 door~
@@ -853,7 +853,7 @@ thin and the sun glimmers off of the clouds.  The sounds of birds and other
 noises fade in the distance as the only sound is the gentle breeze.  The end
 of this seemingly infinite stairway remains far out of sight.
 ~
-196 32776 0 0 0 0
+196 8 0 0 0 0
 D4
 ~
 ~
@@ -881,7 +881,7 @@ the heavenly atmosphere with the sensualness of its inhabitants.  Three
 beautiful women lay scantily-clad on the bed, awaiting their master's
 return to fulfill his every desire.
 ~
-196 294940 0 0 0 0
+196 262172 0 0 0 0
 D2
 ~
 silk curtain~
@@ -901,7 +901,7 @@ impoverished friars.  Several wooden crates are stocked full of donations,
 overflowing onto the ground.  These alms of goodwill have been collected by the
 members of this monastery to provide aid to all needy souls of the realm.
 ~
-196 35356 0 0 0 0
+196 2588 0 0 0 0
 D3
 ~
 ~
@@ -925,7 +925,7 @@ the light, but a large, oak-trimmed mirror can be distinguished and sits
 directly in front of the door.  Shadows dancing in the corners of the mirror
 give the impression that a large man is lurking somewhere behind the door.
 ~
-196 294924 0 0 0 0
+196 262156 0 0 0 0
 D1
 ~
 oak~
@@ -944,7 +944,7 @@ surrounding chairs fashioned from the same timber.  This area serves as a
 congregation room for those who have ascended to the highest level of the
 heaven walkers.
 ~
-196 294940 0 0 0 0
+196 262172 0 0 0 0
 D0
 ~
 silk curtain~
@@ -986,7 +986,7 @@ lightning briefly illuminates the room and a message scrawled in
 blood on the far wall helps provide insight into the feverish madness of a man
 vainly chasing the specter of immortality.
 ~
-196 294940 0 0 0 0
+196 262172 0 0 0 0
 D3
 ~
 door wooden~
@@ -1007,7 +1007,7 @@ monastery's financial endeavors take place as a small friar stands watch over
 the banking facility.  An elaborate ivory stairway was built here, leading
 endlessly into the heavens.
 ~
-196 32776 0 0 0 0
+196 8 0 0 0 0
 D1
 ~
 ~
@@ -1030,7 +1030,7 @@ fruits onto the path for the monks to enjoy.  Several smaller ponds are
 scattered throughout the gardens with several breeds of geese floating
 atop the water.
 ~
-196 32776 0 0 0 0
+196 8 0 0 0 0
 D1
 ~
 ~
@@ -1048,7 +1048,7 @@ inhabit the earth of these gardens, serving as a tribute to former members and
 important allies of the monastery.  A small dirt trail leads through the
 greenery towards a beautiful white limestone terrace.
 ~
-196 32768 0 0 0 0
+196 0 0 0 0 0
 D1
 ~
 ~
@@ -1072,7 +1072,7 @@ creating an iridescent glow to complement the gentle hum of the portals.
 A small sign is posted on the wall giving some indication as to where these
 portals lead.
 ~
-196 32776 0 0 0 0
+196 8 0 0 0 0
 D0
 ~
 Seraphim door~
@@ -1133,7 +1133,7 @@ of the room.  To the south, an archway opens onto a large balcony while to the
 north, shimmers of light dance around the room.  There is a large golden
 plaque embedded above the southern archway.  
 ~
-196 296988 0 0 0 0
+196 264220 0 0 0 0
 D0
 ~
 ~
@@ -1163,7 +1163,7 @@ reflects all sources of light creating an interesting effect within the room
 as if the light itself were alive and dancing around you. Above the northern
 portal is a small wooden sign.
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D2
 ~
 ~
@@ -1188,7 +1188,7 @@ although the density of trees prevents you from seeing too much further
 through them. From here, you could easily make it down to the base of the
 tower but getting back up may be a problem.
 ~
-196 32772 0 0 0 0
+196 4 0 0 0 0
 D0
 ~
 ~
@@ -1232,7 +1232,7 @@ the second floor and up further into the tower. There is a certain chill in
 the air and you shiver uncomfortably but the feeling soon passes and you are
 left standing here.
 ~
-196 40988 0 0 0 0
+196 8220 0 0 0 0
 D4
 ~
 ~
@@ -1255,7 +1255,7 @@ some from this clan and others who strived to better themselves within this
 world. The treasure room lies to the south while a strong, wooden door lies
 to the north.
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D0
 You can't quite see into the room..perhaps you should go in there.
 ~
@@ -1280,7 +1280,7 @@ The Treasure Room~
 floor to the solid gold pillars that support the floor above, the sight 
 takes your breath away. The only exit from the room lies to the north.
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D0
 ~
 ~
@@ -1294,7 +1294,7 @@ quite breath-taking; from the mountains to the north to the small desolate-
 looking village to the west.  Runes of power are inscribed into the ceiling
 here, and a small pentagram has been etched into the floor.
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D5
 ~
 ~
@@ -1341,7 +1341,7 @@ The room is large and the roof is missing, letting natural light and the
 elements in.  The room has been cleared out from the center, the ground is
 charred and a large pentagram seems to have been burned into the stone floor.
 ~
-196 32772 0 0 0 1
+196 4 0 0 0 1
 D5
 ~
 ~
@@ -1368,7 +1368,7 @@ the neck indicate someone has beheaded the figure.  Exits to the left and
 right lead to confessionals in different states of disaster.  To the north, is
 another room.  
 ~
-196 40972 0 0 0 0
+196 8204 0 0 0 0
 D0
 ~
 ~
@@ -1398,7 +1398,7 @@ pieces.  Something bad happened here, this place no longer has a welcoming
 feel to it.  To the north you will find a heavily guarded double door and to
 the south the forest.  
 ~
-196 40972 0 0 0 0
+196 8204 0 0 0 0
 D0
 You cannot see clearly into there.
 ~
@@ -1418,7 +1418,7 @@ surround it.  To the north you can see what used to be a chancel and the
 altar.  To the west, the entrance to the bell tower.  To the east you spot a
 bookshelf halfway pulled away from the wall and a opening behind it.  
 ~
-196 297500 0 0 0 0
+196 264732 0 0 0 0
 D0
 ~
 ~
@@ -1448,7 +1448,7 @@ can see the backside of a bookshelf which is pushed away from the doorway
 leading back into the broken church.  This could have been a room used for
 secret meetings by the priests..  
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D3
 ~
 ~
@@ -1466,7 +1466,7 @@ have been bathed in blood and hastily cleaned up.  There is a stairwell
 leading up to the top of the tower upward.  At the south wall it seems all of
 the church decor has been piled up and burned.  
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D1
 ~
 ~
@@ -1480,7 +1480,7 @@ S
 An Oubliette~
 This drafy room was built specifically to be forgotten. Once someone or something falls into this room they will fade from memory.
 ~
-196 32808 0 0 0 0
+196 32 0 0 0 0
 D4
 ~
 ~
@@ -1496,7 +1496,7 @@ middle.  There aren't any other exits and if the heavy hatch were to be closed
 and locked, the occupants would likely spend the remainder of their days in
 here with no exit.  
 ~
-196 38916 0 0 0 0
+196 6148 0 0 0 0
 D2
 ~
 secret~
@@ -1515,7 +1515,7 @@ where the clergy stored unwanted or discarded items.  In the southern end of
 this room, it has been cleared out and a large gateway stands here beckoning
 you.  
 ~
-196 294940 0 0 0 0
+196 262172 0 0 0 0
 D4
 ~
 ~
@@ -1529,7 +1529,7 @@ skills here, both against each other and the foul beasts that lurk in the
 darkened corridors. The room has been permanently stained with the blood of
 hapless victims.
 ~
-196 32780 0 0 0 0
+196 12 0 0 0 0
 D3
 ~
 ~
@@ -1539,7 +1539,7 @@ S
 The Room of Portals~
    From here the clan may travel far distances with minimal effort.  
 ~
-196 33292 0 0 0 0
+196 524 0 0 0 0
 D1
 ~
 ~
@@ -1555,7 +1555,7 @@ Vallhalla~
 find the room of portals.  To the east a room made for summoning and fighting
 awaits.  
 ~
-196 295452 0 0 0 0
+196 262684 0 0 0 0
 D0
 ~
 ~
@@ -1580,7 +1580,7 @@ could pass through them at once.  The castle is very large, and the roof is
 made of thousands of golden shields.  There is no place like this and only
 those worthy can pass.  Trespassers be warned.  
 ~
-196 33284 0 0 0 0
+196 516 0 0 0 0
 D0
 Enormous gates leading into Valhalla!
 ~
@@ -1605,7 +1605,7 @@ A Tunnel~
 moisture and the walls are crawling with insects.  This is a well kept secret
 amongst the clan, as it should remain.  
 ~
-196 32768 0 0 0 0
+196 0 0 0 0 0
 D0
 ~
 secret~
@@ -1620,7 +1620,7 @@ S
 A Chute~
 The walls appear to have been specially built to have no grip points, and are covered in some kind of slime making them impossible to scale.
 ~
-196 38920 0 0 0 9
+196 6152 0 0 0 9
 D4
 A trapdoor
 ~
@@ -1673,7 +1673,7 @@ smashed in and some pieces of it that litter the floor are still smoldering.
 Through the screen past the divider, deep swirls of orange seem to be
 coming from a portal.  
 ~
-196 32796 0 0 0 0
+196 28 0 0 0 0
 D1
 ~
 ~
@@ -1688,7 +1688,7 @@ crimson tapestry spans the western wall, back to the northern wall, and ends
 at the eastern wall.  Words painted in black upon the tapestry read, "Bravely
 and gladly a man shall go, till the day of his death is come."
 ~
-196 32796 0 0 0 0
+196 28 0 0 0 0
 D2
 ~
 ~
@@ -1705,7 +1705,7 @@ stained with crimson blood that still feels damp to the touch.  A trail of the
 same crimson blood leads out of the confessional into the altar area.  A
 portal of some sort is visible from any angle in the confessional.  
 ~
-196 32796 0 0 0 0
+196 28 0 0 0 0
 D3
 ~
 ~
@@ -1730,6 +1730,6 @@ evaporating into the air. On rare occasion, globular formations build up
 within the apparatus, then boil over, splattering on the ground like an
 oversized raindrop.
 ~
-196 8 0 0 0 0
+196 12 0 0 0 0
 S
 $~

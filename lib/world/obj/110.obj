@@ -133,7 +133,7 @@ A
 A
 19 2
 #11011
-spur bone~
+spur bone venomous~
 a venomous spur~
 A glistening shaft of bone lies here.~
 ~
@@ -192,7 +192,7 @@ A pair of fine slippers lie here.~
 0 0 0 0
 1 210 15.00
 #11016
-pair of ethereal boots~
+ethereal boots~
 pair of ethereal boots~
 You see a wavy distortion on the ground here.~
 ~
@@ -705,4 +705,34 @@ A
 17 -30
 A
 25 10
+#11060
+ceremonial crysknife knife shai hulud~
+a ceremonial &DC&Wr&Dy&Ws&Dk&Wn&Di&Wf&De&w of the &yShai-Hulud&w~
+A curved, double-edged knife fashioned from a sandworm tooth rests here.~
+Fasioned from the tooth of the great sandworm, this curved knife is milky white
+and glows iridescent, reflecting ambient light in multiple directions.
+~
+5 221614555 0 0 0 8193 0 0 0
+0 11 2 11
+1 9999 1.50
+A
+19 6
+A
+18 8
+A
+17 -15
+A
+23 -20
+A
+24 -20
+A
+25 10
+#11061
+vial spice melange~
+a vial of Spice Melange~
+A small vial of glowing spice rests on the ground.~
+~
+10 0 0 0 0 1 0 0 0
+20 97 69 70
+0 100 25.00
 $~

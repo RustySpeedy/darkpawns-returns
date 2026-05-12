@@ -386,6 +386,14 @@ A bronze breast plate is lying on the ground.~
 9 0 0 0 0 9 0 0 0
 6 0 0 0
 40 290 100.00
+#8049
+wand identify~
+a platinum wand of identify~
+a mystical wand made of yew and carved platinum lies here.~
+~
+3 33554499 0 0 0 16385 0 0 0
+30 50 20 60
+5 10000 15.00
 #8050
 scroll identify~
 a scroll of identify~
@@ -671,7 +679,7 @@ A small fissure has formed in the ground here. It is oozing some strange, brown,
 ~
 12 0 0 0 0 0 0 0 0
 0 0 0 0
-555 666 0.50
+555 666 1.00
 E
 ooze brown poison fissure~
 You should assume something very bad took place here. It appears something came from this fissure and has left to the west...
@@ -923,7 +931,7 @@ An armored jacket with red and black checkers adorning the trim and collar has b
 ~
 9 323648 0 0 0 9 0 0 0
 21 0 0 0
-5 10000 2.00
+5 10000 5.00
 E
 jacket armored jester~
    An equisite piece of protective clothing made from almost other worldly
@@ -1071,8 +1079,8 @@ a large smouldering cigar~
 A lit cigar is burning on the floor.~
 ~
 3 33554497 0 0 0 131073 0 0 0
-0 0 0 0
-0 5250 5.00
+30 10 4 91
+0 5250 15.00
 A
 18 2
 A

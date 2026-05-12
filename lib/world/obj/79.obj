@@ -52,18 +52,24 @@ A large bladed contraption has been left here by some fool.~
 1 10000 1.00
 #7913
 chakram band~
-Chakram~
+a Chakram~
 A band of gold lies here.~
 ~
-5 149712960 0 0 0 10241 0 0 0
-0 4 4 1
-1 4000 9.00
+5 170160200 0 0 0 10241 0 0 0
+0 6 5 3
+1 9500 10.00
 A
-19 3
+19 4
 A
-18 1
+18 2
 A
-17 -5
+17 -15
+A
+29 5
+A
+26 15
+A
+13 25
 #7914
 twisted dagger assassin's blade~
 a twisted dagger~
@@ -135,13 +141,13 @@ A
 A
 29 26
 #7919
-potion of life~
+potion life essence~
 a potion of life essence~
 A mystical potion in a rune inscribed bottle lies here.~
 ~
 10 65 0 0 0 1 0 0 0
 30 52 52 52
-2 9500 12.50
+2 9500 20.00
 #7920
 mica statue~
 a mica statue~
@@ -572,7 +578,7 @@ at best.
 #7956
 Chaos Mask~
 a chaos mask~
-A seemingly physical shadow lies on the ground before you, it is difficult to make out its edges.~
+A seemingly physical shadow lies on the ground before you; it is difficult to make out its edges.~
 A mask somehow fabricated of both chaos and shadow.  It's existence is equal parts confusing and disturbing.  Simply looking at it sends shivers down your spine.
 ~
 11 134480450 0 0 0 131073 0 0 0

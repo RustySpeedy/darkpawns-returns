@@ -1,26 +1,25 @@
 #31700
-Crocodile Dundee Mick~
+giant toad mire~
 Crocodile Dundee~
 Mick stands here looking around amazed
 ~
 undefined~
-8650012 0 0 0 1053774 18 0 0 1000 E
-42 -22 -32 42d4+20000 42d4+42
+8650014 0 0 0 1074803918 18 0 0 1000 E
+42 -22 -32 42d4+10000 42d4+42
 1000000 673215269
 8 8 1
-Race: 3
-Noise: You call that a knife? Now THAT's a &RKnife&n
+Race: 26
 E
 #31701
-Kinder Kender~
-a Kinder Kender~
-They Really are very nice!
+some bread stuffing~
+some bread stuffing~
+so tasty!
 ~
 Like all kenders this chap is especially nice!
 ~
 258316 0 0 0 791560 16 0 0 0 E
-15 5 -5 15d5+1000 10d4+18
-1000 14000
+25 -5 -15 25d5+1100 16d4+10
+1000 37500
 8 8 0
 E
 #31702
@@ -137,6 +136,19 @@ They maintain balance in the universe
 8 8 0
 Race: 0
 Noise: Only those with darkness in their hearts may pass.
+E
+#31711
+brussel sprouts~
+a plate of brussel sprouts~
+everyone hates brussel sporuts
+~
+It looks, err, unfinished.
+really who even eats this stuff?
+~
+8681340 0 0 0 13324 16 0 0 0 E
+25 -5 -15 25d5+650 16d4+10
+0 37500
+8 8 0
 E
 #31778
 dark matter life form~

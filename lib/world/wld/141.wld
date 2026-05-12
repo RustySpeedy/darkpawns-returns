@@ -61,6 +61,11 @@ To the north you can see a shrine.
 ~
 ~
 0 -1 14110
+D1
+To the east you see a dark expanse and hear the violent swirling of a water-like substance.
+~
+~
+0 0 14113
 D2
 To the south you see the room you were just in.
 ~
@@ -81,6 +86,12 @@ and weapon-craft of dozens of long-dead cultures are preserved here. A set
 of stairs leads up.
 ~
 141 32776 0 0 0 1
+D1
+To the east you see a dark expanse and hear the violent swirling of a
+water-like substance.  
+~
+~
+0 0 14113
 D3
 To the west you can see the archives.
 ~
@@ -125,6 +136,11 @@ To the east you see a wide corridor.
 ~
 ~
 0 -1 14107
+D1
+To the east you see a dark expanse and hear the violent swirling of a water-like substance.
+~
+~
+0 0 14113
 D2
 To the south you see the archives.
 ~
@@ -169,6 +185,11 @@ To the south you see a long corridor.
 ~
 ~
 0 -1 14107
+D3
+To the west you see a dark expanse and hear the violent swirling of a water-like substance.
+~
+~
+0 0 14113
 S
 #14109
 Receiving Room~
@@ -219,6 +240,11 @@ To the north is the treasury.
 ~
 ~
 1 -1 14112
+D2
+To the south you see a dark expanse and hear the violent swirling of a water-like substance.
+~
+~
+0 0 14113
 D4
 A set of stairs lead up to the shrine.
 ~
@@ -231,7 +257,7 @@ The Treasure Vault~
 sepulcher. His petrified corpse rests against the northwest corner, 
 surrounded by his riches.
 ~
-141 32776 0 0 0 1
+141 32780 0 0 0 1
 D2
 To the south is Paphoset's sanctuary.
 ~
@@ -242,6 +268,20 @@ statue corpse~
    The statue's unusual, porous stone and it's expression of horror indicate 
 immediately that it is one of Echidna's victims.
 ~
+S
+#14113
+Fallen off the Path~
+   The ground beneath you gives way without warning, and you plunge through a
+shattered section of the path into a writhing moat of quicksand.  It's not
+just sand, it's alive, churning like a living thing hungry for flesh.  The
+roar of the shifting earth is deafening, a monstrous sound that drowns your
+screams before they can reach the surface.  You're dragged down violently, the
+suffocating pressure crushing in from all sides.  Bones crack.  Skin tears.  
+The sand doesn't just consume, you feel it pulling, gnawing, unraveling you as
+if it wants to devour not just your body, but your very existence.  
+~
+141 109 0 0 0 12
+R archive/elemental_room.lua 4
 S
 #14120
 Entry Chamber~

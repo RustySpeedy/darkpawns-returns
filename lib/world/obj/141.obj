@@ -1,39 +1,63 @@
 #14100
-helmet golden serapis~
-the Golden Helmet~
+Heroic Golden Helmet~
+Heroic Golden Helmet~
 A brilliantly glowing golden helmet hovers in mid-air here.~
 ~
-9 71 0 0 0 17 0 0 0
-0 0 0 0
-15 10000 0.00
+9 33685827 0 0 0 17 0 0 0
+10 0 0 0
+15 10000 5.00
 A
-29 7
+13 20
 A
-29 33
+12 20
+A
+22 -25
+A
+24 -25
+A
+26 10
+A
+27 10
 #14101
 golden flail desert kings~
 the Flail of the Desert Kings~
 A golden flail is laying here.~
 ~
-5 208425025 0 0 0 8193 0 0 0
-0 6 4 6
-18 5505 10.00
+5 242045249 0 0 0 8193 0 0 0
+0 8 5 6
+18 15500 5.00
 A
 19 4
 A
 18 2
-#14102
-circlet golden desert kings~
-a golden circlet~
-A golden circlet lays here.~
-~
-9 1 0 0 0 17 0 0 0
-3 0 0 0
-3 1000 15.00
 A
-6 2
+25 27
+A
+25 16
+A
+1 2
+A
+24 -30
+#14102
+Circlet of Divine Might~
+Circlet of Divine Might~
+An intricately carved golden circlet floats here~
+~
+9 33751379 0 0 0 17 0 0 0
+25 0 0 0
+3 10000 5.00
+A
+17 -15
+A
+19 3
 A
 18 3
+A
+29 7
+A
+29 5
+A
+26 15
 #14120
 box crate old~
 an old crate~
@@ -137,16 +161,16 @@ A corpse with a dagger stuck in it lies here, blocking the path.~
 0 0 0 0
 20 0 100.00
 E
-dagger~
-The dagger is of poor quality, not even worth taking your time to try to pull
-it out. So you don't.
-~
-E
 corpse~
 The corpse has a dagger firmly buried in it, evidently sticking through
 bone since you can't pull it out, even using all your strength. You take
 this as a warning to not go any further unless you are an experienced
 adventurer.
+~
+E
+dagger~
+The dagger is of poor quality, not even worth taking your time to try to pull
+it out. So you don't.
 ~
 #14130
 talisman blood bloody~

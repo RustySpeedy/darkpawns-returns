@@ -1257,6 +1257,346 @@ D3
 ~
 0 0 23647
 S
+#23670
+placeholder 23670~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D2
+~
+~
+0 0 23786
+D3
+~
+~
+0 0 23782
+D4
+~
+~
+0 0 23671
+S
+#23671
+placeholder 23671~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D0
+~
+~
+0 0 23750
+D1
+~
+~
+0 0 23752
+D4
+~
+~
+0 0 23672
+D5
+~
+~
+0 0 23670
+S
+#23672
+placeholder 23672~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D0
+~
+~
+0 0 23729
+D1
+~
+~
+0 0 23733
+D4
+~
+~
+0 0 23673
+D5
+~
+~
+0 0 23671
+S
+#23673
+placeholder 23673~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D0
+~
+~
+0 0 23714
+D1
+~
+~
+0 0 23716
+D4
+~
+~
+0 0 23674
+D5
+~
+~
+0 0 23672
+S
+#23674
+placeholder 23674~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D0
+~
+~
+0 0 23705
+D1
+~
+~
+0 0 23707
+D4
+~
+~
+0 0 23684
+D5
+~
+~
+0 0 23673
+S
+#23675
+placeholder 23675~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D1
+~
+~
+0 0 23704
+D2
+~
+~
+0 0 23705
+D4
+~
+~
+0 0 23682
+D5
+~
+~
+0 0 23708
+S
+#23676
+placeholder 23676~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D1
+~
+~
+0 0 23784
+D2
+~
+~
+0 0 23790
+D4
+~
+~
+0 0 23677
+S
+#23677
+placeholder 23677~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D0
+~
+~
+0 0 23751
+D3
+~
+~
+0 0 23755
+D4
+~
+~
+0 0 23678
+D5
+~
+~
+0 0 23676
+S
+#23678
+placeholder 23678~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D0
+~
+~
+0 0 23732
+D3
+~
+~
+0 0 23735
+D4
+~
+~
+0 0 23680
+D5
+~
+~
+0 0 23677
+S
+#23679
+placeholder 23679~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D0
+~
+~
+0 0 23715
+D3
+~
+~
+0 0 23717
+D4
+~
+~
+0 0 23680
+S
+#23680
+placeholder 23680~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D0
+~
+~
+0 0 23706
+D3
+~
+~
+0 0 23707
+D4
+~
+~
+0 0 23681
+D5
+~
+~
+0 0 23678
+S
+#23681
+placeholder 23681~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D0
+~
+~
+0 0 23683
+D3
+~
+~
+0 0 23684
+D4
+~
+~
+0 0 23701
+D5
+~
+~
+0 0 23680
+S
+#23682
+placeholder 23682~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D1
+~
+~
+0 0 23683
+D2
+~
+~
+0 0 23684
+D4
+~
+~
+0 0 23701
+D5
+~
+~
+0 0 23675
+S
+#23683
+placeholder 23683~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D2
+~
+~
+0 0 23681
+D3
+~
+~
+0 0 23682
+D4
+~
+~
+0 0 23701
+D5
+~
+~
+0 0 23685
+S
+#23684
+placeholder 23684~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D0
+~
+~
+0 0 23682
+D1
+~
+~
+0 0 23681
+D4
+~
+~
+0 0 23701
+D5
+~
+~
+0 0 23674
+S
+#23685
+placeholder 23685~
+You are in an unfinished room.
+~
+236 4 0 0 0 0
+D2
+~
+~
+0 0 23706
+D3
+~
+~
+0 0 23704
+D4
+~
+~
+0 0 23683
+D5
+~
+~
+0 0 23711
+S
 #23699
 spark room~
 Noise maker to draw attention to the stump above.

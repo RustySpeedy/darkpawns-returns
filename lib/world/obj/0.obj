@@ -346,7 +346,7 @@ A
 #66
 blackrazor razor~
 Blackrazor~
-the mighty Blackrazor lies here.~
+The mighty Blackrazor lies here.~
 ~
 5 33554531 0 0 0 8193 0 0 0
 0 25 1 11
@@ -366,7 +366,7 @@ A really bad thing is lying here.~
 0 100 20 11
 1 0 1.00
 A
-19 30
+19 75
 A
 18 30
 A
@@ -575,10 +575,6 @@ A dusty red-covered book sits on the ground.~
 4 20 100.00
 S 0 0
 E
-blah~
-Eh?
-~
-E
 dusty red covered book time~
 The book looks as old as creation itself and its pages are completely blank
 except for one:
@@ -589,6 +585,10 @@ name is the secret to his control. When the moon is full, Senyakhaz will
 come if summoned...
 
 The remainder of the page crumbles before you can read further.
+~
+E
+blah~
+Eh?
 ~
 #91
 black rock meteorite~

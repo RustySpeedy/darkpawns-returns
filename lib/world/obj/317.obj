@@ -28,9 +28,9 @@ a ceremonial &mWendigo&n mask~
 A peculiar looking mask has been discarded on the ground.~
 Twin bolts of red light shoot out from the eyes of $p, and into $N.
 ~
-3 68190546 0 0 0 147457 0 0 0
+3 84967762 0 0 0 147457 0 0 0
 30 9 7 33
-1 999 0.00
+1 999 15.00
 E
 mask ceremonial wendigo~
    Black as sin, the mask is large and horrifying.  It has a large gaping
@@ -87,7 +87,7 @@ A
 A
 28 -15
 #31706
-ethereal britches shattered illusions CA~
+Ethereal Britches Shattered Illusions EG~
 &WEthereal&n britches of &GShattered &bI&Bl&bl&Bu&bs&Bi&bo&Bn&bs&n~
 A pair of mind shattering britches are here... kind of?~
 ~
@@ -113,7 +113,7 @@ Not sure what the fuck your looking at right now, but it is horrifying and cover
 ~
 9 65 0 0 0 17 0 0 0
 10 0 0 0
-5 7000 0.25
+5 7000 0.50
 A
 19 3
 A
@@ -296,7 +296,7 @@ A
 A
 17 -5
 A
-25 13
+12 20
 A
 6 3
 #31719
@@ -421,9 +421,9 @@ immovable object staff~
 the Immovable object~
 A stick stands here unmoving.~
 ~
-4 0 0 0 0 513 0 0 0
-40 1000 10 73
-20 4000 0.00
+9 21819715 0 0 0 513 0 0 0
+20 0 0 0
+20 4000 5.00
 A
 17 -30
 A
@@ -527,13 +527,13 @@ It's a burning ring of fire~
 ~
 9 16777216 0 0 0 3 0 0 0
 10 0 0 0
-0 5000 3.00
+1 5000 3.00
 A
 12 15
 A
-19 4
-A
 18 4
+A
+19 4
 A
 13 15
 A
@@ -561,7 +561,7 @@ A
 A
 25 19
 #31733
-MH flaming shadows leggings~
+flaming shadows leggings~
 Leggings of &RFlaming&n &bShadows&n~
 Shadow flames leap up your legs here.~
 ~
@@ -601,7 +601,7 @@ A
 #31735
 burning wall fire~
 a Burning wall of &RFire&n~
-It's a &RFirewall&n~
+It's a wall of burning fire.~
 ~
 9 0 0 0 0 513 0 0 0
 15 0 0 0
@@ -736,20 +736,20 @@ the physical manifestation of the soul of the d&Wi&nv&Wi&nn&We&n dragon~
 You feel drawn to this crystal, you can't look away...you feel your soul drifting out of your body and into the glowing sphere.~
 ~
 9 355 0 0 0 262145 0 0 0
-5 0 0 0
+100 0 0 0
 0 5000 0.00
 A
-19 2
+19 4
 A
-18 2
+18 4
 A
-29 1
+9 -100
 A
-29 26
+27 15
 A
-24 -10
+12 15
 A
-9 -20
+13 15
 #31745
 orb souls maelstrom light~
 the &WOrb&n of &RSouls&n~
@@ -772,14 +772,14 @@ a small vortex of tortured &RSouls&n~
 A small vortex of tortured souls pulls you in.~
 ~
 9 67 0 0 0 4097 0 0 0
-4 0 0 0
-1 5000 25.00
+8 0 0 0
+1 5000 40.00
 A
-19 2
+19 4
 A
-18 2
+18 4
 A
-13 10
+13 15
 A
 27 2
 A
@@ -791,7 +791,7 @@ Somehow these Fiery wings are smouldering~
 ~
 9 73195858 0 0 0 1025 0 0 0
 15 0 0 0
-0 6666 2.00
+1 6666 2.00
 A
 19 3
 A
@@ -806,7 +806,7 @@ A
 9 -50
 #31748
 noodley appendage~
-noodley appendage~
+a noodley appendage~
 A wet noodle is lying here.~
 ~
 19 16908610 0 0 0 257 0 0 0
@@ -947,7 +947,7 @@ Someone lost their head and left their face here.~
 ~
 9 50331923 0 0 0 131073 0 0 0
 12 0 0 0
-0 666 0.00
+1 666 8.00
 A
 19 3
 A
@@ -1152,7 +1152,7 @@ And Immortal essence to bind it all together
 0 0 0 0
 0 100 50.00
 #31770
-camping knife original~
+camping knife original ZG~
 the &WOriginal &bCamping&n Knife~
 A glowing swiss army knife lies in the dirt.~
 this looks like the most useful tool you could ever own
@@ -1241,7 +1241,7 @@ A pile of sand forms a dune here, don't take it home!~
 ~
 9 2 0 0 0 1025 0 0 0
 -20 0 0 0
-5 1000 0.00
+5 1000 4.00
 A
 13 25
 A
@@ -1255,7 +1255,7 @@ A
 A
 12 25
 #31775
-oroboros circlet lr lm lh~
+oroboros circlet~
 an oroboros circlet~
 A squirming mass a scales and fang devours the world~
 a snake eating its own tail writhes here
@@ -1350,6 +1350,36 @@ chart~
 ~
 A
 19 30
+#31782
+the one ring~
+the one ring~
+A small golden circle lies here.~
+strange writing glows on the inside of the band
+~
+9 72675939 0 0 0 3 0 0 0
+8 0 0 0
+2 10000 5.00
+A
+12 20
+A
+13 20
+A
+27 5
+A
+29 36
+A
+26 20
+#31783
+warning sign~
+a warning sign~
+A dilapidated wooden &rWARNING SIGN&g has been hammered into the ground.&w~
+Viscious claw marks have scratched through the vast majority of the sign,
+rendering it almost illegible. From the few letters you can make out, the sign
+reads B-W-RE o- t-- PR--EV-L W-ND--O
+~
+16 0 0 0 0 0 0 0 0
+0 0 0 0
+1000 30 10.00
 #31798
 open furnace~
 a large open furnace~
@@ -1358,4 +1388,12 @@ A large cast-iron furnace is here to warm your bones.~
 12 1 0 0 0 0 0 0 0
 0 0 0 0
 1000 1 100.00
+#31799
+stuffing and brussel sprouts~
+stuffing and brussel sprouts~
+Its food eat it~
+~
+10 0 0 0 0 1 0 0 0
+30 28 28 33
+0 0 0.00
 $~

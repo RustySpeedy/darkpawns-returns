@@ -289,6 +289,27 @@ BareHandAttack: 10
 Race: 11
 Script: nobits 0
 E
+#7925
+dispater devil daemon~
+Dispater the Arch-Devil~
+An extremely powerful looking devil stands here, surveying his domain.
+~
+   The being standing before you oozes an incredible regal bearing, looking
+mostly human-ish, devilishly good-looking, an elegant and regal quartet of
+horns form an onyx and ruby looking circlet.  Also to note, peeking out from
+his otherwordly robes are not only his cloven, hoofed feet but also a
+whimsical tail that splits near the end forming two broadhead arrow-like
+protrusions.  He smirks at you with his devilish smile as his pitch-black eyes
+with blood-red irises stare deep within your soul.  
+~
+9431100 0 0 0 68302012 2 0 0 -1000 E
+39 -19 -29 39d10+11775 36d4+58
+850000 375000
+8 8 1
+BareHandAttack: 10
+Race: 19
+Noise: The air and land nearby seem to scream violently in pain as reality warps around you.
+E
 #7945
 gray glowing scars man~
 Ardraum the Vengeful~
@@ -407,9 +428,9 @@ Wearing a low-cut, steel-breasted garment that leaves little to the imagi-
 nation, she's an intelligent vixen who kicks ass and doesn't bother to take
 names.
 ~
-8824858 0 0 0 1074955400 2 0 0 600 E
-32 -15 -20 40d8+8000 40d9+52
-500000 120000
+9435160 0 0 0 1142076552 2 0 0 600 E
+45 -25 -35 45d5+9159 30d4+30
+500000 1886217588
 8 8 2
 Race: 0
 E

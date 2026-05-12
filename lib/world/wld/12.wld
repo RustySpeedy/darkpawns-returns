@@ -79,18 +79,17 @@ You wish you were back floating in the endless pain.
 ~
 12 64 0 0 0 9
 D1
-you can't see through the portal
 ~
 calm serenity~
-2 31746 1212
+1 31746 1212
 S
 #1214
 An Enormous Colander~
-  It is very difficult to navigate around in this giant space: every step you take your
-feet either slip on something slimy in the red muck, or seem to fall into nothingness.
-The walls slope gently upwards as far as the eye can see.
-  Now that you have come all the way into the room, what appears to be several large
-meatballs with noodley appendages block your exit.
+   It is very difficult to navigate around in this giant space: every step you
+take your feet either slip on something slimy in the red muck, or seem to fall
+into nothingness.  The walls slope gently upwards as far as the eye can see.
+Now that you have come all the way into the room, what appears to be several
+large meatballs with noodley appendages block your exit.  
 ~
 12 262144 0 0 0 8
 D0
@@ -115,14 +114,14 @@ Colander as far as the eye can see
 S
 #1215
 A Cave of Wonders~
-Maybe everything that glitters IS gold! This is the most sparkly room you have ever seen.
-Mounds of treasure lie everywhere. In the middle broods a giant black dragon unhappy about
-your intrusion.
+   Maybe everything that glitters IS gold!  This is the most sparkly room you
+have ever seen.  Mounds of treasure lie everywhere.  In the middle broods a
+giant black dragon unhappy about your intrusion.  
 ~
 12 4 0 0 0 0
 D2
 ~
-secret~
+tunnel~
 1 -1 1212
 S
 #1216
@@ -135,6 +134,70 @@ D0
 ~
 0 0 1212
 S
+#1250
+Falling ...~
+You immediately regret your decision ...
+~
+12 67108864 0 0 0 0
+D5
+This seems bad
+~
+~
+0 0 1251
+S
+#1251
+Still falling~
+Of course this is how it goes...
+~
+12 67108864 0 0 0 0
+D5
+Time to turn back ...
+~
+~
+0 0 1252
+S
+#1252
+Almost there...~
+What the heck is below?
+Feels like trouble ....
+~
+12 67108864 0 0 0 0
+D5
+Oh Shit
+~
+~
+0 0 1253
+S
+#1253
+THUD! The Bottom of a Pit~
+The air is thick and stale, the only sound the distant drip of water. The 
+walls of the pit are smooth and damp, slick with age-old grime. A faint, eerie
+glow illuminates the cavern, emanting from strange, bioluminescent fungi that
+cling to the walls. A large rock looks out of place in the side of the cavern.
+~
+12 262144 0 0 0 0
+D3
+INTO THE UNKNOWNNNNNNNNN
+~
+rock~
+1 31703 1254
+S
+#1254
+The Witch's Coven~
+A dimly lit, circular room, its walls adorned with strange symbols and arcane
+diagrams. A large cauldron, bubbling with a mysterious green liquid, sits at the
+room's center. Shelves line the walls, filled with countless potions, herbs, and
+spellbooks. A large ornate desk sits in the cornder, covered in scrolls and 
+strange instruments. A faint, otherworldly glow illuminates the room, casting
+eerie shadows on the walls.
+~
+12 262145 0 0 0 0
+D1
+A bottomless pit
+~
+rock~
+1 31703 1253
+S
 #1293
 Steam Chamber~
   You come to rest in a large circular chamber whose ceiling extends upward far
@@ -143,7 +206,7 @@ cork-screw fashion, allowing the the massive amount of steam rushing in from the
 south to be vented upwards into the darkness.  A large ring of metal has been
 set into the floor of this room, binding the elemental energy that dwells here.
 ~
-12 520 0 0 0 0
+12 8 0 0 0 0
 D2
 ~
 ~
@@ -162,7 +225,7 @@ you find yourself lifted off of your feet and hurled backward away from the fiss
 with hot steam and water scalding your flesh almost instantaneously.  You begin
 to loose conciousness - this may be the end.
 ~
-12 2097800 0 0 0 13
+12 136 0 0 0 13
 D0
 ~
 ~
@@ -180,7 +243,7 @@ or falling rapidly to your doom.  Desperately, you grope around and cry out into
 the blackness to no avail until suddenly you feel bathed in the sound and fury
 of hot, rushing air...
 ~
-12 67109517 0 0 0 9
+12 67109005 0 0 0 9
 D3
 ~
 ~
@@ -198,7 +261,7 @@ below your perch on a small ledge at the precipice of this cavern - you can feel
 the radiant heat on your skin and hear the drone of the wind as it passes over
 the rocks below.  Inky blackness surrounds you.
 ~
-12 653 0 0 0 0
+12 141 0 0 0 0
 D0
 ~
 ~
@@ -215,7 +278,7 @@ Lava Tube~
 slide along them.  The tube seems to follow a north-south path, gradually sloping
 southward, where you can hear the sound of wind rushing along the rock walls.
 ~
-12 781 0 0 0 0
+12 13 0 0 0 0
 D0
 ~
 ~
@@ -232,7 +295,7 @@ an effort to squeeze through.  The walls of volcanic rock are sharp and unyieldi
 against your exposed flesh.  The tube slopes upward to the north and downward to
 the south.
 ~
-12 909 0 0 0 0
+12 141 0 0 0 0
 D0
 ~
 ~
@@ -250,7 +313,7 @@ of the cavern and slighly shiny and shimmer in the meager light your lanterns
 provide. The only apparent path is that of the old lava tube, a smooth and
 narrow passage that drops away to your south.
 ~
-12 262861 0 0 0 0
+12 262221 0 0 0 0
 D2
 ~
 ~
