@@ -27,3 +27,7 @@ Thanks
 
 It was really my pleasure to be an Implementor for 13 years and collaborate and interact with so many fantastic people. I hope you enjoy peeking behind the curtain
 as much as I enjoyed running the game! - Frontline
+
+Dark Pawns Returns
+======
+This version was forked in 2020 as [Dark Pawns Returns](darkpawns.net) with Slayer serving as Implementor and Webmaster until 2021. Vintage took over as Implementor in 2022 and created this repository to capture the work done by Slayer. Many others have contributed to the world over since, and we hope they continue to contribute in the future.
